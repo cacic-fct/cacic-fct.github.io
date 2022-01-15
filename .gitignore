@@ -84,3 +84,5 @@ baseline.json
 .firebase
 *-debug.log
 .runtimeconfig.json
+
+.eslintcache
