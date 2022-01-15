@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "cacic-fct": {
+      "hosting": {
+        "app": [
+          "cacic-fct"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "cacic-fct"
+  }
+}

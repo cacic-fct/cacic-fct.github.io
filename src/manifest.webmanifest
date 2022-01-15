@@ -1,0 +1,24 @@
+{
+  "name": "CACiC",
+  "short_name": "CACiC",
+  "theme_color": "#3d4086",
+  "background_color": "#000000",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "./",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "/assets/pwa/icon-192.webp",
+      "type": "image/webp",
+      "sizes": "192x192",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/assets/pwa/icon-512.webp",
+      "type": "image/webp",
+      "sizes": "512x512",
+      "purpose": "maskable any"
+    }
+  ]
+}

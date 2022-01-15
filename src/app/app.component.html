@@ -1,0 +1,62 @@
+<ion-app>
+  <ion-split-pane contentId="main-content">
+    <ion-menu contentId="main-content" type="overlay">
+      <ion-content>
+        <ion-list id="inbox-list">
+          <ion-list-header>CACiC</ion-list-header>
+          <ion-note>Centro Acadêmico de Ciência da Computação</ion-note>
+
+          <ion-menu-toggle auto-hide="false" *ngFor="let p of appPages">
+            <ion-item
+              routerDirection="root"
+              [routerLink]="[p.url]"
+              lines="none"
+              detail="false"
+              routerLinkActive="selected">
+              <ion-icon
+                slot="start"
+                [ios]="p.icon + '-outline'"
+                [md]="p.icon + '-sharp'"></ion-icon>
+              <ion-label>{{ p.title }}</ion-label>
+            </ion-item>
+          </ion-menu-toggle>
+        </ion-list>
+
+        <ion-grid style="max-width: 300px">
+          <ion-row>
+            <ion-col>
+              <ion-button href="https://instagram.com/cacic.fct" fill="clear">
+                <ion-icon name="logo-instagram" slot="icon-only"></ion-icon>
+              </ion-button>
+            </ion-col>
+            <ion-col>
+              <ion-button href="https://facebook.com/cacic.fct" fill="clear">
+                <ion-icon name="logo-facebook" slot="icon-only"></ion-icon>
+              </ion-button>
+            </ion-col>
+            <ion-col>
+              <ion-button href="mailto:cacic.fct@gmail.com" fill="clear">
+                <ion-icon name="mail" slot="icon-only"></ion-icon>
+              </ion-button>
+            </ion-col>
+          </ion-row>
+          <ion-row>
+            <ion-col class="ion-text-center">
+              <ion-menu-toggle auto-hide="false">
+                <ion-button
+                  color="medium"
+                  style="text-decoration: underline"
+                  fill="clear"
+                  [routerLink]="['/privacidade']"
+                  routerDirection="root">
+                  Política de privacidade
+                </ion-button>
+              </ion-menu-toggle>
+            </ion-col>
+          </ion-row>
+        </ion-grid>
+      </ion-content>
+    </ion-menu>
+    <ion-router-outlet id="main-content"></ion-router-outlet>
+  </ion-split-pane>
+</ion-app>

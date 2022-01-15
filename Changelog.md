@@ -1,0 +1,33 @@
+### 0.1.0 (15-01-2022)
+
+- Versão dos dados: 2022.01.15.10.50
+- Página inicial
+    - Card com data do retorno do presencial
+    - Card de informações com as últimas ações da Unesp perante a pandemia
+    - Card com links úteis
+- Página de transparência
+    - Gaveta com itens de repasses
+    - Cards com feitos do CACiC
+- Página sobre
+    - Breve descrição sobre o CACiC
+    - Membros da chapa com ícones de placeholder
+    - Botão "Sobre este site"
+        - Nome do app
+        - Versão do app
+        - Versão dos dados
+        - Copyright
+        - Licenças
+            - Copyright e disclaimer
+            - Tabela com softwares usados em production
+            - Licenças Apache 2.0, 0-BSD e MIT
+- Menu lateral
+    - Botão das redes sociais (Instagram e Facebook) e mailto
+    - Política de privacidade
+- Base para PWA (não funciona ainda)
+    - Manifest
+    - Instalação do service worker
+    - Ícones
+- Firebase
+    - Hosting
+    - Analytics
+    - Inclusão dos pacotes "Authentication" e "Performance monitoring"

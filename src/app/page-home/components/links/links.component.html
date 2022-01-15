@@ -1,0 +1,11 @@
+<ion-card>
+  <ion-card-header>
+    <ion-card-title>Links úteis</ion-card-title>
+  </ion-card-header>
+  <ng-container *ngFor="let u of urlList">
+    <ion-item href="{{ u?.url }}">
+      <ion-icon name="{{ u?.icon }}" slot="start"></ion-icon>
+      <ion-label class="ion-text-wrap">{{ u?.title }}</ion-label>
+    </ion-item>
+  </ng-container>
+</ion-card>
