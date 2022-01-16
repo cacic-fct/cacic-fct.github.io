@@ -35,7 +35,8 @@
                 "input": "src/assets/icons",
                 "output": "/"
               },
-              "src/manifest.webmanifest"
+              "src/manifest.webmanifest",
+              "src/robots.txt"
             ],
             "styles": [
               "src/theme/variables.scss",
