@@ -4,7 +4,9 @@
       "hosting": {
         "app": [
           "cacic-fct"
-        ]
+        ],
+        "cleanUrls": true,
+        "trailingSlash": false
       }
     }
   },
