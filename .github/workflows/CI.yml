@@ -11,5 +11,5 @@ jobs:
       - name: Install packages
         run: npm ci
 
-      - name: Build and deploy
+      - name: Build
         run: npm run build -- --configuration=production
