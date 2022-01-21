@@ -1,5 +1,8 @@
 ### 2022.01.21.20.43
 - Changelog e changelog de dados mescladas
+- Adicionado texto em português no <noscript>
+- Adicionado robots.txt
+- Alterado tabela de licenças apenas para softwares usados em production, antes estava acidentalmente com todos os softwares
 - O conteúdo da página home foi movido para a página pandemia
 - O conteúdo da página sobre foi movido para a página home
 - Página sobre removida
