@@ -1,13 +1,51 @@
-### 0.1.0 (15-01-2022)
+### 2022.01.21.20.43
+- Changelog e changelog de dados mescladas
+- O conteúdo da página home foi movido para a página pandemia
+- O conteúdo da página sobre foi movido para a página home
+- Página sobre removida
+- Página "sobre este app" agora possui os membros da chapa Margaret Hamilton
+- Adicionado página árvore de links
+    - Contém um link para o formulário de inscrição de uma plenária do MUP
+- Menu lateral
+    - Adicionado
+        - Página da pandemia
+        - Página da árvore de links
+        - Página sobre este app
+- Home
+    - Adicionado
+        - Componente da data
+    - Alterado
+        - Descrição "O CACiC" agora tem uma frase sobre eleição
+- Removido "OnInit" sem uso nos componentes
 
-- Versão dos dados: 2022.01.15.10.50
+### 2022.01.15.10.50
 - Página inicial
     - Card com data do retorno do presencial
+        - Texto consta como "Sem data definida."
     - Card de informações com as últimas ações da Unesp perante a pandemia
+        - Adicionado
+            - "INFO: O CACiC está aguardando a próxima reunião do conselho de curso"
+            - "18/01 Fim do prazo para o cadastro do comprovante de vacinação"
+            - "14/01 É disponibilizado, no SISGRAD, um espaço para o cadastro do comprovante de vacinação"
+            - "12/01 Reitoria prorroga o retorno ao presencial para 6 de março"
+            - "08/01 Reitoria torna obrigatório a paresentação do comprovante de vacinação"
     - Card com links úteis
+        - Adicionado
+            - Calendário do câmpus
+            - Casos de COVID-19 em Prudente
+            - Diretrizes para a reorganização das atividades
 - Página de transparência
     - Gaveta com itens de repasses
+        - Lista com um único item "Não há repasses"
     - Cards com feitos do CACiC
+        - Adicionado
+            - Envio do comprovante de vacinação
+            - Regularização no conselho de curso
+            - Dezembro vermelho
+            - Campanha de rematrícula de calouros
+            - Manutenção das mídias sociais
+            - Hacktoberfest 2021
+            - Processo eleitoral de 2021
 - Página sobre
     - Breve descrição sobre o CACiC
     - Membros da chapa com ícones de placeholder
@@ -18,11 +56,11 @@
         - Copyright
         - Licenças
             - Copyright e disclaimer
-            - Tabela com softwares usados em production
+            - Tabela com softwares usados em production gerada pelo license-report
             - Licenças Apache 2.0, 0-BSD e MIT
 - Menu lateral
     - Botão das redes sociais (Instagram e Facebook) e mailto
-    - Política de privacidade
+    - Política de privacidade com [texto gerado aqui](https://www.blogson.com.br/gerador-de-politica-de-privacidade-lgpd/)
 - Base para PWA (não funciona ainda)
     - Manifest
     - Instalação do service worker

@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class LinksComponent implements OnInit {
   constructor() {}
 
-  public urlList = [
+  urlList = [
     {
       title: 'Calendário do câmpus',
       icon: 'calendar',

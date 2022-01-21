@@ -8,8 +8,13 @@ import { Component, OnInit } from '@angular/core';
 export class InfoComponent implements OnInit {
   public infoList = [
     {
-      date: '18/01/22',
+      date: '31/01/22',
       content: 'Fim do prazo para o cadastro do comprovante de vacinação',
+    },
+    {
+      date: '15/01/22',
+      content:
+        'Reitoria prorroga o prazo para envio do comprovante de vacinação de 18/01 para 31/01',
     },
     {
       date: '14/01/22',

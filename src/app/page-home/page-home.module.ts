@@ -7,14 +7,23 @@ import { IonicModule } from '@ionic/angular';
 import { PageHomePageRoutingModule } from './page-home-routing.module';
 
 import { PageHomePage } from './page-home.page';
-import { DateComponent } from './components/date/date.component';
 
-import { InfoComponent } from './components/info/info.component';
+import { LinkListModule } from './../shared/components/link-list/link-list.module';
 
-import { LinksComponent } from './components/links/links.component';
+import { SlateGridHamiltonModule } from '../shared/components/slate-grid-hamilton/slate-grid-hamilton.module';
+
+import { DateModule } from '../page-covid19/components/date/date.module';
 
 @NgModule({
-  imports: [CommonModule, FormsModule, IonicModule, PageHomePageRoutingModule],
-  declarations: [PageHomePage, DateComponent, InfoComponent, LinksComponent],
+  imports: [
+    CommonModule,
+    FormsModule,
+    IonicModule,
+    PageHomePageRoutingModule,
+    LinkListModule,
+    SlateGridHamiltonModule,
+    DateModule,
+  ],
+  declarations: [PageHomePage],
 })
 export class PageHomePageModule {}

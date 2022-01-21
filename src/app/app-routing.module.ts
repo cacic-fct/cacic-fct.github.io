@@ -22,8 +22,8 @@ const routes: Routes = [
   {
     path: 'sobre',
     loadChildren: () =>
-      import('./page-about/page-about.module').then(
-        (m) => m.PageAboutPageModule
+      import('./page-about-app/page-about-app.module').then(
+        (m) => m.PageAboutAppPageModule
       ),
   },
   {
@@ -38,6 +38,20 @@ const routes: Routes = [
     loadChildren: () =>
       import('./page-licenses/page-licenses.module').then(
         (m) => m.PageLicensesPageModule
+      ),
+  },
+  {
+    path: 'pandemia',
+    loadChildren: () =>
+      import('./page-covid19/page-covid19.module').then(
+        (m) => m.PageCovid19PageModule
+      ),
+  },
+  {
+    path: 'links',
+    loadChildren: () =>
+      import('./page-link-tree/page-link-tree.module').then(
+        (m) => m.PageLinkTreePageModule
       ),
   },
 ];

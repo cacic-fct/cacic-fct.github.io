@@ -7,10 +7,9 @@ import { Component } from '@angular/core';
 export class AppComponent {
   public appPages = [
     { title: 'Página inicial', url: '/home', icon: 'home' },
-    //{ title: 'Proteja-se contra a COVID-19', url: '/pandemia', icon: 'medkit' },
+    { title: 'Pandemia da COVID-19', url: '/pandemia', icon: 'medkit' },
     { title: 'Transparência', url: '/transparencia', icon: 'folder-open' },
-    //{ title: 'Árvore de links', url: '/links', icon: 'list' },
-    { title: 'Sobre', url: '/sobre', icon: 'information-circle' },
+    { title: 'Árvore de links', url: '/links', icon: 'list' },
   ];
   constructor() {}
 }

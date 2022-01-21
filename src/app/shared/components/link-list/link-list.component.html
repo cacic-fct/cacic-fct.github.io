@@ -1,0 +1,11 @@
+<ng-container *ngFor="let u of urlList">
+  <ion-item href="{{ u?.url }}" target="_blank">
+    <ion-icon name="{{ u?.icon }}" slot="start"></ion-icon>
+    <ion-label class="ion-text-wrap"
+      >{{ u?.title }}
+      <ng-container *ngIf="u?.content !== '' || u?.content !== undefined">
+        <p class="ion-text-justify">{{ u?.content }}</p>
+      </ng-container>
+    </ion-label>
+  </ion-item>
+</ng-container>

@@ -14,17 +14,25 @@
         <app-date></app-date>
       </ion-col>
     </ion-row>
-
     <ion-row>
       <ion-col>
-        <app-info></app-info>
-      </ion-col>
-    </ion-row>
-
-    <ion-row>
-      <ion-col>
-        <app-links></app-links>
+        <ion-card>
+          <ion-card-header>
+            <ion-card-title>Acesso rápido</ion-card-title>
+          </ion-card-header>
+          <app-link-list [urlList]="urlList"></app-link-list>
+        </ion-card>
       </ion-col>
     </ion-row>
   </ion-grid>
+
+  <h1 class="ion-padding">O CACiC</h1>
+  <p class="ion-padding">
+    O Centro Acadêmico de Ciência da Computação é o órgão de representação
+    estudantil do curso de Bacharelado em Ciência da Computação da FCT-Unesp. A
+    organização defende os interesses e direitos dos alunos. A direção do CA é
+    escolhida por meio de eleições periódicas, entre chapas de alunos do curso.
+  </p>
+  <h1 class="ion-padding">Chapa Margaret Hamilton</h1>
+  <app-slate-hamilton-grid></app-slate-hamilton-grid>
 </ion-content>
