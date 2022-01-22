@@ -9,13 +9,13 @@
   "start_url": "./",
   "icons": [
     {
-      "src": "/assets/pwa/icon-192.webp",
+      "src": "/assets/icons/icon-192.webp",
       "type": "image/webp",
       "sizes": "192x192",
       "purpose": "maskable any"
     },
     {
-      "src": "/assets/pwa/icon-512.webp",
+      "src": "/assets/icons/icon-512.webp",
       "type": "image/webp",
       "sizes": "512x512",
       "purpose": "maskable any"
