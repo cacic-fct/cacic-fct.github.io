@@ -28,7 +28,7 @@ export class AchievementsCardsComponent implements OnInit {
     {
       image: '2021/dezembro_vermelho.webp',
       title: 'Dezembro vermelho',
-      content: 'Série de posts conscientizando sobre AIDS/HIV e outras ISTs.',
+      content: 'Série de posts conscientizando sobre HIV/AIDS e outras ISTs.',
       url: 'https://instagram.com/p/CX3xXzXLATD/',
     },
     {
