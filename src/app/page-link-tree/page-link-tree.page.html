@@ -8,10 +8,36 @@
 </ion-header>
 
 <ion-content>
-  <ion-card>
-    <ion-card-header>
-      <ion-card-title>Movimento estudantil</ion-card-title>
-    </ion-card-header>
-    <app-link-list [urlList]="urlList"></app-link-list>
-  </ion-card>
+  <ng-container
+    *ngIf="
+    cardList?.length === 0 || cardList === undefined;
+    then noItems;
+    else hasItems
+  "></ng-container>
+
+  <ng-template #noItems>
+    <ion-card>
+      <ion-card-header>
+        <ion-card-title> Nossa árvore de links está vazia! </ion-card-title>
+      </ion-card-header>
+      <ion-button
+        expand="block"
+        routerLink="/home"
+        routerDirection="root"
+        class="ion-padding-horizontal goHomeButton">
+        Ir ao início
+      </ion-button>
+    </ion-card>
+  </ng-template>
+
+  <ng-template #hasItems>
+    <ng-container *ngFor="let l of cardList">
+      <ion-card>
+        <ion-card-header>
+          <ion-card-title> {{ l?.title }}</ion-card-title>
+        </ion-card-header>
+        <app-link-list [urlList]="l?.content"></app-link-list>
+      </ion-card>
+    </ng-container>
+  </ng-template>
 </ion-content>

@@ -6,7 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./page-link-tree.page.scss'],
 })
 export class PageLinkTreePage {
-  urlList = [
+  /* Example
+  movEstList = [
     {
       title: 'Plenária do MUP – Inscrições',
       icon: 'document-text',
@@ -15,6 +16,16 @@ export class PageLinkTreePage {
         '22/01 e 23/01 – Ciência e Tecnologia no Brasil: Para onde vai o que produzimos? E para onde deve ir?',
     },
   ];
+
+    cardList = [
+    {
+      title: 'Movimento estudantil',
+      content: this.movEstList,
+    },
+  ];
+  */
+
+  cardList = [];
 
   constructor() {}
 }
