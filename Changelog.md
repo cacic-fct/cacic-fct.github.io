@@ -1,3 +1,9 @@
+### 2022.01.26.15.00
+- Corrigido o botão de menu faltante nas páginas novas
+- Os cards da página de links agora são criados dinamicamente 
+- Renomeado card de "links úteis" para "acesso rápido" na página da pandemia
+- Descrição do card de dezembro vermelho alterada para inverter "AIDS/HIV" para "HIV/AIDS"
+
 ### 2022.01.21.20.43
 - Changelog e changelog de dados mescladas
 - Adicionado texto em português no <noscript>
