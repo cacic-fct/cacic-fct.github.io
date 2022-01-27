@@ -1,0 +1,37 @@
+.title-container {
+  width: 100%;
+  height: 100%;
+  background-color: #212121;
+  display: block;
+  overflow: hidden;
+}
+
+.title {
+  width: 80vw;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.markdown-container {
+  padding-left: 16px;
+  padding-right: 16px;
+  max-width: 1080px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.timeline-container {
+  background-color: #212121;
+  width: 100vw;
+}
+
+.timeline {
+  width: 100vw;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}

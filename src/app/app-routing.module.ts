@@ -54,6 +54,13 @@ const routes: Routes = [
         (m) => m.PageLinkTreePageModule
       ),
   },
+  {
+    path: 'manual-do-calouro',
+    loadChildren: () =>
+      import('./page-manual-calouro/page-manual-calouro.module').then(
+        (m) => m.PageManualCalouroPageModule
+      ),
+  },
 ];
 
 @NgModule({
