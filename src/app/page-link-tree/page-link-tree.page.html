@@ -8,6 +8,37 @@
 </ion-header>
 
 <ion-content>
+  <ion-grid class="ion-padding ion-text-center" style="max-width: 700px">
+    <ion-row>
+      <ion-col>
+        <img src="favicon.png" alt="Logo" style="width: 64px" />
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col>
+        <h5 style="margin: 0">CACiC</h5>
+        <span>Centro acadêmico de Ciência da Computação</span>
+        <br />
+        <span>FCT-Unesp</span>
+        <p style="font-size: 1em; margin: 5px 0 0 0"></p>
+      </ion-col>
+    </ion-row>
+
+    <ion-row>
+      <ion-col>
+        <ion-button href="https://instagram.com/cacic.fct" fill="clear">
+          <ion-icon name="logo-instagram" slot="icon-only"></ion-icon>
+        </ion-button>
+        <ion-button href="https://facebook.com/cacic.fct" fill="clear">
+          <ion-icon name="logo-facebook" slot="icon-only"></ion-icon>
+        </ion-button>
+        <ion-button href="mailto:cacic.fct@gmail.com" fill="clear">
+          <ion-icon name="mail" slot="icon-only"></ion-icon>
+        </ion-button>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
   <ng-container
     *ngIf="
     cardList?.length === 0 || cardList === undefined;
