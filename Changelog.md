@@ -1,3 +1,41 @@
+### 2022.01.27.22.37
+- Adicionado cabeçalho na árvore de arquivos
+    - Logo e descrição do CACiC
+- Adicionado fotos dos membros da chapa Margaret Hamilton
+- Página dos calouros ([#2](https://github.com/cacic-fct/cacic-fct/pull/2))
+	- Bem-vindo à Unesp!
+		- Palavra de ordem "Universidade pública, gratuita e de qualidade"
+		- Fala sobre o prestígio da Unesp
+	- Tá, mas e agora?
+		- Apresenta os primeiros passos que os calouros devem seguir
+			- Matrícula virtual
+			- Crie seu login institucional
+			- Ativar todos os serviços de rede
+			- Enviar o comprovante de vacinacão contra COVID-19
+			- Fazer login no Google
+			- Entrar no grupo dos calouros no WhatsApp e responder ao formulário de controle
+	- Manual do calouro
+		- Apenas faz menção, já que não está pronto ainda
+	- Tenho dúvidas, com quem eu falo?
+		- Com o CACiC por Instagram, Facebook, e-mail ou grupo do WhatsApp
+	- Perguntas frequentes
+		- Teremos aulas presenciais?
+		- Quero concorrer a uma bolsa do Prouni, posso fazer matrícula?
+		- Como cancelo minha matrícula?
+		- Serviço militar obrigatório
+		- A matrícula presencial é depois do início das aulas?
+		- Onde encontro meus documentos da faculdade?
+	- Grupos e páginas
+		- CACiC
+		- Facebook do Diretório Acadêmico
+		- Facebook da EJComp
+		- Facebook da Atlética
+		- Facebook da Bateria Furiosa
+		- Grupo do curso no Facebook
+		- Grupo do câmpus no Facebook
+		- Grupos de repúblicas
+		- Grupos de aluguéis
+
 ### 2022.01.26.15.00
 - Corrigido o botão de menu faltante nas páginas novas
 - Os cards da página de links agora são criados dinamicamente 
