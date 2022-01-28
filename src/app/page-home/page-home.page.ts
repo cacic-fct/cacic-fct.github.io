@@ -12,6 +12,11 @@ export class PageHomePage implements OnInit {
       icon: 'calendar',
       url: 'https://www.fct.unesp.br/#!/administracao/graduacao/espaco-do-aluno/',
     },
+    {
+      title: 'Calouros',
+      icon: 'people',
+      url: 'https://cacic-fct.web.app/calouros',
+    },
   ];
 
   constructor() {}
