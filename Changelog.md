@@ -1,3 +1,14 @@
+### 2022.01.28.11.40
+- Imagens dos membros da chapa Margaret Hamilton
+    - Comprimidas
+    - Imagem do Willian atualizada com correções de brilho e cor
+- Página calouros
+    - Correção de gramática
+    - Correção de formatação
+    - Adicionado informação sobre cursos com currículo mínimo idêntico
+    - Adicionado links para as leis e norma que impedem a matrícula 
+    - Adicionado confete
+
 ### 2022.01.27.22.37
 - Adicionado cabeçalho na árvore de arquivos
     - Logo e descrição do CACiC
