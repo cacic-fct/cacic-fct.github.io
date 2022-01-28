@@ -54,6 +54,13 @@ const routes: Routes = [
         (m) => m.PageLinkTreePageModule
       ),
   },
+  {
+    path: 'calouros',
+    loadChildren: () =>
+      import('./page-calouros/page-calouros.module').then(
+        (m) => m.PageCalourosPageModule
+      ),
+  },
 ];
 
 @NgModule({

@@ -25,7 +25,20 @@ export class PageLinkTreePage {
   ];
   */
 
-  cardList = [];
+  calourosList = [
+    {
+      title: 'Página dos calouros',
+      icon: 'people',
+      url: 'https://cacic-fct.web.app/calouros',
+      content: 'Você é calouro? Confira essa página!',
+    },
+  ];
 
+  cardList = [
+    {
+      title: 'Calouros',
+      content: this.calourosList,
+    },
+  ];
   constructor() {}
 }
