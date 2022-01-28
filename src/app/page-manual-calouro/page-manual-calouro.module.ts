@@ -10,6 +10,8 @@ import { PageManualCalouroPage } from './page-manual-calouro.page';
 
 import { MarkdownModule } from 'ngx-markdown';
 
+import { ModuleManualModule } from './components/module-manual/module-manual.module';
+
 @NgModule({
   imports: [
     CommonModule,
@@ -17,6 +19,7 @@ import { MarkdownModule } from 'ngx-markdown';
     IonicModule,
     PageManualCalouroPageRoutingModule,
     MarkdownModule.forChild(),
+    ModuleManualModule,
   ],
   declarations: [PageManualCalouroPage],
 })
