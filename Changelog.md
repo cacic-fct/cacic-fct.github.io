@@ -1,8 +1,14 @@
+### 2022.01.28.14.32
+- Upgrade dos pacotes
+- Página dos calouros
+    - Trocar links do Facebook para Instagram, quando disponíveis
+    - Adicionar cheerleading 
+
 ### 2022.01.28.11.40
 - Imagens dos membros da chapa Margaret Hamilton
     - Comprimidas
     - Imagem do Willian atualizada com correções de brilho e cor
-- Página calouros
+- Página dos calouros
     - Correção de gramática
     - Correção de formatação
     - Adicionado informação sobre cursos com currículo mínimo idêntico
