@@ -9,6 +9,7 @@ import { GlobalConstants } from '../shared/services/global-constants.service';
 })
 export class PageAboutAppPage implements OnInit {
   globalConstants = GlobalConstants;
+
   constructor() {}
 
   ngOnInit() {}
