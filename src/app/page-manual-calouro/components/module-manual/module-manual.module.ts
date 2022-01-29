@@ -10,6 +10,8 @@ import { ManualOperadorasComponent } from './../manual-operadoras/manual-operado
 
 import { MarkdownModule } from 'ngx-markdown';
 
+import { IonicModule } from '@ionic/angular';
+
 @NgModule({
   declarations: [
     ManualAuxiliosComponent,
@@ -19,7 +21,7 @@ import { MarkdownModule } from 'ngx-markdown';
     ManualSobreFctComponent,
     ManualOperadorasComponent,
   ],
-  imports: [CommonModule, MarkdownModule.forChild()],
+  imports: [CommonModule, MarkdownModule.forChild(), IonicModule],
   exports: [
     ManualAuxiliosComponent,
     ManualCursosComponent,
