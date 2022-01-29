@@ -6,6 +6,7 @@ import { ManualIntroducaoComponent } from './../manual-introducao/manual-introdu
 import { ManualEntidadesComponent } from './../manual-entidades/manual-entidades.component';
 import { ManualCursosComponent } from './../manual-cursos/manual-cursos.component';
 import { ManualAuxiliosComponent } from './../manual-auxilios/manual-auxilios.component';
+import { ManualOperadorasComponent } from './../manual-operadoras/manual-operadoras.component';
 
 import { MarkdownModule } from 'ngx-markdown';
 
@@ -16,6 +17,7 @@ import { MarkdownModule } from 'ngx-markdown';
     ManualEntidadesComponent,
     ManualIntroducaoComponent,
     ManualSobreFctComponent,
+    ManualOperadorasComponent,
   ],
   imports: [CommonModule, MarkdownModule.forChild()],
   exports: [
@@ -24,6 +26,7 @@ import { MarkdownModule } from 'ngx-markdown';
     ManualEntidadesComponent,
     ManualIntroducaoComponent,
     ManualSobreFctComponent,
+    ManualOperadorasComponent,
   ],
 })
 export class ModuleManualModule {}
