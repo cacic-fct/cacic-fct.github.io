@@ -94,11 +94,13 @@ export class ManualGlossarioComponent implements OnInit {
     },
     {
       term: 'Jopannas pobre',
-      definition: 'Cantina da área sul do câmpus.',
+      definition:
+        'Cantina da área sul do câmpus, que possui preços mais em conta.',
     },
     {
       term: 'Jopannas rico',
-      definition: "O Biju's café, cantina da área central do câmpus.",
+      definition:
+        "O Biju's café, cantina da área central do câmpus, que possui preços mais altos.",
     },
     {
       term: 'RU',
