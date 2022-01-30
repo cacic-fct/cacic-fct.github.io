@@ -10,4 +10,28 @@
     onde alunos de todos os cursos convivem nos espaços comuns, trocam experiências, constroem juntos o **movimento estudantil** da
     faculdade e debatem sobre suas variadas e distintas visões de mundo, que são trazidas de suas vivências.
   </markdown>
+  <div class="flex-container ion-text-center">
+    <div class="flex-items" *ngFor="let c of cursos">
+      <h1>{{ c.nome }}</h1>
+      <p>
+        {{ c.duracao }}&nbsp;anos, {{ c.periodo }}, {{ c.vagas }}&nbsp;vagas
+      </p>
+    </div>
+  </div>
+</div>
+
+<div
+  style="width: 100%; padding-top: 32px; padding-bottom: 32px"
+  class="bg-grey">
+  <div class="markdown-container">
+    <div class="bg-grey ion-padding-horizontal">
+      <object
+        class="margin-auto-horizontal"
+        role="img"
+        data="assets/manual-do-calouro/cursos-balburdia.svg"
+        type="image/svg+xml"
+        aria-label="Na universidade pública, não fazemos balbúrdia, fazemos ciência"
+        style="max-width: 800px"></object>
+    </div>
+  </div>
 </div>
