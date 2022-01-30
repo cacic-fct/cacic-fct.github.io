@@ -77,7 +77,7 @@ export class ManualCursosComponent implements OnInit {
     {
       nome: 'Pedagogia',
       duracao: '4/5',
-      periodo: 'Verspertino ou noturno',
+      periodo: 'Vespertino ou noturno',
       vagas: 45,
     },
     {
