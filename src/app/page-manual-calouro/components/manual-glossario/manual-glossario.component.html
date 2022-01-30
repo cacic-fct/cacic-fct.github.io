@@ -2,16 +2,8 @@
   <!-- prettier-ignore -->
   <markdown ngPreserveWhitespaces>
     # Glossário
-    - ACC: Atividades complementares ao curso.
-    - TG: Trabalho de gradução, o TCC.
-    - TCC: Trabalho de conclusão de curso.
-    - CR: Coeficiente de rendimento. 
-    - IC: Iniciação científica.
-    - PIBIC: Programa institucional de bolsas de iniciação científica.
-    - FAPESP: Fundação de amparo à pesquisa do estado de São Paulo.
-    - CAPES: Coordenação de Aperfeiçoamento de Pessoal de Nível Superior.
-    - PIBITI: Programa institucional de bolsas de iniciação em desenvolvimento tecnológico e inovação .
-    - DP: Dependência. Quando se fica retido em uma disciplina.
-    - RER: Regime de recuperação especial. 
+    <ng-container *ngFor="let d of dictionary">
+    - **{{ d.term }}**: {{ d.definition }}
+    </ng-container>
   </markdown>
 </div>
