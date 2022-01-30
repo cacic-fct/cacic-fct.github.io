@@ -29,7 +29,8 @@ export class ManualGlossarioComponent implements OnInit {
     },
     {
       term: 'CR',
-      definition: 'Coeficiente de rendimento.',
+      definition:
+        'Coeficiente de rendimento. Índice que mede o desempenho acadêmico do aluno ao longo do curso.',
     },
     {
       term: 'IC',
@@ -59,7 +60,49 @@ export class ManualGlossarioComponent implements OnInit {
     },
     {
       term: 'RER',
-      definition: 'Regime de recuperação especial.',
+      definition: 'Regime especial de recuperação.',
+    },
+    {
+      term: 'Exame',
+      definition: 'Prova de recuperação.',
+    },
+    {
+      term: 'Prova substitutiva',
+      definition:
+        'Substitui a nota de uma prova na qual o aluno não compareceu.',
+    },
+    {
+      term: 'Sub',
+      definition: 'Prova substitutiva.',
+    },
+    {
+      term: 'SISGRAD',
+      definition: 'O sistema on-line dos alunos da graduação da Unesp.',
+    },
+    {
+      term: 'Central de acessos',
+      definition:
+        'Portal que reune os sistemas on-line da Unesp. Coloquialmente e incorretamente chamado de "SISGRAD".',
+    },
+    {
+      term: 'Discente',
+      definition: 'Aluno.',
+    },
+    {
+      term: 'Docente',
+      definition: 'Professor.',
+    },
+    {
+      term: 'Jopannas pobre',
+      definition: 'Cantina da área sul do câmpus.',
+    },
+    {
+      term: 'Jopannas rico',
+      definition: "O Biju's café, cantina da área central do câmpus.",
+    },
+    {
+      term: 'RU',
+      definition: 'Restaurante universitário.',
     },
   ];
 
