@@ -7,3 +7,12 @@
   margin-bottom: 15px;
   margin-top: 30px;
 }
+
+.auxilios-title {
+  font-size: clamp(40px, 7vw, 70px);
+  margin: 0;
+}
+
+.auxilios-subtitle {
+  font-size: clamp(30px, 4vw, 40px);
+}
