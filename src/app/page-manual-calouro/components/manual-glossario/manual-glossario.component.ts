@@ -93,12 +93,12 @@ export class ManualGlossarioComponent implements OnInit {
       definition: 'Professor.',
     },
     {
-      term: 'Jopannas pobre',
+      term: 'Jopannas de pobre',
       definition:
         'Cantina da área sul do câmpus, que possui preços mais em conta.',
     },
     {
-      term: 'Jopannas rico',
+      term: 'Jopannas de rico',
       definition:
         "O Biju's café, cantina da área central do câmpus, que possui preços mais altos.",
     },
