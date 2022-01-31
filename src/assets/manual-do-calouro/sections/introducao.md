@@ -6,6 +6,6 @@ Ele apresentará, em largas pinceladas, a hierarquia dos órgãos e entidades
 bem como as entidades estudantis responsáveis por cuidar dos interesses dos estudantes durante suas atividades
 na Universidade em nível pessoal, de curso e de corpo discente como um todo.
 
-Servirá, também, como um guia inicial de compreensão do **Movimento Estudantil da FCT**,
+Servirá, também, como um guia inicial de compreensão do **movimento estudantil da FCT**,
 contendo informações sobre a organização e o funcionamento de assembleias, plenárias
 e demais mecanismos de articulação e luta por uma universidade de qualidade e pelos interesses dos estudantes.
