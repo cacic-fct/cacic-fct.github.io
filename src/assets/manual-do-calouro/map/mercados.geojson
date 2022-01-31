@@ -1,0 +1,360 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Supermercados Pastorinho"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.38548672199249,
+                    -22.124411727534895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Supermercados Nagai"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.39735549688339,
+                    -22.112854852348363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Supermercados Mais Você"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.38728380203247,
+                    -22.109286466418293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Supermercados estrela"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.399632692337036,
+                    -22.106977901237755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Vip Express"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.411050856113434,
+                    -22.129333858566124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Mercado sublime"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.41234636306762,
+                    -22.128841901663623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Supermercados avenida"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.39368623495102,
+                    -22.133043357070004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Makro atacadista"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.44167900085449,
+                    -22.11802586976133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Atacadão"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.44206523895264,
+                    -22.119636027713824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "CEASA/CEAGESP"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.4350700378418,
+                    -22.121743120214656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Maxxi atacadista"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.4274525642395,
+                    -22.12604665938504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Supermercados Estrela"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.39060974121094,
+                    -22.126195740373007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Mercado Municipal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.39332413673401,
+                    -22.12632494376835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Carrefour"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.40987873077392,
+                    -22.11584417578781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Sam's Club",
+                "description": "Ótima variedade de produtos importados e bebidas. É necessário pagar uma anuidade para fazer compras aqui."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.41323685646057,
+                    -22.11502913794217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Max Atacadista",
+                "description": "Itens promocionais com preços competitivos."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.412121057510376,
+                    -22.113732025313944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Mercado Stadella"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.38150230050087,
+                    -22.11393951443836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Supermercados Nagai"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.386168003082275,
+                    -22.128352427687236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Max Atacadista"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.3880455493927,
+                    -22.099666781386375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Supermercados Avenida"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.38672053813934,
+                    -22.098821828089466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Super Muffato"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.390448808670044,
+                    -22.13126440011689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "marker-color": "#0432ff",
+                "marker-size": "medium",
+                "marker-symbol": "",
+                "name": "Supermercados Ulian",
+                "description": "Carnes baratas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -51.378175020217896,
+                    -22.139786294392348
+                ]
+            }
+        }
+    ]
+}

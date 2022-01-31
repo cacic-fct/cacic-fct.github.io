@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import {
+  NoPreloading,
   PreloadAllModules,
   RouterModule,
   Routes,
@@ -76,7 +77,7 @@ const routes: Routes = [
 ];
 
 const options: ExtraOptions = {
-  preloadingStrategy: PreloadAllModules,
+  preloadingStrategy: NoPreloading,
 };
 
 @NgModule({
