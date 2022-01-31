@@ -46,7 +46,7 @@ poderá entrar em contato com algum dos moradores e conseguir permanecer na mora
 Para poder ser contemplado por este recurso, o aluno deve possuir uma renda de até 1,5 salário mínimo,
 passar por entrevistas com a assistente social e entregar a documentação necessária.
     
-#### Conseguindo auxílios de permancência estudantil
+#### Conseguindo auxílios de permanência estudantil
 Para conseguir os auxílios mencionados acima, 
 alguns fatores precisam ser verificados. Dentre eles: 
 - Ser aluno de graduação da FCT-Unesp;
