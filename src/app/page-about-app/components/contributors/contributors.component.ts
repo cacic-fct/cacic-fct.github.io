@@ -20,11 +20,6 @@ export class ContributorsComponent implements OnInit {
       },
     },
     {
-      name: 'Rafael Araújo Chinaglia',
-      emailAcademic: 'rafael.chinaglia',
-      avatar: 'rafael-chinaglia',
-    },
-    {
       name: 'Willian Yoshio Murayama',
       emailAcademic: 'willian.murayama',
       avatar: 'willian-murayama',
