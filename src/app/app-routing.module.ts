@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import {
+  NoPreloading,
   PreloadAllModules,
   RouterModule,
   Routes,
@@ -60,6 +61,13 @@ const routes: Routes = [
       ),
   },
   {
+    path: 'manual-do-calouro',
+    loadChildren: () =>
+      import('./page-manual-calouro/page-manual-calouro.module').then(
+        (m) => m.PageManualCalouroPageModule
+      ),
+  },
+  {
     path: 'calouros',
     loadChildren: () =>
       import('./page-calouros/page-calouros.module').then(
@@ -69,7 +77,7 @@ const routes: Routes = [
 ];
 
 const options: ExtraOptions = {
-  preloadingStrategy: PreloadAllModules,
+  preloadingStrategy: NoPreloading,
 };
 
 @NgModule({
