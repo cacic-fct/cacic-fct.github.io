@@ -29,8 +29,13 @@ export class PageLinkTreePage {
     {
       title: 'Página dos calouros',
       icon: 'people',
-      url: 'https://cacic-fct.web.app/calouros',
+      url: '/calouros',
       content: 'Você é calouro? Confira essa página!',
+    },
+    {
+      title: 'Manual do calouro',
+      icon: 'book',
+      url: '/manual-do-calouro',
     },
   ];
 
