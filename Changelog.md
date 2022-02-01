@@ -1,3 +1,9 @@
+### 2022.02.01.19.24
+- Adicionado capas do Facebook na página dos calouros
+- Página de transparência
+    - Adicionado cards da recepção dos calouros
+    - Adicionado lista de reuniões
+
 ### 2022.02.01.17.19
 - Adicionado licença BSD-2 na página de licenças
 - Adicionado lista de contribuidores na página "sobre este site"
