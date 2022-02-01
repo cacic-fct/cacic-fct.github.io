@@ -48,7 +48,9 @@ export class MarkerService {
     // bindPopup of markers and polygons to "<b>feature.properties.name</b><br>feature.properties.description"
     this.layers.forEach((layer) => {
       this.http
-        .get(`assets/manual-do-calouro/map/${layer}.geojson`)
+        .get(
+          `https://cdn.jsdelivr.net/gh/cacic-fct/manual-do-calouro@main/map/${layer}.geojson`
+        )
         .subscribe((data: any) => {
           const geojson = L.geoJSON(data, {
             pointToLayer: (feature, latlng) => {
@@ -60,7 +62,11 @@ export class MarkerService {
             onEachFeature: (feature, layer) => {
               if (feature.properties) {
                 layer.bindPopup(
-                  `<b>${feature.properties.name}</b><br>${feature.properties.description}`
+                  L.popup().setContent(
+                    `<b>${feature.properties.name}</b><br>${
+                      feature.properties.description || ''
+                    }`
+                  )
                 );
               }
             },

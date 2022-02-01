@@ -36,8 +36,25 @@
 }
 
 .map-container {
-  padding-left: 50px;
-  padding-right: 50px;
   width: 100%;
-  height: 500px;
+  height: 80vh;
+  background-color: #e6e2dc;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+@media (min-width: 1300px) {
+  .map-container {
+    padding-left: 50px;
+    padding-right: 50px;
+    height: 500px;
+  }
+}
+
+.bg-light-blue {
+  background-color: #e2f5ff;
+}
+
+.bg-light-green {
+  background-color: #dbf7d0;
 }

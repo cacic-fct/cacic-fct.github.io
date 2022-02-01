@@ -20,7 +20,10 @@ export class PageManualCalouroPage implements OnInit, AfterViewInit {
       zoom: 16,
     };
 
-    this.map = L.map('mapId').setView([home.lat, home.lng], home.zoom);
+    this.map = L.map('mapId', { tap: false }).setView(
+      [home.lat, home.lng],
+      home.zoom
+    );
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution:
