@@ -6,7 +6,7 @@ export class Glossario {
     },
     {
       term: 'TG',
-      definition: 'Trabalho de gradução. Também conhecido como TCC.',
+      definition: 'Trabalho de graduação. Também conhecido como TCC.',
     },
     {
       term: 'TG',
