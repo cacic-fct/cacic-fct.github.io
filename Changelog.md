@@ -1,3 +1,7 @@
+### 2022.02.01.17.19
+- Adicionado licença BSD-2 na página de licenças
+- Adicionado lista de contribuidores na página "sobre este site"
+
 ### 2022.02.01.16.29.1
 - Tabela de licenças atualizada
 
