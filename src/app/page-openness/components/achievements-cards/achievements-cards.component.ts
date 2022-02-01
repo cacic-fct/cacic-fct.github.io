@@ -8,6 +8,19 @@ import { Component, OnInit } from '@angular/core';
 export class AchievementsCardsComponent implements OnInit {
   public items = [
     {
+      image: '2021/manual_calouro.webp',
+      title: 'Manual do calouro',
+      content:
+        'Fala sobre a FCT-Unesp, o movimento estudantil, a cidade de Presidente Prudente e muito mais! Está aberto a contribuições.',
+      url: '/manual-do-calouro',
+    },
+    {
+      image: '2021/recepcao_calouros.webp',
+      title: 'Recepção dos calouros',
+      content:
+        'Agradeçemos a Filipe Nava, Manoela Frattini, Raphael Esposti e a todos os outros que nos auxiliaram.',
+    },
+    {
       image: '',
       title: 'Homepage do CACiC',
       content: 'Sim, este site.',
