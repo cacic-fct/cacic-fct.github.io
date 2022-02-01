@@ -1,3 +1,6 @@
+### 2022.02.01.16.29.1
+- Tabela de licenças atualizada
+
 ### 2022.02.01.16.29
 - Adicionado manual do calouro ([#3](https://github.com/cacic-fct/cacic-fct/pull/3))
 - Página dos calouros
