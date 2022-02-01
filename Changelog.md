@@ -1,3 +1,9 @@
+### 2022.02.01.16.29
+- Adicionado manual do calouro ([#3](https://github.com/cacic-fct/cacic-fct/pull/3))
+- Página dos calouros
+    - Perguntas frequentes
+        - Adicionado "Quando as aulas começam?"
+
 ### 2022.01.28.14.32
 - Upgrade dos pacotes
 - Página dos calouros
