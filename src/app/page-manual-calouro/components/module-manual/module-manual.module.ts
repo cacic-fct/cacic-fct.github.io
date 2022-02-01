@@ -10,6 +10,7 @@ import { ManualOperadorasComponent } from './../manual-operadoras/manual-operado
 import { ManualMovimentoEstudantilComponent } from './../manual-movimento-estudantil/manual-movimento-estudantil.component';
 import { ManualGlossarioComponent } from './../manual-glossario/manual-glossario.component';
 import { ManualMapaComponent } from './../manual-mapa/manual-mapa.component';
+import { ManualPresidentePrudenteComponent } from './../manual-presidente-prudente/manual-presidente-prudente.component';
 
 import { MarkdownModule } from 'ngx-markdown';
 
@@ -26,6 +27,7 @@ import { IonicModule } from '@ionic/angular';
     ManualMovimentoEstudantilComponent,
     ManualGlossarioComponent,
     ManualMapaComponent,
+    ManualPresidentePrudenteComponent,
   ],
   imports: [CommonModule, MarkdownModule.forChild(), IonicModule],
   exports: [
@@ -38,6 +40,7 @@ import { IonicModule } from '@ionic/angular';
     ManualMovimentoEstudantilComponent,
     ManualGlossarioComponent,
     ManualMapaComponent,
+    ManualPresidentePrudenteComponent,
   ],
 })
 export class ModuleManualModule {}
