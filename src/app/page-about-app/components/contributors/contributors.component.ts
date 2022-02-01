@@ -44,13 +44,6 @@ export class ContributorsComponent implements OnInit {
   constructor() {}
 
   ngOnInit() {
-    this.contributors.sort(function (a, b) {
-      var keyA = a.name,
-        keyB = b.name;
-      // Compare the 2 dates
-      if (keyA < keyB) return -1;
-      if (keyA > keyB) return 1;
-      return 0;
-    });
+    this.contributors.sort((a, b) => (a.name > b.name ? 1 : -1));
   }
 }
