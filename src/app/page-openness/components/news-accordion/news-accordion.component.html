@@ -11,5 +11,29 @@
         </ion-item>
       </ion-list>
     </ion-accordion>
+
+    <ion-accordion>
+      <ion-item slot="header">
+        <ion-label class="ion-text-wrap">
+          Reuniões da chapa, plenárias e assembleias
+        </ion-label>
+      </ion-item>
+
+      <ion-list slot="content">
+        <ion-item
+          *ngFor="let m of meetings"
+          [href]="'https://docs.google.com/document/d/' + m.id"
+          target="_blank">
+          <ion-text slot="start">
+            <b>{{ formatDate(m.date) }}</b>
+          </ion-text>
+          <ion-label class="ion-text-wrap">{{ m.title }}</ion-label>
+        </ion-item>
+        <div class="ion-padding ion-text-wrap">
+          Decisões e discussões também ocorrem fora de reuniões, plenárias e
+          assembleias e não constam nessa lista.
+        </div>
+      </ion-list>
+    </ion-accordion>
   </ion-accordion-group>
 </ion-card>
