@@ -21,8 +21,12 @@ export class ContributorsComponent implements OnInit {
     },
     {
       name: 'Willian Yoshio Murayama',
-      emailAcademic: 'willian.murayama',
       avatar: 'willian-murayama',
+      emailAcademic: 'willian.murayama',
+      enrollmentYear: '2021',
+      social: {
+        github: 'willshobwish',
+      },
     },
   ];
   socialMedia = {
