@@ -17,6 +17,7 @@ export class ContributorsComponent implements OnInit {
       social: {
         github: 'yudi',
         instagram: 'yyaguinuma',
+        linkedin: 'renanyudi',
       },
     },
     {
