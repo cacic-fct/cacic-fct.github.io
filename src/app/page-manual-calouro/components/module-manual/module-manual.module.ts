@@ -6,7 +6,6 @@ import { ManualIntroducaoComponent } from './../manual-introducao/manual-introdu
 import { ManualEntidadesComponent } from './../manual-entidades/manual-entidades.component';
 import { ManualCursosComponent } from './../manual-cursos/manual-cursos.component';
 import { ManualAuxiliosComponent } from './../manual-auxilios/manual-auxilios.component';
-import { ManualOperadorasComponent } from './../manual-operadoras/manual-operadoras.component';
 import { ManualMovimentoEstudantilComponent } from './../manual-movimento-estudantil/manual-movimento-estudantil.component';
 import { ManualGlossarioComponent } from './../manual-glossario/manual-glossario.component';
 import { ManualMapaComponent } from './../manual-mapa/manual-mapa.component';
@@ -23,7 +22,6 @@ import { IonicModule } from '@ionic/angular';
     ManualEntidadesComponent,
     ManualIntroducaoComponent,
     ManualSobreFctComponent,
-    ManualOperadorasComponent,
     ManualMovimentoEstudantilComponent,
     ManualGlossarioComponent,
     ManualMapaComponent,
@@ -36,7 +34,6 @@ import { IonicModule } from '@ionic/angular';
     ManualEntidadesComponent,
     ManualIntroducaoComponent,
     ManualSobreFctComponent,
-    ManualOperadorasComponent,
     ManualMovimentoEstudantilComponent,
     ManualGlossarioComponent,
     ManualMapaComponent,
