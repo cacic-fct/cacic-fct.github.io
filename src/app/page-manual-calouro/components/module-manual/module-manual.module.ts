@@ -3,8 +3,6 @@ import { CommonModule } from '@angular/common';
 
 import { ManualSobreFctComponent } from './../manual-sobre-fct/manual-sobre-fct.component';
 import { ManualIntroducaoComponent } from './../manual-introducao/manual-introducao.component';
-import { ManualEntidadesComponent } from './../manual-entidades/manual-entidades.component';
-import { ManualCursosComponent } from './../manual-cursos/manual-cursos.component';
 import { ManualAuxiliosComponent } from './../manual-auxilios/manual-auxilios.component';
 import { ManualMovimentoEstudantilComponent } from './../manual-movimento-estudantil/manual-movimento-estudantil.component';
 import { ManualGlossarioComponent } from './../manual-glossario/manual-glossario.component';
@@ -18,8 +16,6 @@ import { IonicModule } from '@ionic/angular';
 @NgModule({
   declarations: [
     ManualAuxiliosComponent,
-    ManualCursosComponent,
-    ManualEntidadesComponent,
     ManualIntroducaoComponent,
     ManualSobreFctComponent,
     ManualMovimentoEstudantilComponent,
@@ -30,8 +26,6 @@ import { IonicModule } from '@ionic/angular';
   imports: [CommonModule, MarkdownModule.forChild(), IonicModule],
   exports: [
     ManualAuxiliosComponent,
-    ManualCursosComponent,
-    ManualEntidadesComponent,
     ManualIntroducaoComponent,
     ManualSobreFctComponent,
     ManualMovimentoEstudantilComponent,
