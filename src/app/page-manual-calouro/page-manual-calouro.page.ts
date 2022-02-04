@@ -42,11 +42,22 @@ export class PageManualCalouroPage implements OnInit, AfterViewInit {
   ionViewDidEnter() {
     this.leafletMap();
     this.markerService.makeGroceriesMarkers(this.map);
-    L.map('mapId').invalidateSize();
+    this.invalidate();
   }
+
   ionViewWillLeave() {
     L.map('mapId').off();
     L.map('mapId').remove();
   }
+  async invalidate() {
+    await delay(2000);
+    console.log('Invalidated');
+    L.map('mapId').invalidateSize();
+  }
+
   ngOnInit() {}
+}
+
+function delay(ms: number) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
