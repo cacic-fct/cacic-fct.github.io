@@ -1,3 +1,9 @@
+### 2022.02.04.14.12
+- Manual do calouro
+    - Mapa talvez arrumado
+    - Adicionado seção de operadoras na cidade
+    - Adicionado algumas artes
+
 ### 2022.02.01.19.24
 - Adicionado capas do Facebook na página dos calouros
 - Página de transparência
