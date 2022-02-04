@@ -46,7 +46,7 @@ export class AchievementsCardsComponent implements OnInit {
     },
     {
       image: '2021/rematricula_calouros.webp',
-      title: 'Campanha de rematrícula de calouros',
+      title: 'Campanha de rematrícula dos calouros',
       content: 'Post e lembretes nos grupos de WhatsApp.',
       url: 'https://instagram.com/p/CVdSykWLIbD/',
     },
