@@ -1,3 +1,8 @@
+### 2022.02.07.15.16
+- Componente da Chapa Margaret Hamilton
+    - Adicionado Carlos Santana
+    - Movido Rafael Chinaglia para a linha de inativos
+
 ### 2022.02.04.14.12
 - Manual do calouro
     - Mapa talvez arrumado
