@@ -1,3 +1,8 @@
+### 2022.02.24.20.57
+- Página da pandemia
+    - Adicionado data do possível retorno ao presencial
+    - Adicionado informações da reitoria e STG
+
 ### 2022.02.16.14.51
 - Componente da Chapa Margaret Hamilton
     - Willian Murayama agora é vice-presidente
