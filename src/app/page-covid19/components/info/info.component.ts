@@ -8,6 +8,17 @@ import { Component, OnInit } from '@angular/core';
 export class InfoComponent implements OnInit {
   public infoList = [
     {
+      date: '24/02/22',
+      content:
+        'Reitoria confirma o retorno ao presencial para 7 de março em post nas redes sociais. Cada unidade deve estabelecer um calendário de retomada próprio.',
+      url: 'https://twitter.com/Unesp_Oficial/status/1496948393637261317',
+    },
+    {
+      date: '22/02/22',
+      content:
+        'STG confirma o retorno ao presencial para 4 de abril. Calouros terão atividades remotas até 1 de abril.',
+    },
+    {
       date: '31/01/22',
       content: 'Fim do prazo para o cadastro do comprovante de vacinação',
     },
