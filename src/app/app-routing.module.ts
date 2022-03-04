@@ -74,6 +74,13 @@ const routes: Routes = [
         (m) => m.PageCalourosPageModule
       ),
   },
+  {
+    path: 'eventos',
+    loadChildren: () =>
+      import('./page-events/page-events.module').then(
+        (m) => m.PageEventsPageModule
+      ),
+  },
 ];
 
 const options: ExtraOptions = {
