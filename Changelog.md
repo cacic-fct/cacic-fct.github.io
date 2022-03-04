@@ -1,3 +1,11 @@
+### 2022.03.04.09.42
+- Página de eventos
+    - Adicionado imagens do Code Talk
+- Árvore de links
+    - Adicionado card de eventos
+        - Code Talk
+        - Recepção do calouros
+
 ### 2022.02.24.20.57
 - Página da pandemia
     - Adicionado data do possível retorno ao presencial
