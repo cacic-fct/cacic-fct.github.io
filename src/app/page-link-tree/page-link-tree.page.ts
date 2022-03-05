@@ -30,7 +30,7 @@ export class PageLinkTreePage {
       title: 'Code Talk - FCT-Unesp',
       icon: 'easel',
       url: '/eventos',
-      content: 'Circuito de palestras do CACiC',
+      content: 'Circuito de palestras, bate-papos e minicursos do CACiC',
     },
     {
       title: 'Recepção do calouros',
