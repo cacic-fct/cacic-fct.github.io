@@ -8,13 +8,16 @@ import { PageEventsPageRoutingModule } from './page-events-routing.module';
 
 import { PageEventsPage } from './page-events.page';
 
+import { SafeModule } from '../shared/pipes/safe.module';
+
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
-    PageEventsPageRoutingModule
+    SafeModule,
+    PageEventsPageRoutingModule,
   ],
-  declarations: [PageEventsPage]
+  declarations: [PageEventsPage],
 })
 export class PageEventsPageModule {}

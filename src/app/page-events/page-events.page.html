@@ -30,19 +30,20 @@
         >
       </p>
       <p>Haverá emissão de certificado de participação.</p>
+      <p><b>Não acabou ainda!</b><br />Tem mais vindo aí!!!</p>
+      <h2>Confira os replays</h2>
+      <ng-container *ngFor="let item of youtube">
+        <iframe
+          width="400"
+          height="225"
+          [src]="'https://youtube.com/embed/' + item | safe: 'resourceUrl'"
+          frameborder="0"
+          allow="encrypted-media; picture-in-picture"
+          style="display: block; margin-bottom: 30px"
+          class="margin-auto-horizontal"
+          allowfullscreen></iframe>
+      </ng-container>
     </div>
-    <a href="https://fct-pp.web.app">
-      <ion-img
-        style="display: block"
-        class="margin-auto-horizontal"
-        src="assets/events/1.webp"
-        style="max-width: 900px"></ion-img>
-      <ion-img
-        style="display: block"
-        class="margin-auto-horizontal"
-        src="assets/events/2.webp"
-        style="max-width: 900px"></ion-img>
-    </a>
     <ion-button
       style="--background: #4d4195; display: block"
       expand="full"
