@@ -5,7 +5,7 @@ A "Homepage do CACiC" apresenta a entidade, além de agregar seus feitos, conqui
 ## Contribuindo
 Todos podem contribuir com a "Homepage do CACiC" através de *pull requests*, *discussions* e *issues*.  
 Você pode criar novos arquivos ou alterar os já existentes, enviar sugestões e reportar erros.
-> Por questões legais, é necessário concordar com o "Contrato de concessão de licença" e/ou "Política de submissão de ideias não solicitadas".
+> Por questões legais, é necessário concordar com o "Contrato de concessão de licença" e/ou a "Política de submissão de ideias não solicitadas".
 
 ### Direitos autorais e direito de imagem
 
