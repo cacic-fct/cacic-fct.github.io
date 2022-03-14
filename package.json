@@ -27,7 +27,7 @@
     "firebase": "^9.6.5",
     "leaflet": "^1.7.1",
     "leaflet-easybutton": "^2.4.0",
-    "ngx-markdown": "^13.0.0",
+    "ngx-markdown": "^13.1.0",
     "prettier": "^2.5.1",
     "rxfire": "^6.0.3",
     "rxjs": "~7.5.2",
