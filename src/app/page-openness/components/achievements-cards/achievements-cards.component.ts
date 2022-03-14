@@ -18,7 +18,7 @@ export class AchievementsCardsComponent implements OnInit {
       image: '2021/fct_app.webp',
       title: 'FCT App',
       content:
-        'Aplicativo para facilitar a vida dos alunos do FCT, com o acesso à eventos. Tem alto potencial de expansão.',
+        'Aplicativo para facilitar a vida dos alunos da FCT, com o acesso aos eventos do câmpus. Tem alto potencial de expansão.',
       url: 'https://fct-pp.web.app',
     },
     {
