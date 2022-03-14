@@ -8,6 +8,20 @@ import { Component, OnInit } from '@angular/core';
 export class AchievementsCardsComponent implements OnInit {
   public items = [
     {
+      image: '2021/code_talk.webp',
+      title: 'Code Talk',
+      content:
+        'Circuito de bate-papos, palestras e minicursos com convidados especiais.',
+      url: 'https://instagram.com/p/Cau2R-quc-k',
+    },
+    {
+      image: '2021/fct_app.webp',
+      title: 'FCT App',
+      content:
+        'Aplicativo para facilitar a vida dos alunos do FCT, com o acesso à eventos. Tem alto potencial de expansão.',
+      url: 'https://fct-pp.web.app',
+    },
+    {
       image: '2021/manual_calouro.webp',
       title: 'Manual do calouro',
       content:
@@ -31,7 +45,7 @@ export class AchievementsCardsComponent implements OnInit {
       title: 'Envio do comprovante de vacinação',
       content:
         'Em primeira mão, orientamos os alunos a realizarem o cadastro do comprovante.',
-      url: 'https://instagram.com/p/CYufQC0vwJL/',
+      url: 'https://instagram.com/p/CYufQC0vwJL',
     },
     {
       image: 'unesp.png',
@@ -42,13 +56,13 @@ export class AchievementsCardsComponent implements OnInit {
       image: '2021/dezembro_vermelho.webp',
       title: 'Dezembro vermelho',
       content: 'Série de posts conscientizando sobre HIV/AIDS e outras ISTs.',
-      url: 'https://instagram.com/p/CX3xXzXLATD/',
+      url: 'https://instagram.com/p/CX3xXzXLATD',
     },
     {
       image: '2021/rematricula_calouros.webp',
       title: 'Campanha de rematrícula dos calouros',
       content: 'Post e lembretes nos grupos de WhatsApp.',
-      url: 'https://instagram.com/p/CVdSykWLIbD/',
+      url: 'https://instagram.com/p/CVdSykWLIbD',
     },
     {
       image: '',
@@ -66,7 +80,7 @@ export class AchievementsCardsComponent implements OnInit {
       image: '2021/eleicao.webp',
       title: 'Processo eleitoral de 2021',
       content: 'Realizado junto à sua respectiva comissão.',
-      url: 'https://instagram.com/p/CUxgWC9Lixk/',
+      url: 'https://instagram.com/p/CUxgWC9Lixk',
     },
   ];
 
