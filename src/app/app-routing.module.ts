@@ -47,38 +47,10 @@ const routes: Routes = [
       ),
   },
   {
-    path: 'pandemia',
-    loadChildren: () =>
-      import('./page-covid19/page-covid19.module').then(
-        (m) => m.PageCovid19PageModule
-      ),
-  },
-  {
     path: 'links',
     loadChildren: () =>
       import('./page-link-tree/page-link-tree.module').then(
         (m) => m.PageLinkTreePageModule
-      ),
-  },
-  {
-    path: 'manual-do-calouro',
-    loadChildren: () =>
-      import('./page-manual-calouro/page-manual-calouro.module').then(
-        (m) => m.PageManualCalouroPageModule
-      ),
-  },
-  {
-    path: 'calouros',
-    loadChildren: () =>
-      import('./page-calouros/page-calouros.module').then(
-        (m) => m.PageCalourosPageModule
-      ),
-  },
-  {
-    path: 'eventos',
-    loadChildren: () =>
-      import('./page-events/page-events.module').then(
-        (m) => m.PageEventsPageModule
       ),
   },
 ];

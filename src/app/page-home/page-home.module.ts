@@ -12,8 +12,6 @@ import { LinkListModule } from './../shared/components/link-list/link-list.modul
 
 import { SlateGridHamiltonModule } from '../shared/components/slate-grid-hamilton/slate-grid-hamilton.module';
 
-import { DateModule } from '../page-covid19/components/date/date.module';
-
 @NgModule({
   imports: [
     CommonModule,
@@ -22,7 +20,6 @@ import { DateModule } from '../page-covid19/components/date/date.module';
     PageHomePageRoutingModule,
     LinkListModule,
     SlateGridHamiltonModule,
-    DateModule,
   ],
   declarations: [PageHomePage],
 })
