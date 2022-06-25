@@ -13,9 +13,14 @@ export class PageHomePage implements OnInit {
       url: 'https://www.fct.unesp.br/#!/administracao/graduacao/espaco-do-aluno/',
     },
     {
+      title: 'FCT App',
+      icon: 'apps',
+      url: 'https://fct-pp.web.app',
+    },
+    {
       title: 'Calouros',
       icon: 'people',
-      url: 'https://cacic-fct.web.app/calouros',
+      url: 'https://fct-pp.web.app/calouros',
     },
   ];
 
