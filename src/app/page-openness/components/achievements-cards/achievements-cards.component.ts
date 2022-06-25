@@ -26,7 +26,7 @@ export class AchievementsCardsComponent implements OnInit {
       title: 'Manual do calouro',
       content:
         'Fala sobre a FCT-Unesp, o movimento estudantil, a cidade de Presidente Prudente e muito mais! Está aberto a contribuições.',
-      url: '/manual-do-calouro',
+      url: 'https://fct-pp.web.app/manual-do-calouro',
     },
     {
       image: '2021/recepcao_calouros.webp',
