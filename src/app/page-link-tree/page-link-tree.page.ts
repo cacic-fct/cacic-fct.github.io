@@ -25,20 +25,6 @@ export class PageLinkTreePage {
   ];
   */
 
-  eventsList = [
-    {
-      title: 'Code Talk - FCT-Unesp',
-      icon: 'easel',
-      url: '/eventos',
-      content: 'Circuito de palestras, bate-papos e minicursos do CACiC',
-    },
-    {
-      title: 'Recepção do calouros',
-      icon: 'people',
-      url: 'https://fct-pp.web.app',
-    },
-  ];
-
   calourosList = [
     {
       title: 'Página dos calouros',
@@ -54,10 +40,6 @@ export class PageLinkTreePage {
   ];
 
   cardList = [
-    {
-      title: 'Eventos',
-      content: this.eventsList,
-    },
     {
       title: 'Calouros',
       content: this.calourosList,
