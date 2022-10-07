@@ -25,24 +25,24 @@ export class PageLinkTreePage {
   ];
   */
 
-  calourosList = [
+  secomppList = [
     {
-      title: 'Página dos calouros',
-      icon: 'people',
-      url: '/calouros',
-      content: 'Você é calouro? Confira essa página!',
+      title: 'Página da SECOMPP22',
+      icon: 'laptop-outline',
+      url: 'https://docs.fct.unesp.br/semanas/secompp',
+      content: 'Saiba mais sobre o evento',
     },
     {
-      title: 'Manual do calouro',
-      icon: 'book',
-      url: '/manual-do-calouro',
+      title: 'Inscreva-se na SECOMPP22',
+      icon: 'document-text',
+      url: 'https://fct-pp.web.app/eventos',
     },
   ];
 
   cardList = [
     {
-      title: 'Calouros',
-      content: this.calourosList,
+      title: 'SECOMPP',
+      content: this.secomppList,
     },
   ];
   constructor() {}
