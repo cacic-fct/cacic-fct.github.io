@@ -36,7 +36,8 @@
                 "output": "/"
               },
               "src/manifest.webmanifest",
-              "src/robots.txt"
+              "src/robots.txt",
+              "src/googlee453356471cb5ac4.html"
             ],
             "styles": [
               "src/theme/variables.scss",
