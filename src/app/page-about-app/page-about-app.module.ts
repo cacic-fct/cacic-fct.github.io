@@ -10,8 +10,6 @@ import { PageAboutAppPage } from './page-about-app.page';
 
 import { SlateGridHamiltonModule } from '../shared/components/slate-grid-hamilton/slate-grid-hamilton.module';
 
-import { ContributorsComponent } from './components/contributors/contributors.component';
-
 @NgModule({
   imports: [
     CommonModule,
@@ -20,6 +18,6 @@ import { ContributorsComponent } from './components/contributors/contributors.co
     PageAboutAppPageRoutingModule,
     SlateGridHamiltonModule,
   ],
-  declarations: [PageAboutAppPage, ContributorsComponent],
+  declarations: [PageAboutAppPage],
 })
 export class PageAboutAppPageModule {}
