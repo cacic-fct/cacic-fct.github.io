@@ -39,7 +39,19 @@ export class PageLinkTreePage {
     },
   ];
 
+  hacktoberfestList = [
+    {
+      title: 'Inscreva-se no Hacktoberfest',
+      icon: 'laptop-outline',
+      url: 'https://fct-pp.web.app/calendario/evento/kxoeWvOso1vOdXfMyVLM',
+    },
+  ];
+
   cardList = [
+    {
+      title: 'Hacktoberfest 2022 na FCT',
+      content: this.secomppList,
+    },
     {
       title: 'SECOMPP',
       content: this.secomppList,
