@@ -50,7 +50,7 @@ export class PageLinkTreePage {
   cardList = [
     {
       title: 'Hacktoberfest 2022 na FCT',
-      content: this.secomppList,
+      content: this.hacktoberfestList,
     },
     {
       title: 'SECOMPP',
