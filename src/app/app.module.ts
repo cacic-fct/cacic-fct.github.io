@@ -38,10 +38,6 @@ import { ServiceWorkerModule } from '@angular/service-worker';
     providePerformance(() => getPerformance()),
     provideAuth(() => getAuth()),
     MarkdownModule.forRoot({ loader: HttpClient }),
-    ServiceWorkerModule.register('ngsw-worker.js', {
-      enabled: environment.production,
-      registrationStrategy: 'registerImmediately',
-    }),
   ],
   providers: [
     { provide: RouteReuseStrategy, useClass: IonicRouteStrategy },
