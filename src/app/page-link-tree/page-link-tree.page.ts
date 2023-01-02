@@ -6,44 +6,39 @@ import { Component } from '@angular/core';
   styleUrls: ['./page-link-tree.page.scss'],
 })
 export class PageLinkTreePage {
-  /* Example
-  movEstList = [
-    {
-      title: 'Plenária do MUP – Inscrições',
-      icon: 'document-text',
-      url: 'https://forms.gle/kd6AKGDaKRnphDYW8',
-      content:
-        '22/01 e 23/01 – Ciência e Tecnologia no Brasil: Para onde vai o que produzimos? E para onde deve ir?',
-    },
-  ];
+  cardList: CardList[];
+  exampleList: ListType;
 
-    cardList = [
-    {
-      title: 'Movimento estudantil',
-      content: this.movEstList,
-    },
-  ];
+  constructor() {
+    /* Example
+    this.exampleList = [
+      {
+        title: 'Plenária do MUP – Inscrições',
+        icon: 'document-text',
+        url: 'https://forms.gle/kd6AKGDaKRnphDYW8',
+        content:
+          '22/01 e 23/01 – Ciência e Tecnologia no Brasil: Para onde vai o que produzimos? E para onde deve ir?',
+      },
+    ];
+
+    this.cardList = [
+      {
+        title: 'Movimento estudantil',
+        content: this.movEstList,
+      },
+    ];
   */
+  }
+}
 
-  secomppList = [
-    {
-      title: 'Página da SECOMPP22',
-      icon: 'laptop-outline',
-      url: 'https://docs.fct.unesp.br/semanas/secompp',
-      content: 'Saiba mais sobre o evento',
-    },
-    {
-      title: 'Inscreva-se na SECOMPP22',
-      icon: 'document-text',
-      url: 'https://fct-pp.web.app/eventos',
-    },
-  ];
+interface ListType {
+  title: string;
+  icon: string;
+  url: string;
+  content: string;
+}
 
-  cardList = [
-    {
-      title: 'SECOMPP',
-      content: this.secomppList,
-    },
-  ];
-  constructor() {}
+interface CardList {
+  title: string;
+  content: ListType[];
 }
