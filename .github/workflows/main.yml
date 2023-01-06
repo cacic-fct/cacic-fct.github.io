@@ -1,0 +1,66 @@
+name: main
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: 'npm'
+          cache-dependency-path: package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build for production
+        run: npm run build -- --configuration=production
+        
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: Build-artifacts
+          path: www/
+
+  deploy:
+    if: ${{ github.event_name == 'push' && github.ref_type == 'tag' }}
+    needs: build
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Download artifacts
+        uses: actions/download-artifact@v3
+        with:
+          name: Build-artifacts
+          path: www/
+
+      - name: Deploy to Firebase
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: '${{ secrets.GITHUB_TOKEN }}'
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_FCT_PP }}'
+          channelId: live
+          projectId: cacic-fct
+
+      - name: Create release
+        id: create_release
+        uses: actions/create-release@v1.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: ${{ github.ref }}
+          body: |
+            [Changelog](https://github.com/cacic-fct/fct-app/blob/main/Changelog.md)
+          draft: false
+          prerelease: false
