@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class PageLinkTreePage {
   cardList: CardList[];
-  exampleList: ListType;
+  eventList: ListType[];
 
   constructor() {
     /* Example
@@ -28,6 +28,22 @@ export class PageLinkTreePage {
       },
     ];
   */
+
+    this.eventList = [
+      {
+        title: 'Minicurso: Javascript - Do básico ao avançado',
+        icon: 'globe-outline',
+        url: 'https://fct-pp.web.app/calendario/evento/sBMPXH05M8DRuZkR2rGE',
+        content: 'Faça a sua inscrição!',
+      },
+    ];
+
+    this.cardList = [
+      {
+        title: 'Eventos',
+        content: this.eventList,
+      },
+    ];
   }
 }
 
