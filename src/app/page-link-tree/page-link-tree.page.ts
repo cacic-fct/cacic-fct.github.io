@@ -43,16 +43,16 @@ export class PageLinkTreePage {
         title: 'Kit completo',
         icon: 'sparkles-outline',
         url: 'https://forms.gle/87GvRmK83wJhrpqGA',
-        content: 'R$ 85,00',
+        content: 'Melhor custo-benefício!\nR$ 85,00',
       },
       {
-        title: 'Camiseta + caneca',
+        title: 'Camiseta + caneca com tirante',
         icon: 'bag-handle-outline',
         url: 'https://forms.gle/PwjXRFs6XHiaKBKT7',
         content: 'R$ 60,00',
       },
       {
-        title: 'Colete + caneca',
+        title: 'Colete + caneca com tirante',
         icon: 'bag-handle-outline',
         url: 'https://forms.gle/E4MPp7A4GpDpEovH6',
         content: 'R$ 50,00',
@@ -73,7 +73,7 @@ export class PageLinkTreePage {
         content: 'R$ 35,00',
       },
       {
-        title: 'Caneca',
+        title: 'Caneca com tirante',
         icon: 'cafe-outline',
         url: 'https://forms.gle/tVn9QFvknvzReUcy8',
         content: 'R$ 25,00',
@@ -82,11 +82,19 @@ export class PageLinkTreePage {
 
     this.cardList = [
       {
-        title: 'Kit bixo 2023 - combos',
+        title: null,
+        content: null,
+        img: {
+          src: 'assets/linktree/kit-bixo-2023.webp',
+          alt: 'Kit bixo 2023',
+        },
+      },
+      {
+        title: 'Combos',
         content: this.linkList,
       },
       {
-        title: 'Kit bixo 2023 - individuais',
+        title: 'Itens individuais',
         content: this.linkListTwo,
       },
     ];
