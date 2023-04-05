@@ -15,7 +15,7 @@
           src="assets/logo/1024-ionicblue.png"
           alt="CACiC"
           style="width: 152px; cursor: pointer"
-          [routerLink]="['']"
+          routerLink=""
           routerDirection="root"
           class="margin-auto-horizontal"></ion-img>
       </ion-col>
@@ -55,18 +55,20 @@
   "></ng-container>
 
   <ng-template #noItems>
-    <ion-card>
-      <ion-card-header>
-        <ion-card-title> Nossa árvore de links está vazia! </ion-card-title>
-      </ion-card-header>
-      <ion-button
-        expand="block"
-        routerLink="/home"
-        routerDirection="root"
-        class="ion-padding-horizontal goHomeButton">
-        Ir à página inicial
-      </ion-button>
-    </ion-card>
+    <div class="card-container">
+      <ion-card>
+        <ion-card-header>
+          <ion-card-title> Nossa árvore de links está vazia! </ion-card-title>
+        </ion-card-header>
+        <ion-button
+          expand="block"
+          routerLink=""
+          routerDirection="root"
+          class="ion-padding-horizontal goHomeButton">
+          Ir à página inicial
+        </ion-button>
+      </ion-card>
+    </div>
   </ng-template>
 
   <ng-template #hasItems>
