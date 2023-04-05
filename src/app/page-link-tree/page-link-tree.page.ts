@@ -7,7 +7,8 @@ import { Component } from '@angular/core';
 })
 export class PageLinkTreePage {
   cardList: CardList[];
-  eventList: ListType[];
+  linkList: ListType[];
+  linkListTwo: ListType[];
 
   constructor() {
     /* Example
@@ -29,19 +30,56 @@ export class PageLinkTreePage {
     ];
   */
 
-    this.eventList = [
+    this.linkList = [
       {
-        title: 'Minicurso: Javascript - Do básico ao avançado',
-        icon: 'globe-outline',
-        url: 'https://fct-pp.web.app/calendario/evento/sBMPXH05M8DRuZkR2rGE',
-        content: 'Faça a sua inscrição!',
+        title: 'Kit completo',
+        icon: 'sparkles-outline',
+        url: 'https://forms.gle/87GvRmK83wJhrpqGA',
+        content: 'R$ 85,00',
+      },
+      {
+        title: 'Camiseta + caneca',
+        icon: 'bag-handle-outline',
+        url: 'https://forms.gle/PwjXRFs6XHiaKBKT7',
+        content: 'R$ 60,00',
+      },
+      {
+        title: 'Colete + caneca',
+        icon: 'bag-handle-outline',
+        url: 'https://forms.gle/E4MPp7A4GpDpEovH6',
+        content: 'R$ 50,00',
+      },
+    ];
+
+    this.linkListTwo = [
+      {
+        title: 'Camiseta',
+        icon: 'shirt-outline',
+        url: 'https://forms.gle/DTSCTQzhmpYooM5V9',
+        content: 'R$ 40,00',
+      },
+      {
+        title: 'Colete',
+        icon: 'bag-handle-outline',
+        url: 'https://forms.gle/TW2LsVxtLybV8mks7',
+        content: 'R$ 35,00',
+      },
+      {
+        title: 'Caneca',
+        icon: 'cafe-outline',
+        url: 'https://forms.gle/tVn9QFvknvzReUcy8',
+        content: 'R$ 25,00',
       },
     ];
 
     this.cardList = [
       {
-        title: 'Eventos',
-        content: this.eventList,
+        title: 'Kit bixo 2023 - combos',
+        content: this.linkList,
+      },
+      {
+        title: 'Kit bixo 2023 - individuais',
+        content: this.linkListTwo,
       },
     ];
   }
