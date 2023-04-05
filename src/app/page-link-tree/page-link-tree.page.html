@@ -71,12 +71,23 @@
 
   <ng-template #hasItems>
     <ng-container *ngFor="let l of cardList">
-      <ion-card>
-        <ion-card-header>
-          <ion-card-title> {{ l?.title }}</ion-card-title>
-        </ion-card-header>
-        <app-link-list [urlList]="l?.content"></app-link-list>
-      </ion-card>
+      <div class="card-container">
+        <ion-card>
+          <img
+            *ngIf="l.img"
+            [src]="l.img.src"
+            [alt]="l.img.alt"
+            class="margin-auto-horizontal"
+            style="display: block"
+            loading="lazy" />
+          <ion-card-header *ngIf="l.title">
+            <ion-card-title> {{ l.title }}</ion-card-title>
+          </ion-card-header>
+          <app-link-list
+            *ngIf="l.content"
+            [urlList]="l.content"></app-link-list>
+        </ion-card>
+      </div>
     </ng-container>
   </ng-template>
 </ion-content>

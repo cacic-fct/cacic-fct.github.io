@@ -24,8 +24,16 @@ export class PageLinkTreePage {
 
     this.cardList = [
       {
+        title: null,
+        content: null,
+        img: {
+          src: 'assets/linktree/banner.webp',
+          alt: 'Banner da plenária',
+        },
+      },
+      {
         title: 'Movimento estudantil',
-        content: this.movEstList,
+        content: this.exampleList,
       },
     ];
   */
@@ -89,10 +97,14 @@ interface ListType {
   title: string;
   icon: string;
   url: string;
-  content: string;
+  content: string | null;
 }
 
 interface CardList {
-  title: string;
+  title: string | null;
   content: ListType[];
+  img?: {
+    src: string;
+    alt: string;
+  };
 }
