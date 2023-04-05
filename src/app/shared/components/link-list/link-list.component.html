@@ -4,7 +4,8 @@
     <ion-label class="ion-text-wrap"
       >{{ u?.title }}
       <ng-container *ngIf="u?.content !== '' || u?.content !== undefined">
-        <p class="ion-text-justify">{{ u?.content }}</p>
+        <!-- prettier-ignore -->
+        <p class="ion-text-justify" style="white-space: pre-wrap">{{ u?.content }}</p>
       </ng-container>
     </ion-label>
   </ion-item>
