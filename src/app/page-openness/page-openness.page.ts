@@ -40,7 +40,7 @@ export class PageOpennessPage implements OnInit {
 
   achievementsHamilton: Achievements[] = [
     {
-      title: 'Recepção dos calouros 2022',
+      title: 'Recepção dos calouros 2023',
       content: 'Agradeçemos a todos os estudantes que nos auxiliaram.',
     },
     {
@@ -80,7 +80,7 @@ export class PageOpennessPage implements OnInit {
     },
     {
       image: '2021/recepcao_calouros.webp',
-      title: 'Recepção dos calouros 2021',
+      title: 'Recepção dos calouros 2022',
       content: 'Agradeçemos a todos os estudantes que nos auxiliaram.',
     },
     {
