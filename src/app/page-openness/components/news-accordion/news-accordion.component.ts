@@ -1,4 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { Meetings } from 'src/app/page-openness/page-openness.page';
 
 @Component({
   selector: 'app-news-accordion',
@@ -6,7 +7,7 @@ import { Component, Input, OnInit } from '@angular/core';
   styleUrls: ['./news-accordion.component.scss'],
 })
 export class NewsAccordionComponent implements OnInit {
-  @Input() meetings: { date: string; title: string; id: string }[];
+  @Input() meetings: Meetings[];
 
   constructor() {}
 

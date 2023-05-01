@@ -1,4 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { Achievements } from 'src/app/page-openness/page-openness.page';
 
 @Component({
   selector: 'app-achievements-cards',
@@ -6,12 +7,7 @@ import { Component, Input, OnInit } from '@angular/core';
   styleUrls: ['./achievements-cards.component.scss'],
 })
 export class AchievementsCardsComponent implements OnInit {
-  @Input() achievements: {
-    image?: string;
-    title: string;
-    content: string;
-    url?: string;
-  }[];
+  @Input() achievements: Achievements[];
 
   constructor() {}
 

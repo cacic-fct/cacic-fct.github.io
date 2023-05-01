@@ -10,7 +10,7 @@ export class PageOpennessPage implements OnInit {
 
   ngOnInit() {}
 
-  meetingsHamilton = [
+  meetingsHamilton: Meetings[] = [
     {
       date: '2021-12-05',
       title: 'Reunião de dezembro',
@@ -38,7 +38,7 @@ export class PageOpennessPage implements OnInit {
     },
   ];
 
-  achievementsHamilton = [
+  achievementsHamilton: Achievements[] = [
     {
       title: 'Recepção dos calouros 2022',
       content: 'Agradeçemos a todos os estudantes que nos auxiliaram.',
@@ -88,8 +88,8 @@ export class PageOpennessPage implements OnInit {
       content: 'Este site.',
     },
     {
-      image: '',
       title: 'Organização no GitHub',
+      content: 'Para abrigar os softwares utilizados pelo CA.',
       url: 'https://github.com/cacic-fct',
     },
     {
@@ -134,4 +134,16 @@ export class PageOpennessPage implements OnInit {
       url: 'https://instagram.com/p/CUxgWC9Lixk',
     },
   ];
+}
+
+export interface Achievements {
+  image?: string;
+  title: string;
+  content: string;
+  url?: string;
+}
+export interface Meetings {
+  date: string;
+  title: string;
+  id: string;
 }
