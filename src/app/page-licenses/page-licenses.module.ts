@@ -10,7 +10,7 @@ import { PageLicensesPage } from './page-licenses.page';
 
 import { MarkdownModule } from 'ngx-markdown';
 
-import { PageLicensesTableComponent } from './page-licenses-table/page-licenses-table.component';
+import { DisplayLicensesComponent } from 'src/app/page-licenses/display-licenses/display-licenses.component';
 @NgModule({
   imports: [
     CommonModule,
@@ -19,6 +19,6 @@ import { PageLicensesTableComponent } from './page-licenses-table/page-licenses-
     PageLicensesPageRoutingModule,
     MarkdownModule.forChild(),
   ],
-  declarations: [PageLicensesPage, PageLicensesTableComponent],
+  declarations: [PageLicensesPage, DisplayLicensesComponent],
 })
 export class PageLicensesPageModule {}
