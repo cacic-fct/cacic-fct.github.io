@@ -8,6 +8,22 @@
 </ion-header>
 
 <ion-content>
-  <app-news-accordion></app-news-accordion>
-  <app-achievements-cards></app-achievements-cards>
+  <ion-card>
+    <ion-accordion-group>
+      <ion-accordion>
+        <ion-item slot="header">
+          <ion-label class="ion-text-wrap">
+            Chapa Margaret Hamilton (2021-2023)
+          </ion-label>
+        </ion-item>
+
+        <div slot="content">
+          <app-news-accordion
+            [meetings]="meetingsHamilton"></app-news-accordion>
+          <app-achievements-cards
+            [achievements]="achievementsHamilton"></app-achievements-cards>
+        </div>
+      </ion-accordion>
+    </ion-accordion-group>
+  </ion-card>
 </ion-content>

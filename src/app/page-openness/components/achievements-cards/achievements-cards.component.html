@@ -1,6 +1,6 @@
 <ion-grid>
   <ion-row>
-    <ion-col *ngFor="let l of items">
+    <ion-col *ngFor="let l of achievements">
       <ng-container
         *ngIf="
           l?.url === '' || l?.url === undefined;
@@ -25,12 +25,12 @@
             else hasImage
           "></ng-container>
 
-        <ng-template #noImage
-          ><ion-img src="assets/openness/placeholder.webp"></ion-img
-        ></ng-template>
-        <ng-template #hasImage
-          ><ion-img [src]="'assets/openness/' + l.image"></ion-img
-        ></ng-template>
+        <ng-template #noImage>
+          <ion-img src="assets/openness/placeholder.webp"></ion-img>
+        </ng-template>
+        <ng-template #hasImage>
+          <ion-img [src]="'assets/openness/' + l.image"></ion-img>
+        </ng-template>
 
         <ion-card-header>
           <ion-card-title> {{ l.title }} </ion-card-title>
