@@ -11,6 +11,7 @@ import { PageHomePage } from './page-home.page';
 import { LinkListModule } from './../shared/components/link-list/link-list.module';
 
 import { SlateGridHamiltonModule } from '../shared/components/slate-grid-hamilton/slate-grid-hamilton.module';
+import { SlateGridModule } from '../shared/components/slate-grid/slate-grid.module';
 
 @NgModule({
   imports: [
@@ -20,6 +21,7 @@ import { SlateGridHamiltonModule } from '../shared/components/slate-grid-hamilto
     PageHomePageRoutingModule,
     LinkListModule,
     SlateGridHamiltonModule,
+    SlateGridModule,
   ],
   declarations: [PageHomePage],
 })
