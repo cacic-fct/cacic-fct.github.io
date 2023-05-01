@@ -22,6 +22,11 @@ export class PageHomePage implements OnInit {
       icon: 'people',
       url: 'https://fct-pp.web.app/calouros',
     },
+    {
+      title: 'Estatuto do CACiC',
+      icon: 'document-text',
+      url: 'https://drive.google.com/file/d/1IkP7qYwvtdDc9CRiKueyjZ8bESRsDUS5/view',
+    },
   ];
 
   constructor() {}
