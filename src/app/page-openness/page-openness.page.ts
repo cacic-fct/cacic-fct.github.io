@@ -84,10 +84,13 @@ export class PageOpennessPage implements OnInit {
       content: 'Agradeçemos a todos os estudantes que nos auxiliaram.',
     },
     {
-      image: '',
       title: 'Homepage do CACiC',
       content: 'Este site.',
-      url: '',
+    },
+    {
+      image: '',
+      title: 'Organização no GitHub',
+      url: 'https://github.com/cacic-fct',
     },
     {
       image: '2021/vacinacao_sisgrad.webp',
