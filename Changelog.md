@@ -1,3 +1,8 @@
+### 2023.12.07.12.19
+
+- Atualização de dependências
+- Licença alterada para AGPL-3.0-only
+
 ### 2022.03.04.09.42
 - Página de eventos
     - Adicionado imagens do Code Talk
