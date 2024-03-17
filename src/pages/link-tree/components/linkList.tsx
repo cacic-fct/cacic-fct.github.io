@@ -13,7 +13,7 @@ import {
 
 export default function LinkList({ cardList }: { cardList: CardList[] }) {
   let content: JSX.Element[] | JSX.Element = [];
-  if (cardList.length === 0) {
+  if (!cardList || cardList.length === 0) {
     content = (
       <Card sx={{ my: 4 }}>
         <Typography variant="h6">Nossa árvore de links está vazia!</Typography>
