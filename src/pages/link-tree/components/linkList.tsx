@@ -11,8 +11,8 @@ import {
   Container,
 } from '@mui/material';
 
-export default function LinkList({ cardList }) {
-  let content: JSX.Element;
+export default function LinkList({ cardList }: { cardList: CardList[] }) {
+  let content: JSX.Element[] | JSX.Element = [];
   if (cardList.length === 0) {
     content = (
       <Card sx={{ my: 4 }}>
