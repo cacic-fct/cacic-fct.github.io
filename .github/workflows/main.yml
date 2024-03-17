@@ -5,7 +5,6 @@ on: [push, pull_request]
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -14,26 +13,34 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: 'npm'
-          cache-dependency-path: package-lock.json
+          cache: 'yarn'
+          cache-dependency-path: yarn.lock
 
       - name: Install dependencies
-        run: npm ci
+        run: yarn install --frozen-lockfile
 
       - name: Build for production
-        run: npm run build -- --configuration=production
+        run: yarn run build
         
       - name: Upload artifacts
         uses: actions/upload-artifact@v3
         with:
           name: Build-artifacts
-          path: www/
+          path: build/
 
   deploy:
-    if: ${{ github.event_name == 'push' && github.ref_type == 'tag' }}
     needs: build
-    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
 
+    permissions:
+      pages: write     
+      id-token: write   
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
@@ -42,25 +49,8 @@ jobs:
         uses: actions/download-artifact@v3
         with:
           name: Build-artifacts
-          path: www/
+          path: build
 
-      - name: Deploy to Firebase
-        uses: FirebaseExtended/action-hosting-deploy@v0
-        with:
-          repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_CACIC_FCT }}'
-          channelId: live
-          projectId: cacic-fct
-
-      - name: Create release
-        id: create_release
-        uses: actions/create-release@v1.0.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ github.ref }}
-          release_name: ${{ github.ref }}
-          body: |
-            [Changelog](https://github.com/cacic-fct/fct-app/blob/main/Changelog.md)
-          draft: false
-          prerelease: false
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
