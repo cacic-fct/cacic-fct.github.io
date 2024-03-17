@@ -82,7 +82,7 @@ const config: Config = {
             },
             {
               label: 'Docs',
-              to: '/docs/',
+              to: '/docs',
             },
           ],
         },
