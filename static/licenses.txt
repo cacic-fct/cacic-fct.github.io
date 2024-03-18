@@ -1,0 +1,3 @@
+PLACEHOLDER
+
+Arquivo é substituído no workflow após a build.

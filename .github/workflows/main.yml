@@ -21,6 +21,9 @@ jobs:
 
       - name: Build for production
         run: yarn build
+
+      - name: Generate license disclaimer
+        run: yarn licenses generate-disclaimer > build/static/licenses.txt
         
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
@@ -44,12 +47,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Download artifacts
-        uses: actions/download-artifact@v4
-        with:
-          name: Build-artifacts
-          path: build
 
       - name: Deploy to GitHub Pages
         id: deployment

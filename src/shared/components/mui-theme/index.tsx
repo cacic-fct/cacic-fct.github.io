@@ -1,29 +1,15 @@
 // Attribution:
 // https://webreaper.dev/posts/material-ui-theme-with-docusaurus/#create-mui-color-theme
 
-import { experimental_extendTheme as extendTheme } from "@mui/material/styles";
+import { experimental_extendTheme as extendTheme } from '@mui/material/styles';
 
 const extTheme = extendTheme({
   colorSchemes: {
     light: {
-      palette: {
-        primary: {
-          main: "hsl(240, 48%, 47%)",
-        },
-        background: {
-          paper: "hsl(240, 15%, 95%)",
-        },
-      },
+      palette: {},
     },
     dark: {
-      palette: {
-        primary: {
-          main: "hsl(240, 90%, 70%)",
-        },
-        background: {
-          paper: "hsl(210, 3%, 15%)",
-        },
-      },
+      palette: {},
     },
   },
 });
