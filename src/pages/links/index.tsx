@@ -38,7 +38,7 @@ const cardList: CardList[] = [];
 export default function LinkTree(): JSX.Element {
   return (
     <>
-      <Layout title={`Árvore de links`} description="Árvore de links do CACiC">
+      <Layout title={`Links`} description="Árvore de links do CACiC">
         <Container maxWidth="sm" sx={{ py: 4 }}>
           <LinkTreeHeader />
           <LinkList cardList={cardList} />

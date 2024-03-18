@@ -19,11 +19,11 @@ jobs:
       - name: Install dependencies
         run: yarn install --frozen-lockfile
 
+      - name: Generate license disclaimer
+        run: yarn licenses generate-disclaimer > static/licenses.txt
+
       - name: Build for production
         run: yarn build
-
-      - name: Generate license disclaimer
-        run: yarn licenses generate-disclaimer > build/static/licenses.txt
         
       - name: Upload artifacts
         uses: actions/upload-artifact@v4

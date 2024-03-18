@@ -10,9 +10,7 @@ import QuickAccess from '@site/src/pages/index-components/quick-access';
 export default function Home(): JSX.Element {
   return (
     <>
-      <Layout
-        title={`CACiC`}
-        description="Description will go into a meta tag in <head />">
+      <Layout description="Homepage do CACiC">
         <main>
           <Container sx={{ p: 4 }} maxWidth="sm">
             <QuickAccess />
