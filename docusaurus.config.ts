@@ -135,7 +135,15 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
-    plugins: ['./plugins/configure-webpack'],
+    plugins: [
+      './plugins/configure-webpack',
+      [
+        'docusaurus-lunr-search',
+        {
+          languages: ['pt'],
+        },
+      ],
+    ],
   } satisfies Preset.ThemeConfig,
 };
 
