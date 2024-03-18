@@ -30,7 +30,7 @@ jobs:
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
         with:
-          name: Build-artifacts
+          name: github-pages
           path: build/
 
   deploy:
@@ -47,8 +47,6 @@ jobs:
     
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
 
       - name: Deploy to GitHub Pages
         id: deployment
