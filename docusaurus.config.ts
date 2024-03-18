@@ -96,6 +96,10 @@ const config: Config = {
               label: 'Política de privacidade',
               to: '/legal/privacy-policy',
             },
+            {
+              label: 'Licenças',
+              to: '/legal/licenses',
+            },
           ],
         },
         {
