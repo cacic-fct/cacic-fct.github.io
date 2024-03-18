@@ -11,8 +11,7 @@ on:
 
 
 jobs:
-  test-deploy:
-    name: Test deployment
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
