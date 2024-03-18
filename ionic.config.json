@@ -1,7 +1,0 @@
-{
-  "name": "CACiC",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}

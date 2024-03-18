@@ -1,72 +1,53 @@
 {
-  "name": "cacic",
+  "name": "cacic-fct",
   "version": "0.0.0",
-  "author": "CACiC",
-  "homepage": "https://github.com/cacic-fct/cacic-fct",
-  "scripts": {
-    "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
-    "test": "ng test",
-    "lint": "ng lint",
-    "e2e": "ng e2e"
-  },
   "private": true,
+  "scripts": {
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "clear": "docusaurus clear",
+    "serve": "docusaurus serve",
+    "write-translations": "docusaurus write-translations",
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "typecheck": "tsc"
+  },
   "dependencies": {
-    "@angular/common": "~15.2.8",
-    "@angular/core": "~15.2.8",
-    "@angular/fire": "^7.5.0",
-    "@angular/forms": "~15.2.8",
-    "@angular/platform-browser": "~15.2.8",
-    "@angular/platform-browser-dynamic": "~15.2.8",
-    "@angular/router": "~15.2.8",
-    "@angular/service-worker": "~15.2.8",
-    "@ionic/angular": "^7.0.4",
-    "firebase": "^9.21.0",
-    "ngx-markdown": "^15.1.2",
-    "prettier": "^2.8.8",
-    "rxfire": "^6.0.3",
-    "rxjs": "~7.8.1",
-    "tslib": "^2.5.0",
-    "web-vitals": "^3.3.1",
-    "zone.js": "~0.13.0"
+    "@docusaurus/core": "3.1.1",
+    "@docusaurus/plugin-google-gtag": "^3.1.1",
+    "@docusaurus/preset-classic": "3.1.1",
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.0",
+    "@mdx-js/react": "^3.0.1",
+    "@mui/icons-material": "^5.15.13",
+    "@mui/material": "^5.15.13",
+    "clsx": "^2.1.0",
+    "date-fns": "^3.6.0",
+    "prism-react-renderer": "^2.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~15.2.7",
-    "@angular-eslint/builder": "~15.2.1",
-    "@angular-eslint/eslint-plugin": "~15.2.1",
-    "@angular-eslint/eslint-plugin-template": "~15.2.1",
-    "@angular-eslint/template-parser": "~15.2.1",
-    "@angular/cli": "~15.2.7",
-    "@angular/compiler": "~15.2.8",
-    "@angular/compiler-cli": "~15.2.8",
-    "@angular/language-service": "~15.2.8",
-    "@capacitor/cli": "4.8.0",
-    "@ionic/angular-toolkit": "^9.0.0",
-    "@types/jasmine": "~4.3.1",
-    "@types/jasminewd2": "~2.0.10",
-    "@types/node": "^18.16.3",
-    "@typescript-eslint/eslint-plugin": "^5.59.2",
-    "@typescript-eslint/parser": "^5.59.2",
-    "eslint": "^8.39.0",
-    "eslint-plugin-import": "2.27.5",
-    "eslint-plugin-jsdoc": "43.1.1",
-    "eslint-plugin-prefer-arrow": "1.2.3",
-    "jasmine-core": "~4.6.0",
-    "jasmine-spec-reporter": "~7.0.0",
-    "karma": "~6.4.2",
-    "karma-chrome-launcher": "~3.2.0",
-    "karma-coverage": "~2.2.0",
-    "karma-coverage-istanbul-reporter": "~3.0.3",
-    "karma-jasmine": "~5.1.0",
-    "karma-jasmine-html-reporter": "^2.0.0",
-    "lint-staged": "^13.2.2",
-    "protractor": "~7.0.0",
-    "ts-node": "~10.9.1",
-    "typescript": "~4.8.4"
+    "@docusaurus/module-type-aliases": "3.1.1",
+    "@docusaurus/tsconfig": "3.1.1",
+    "@docusaurus/types": "3.1.1",
+    "typescript": "~5.4.2"
   },
-  "description": "Homepage do CACiC",
-  "lint-staged": {
-    "*.js": "eslint --cache --fix"
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 3 chrome version",
+      "last 3 firefox version",
+      "last 5 safari version"
+    ]
+  },
+  "engines": {
+    "node": ">=18.0"
   }
 }
