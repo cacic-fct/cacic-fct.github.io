@@ -107,11 +107,11 @@ const config: Config = {
           items: [
             {
               label: 'Instagram',
-              href: 'https://instagram.com/cacic-fct',
+              href: 'https://instagram.com/cacic.fct',
             },
             {
               label: 'Facebook',
-              href: 'https://fb.com/cacic-fct',
+              href: 'https://fb.com/cacic.fct',
             },
             {
               label: 'YouTube',
