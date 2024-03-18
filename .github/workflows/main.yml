@@ -1,6 +1,9 @@
 name: main
 
-on: [push, pull_request]
+on: 
+  push:
+    branches:
+      - main
 
 jobs:
   build:
@@ -14,15 +17,14 @@ jobs:
         with:
           node-version: 18
           cache: 'yarn'
-          cache-dependency-path: yarn.lock
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile
 
-      - name: Generate license disclaimer
+      - name: Generate licenses disclaimer
         run: yarn licenses generate-disclaimer > static/licenses.txt
 
-      - name: Build for production
+      - name: Build
         run: yarn build
         
       - name: Upload artifacts
