@@ -10,7 +10,7 @@ Leia o [guia de contribuição do CACiC](https://github.com/cacic-fct/.github/bl
 
 ## Website
 
-O website é construído com [Docusaurus](https://docusaurus.io/) e pode ser acessado em [cacic-fct.github.io/manual-do-calouro](https://cacic-fct.github.io).
+O website é construído com [Docusaurus](https://docusaurus.io/) e pode ser acessado em [cacic-fct.github.io](https://cacic-fct.github.io).
 
 ### Desenvolvimento
 
