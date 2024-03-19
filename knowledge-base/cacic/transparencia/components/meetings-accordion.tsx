@@ -32,7 +32,7 @@ export default function MeetingsAccordion({
               key={index}>
               <ListItemText
                 primary={m.title}
-                secondary={format(parseISO(m.date), "dd 'de' 'de' MMMM 'de' y")}
+                secondary={format(parseISO(m.date), "dd 'de' MMMM 'de' y")}
               />
             </ListItemButton>
           ))}
