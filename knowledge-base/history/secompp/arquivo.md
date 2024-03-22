@@ -1,5 +1,7 @@
 # Arquivo
 
+![](/secompp/history-logo.png)
+
 ## 2023
 
 **Nome estilizado:** SECOMPP23  
