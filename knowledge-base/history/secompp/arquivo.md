@@ -8,8 +8,7 @@
 **Nome extenso:** 20ª Semana do Curso de Ciência da Computação da FCT-Unesp  
 **Data:** 25 a 29 de setembro de 2023
 
-- [Homepage](https://cacic-fct.github.io/secompp-site-2023/)
-  - [Repositório](https://github.com/cacic-fct/secompp-site/tree/2023.0.3)
+- [Repositório da homepage](https://github.com/cacic-fct/secompp-site/tree/2023.0.3)
 
 ## 2022
 
@@ -17,8 +16,7 @@
 **Nome extenso:** 19ª Semana do Curso de Ciência da Computação da FCT-Unesp  
 **Data:** 17 a 21 de outubro de 2022
 
-- [Homepage](https://cacic-fct.github.io/secompp-site-2022/)
-  - [Repositório](https://github.com/cacic-fct/secompp-site-2022)
+- [Repositório da homepage](https://github.com/cacic-fct/secompp-site-2022)
 
 ## 2019
 
