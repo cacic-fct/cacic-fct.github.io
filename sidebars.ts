@@ -32,6 +32,27 @@ const sidebars: SidebarsConfig = {
           id: 'cacic/transparencia/transparencia',
         },
         {
+          type: 'category',
+          label: 'Guias de estilo',
+          items: [
+            {
+              type: 'doc',
+              id: 'cacic/guidelines/intro',
+              label: 'Introdução',
+            },
+            {
+              type: 'doc',
+              id: 'cacic/guidelines/design',
+              label: 'Identidade visual',
+            },
+            {
+              type: 'doc',
+              id: 'cacic/guidelines/escrita',
+              label: 'Redação',
+            },
+          ],
+        },
+        {
           type: 'link',
           href: 'https://drive.google.com/file/d/1IkP7qYwvtdDc9CRiKueyjZ8bESRsDUS5/view',
           label: 'Estatuto',

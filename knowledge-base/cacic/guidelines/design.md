@@ -1,0 +1,197 @@
+# Guia de identidade visual
+
+A identidade visual do CACiC valoriza o reconhecimento de padrões: cores, formas e estilos que são facilmente associados à entidade ou ao seu respectivo conteúdo.
+
+Também se aplica o que está disposto no guia de redação.
+
+## Tipografia
+
+A tipografia é um dos elementos mais importantes da identidade visual de um projeto. A escolha da fonte deve ser feita com cuidado, levando em consideração a legibilidade e a harmonia com os demais elementos visuais.
+
+### Fonte
+
+#### Sem serifa
+
+A tipografia oficial do CACiC é a [Inter](https://rsms.me/inter/download/), uma fonte moderna e versátil que oferece uma excelente legibilidade em diferentes tamanhos e formatos. Ela deve ser utilizada em todos os materiais do CACiC, como documentos, cartazes, banners, folders, apresentações e sites.
+
+Na absoluta impossibilidade de se utilizar a fonte Inter, a fonte secundária é a Helvetica. Ela é uma fonte clássica e elegante.
+
+A fonte terciária é a Arial. Ela é uma fonte comum e neutra.
+
+#### Com serifa
+
+Na eventualidade de ser necessário utilizar uma fonte com serifa, deve-se utilizar a fonte [Merriweather](https://fonts.google.com/specimen/Merriweather), uma fonte elegante com excelente legibilidade.
+
+Na absoluta impossibilidade de se utilizar a fonte Merriweather, a fonte secundária é a Georgia. Ela é uma fonte clássica e elegante.
+
+A fonte terciária é a Times New Roman. Ela é uma fonte comum e neutra.
+
+#### Monoespaçada
+
+Na eventualidade de ser necessário utilizar uma fonte monoespaçada, deve-se utilizar a fonte [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro), uma fonte moderna e versátil com excelente legibilidade.
+
+Na absoluta impossibilidade de se utilizar a fonte Source Code Pro, a fonte secundária é a Courier New. Ela é uma fonte comum e neutra.
+
+#### Demais fontes
+
+Na eventualidade de outras fontes serem utilizadas, elas devem ser escolhidas com cuidado: fontes com muitos detalhes ou ornamentos podem prejudicar a legibilidade do texto.
+
+Deve-se respeitar a licença de uso das fontes, evitando o uso de fontes piratas ou sem licença.
+
+### Estilização
+
+Não utilizar fontes com espessura muito fina ou muito grossa, pois isso pode prejudicar a legibilidade do texto.
+
+---
+
+## Logotipo
+
+O logotipo é a representação gráfica da identidade visual da entidade. Ele deve ser utilizado de forma consistente e correta para garantir o reconhecimento da marca.
+
+### O logotipo
+
+O logotipo oficial é a sigla "CACiC" estilizada com um detalhe do cocar no primeiro "C".
+Ele deve ser utilizado em todos os materiais do CACiC, como documentos, cartazes, banners, folders, apresentações e sites.
+
+A miniatura do logotipo é o "C" estilizado com o detalhe do cocar, em uma única cor sólida.  
+Ela deve ser utilizada em situações onde o logotipo completo não pode ser utilizado, como em ícones, favicons e em situações onde a legibilidade do logotipo completo é comprometida.
+
+Demais logotipos antigos não devem ser utilizados:
+
+- Logotipo do "brasão" com índio;
+- Versões antigas do logotipo com a sigla "CACiC" estilizada.
+
+### Estilo
+
+O logotipo deve ser utilizado em sua forma original, sem alterações ou distorções.
+
+Não é permitido:
+
+- Alterar as proporções do logotipo, como a largura, a altura ou o espaçamento entre as letras.
+- Alterar a orientação do logotipo, como girá-lo ou espelhá-lo.
+- Adicionar elementos ao logotipo, como contornos ou texturas.
+- Sobrepor o logotipo com efeitos visuais, como sombras ou brilhos.
+- A utilização do logotipo em padrões de repetição.
+
+### Cores
+
+O logotipo é monocromático, não sendo admitido a utilização de diferentes cores para cada letra, nem gradientes, sombras ou outros efeitos.
+
+A cor padrão do logotipo é #3D3F97 (RGB: 61, 63, 151).
+
+Outras cores podem ser utilizadas desde que respeitem os índices mínimos de contraste estabelecidos pela [WCAG](https://www.w3.org/TR/WCAG21/).  
+O contraste pode ser verificado utilizando ferramentas como o [Coolors Contrast Checker](https://coolors.co/contrast-checker).
+
+### Espaçamento
+
+O logotipo do CACiC deve ter um espaço mínimo com o tamanho equivalente a letra "A" do logotipo nas horizontais e 1/2 do tamanho da letra "A" nas verticais.
+
+### Utilização
+
+O logotipo deve ser utilizado em todas as peças de comunicação do CACiC, como documentos, cartazes, banners, folders, apresentações e sites.
+
+O logotipo não pode ser utilizado em:
+
+- Materiais descartáveis, como copos, pratos ou guardanapos.
+- Tapetes ou qualquer outro material que possa ser pisado.
+- Bolos ou qualquer outro material que possa ser mordido, ingerido ou desfigurado.
+
+#### Co-branding
+
+O logotipo do CACiC não deve ser utilizado em conjunto com o logotipo de outras entidades, a não ser que haja uma autorização prévia da diretoria.
+
+##### Posicionamento
+
+Sempre que possível, o logotipo do CACiC deve vir à frente de outros logotipos.
+
+##### Paridade de logotipos
+
+O logotipo do CACiC deve ter o mesmo destaque visual que o logotipo da outra entidade.
+
+Se a outra entidade estiver utilizando uma miniatura do logotipo, o CACiC também deve utilizar a miniatura.
+
+---
+
+## Identidade da Unesp
+
+O manual de [identidade visual da Unesp](https://www2.unesp.br/portal#!/aci_ses/normas-e-padroes/identidade-visual-da-unesp/) deve ser rigorosamente cumprido.
+
+---
+
+## Identidade da chapa em exercício
+
+Não é permitido o uso de logotipo da chapa em exercício em materiais oficiais do CACiC.  
+A entidade é uníca e deve ser representada por seu logotipo oficial.
+
+É permitido que a chapa vigente adote um estilo visual próprio, desde que sejam respeitadas as diretrizes estabelecidas neste guia.
+
+---
+
+## Papel timbrado
+
+O papel timbrado deve ser utilizado em todos os documentos oficiais públicos do CACiC, como ofícios, memorandos, atas e declarações.
+
+### Elementos
+
+O papel timbrado do CACiC deve conter os seguintes elementos:
+
+- Logotipo do CACiC em sua cor padrão
+- Nome completo da entidade
+- Endereço
+- E-mail
+- Data
+
+---
+
+## Sites
+
+### Animações
+
+O uso de animações em site deve ser mínimo.
+
+É proibida a utilização de animações que atrasam a exibição do conteúdo sem motivo aparente
+Exemplo: Seção da equipe - https://cacic-fct.github.io/cacic-site-2018/
+
+É proibida a utilização de animações que prejudicam a leitura do conteúdo ou a navegação do usuário
+Exemplo: Título “fale conosco” - https://cacic-fct.github.io/cacic-site-2018/
+
+---
+
+## Conteúdo gerado por inteligência artificial
+
+O uso de conteúdo gerado por inteligência artificial deve ser evitado.
+
+---
+
+## Tecnicidades
+
+### _Softwares_
+
+Todo material do CACiC deve ser elaborado em _softwares_ que trabalham com formatos vetoriais, para garantir a qualidade e a fidelidade das cores e formas.  
+_Softwares_ que não trabalham com formatos vetoriais, como o Adobe Photoshop, devem ser evitados.
+
+Os _softwares_ preferenciais para a criação de materiais, em ordem, são:
+
+- Adobe Illustrator
+- CorelDRAW
+- Canva
+  - Deve ser utilizada a conta institucional do CACiC
+- Inkscape
+
+### Formatos de arquivo
+
+Os arquivos originais devem ser armazenados em um repositório de arquivos, como o Google Drive, para garantir o acesso e a preservação dos materiais.
+
+Os formatos de arquivo preferenciais para a entrega de materiais, em ordem, são:
+
+- Original
+- PDF
+- SVG
+
+Não deve-se entregar material em formatos de arquivo que não sejam editáveis, como JPEG ou PNG.
+
+#### Distribuição de arquivos
+
+##### Sites
+
+Utilizar o formato SVG para ícones e logotipos, e WEBP para imagens.

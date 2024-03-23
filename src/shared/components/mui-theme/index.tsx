@@ -12,6 +12,21 @@ const extTheme = extendTheme({
       palette: {},
     },
   },
+  typography: {
+    fontFamily: [
+      'Inter',
+      '"Helvetica Neue"',
+      '-apple-system',
+      'BlinkMacSystemFont',
+      '"Segoe UI"',
+      'Roboto',
+      'Arial',
+      'sans-serif',
+      '"Apple Color Emoji"',
+      '"Segoe UI Emoji"',
+      '"Segoe UI Symbol"',
+    ].join(','),
+  },
 });
 
 export default extTheme;

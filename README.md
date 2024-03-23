@@ -8,13 +8,13 @@ Todos podem contribuir com a "Homepage do CACiC".
 
 Leia o [guia de contribuição do CACiC](https://github.com/cacic-fct/.github/blob/main/Contributing.md).
 
-## Website
+## Site
 
-O website é construído com [Docusaurus](https://docusaurus.io/) e pode ser acessado em [cacic-fct.github.io](https://cacic-fct.github.io).
+O site é construído com [Docusaurus](https://docusaurus.io/) e pode ser acessado em [cacic-fct.github.io](https://cacic-fct.github.io).
 
 ### Desenvolvimento
 
-Para iniciar o website localmente, primeiro instale as dependências:
+Para iniciar o site localmente, primeiro instale as dependências:
 
 ```bash
 yarn
