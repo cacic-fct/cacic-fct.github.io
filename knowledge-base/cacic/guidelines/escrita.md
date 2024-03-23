@@ -93,6 +93,10 @@ Também se aplica o que está disposto no guia de identidade visual.
 
 1. Utilizar "site" sem itálico ao invés de "_website_".
 
+1. Utilizar "on-line" ao invés de "online".
+
+1. Utilizar "e-mail" ao invés de "email".
+
 1. Deve-se priorizar o uso do termo "calouro" ao invés de "bixo".
 
 1. Não fazer referências a membros individuais do CACiC sem necessidade.
