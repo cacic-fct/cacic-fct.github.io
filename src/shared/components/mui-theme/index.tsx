@@ -4,20 +4,13 @@
 import { experimental_extendTheme as extendTheme } from '@mui/material/styles';
 
 const extTheme = extendTheme({
-  colorSchemes: {
-    light: {
-      palette: {},
-    },
-    dark: {
-      palette: {},
-    },
-  },
   typography: {
     fontFamily: [
       'Inter',
-      '"Helvetica Neue"',
       '-apple-system',
       'BlinkMacSystemFont',
+      '"Helvetica Neue"',
+      'Helvetica',
       '"Segoe UI"',
       'Roboto',
       'Arial',
