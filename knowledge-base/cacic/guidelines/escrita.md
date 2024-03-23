@@ -1,0 +1,115 @@
+# Guia de redação
+
+Este guia tem como objetivo padronizar a escrita de textos oficiais do CACiC, seguindo as normas da língua portuguesa e da Unesp.  
+Com isso, é possível garantir a acessibilidade e a compreensão dos documentos, tornando-os acessíveis a um público mais amplo.
+
+Também se aplica o que está disposto no guia de identidade visual.
+
+## Identidade do CACiC
+
+1. O nome completo da entidade é: Centro Acadêmico da Ciência da Computação - "Alan Turing".
+
+   - Também é admitida a seguinte forma: CACiC - Centro Acadêmico de Ciência da Computação "Alan Turing"
+     da Faculdade de Ciências e Tecnologia, Câmpus de Presidente Prudente, Universidade Estadual Paulista "Júlio de Mesquita Filho".
+
+1. A sigla estilizada da entidade é "CACiC", com a letra "i" minúscula.
+
+   - Não utilizar "CACIC" ou "cacic" onde é possível utilizar "CACiC".
+   - Não utilizar "C.A. Ciência da Computação" ou "CACICOM".
+
+1. Quando acompanhada do nome completo, a sigla "CACiC" deve vir antes do nome.
+
+   - Uso correto: CACiC - Centro Acadêmico da Ciência da Computação - "Alan Turing".
+   - Não utilizar:
+     - "Centro Acadêmico da Ciência da Computação - 'Alan Turing' (CACiC)"
+     - "Centro Acadêmico da Ciência da Computação - CACiC - 'Alan Turing'".
+
+1. Utilizar a sigla "CA"
+
+   - Não utilizar "C.A.".
+
+1. A sigla "CA" pode ser utilizada apenas após a primeira menção ao "Centro Acadêmico".
+   - "O Centro Acadêmico (CA) […]. O CA […]."
+
+## Identidade do curso
+
+1. O nome completo do curso é "[Curso de] Bacharelado em Ciência da Computação".
+
+   - Não utilizar "Ciências da Computação"
+
+1. A sigla "BCC" pode ser utilizada apenas após a primeira menção ao "Bacharelado em Ciência da Computação".
+   - "O Curso de Bacharelado em Ciência da Computação (BCC) […]. O BCC […]."
+
+## Identidade da Unesp
+
+1. Seguir as [normas para redação](https://www2.unesp.br/portal#!/aci_ses/normas-e-padroes/normas-para-redacao/) estabelecidas pela reitoria.
+
+1. Seguir as [diretrizes de comunicação](https://www2.unesp.br/portal#!/aci_ses/normas-e-padroes/diretrizes-de-comunicacao/) estabelecidas pela reitoria.
+
+1. Seguir o guia [Unesp em siglas](https://www2.unesp.br/portal#!/aci_ses/normas-e-padroes/unesp-em-siglas/).
+
+1. A sigla "Unesp" pode ser utilizada sem menção anterior ao significado de "Universidade Estadual Paulista".
+
+1. A sigla "FCT" pode ser utilizada sem menção anterior ao significado de "Faculdade de Ciências e Tecnologia".
+
+1. Utilizar "FCT-Unesp" para referenciar a Faculdade de Ciências e Tecnologia da Unesp.
+   - Não usar "FCT/Unesp".
+
+## Identidade da chapa em exercício
+
+É permitido a inclusão do nome da chapa em exercício em materiais oficiais do CACiC desde que seja feita de forma discreta e sem destaque visual.
+
+É permitido que a chapa vigente adote um estilo de escrita próprio, desde que sejam respeitadas as diretrizes estabelecidas neste guia.
+
+## Padrões de escrita
+
+1. Nos títulos em português, apenas a primeira letra e nomes próprios devem ser escritos com iniciais maísculas.
+
+   - Ao invés de "O Que Fazemos Na Unesp?", utilize "O que fazemos na Unesp?".
+
+1. Ao fazer referência a um ano, utilizar a grafia correta:
+
+   - Ao invés de “2k23”, utilize "2023".
+
+1. Utilizar itálico para destacar palavras ou frases ao invés de negrito ou sublinhado.
+
+1. Palavras em idioma estrangeiro devem ser escritas em itálico:
+
+   - "O termo _software_ é utilizado para se referir a programas de computador".
+
+1. Não utilizar “por favor”.
+
+   - Ao invés de escrever “Por favor, se inscreva até 25/02”, utilize “Se inscreva até 25/02”.
+   - É permitido o uso do termo em comunicações individuais (e-mail para professor(es) ou e-mail para 1 aluno)
+
+1. Empregar corretamente “a”, “há” e “à”:
+
+   - “Há muito tempo”, “há 2 anos”
+   - “Às 14h”
+   - “Espere de duas a cinco horas”
+   - “Vou te esperar das duas às cinco”
+   - “A que horas você vai sair?”
+   - “A reunião está marcada para as 15 horas.”
+
+1. Utilizar "site" sem itálico ao invés de "_website_".
+
+1. Deve-se priorizar o uso do termo "calouro" ao invés de "bixo".
+
+1. Não fazer referências a membros individuais do CACiC sem necessidade.
+
+1. A linguagem inclusiva adotada pelo CACiC é a do uso mínimo de gênero.  
+   Utiliza-se o masculino como neutro quando necessário, a fim de evitar a separação em dois gêneros, a repetição de termos e para garantir a clareza dos textos para todos os públicos.
+
+   - Ao invés de "entregador" ou "entregadora", utilize preferencialmente "quem fará a entrega" ou "pessoa entregadora".
+   - Ao invés de "alunos e alunas", utilize "alunos".
+   - Ao invés de "o(a) vencedor(a) será escolhido(a) pelo(a) juiz(a)", utilize "o vencedor será escolhido pelo juiz".
+
+   - Admite-se a utilização de palavras no feminino para referir-se a indivíduos que utilizam pronomes femininos:
+
+     - "A aluna vencedora" se referindo a uma aluna que venceu um concurso.
+     - "A professora" se referindo a uma professora.
+
+   - Admite-se a utilização de neopronomes para referir-se a indivíduos que os utilizam:
+
+     - Se a pessoa não especificar sua preferência, as palavras devem utilizar o sufixo -e no lugar de -x ou -@, para garantir a compreensão do texto.
+     - Ao invés de "Bem-vindes à reunião de alunes", utilize "Bem-vindos à reunião de alunos".

@@ -68,7 +68,7 @@ export default function PrivacyPolicy() {
           <li>
             Eventualmente, poderemos utilizar cookies para confirmar sua
             identidade, personalizar seu acesso e acompanhar a
-            utiliza&ccedil;&atilde;o de nosso website visando o aprimoramento de
+            utiliza&ccedil;&atilde;o de nosso site visando o aprimoramento de
             sua navega&ccedil;&atilde;o e funcionalidade.
           </li>
           <li>
