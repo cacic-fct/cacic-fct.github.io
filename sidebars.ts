@@ -59,6 +59,17 @@ const sidebars: SidebarsConfig = {
         },
       ],
     },
+    {
+      type: 'category',
+      label: 'SECOMPP',
+      items: [
+        {
+          type: 'doc',
+          id: 'secompp/guidelines/design',
+          label: 'Guia de identidade',
+        },
+      ],
+    },
 
     {
       type: 'category',
