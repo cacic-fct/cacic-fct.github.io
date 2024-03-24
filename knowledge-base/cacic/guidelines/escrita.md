@@ -57,7 +57,7 @@ Também se aplica o que está disposto no guia de identidade visual.
 
 ## Identidade da chapa em exercício
 
-É permitido a inclusão do nome da chapa em exercício em materiais oficiais do CACiC desde que seja feita de forma discreta e sem destaque visual.
+É permitida a inclusão do nome da chapa em exercício em materiais oficiais do CACiC desde que ela seja feita de forma discreta, sem destaque visual.
 
 É permitido que a chapa vigente adote um estilo de escrita próprio, desde que sejam respeitadas as diretrizes estabelecidas neste guia.
 
@@ -65,11 +65,11 @@ Também se aplica o que está disposto no guia de identidade visual.
 
 1. Nos títulos em português, apenas a primeira letra e nomes próprios devem ser escritos com iniciais maísculas.
 
-   - Ao invés de "O Que Fazemos Na Unesp?", utilize "O que fazemos na Unesp?".
+   - Ao invés de "O Que Fazemos Na Unesp?", utilizar "O que fazemos na Unesp?".
 
 1. Ao fazer referência a um ano, utilizar a grafia correta:
 
-   - Ao invés de “2k23”, utilize "2023".
+   - Ao invés de “2k23”, utilizar "2023".
 
 1. Utilizar itálico para destacar palavras ou frases ao invés de negrito ou sublinhado.
 
@@ -79,7 +79,7 @@ Também se aplica o que está disposto no guia de identidade visual.
 
 1. Não utilizar “por favor”.
 
-   - Ao invés de escrever “Por favor, se inscreva até 25/02”, utilize “Se inscreva até 25/02”.
+   - Ao invés de escrever “Por favor, se inscreva até 25/02”, utilizar “Se inscreva até 25/02”.
    - É permitido o uso do termo em comunicações individuais (e-mail para professor(es) ou e-mail para 1 aluno)
 
 1. Empregar corretamente “a”, “há” e “à”:
@@ -99,21 +99,30 @@ Também se aplica o que está disposto no guia de identidade visual.
 
 1. Deve-se priorizar o uso do termo "calouro" ao invés de "bixo".
 
+1. Evitar o uso de gerúndio
+
+   - Ao invés de "Estaremos realizando uma reunião", utilizar "Realizaremos uma reunião".
+   - Ao invés de "Estamos realizando uma reunião", utilizar preferencialmente "Uma reunião está sendo realizada" ou "Estamos a realizar uma reunião".
+
+1. Não utilizar termos diferentes para se referir à "assembleia" ou "plenária".
+
+   - Não utilizar eufemismos como "café com internet" ou "reunião".
+
 1. Não fazer referências a membros individuais do CACiC sem necessidade.
 
 1. A linguagem inclusiva adotada pelo CACiC é a do uso mínimo de gênero.  
    Utiliza-se o masculino como neutro quando necessário, a fim de evitar a separação em dois gêneros, a repetição de termos e para garantir a clareza dos textos para todos os públicos.
 
-   - Ao invés de "entregador" ou "entregadora", utilize preferencialmente "quem fará a entrega" ou "pessoa entregadora".
-   - Ao invés de "alunos e alunas", utilize "alunos".
-   - Ao invés de "o(a) vencedor(a) será escolhido(a) pelo(a) juiz(a)", utilize "o vencedor será escolhido pelo juiz".
+   - Ao invés de "entregador" ou "entregadora", utilizar preferencialmente "quem fará a entrega" ou "pessoa entregadora".
+   - Ao invés de "alunos e alunas", utilizar "alunos".
+   - Ao invés de "o(a) vencedor(a) será escolhido(a) pelo(a) juiz(a)", utilizar "o vencedor será escolhido pelo juiz".
 
    - Admite-se a utilização de palavras no feminino para referir-se a indivíduos que utilizam pronomes femininos:
 
-     - "A aluna vencedora" se referindo a uma aluna que venceu um concurso.
-     - "A professora" se referindo a uma professora.
+     - "A aluna vencedora" para se referir a uma aluna que venceu um concurso.
+     - "A professora" para se referir a uma professora.
 
    - Admite-se a utilização de neopronomes para referir-se a indivíduos que os utilizam:
 
      - Se a pessoa não especificar sua preferência, as palavras devem utilizar o sufixo -e no lugar de -x ou -@, para garantir a compreensão do texto.
-     - Ao invés de "Bem-vindes à reunião de alunes", utilize "Bem-vindos à reunião de alunos".
+     - Ao invés de "Bem-vindes à reunião de alunes", utilizar "Bem-vindos à reunião de alunos".
