@@ -57,7 +57,7 @@ Também se aplica o que está disposto no guia de identidade visual.
 
 ## Identidade da chapa em exercício
 
-É permitida a inclusão do nome da chapa em exercício em materiais oficiais do CACiC desde que seja feita de forma discreta e sem destaque visual.
+É permitida a inclusão do nome da chapa em exercício em materiais oficiais do CACiC desde que ela seja feita de forma discreta, sem destaque visual.
 
 É permitido que a chapa vigente adote um estilo de escrita próprio, desde que sejam respeitadas as diretrizes estabelecidas neste guia.
 
