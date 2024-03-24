@@ -99,6 +99,10 @@ Também se aplica o que está disposto no guia de identidade visual.
 
 1. Deve-se priorizar o uso do termo "calouro" ao invés de "bixo".
 
+1. Não utilize termos diferentes para se referir à "assembleia" ou "plenária".
+
+   - Não utilize "café com internet" ou "reunião".
+
 1. Não fazer referências a membros individuais do CACiC sem necessidade.
 
 1. A linguagem inclusiva adotada pelo CACiC é a do uso mínimo de gênero.  
