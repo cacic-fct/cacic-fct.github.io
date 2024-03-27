@@ -97,7 +97,15 @@ Também se aplica o que está disposto no guia de identidade visual.
 
 1. Utilizar "e-mail" ao invés de "email".
 
+1. Utilizar "redefinir" ao invés de "resetar".
+
+1. Utilizar "personalizar" ao invés de "customizar".
+
 1. Deve-se priorizar o uso do termo "calouro" ao invés de "bixo".
+
+1. Não utilize "o mesmo", a palavra não é um pronome pessoal.
+
+   - Ao invés de "Verifique se o mesmo encontra-se parado neste andar", utilizar "Verifique se ele está parado neste andar".
 
 1. Evitar o uso de gerúndio
 
