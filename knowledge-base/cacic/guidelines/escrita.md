@@ -61,7 +61,7 @@ Também se aplica o que está disposto no guia de identidade visual.
 
 É permitido que a chapa vigente adote um estilo de escrita próprio, desde que sejam respeitadas as diretrizes estabelecidas neste guia.
 
-## Padrões de escrita
+## Padrão de escrita
 
 1. Nos títulos em português, apenas a primeira letra e nomes próprios devem ser escritos com iniciais maísculas.
 
@@ -77,11 +77,6 @@ Também se aplica o que está disposto no guia de identidade visual.
 
    - "O termo _software_ é utilizado para se referir a programas de computador".
 
-1. Não utilizar “por favor”.
-
-   - Ao invés de escrever “Por favor, se inscreva até 25/02”, utilizar “Se inscreva até 25/02”.
-   - É permitido o uso do termo em comunicações individuais (e-mail para professor(es) ou e-mail para 1 aluno)
-
 1. Empregar corretamente “a”, “há” e “à”:
 
    - “Há muito tempo”, “há 2 anos”
@@ -91,26 +86,14 @@ Também se aplica o que está disposto no guia de identidade visual.
    - “A que horas você vai sair?”
    - “A reunião está marcada para as 15 horas.”
 
-1. Utilizar "site" sem itálico ao invés de "_website_".
-
-1. Utilizar "on-line" ao invés de "online".
-
-1. Utilizar "e-mail" ao invés de "email".
-
-1. Utilizar "redefinir" ao invés de "resetar".
-
-1. Utilizar "personalizar" ao invés de "customizar".
-
-1. Deve-se priorizar o uso do termo "calouro" ao invés de "bixo".
-
 1. Não utilize "o mesmo", a palavra não é um pronome pessoal.
 
    - Ao invés de "Verifique se o mesmo encontra-se parado neste andar", utilizar "Verifique se ele está parado neste andar".
 
 1. Evitar o uso de gerúndio
 
-   - Ao invés de "Estaremos realizando uma reunião", utilizar "Realizaremos uma reunião".
-   - Ao invés de "Estamos realizando uma reunião", utilizar preferencialmente "Uma reunião está sendo realizada" ou "Estamos a realizar uma reunião".
+   - Ao invés de "Vamos estar realizando uma reunião", utilizar "Realizaremos uma reunião".
+   - Ao invés de "Estamos realizando uma reunião", utilizar com preferência "Uma reunião está sendo realizada" ou "Estamos a realizar uma reunião".
 
 1. Não utilizar termos diferentes para se referir à "assembleia" ou "plenária".
 
@@ -121,7 +104,7 @@ Também se aplica o que está disposto no guia de identidade visual.
 1. A linguagem inclusiva adotada pelo CACiC é a do uso mínimo de gênero.  
    Utiliza-se o masculino como neutro quando necessário, a fim de evitar a separação em dois gêneros, a repetição de termos e para garantir a clareza dos textos para todos os públicos.
 
-   - Ao invés de "entregador" ou "entregadora", utilizar preferencialmente "quem fará a entrega" ou "pessoa entregadora".
+   - Ao invés de "entregador" ou "entregadora", utilizar com preferência "quem fará a entrega" ou "pessoa entregadora".
    - Ao invés de "alunos e alunas", utilizar "alunos".
    - Ao invés de "o(a) vencedor(a) será escolhido(a) pelo(a) juiz(a)", utilizar "o vencedor será escolhido pelo juiz".
 
@@ -132,5 +115,48 @@ Também se aplica o que está disposto no guia de identidade visual.
 
    - Admite-se a utilização de neopronomes para referir-se a indivíduos que os utilizam:
 
-     - Se a pessoa não especificar sua preferência, as palavras devem utilizar o sufixo -e no lugar de -x ou -@, para garantir a compreensão do texto.
+     - Se a pessoa não especificar sua preferência, as palavras devem utilizar o sufixo -e ao invés de -x ou -@, para garantir a compreensão do texto.
      - Ao invés de "Bem-vindes à reunião de alunes", utilizar "Bem-vindos à reunião de alunos".
+
+### Lista de termos
+
+1. **Calouro**
+
+   - Preferencialmente não utilizar "bixo", "bixete" ou "bixe".
+
+1. **eduroam** - Utilizar em minúsculas.
+
+   - Não utilizar "Eduroam" ou "EduRoam".
+
+1. **E-mail** - Utilizar com hífen.
+
+   - Não utilizar "email".
+
+1. **Minicurso** - Utilizar sem hífen.
+
+   - Não utilizar "mini-curso".
+   - Conforme norma ortográfica, usa-se o hífen apenas nos casos em que a palavra inicia-se com as letras "i" ou "h".
+
+1. **On-line** - Utilizar com hífen.
+
+   - Não utilizar "_online_".
+
+1. **Personalizar**
+
+   - Não utilizar "customizar".
+
+1. **Por favor** - Não utilizar.
+
+   - Ao invés de escrever “Por favor, se inscreva até 25/02”, utilizar “Se inscreva até 25/02”.
+   - É permitido o uso do termo em comunicações individuais (e-mail para professor(es) ou e-mail para 1 aluno).
+
+1. **Redefinir**
+
+   - Não utilizar "resetar".
+
+1. **Site** - Utilizar sem itálico.
+
+   - Não utilizar "_website_".
+
+1. **Wi-Fi** - Utilizar com hífen e com as letras "i" minúsculas e demais letras em maiúsculas.
+   - Não utilizar "wifi".
