@@ -130,6 +130,19 @@ const config: Config = {
             },
           ],
         },
+        {
+          title: 'Recursos',
+          items: [
+            {
+              label: 'FCT App',
+              href: 'https://fct-pp.web.app',
+            },
+            {
+              label: 'Manual do calouro',
+              href: 'https://cacic-fct.github.io/manual-do-calouro',
+            },
+          ],
+        },
       ],
     },
     prism: {
