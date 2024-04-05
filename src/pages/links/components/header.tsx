@@ -20,7 +20,7 @@ export default function LinkTreeHeader() {
         }}
       />
       <p style={{ textAlign: 'center' }}>
-        Centro acadêmico de Ciência da Computação FCT-Unesp
+        Centro Acadêmico de Ciência da Computação FCT-Unesp
       </p>
       <div
         style={{
