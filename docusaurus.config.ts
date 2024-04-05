@@ -68,6 +68,11 @@ const config: Config = {
           position: 'left',
           label: 'Base de conhecimento',
         },
+        {
+          label: 'Manual do calouro',
+          href: 'https://cacic-fct.github.io/manual-do-calouro',
+          position: 'left',
+        },
       ],
     },
     footer: {
