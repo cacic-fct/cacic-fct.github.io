@@ -142,6 +142,10 @@ Também se aplica o que está disposto no guia de identidade visual.
 
    - Preferencialmente não utilizar "bixo", "bixete" ou "bixe".
 
+1. **Contatar** - Utilize sem "c".
+
+   - Não utilizar "contactar", conforme Acordo Ortográfico de 2009.
+
 1. **eduroam** - Utilizar em minúsculas.
 
    - Não utilizar "Eduroam" ou "EduRoam".
