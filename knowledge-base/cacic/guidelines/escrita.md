@@ -101,6 +101,16 @@ Também se aplica o que está disposto no guia de identidade visual.
 
 1. Não fazer referências a membros individuais do CACiC sem necessidade.
 
+1. Não utilizar apóstrofo para indicar plural.
+
+   - Ao invés de "ACC's", utilizar "ACCs".
+
+1. Não utilizar contrações informais:
+
+   - Ao invés de "pro", utilizar "para o".
+   - Ao invés de "pra", utilizar "para".
+   - "Num" não é uma contração informal, então pode ser utilizada.
+
 1. A linguagem inclusiva adotada pelo CACiC é a do uso mínimo de gênero.  
    Utiliza-se o masculino como neutro quando necessário, a fim de evitar a separação em dois gêneros, a repetição de termos e para garantir a clareza dos textos para todos os públicos.
 
