@@ -120,7 +120,7 @@ Também se aplica o que está disposto no guia de identidade visual.
    - Ao invés de "👩🏼‍🏫", utilizar "👩‍🏫".
 
 1. A linguagem inclusiva adotada pelo CACiC é a do uso mínimo de gênero.  
-   Utiliza-se o masculino como neutro quando necessário, a fim de evitar a separação em dois gêneros, a repetição de termos e para garantir a clareza dos textos para todos os públicos.
+   Utiliza-se o masculino como neutro quando necessário, a fim de evitar a separação em gêneros, a repetição de termos e para garantir a clareza dos textos para todos os públicos.
 
    - Ao invés de "entregador" ou "entregadora", utilizar com preferência "quem fará a entrega" ou "pessoa entregadora".
    - Ao invés de "alunos e alunas", utilizar "alunos".
