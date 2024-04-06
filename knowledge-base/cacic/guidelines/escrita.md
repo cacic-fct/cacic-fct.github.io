@@ -111,9 +111,13 @@ Também se aplica o que está disposto no guia de identidade visual.
    - Ao invés de "pra", utilizar "para".
    - "Num" não é uma contração informal, então pode ser utilizada.
 
-1. Para indicar encadeamentos vocabulares, utilize hífen entre os termos.
+1. Para indicar encadeamentos vocabulares, utilizar hífen entre os termos.
 
    - Ao invés de "relação professor/aluno", utilizar "relação professor-aluno".
+
+1. Utilize emojis com o tom de pele padrão.
+
+   - Ao invés de "👩🏼‍🏫", utilizar "👩‍🏫".
 
 1. A linguagem inclusiva adotada pelo CACiC é a do uso mínimo de gênero.  
    Utiliza-se o masculino como neutro quando necessário, a fim de evitar a separação em dois gêneros, a repetição de termos e para garantir a clareza dos textos para todos os públicos.
