@@ -111,11 +111,20 @@ Também se aplica o que está disposto no guia de identidade visual.
    - Ao invés de "pra", utilizar "para".
    - "Num" não é uma contração informal, então pode ser utilizada.
 
+1. Utilizar verbos na forma imperativa para instruções.
+
+   - Ao invés de "Você deve se inscrever", utilizar "Inscreva-se".
+   - Ao invés de "Arrasta para o lado", utilizar "Arraste para o lado".
+
+1. Utilizar singular para frases imperativas.
+
+   - Ao invés de "Compareçam à assembleia", utilizar "Compareça à assembleia".
+
 1. Para indicar encadeamentos vocabulares, utilizar hífen entre os termos.
 
    - Ao invés de "relação professor/aluno", utilizar "relação professor-aluno".
 
-1. Utilize emojis com o tom de pele padrão.
+1. Utilizar emojis com o tom de pele padrão.
 
    - Ao invés de "👩🏼‍🏫", utilizar "👩‍🏫".
 
@@ -137,6 +146,15 @@ Também se aplica o que está disposto no guia de identidade visual.
      - Ao invés de "Bem-vindes à reunião de alunes", utilizar "Bem-vindos à reunião de alunos".
 
 ### Lista de termos
+
+1. **Aonde** - Conferir o uso correto.
+
+   - "Aonde" apresenta noção de movimento.
+     - A palavra pode ser substuída por “a que”, “ao qual” ou “à qual” sem alteração de sentido.
+   - "Onde" é utilizado para indicar um lugar onde algo está. Tem noção de permanência/estática.
+     - A palavra pode ser substituída por “em que”, "no qual" ou "na qual" sem alteração de sentido.
+   - Ao invés de "Aonde fica isso?", utilizar "Onde fica isso?".
+   - Ao invés de "Onde você vai?", utilizar "Aonde você vai?".
 
 1. **Calouro**
 
@@ -182,3 +200,8 @@ Também se aplica o que está disposto no guia de identidade visual.
 
 1. **Wi-Fi** - Utilizar com hífen e com as letras "i" minúsculas e demais letras em maiúsculas.
    - Não utilizar "wifi".
+
+## Acessibilidade
+
+1. Utilizar as ferramentas específicas embutidas nos sites de mídia social para garantir a acessibilidade dos posts.
+   - No Instagram, ao invés de descrever a imagem utilizando o campo de texto da postagem, utilize a ferramenta de descrição de imagem.
