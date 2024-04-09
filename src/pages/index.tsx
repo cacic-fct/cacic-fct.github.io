@@ -23,8 +23,8 @@ export default function Home(): JSX.Element {
             O Centro Acadêmico de Ciência da Computação é o órgão de
             representação estudantil do curso de Bacharelado em Ciência da
             Computação da FCT-Unesp. A organização defende os interesses e
-            direitos dos alunos. A direção do CA é escolhida por meio de
-            eleições periódicas, entre chapas de alunos do curso.
+            direitos dos alunos. A direção do Centro Acadêmico (CA) é escolhida
+            por meio de eleições periódicas, entre chapas de alunos do curso.
           </p>
         </Container>
 

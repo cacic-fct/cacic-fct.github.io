@@ -42,7 +42,7 @@ export default function QuickAccess() {
           </ListItem>
 
           <ListItem disablePadding>
-            <ListItemButton href="https://fct-pp.web.app/calouros">
+            <ListItemButton href="https://cacic-fct.github.io/manual-do-calouro/pagina-do-calouro">
               <ListItemIcon>
                 <GroupIcon />
               </ListItemIcon>

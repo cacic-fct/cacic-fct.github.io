@@ -68,6 +68,11 @@ const config: Config = {
           position: 'left',
           label: 'Base de conhecimento',
         },
+        {
+          label: 'Manual do calouro',
+          href: 'https://cacic-fct.github.io/manual-do-calouro',
+          position: 'left',
+        },
       ],
     },
     footer: {
@@ -122,6 +127,19 @@ const config: Config = {
             {
               label: 'E-mail',
               href: 'mailto:cacic.fct@gmail.com',
+            },
+          ],
+        },
+        {
+          title: 'Recursos',
+          items: [
+            {
+              label: 'FCT App',
+              href: 'https://fct-pp.web.app',
+            },
+            {
+              label: 'Manual do calouro',
+              href: 'https://cacic-fct.github.io/manual-do-calouro',
             },
           ],
         },

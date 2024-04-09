@@ -22,7 +22,7 @@ export default function LinkList({ cardList }: { cardList: CardList[] }) {
           <Typography variant="h6">
             Nossa árvore de links está vazia!
           </Typography>
-          <Button href="/">Ir à página inícial</Button>
+          <Button href="/">Ir à página inicial</Button>
         </CardContent>
       </Card>
     );

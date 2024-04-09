@@ -1,7 +1,7 @@
 # Guia de redação
 
 Este guia tem como objetivo padronizar a escrita de textos oficiais do CACiC, seguindo as normas da língua portuguesa e da Unesp.  
-Com isso, é possível garantir a acessibilidade e a compreensão dos documentos, tornando-os acessíveis a um público mais amplo.
+Com isso, é possível garantir a acessibilidade e a compreensão dos documentos, pois o conteúdo fica mais compreensivo para um público amplo.
 
 Também se aplica o que está disposto no guia de identidade visual.
 
@@ -57,30 +57,25 @@ Também se aplica o que está disposto no guia de identidade visual.
 
 ## Identidade da chapa em exercício
 
-É permitido a inclusão do nome da chapa em exercício em materiais oficiais do CACiC desde que seja feita de forma discreta e sem destaque visual.
+É permitida a inclusão do nome da chapa em exercício em materiais oficiais do CACiC desde que ela seja feita de forma discreta, sem destaque visual.
 
 É permitido que a chapa vigente adote um estilo de escrita próprio, desde que sejam respeitadas as diretrizes estabelecidas neste guia.
 
-## Padrões de escrita
+## Padrão de escrita
 
 1. Nos títulos em português, apenas a primeira letra e nomes próprios devem ser escritos com iniciais maísculas.
 
-   - Ao invés de "O Que Fazemos Na Unesp?", utilize "O que fazemos na Unesp?".
+   - Ao invés de "O Que Fazemos Na Unesp?", utilizar "O que fazemos na Unesp?".
 
 1. Ao fazer referência a um ano, utilizar a grafia correta:
 
-   - Ao invés de “2k23”, utilize "2023".
+   - Ao invés de “2k23”, utilizar "2023".
 
 1. Utilizar itálico para destacar palavras ou frases ao invés de negrito ou sublinhado.
 
 1. Palavras em idioma estrangeiro devem ser escritas em itálico:
 
    - "O termo _software_ é utilizado para se referir a programas de computador".
-
-1. Não utilizar “por favor”.
-
-   - Ao invés de escrever “Por favor, se inscreva até 25/02”, utilize “Se inscreva até 25/02”.
-   - É permitido o uso do termo em comunicações individuais (e-mail para professor(es) ou e-mail para 1 aluno)
 
 1. Empregar corretamente “a”, “há” e “à”:
 
@@ -91,33 +86,122 @@ Também se aplica o que está disposto no guia de identidade visual.
    - “A que horas você vai sair?”
    - “A reunião está marcada para as 15 horas.”
 
-1. Utilizar "site" sem itálico ao invés de "_website_".
+1. Não utilize "o mesmo", a palavra não é um pronome pessoal.
 
-1. Utilizar "on-line" ao invés de "online".
+   - Ao invés de "Verifique se o mesmo encontra-se parado neste andar", utilizar "Verifique se ele está parado neste andar".
 
-1. Utilizar "e-mail" ao invés de "email".
+1. Evitar o uso de gerúndio
 
-1. Deve-se priorizar o uso do termo "calouro" ao invés de "bixo".
+   - Ao invés de "Vamos estar realizando uma reunião", utilizar "Realizaremos uma reunião".
+   - Ao invés de "Estamos realizando uma reunião", utilizar com preferência "Uma reunião está sendo realizada" ou "Estamos a realizar uma reunião".
 
-1. Não utilize termos diferentes para se referir à "assembleia" ou "plenária".
+1. Não utilizar termos diferentes para se referir à "assembleia" ou "plenária".
 
-   - Não utilize "café com internet" ou "reunião".
+   - Não utilizar eufemismos como "café com internet" ou "reunião".
 
 1. Não fazer referências a membros individuais do CACiC sem necessidade.
 
-1. A linguagem inclusiva adotada pelo CACiC é a do uso mínimo de gênero.  
-   Utiliza-se o masculino como neutro quando necessário, a fim de evitar a separação em dois gêneros, a repetição de termos e para garantir a clareza dos textos para todos os públicos.
+1. Não utilizar apóstrofo para indicar plural.
 
-   - Ao invés de "entregador" ou "entregadora", utilize preferencialmente "quem fará a entrega" ou "pessoa entregadora".
-   - Ao invés de "alunos e alunas", utilize "alunos".
-   - Ao invés de "o(a) vencedor(a) será escolhido(a) pelo(a) juiz(a)", utilize "o vencedor será escolhido pelo juiz".
+   - Ao invés de "ACC's", utilizar "ACCs".
+
+1. Não utilizar contrações informais:
+
+   - Ao invés de "pro", utilizar "para o".
+   - Ao invés de "pra", utilizar "para".
+   - "Num" não é uma contração informal, então pode ser utilizada.
+
+1. Utilizar verbos na forma imperativa para instruções.
+
+   - Ao invés de "Você deve se inscrever", utilizar "Inscreva-se".
+   - Ao invés de "Arrasta para o lado", utilizar "Arraste para o lado".
+
+1. Utilizar singular para frases imperativas.
+
+   - Ao invés de "Compareçam à assembleia", utilizar "Compareça à assembleia".
+
+1. Para indicar encadeamentos vocabulares, utilizar hífen entre os termos.
+
+   - Ao invés de "relação professor/aluno", utilizar "relação professor-aluno".
+
+1. Utilizar emojis com o tom de pele padrão.
+
+   - Ao invés de "👩🏼‍🏫", utilizar "👩‍🏫".
+
+1. A linguagem inclusiva adotada pelo CACiC é a do uso mínimo de gênero.  
+   Utiliza-se o masculino como neutro quando necessário, a fim de evitar a separação em gêneros, a repetição de termos e para garantir a clareza dos textos para todos os públicos.
+
+   - Ao invés de "entregador" ou "entregadora", utilizar com preferência "quem fará a entrega" ou "pessoa entregadora".
+   - Ao invés de "alunos e alunas", utilizar "alunos".
+   - Ao invés de "o(a) vencedor(a) será escolhido(a) pelo(a) juiz(a)", utilizar "o vencedor será escolhido pelo juiz".
 
    - Admite-se a utilização de palavras no feminino para referir-se a indivíduos que utilizam pronomes femininos:
 
-     - "A aluna vencedora" se referindo a uma aluna que venceu um concurso.
-     - "A professora" se referindo a uma professora.
+     - "A aluna vencedora" para se referir a uma aluna que venceu um concurso.
+     - "A professora" para se referir a uma professora.
 
    - Admite-se a utilização de neopronomes para referir-se a indivíduos que os utilizam:
 
-     - Se a pessoa não especificar sua preferência, as palavras devem utilizar o sufixo -e no lugar de -x ou -@, para garantir a compreensão do texto.
-     - Ao invés de "Bem-vindes à reunião de alunes", utilize "Bem-vindos à reunião de alunos".
+     - Se a pessoa não especificar sua preferência, as palavras devem utilizar o sufixo -e ao invés de -x ou -@, para garantir a compreensão do texto.
+     - Ao invés de "Bem-vindes à reunião de alunes", utilizar "Bem-vindos à reunião de alunos".
+
+### Lista de termos
+
+1. **Aonde** - Conferir o uso correto.
+
+   - "Aonde" apresenta noção de movimento.
+     - A palavra pode ser substuída por “a que”, “ao qual” ou “à qual” sem alteração de sentido.
+   - "Onde" é utilizado para indicar um lugar onde algo está. Tem noção de permanência/estática.
+     - A palavra pode ser substituída por “em que”, "no qual" ou "na qual" sem alteração de sentido.
+   - Ao invés de "Aonde fica isso?", utilizar "Onde fica isso?".
+   - Ao invés de "Onde você vai?", utilizar "Aonde você vai?".
+
+1. **Calouro**
+
+   - Preferencialmente não utilizar "bixo", "bixete" ou "bixe".
+
+1. **Contatar** - Utilize sem "c".
+
+   - Não utilizar "contactar", conforme Acordo Ortográfico de 2009.
+
+1. **eduroam** - Utilizar em minúsculas.
+
+   - Não utilizar "Eduroam" ou "EduRoam".
+
+1. **E-mail** - Utilizar com hífen.
+
+   - Não utilizar "email".
+
+1. **Minicurso** - Utilizar sem hífen.
+
+   - Não utilizar "mini-curso".
+   - Conforme norma ortográfica, usa-se o hífen apenas nos casos em que a palavra inicia-se com as letras "i" ou "h".
+
+1. **On-line** - Utilizar com hífen.
+
+   - Não utilizar "_online_".
+
+1. **Personalizar**
+
+   - Não utilizar "customizar".
+
+1. **Por favor** - Não utilizar.
+
+   - Ao invés de escrever “Por favor, se inscreva até 25/02”, utilizar “Se inscreva até 25/02”.
+   - É permitido o uso do termo em comunicações individuais (e-mail para professor(es) ou e-mail para 1 aluno).
+
+1. **Redefinir**
+
+   - Não utilizar "resetar".
+
+1. **Site** - Utilizar sem itálico.
+
+   - Não utilizar "_website_".
+
+1. **Wi-Fi** - Utilizar com hífen e com as letras "i" minúsculas e demais letras em maiúsculas.
+   - Não utilizar "wifi".
+
+## Acessibilidade
+
+1. Utilizar as ferramentas específicas embutidas nos sites de mídia social para garantir a acessibilidade dos posts.
+   - No Instagram, ao invés de descrever a imagem utilizando o campo de texto da postagem, utilize a ferramenta de descrição de imagem.
