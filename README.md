@@ -4,7 +4,7 @@ A "Homepage do CACiC" apresenta a entidade, além de agregar seus feitos, conqui
 
 ## Contribuindo
 
-Todos podem contribuir com a "Homepage do CACiC".
+Todos podem contribuir para a "Homepage do CACiC".
 
 Leia o [guia de contribuição do CACiC](https://github.com/cacic-fct/.github/blob/main/Contributing.md).
 
