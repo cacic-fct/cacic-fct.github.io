@@ -3,7 +3,7 @@ import Layout from '@theme/Layout';
 import Typography from '@mui/material/Typography';
 import { Box, Container } from '@mui/material';
 
-import { members as katieMembers } from '@site/src/shared/components/slates/2023-katie-bouman';
+import { members as currentMembers } from '@site/src/shared/components/slates/2024-ada-lovelace';
 import SlateGridGenerator from '@site/src/shared/components/slates/slate-grid-generator';
 import QuickAccess from '@site/src/pages/index-components/quick-access';
 
@@ -32,7 +32,7 @@ export default function Home(): JSX.Element {
           <Typography variant="h5" sx={{ py: 1 }}>
             Chapa Ada Lovelace
           </Typography>
-          {/* <SlateGridGenerator slateMembers={katieMembers} /> */}
+          <SlateGridGenerator slateMembers={currentMembers} />
         </Container>
       </main>
       <Box sx={{ py: 4 }} />
