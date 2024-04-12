@@ -30,9 +30,9 @@ export default function Home(): JSX.Element {
 
         <Container sx={{ p: 2 }} maxWidth="sm">
           <Typography variant="h5" sx={{ py: 1 }}>
-            Chapa Katie Bouman
+            Chapa Ada Lovelace
           </Typography>
-          <SlateGridGenerator slateMembers={katieMembers} />
+          {/* <SlateGridGenerator slateMembers={katieMembers} /> */}
         </Container>
       </main>
       <Box sx={{ py: 4 }} />
