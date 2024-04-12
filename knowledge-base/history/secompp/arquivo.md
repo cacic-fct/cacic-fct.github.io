@@ -17,11 +17,13 @@
 **Data:** 17 a 21 de outubro de 2022
 
 - [Repositório da homepage](https://github.com/cacic-fct/secompp-site-2022)
+  - [Contribuidores](https://github.com/cacic-fct/secompp-site-2022/graphs/contributors)
 
 ## 2019
 
 - [Homepage](https://cacic-fct.github.io/secompp-site-2019/)
   - [Repositório](https://github.com/cacic-fct/secompp-site-2019)
+  - Autor: Fábio Takaki
 
 ## 2017
 
@@ -60,8 +62,11 @@ IDE: Sublime Text, Notepad++, FileZilla
 
 ```
 
+\[sic\]
+
 </details>
 
 ## 2012
 
 - [Repositório da homepage](https://github.com/cacic-fct/secompp-site-2012/)
+  - Autor: EJComp
