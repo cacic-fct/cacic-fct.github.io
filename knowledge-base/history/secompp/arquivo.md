@@ -31,7 +31,7 @@
 ## 2014
 
 - [Homepage](https://cacic-fct.github.io/secompp-site-2014/)
-  - [Repositório](https://github.com/cacic-fct/secompp-site-2013)
+  - [Repositório](https://github.com/cacic-fct/secompp-site-2014)
 
 ## 2013
 
