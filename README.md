@@ -14,14 +14,16 @@ O site é construído com [Docusaurus](https://docusaurus.io/) e pode ser acessa
 
 ### Desenvolvimento
 
-Para iniciar o site localmente, primeiro instale as dependências:
+Para iniciar o site localmente, primeiro instale o [Bun](https://bun.sh/).
+
+Depois, instale as dependências:
 
 ```bash
-yarn
+bun install
 ```
 
-Depois, inicie o servidor de desenvolvimento:
+Em seguida, inicie o servidor de desenvolvimento:
 
 ```bash
-yarn start
+bun run start
 ```
