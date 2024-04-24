@@ -12,12 +12,12 @@ Também se aplica o que está disposto no guia de identidade visual.
    - Também é admitida a seguinte forma: CACiC - Centro Acadêmico de Ciência da Computação "Alan Turing"
      da Faculdade de Ciências e Tecnologia, Câmpus de Presidente Prudente, Universidade Estadual Paulista "Júlio de Mesquita Filho".
 
-1. A sigla estilizada da entidade é "CACiC", com a letra "i" minúscula.
+1. O acrônimo estilizado da entidade é "CACiC", com a letra "i" minúscula.
 
    - Não utilizar "CACIC" ou "cacic" onde é possível utilizar "CACiC".
    - Não utilizar "C.A. Ciência da Computação" ou "CACICOM".
 
-1. Quando acompanhada do nome completo, a sigla "CACiC" deve vir antes do nome.
+1. Quando acompanhada do nome completo, o acrônimo "CACiC" deve vir antes do nome.
 
    - Uso correto: CACiC - Centro Acadêmico da Ciência da Computação - "Alan Turing".
    - Não utilizar:
