@@ -27,3 +27,7 @@ Em seguida, inicie o servidor de desenvolvimento:
 ```bash
 bun run start
 ```
+
+### Deploy
+
+Todas as mudanças feitas no repositório `main` são publicadas automaticamente.
