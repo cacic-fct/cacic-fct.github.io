@@ -22,7 +22,7 @@ export const members: SlateMember[] = [
     avatar: require('@site/static/people/mariana-alves.webp').default,
   },
   {
-    name: 'Giovana Custódio',
+    name: 'Giovanna Custodio',
     role: 'Finanças',
     avatar: require('@site/static/people/avatar-placeholder.webp').default,
   },

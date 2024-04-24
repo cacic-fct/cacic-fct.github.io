@@ -53,7 +53,12 @@ Também se aplica o que está disposto no guia de identidade visual.
 1. A sigla "FCT" pode ser utilizada sem menção anterior ao significado de "Faculdade de Ciências e Tecnologia".
 
 1. Utilizar "FCT-Unesp" para referenciar a Faculdade de Ciências e Tecnologia da Unesp.
+
    - Não usar "FCT/Unesp".
+
+1. A FCT utiliza algarismos arábicos para indicar os anfiteatros e blocos no mapa, em editais e no diário oficial.
+   - Ao invés de "Anfiteatro I", utilizar "Anfiteatro 1".
+   - Ao invés de "Bloco de Aulas I", utilizar "Bloco de aulas 1".
 
 ## Identidade da chapa em exercício
 

@@ -4,7 +4,7 @@ A "Homepage do CACiC" apresenta a entidade, além de agregar seus feitos, conqui
 
 ## Contribuindo
 
-Todos podem contribuir com a "Homepage do CACiC".
+Todos podem contribuir para a "Homepage do CACiC".
 
 Leia o [guia de contribuição do CACiC](https://github.com/cacic-fct/.github/blob/main/Contributing.md).
 
@@ -14,14 +14,16 @@ O site é construído com [Docusaurus](https://docusaurus.io/) e pode ser acessa
 
 ### Desenvolvimento
 
-Para iniciar o site localmente, primeiro instale as dependências:
+Para iniciar o site localmente, primeiro instale o [Bun](https://bun.sh/).
+
+Depois, instale as dependências:
 
 ```bash
-yarn
+bun install
 ```
 
-Depois, inicie o servidor de desenvolvimento:
+Em seguida, inicie o servidor de desenvolvimento:
 
 ```bash
-yarn start
+bun run start
 ```
