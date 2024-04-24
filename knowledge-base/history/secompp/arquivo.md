@@ -2,6 +2,8 @@
 
 ![](/secompp/history-logo.png)
 
+A primeira edição do evento foi em 2002.
+
 ## 2023
 
 **Nome estilizado:** SECOMPP23  
