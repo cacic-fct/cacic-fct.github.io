@@ -14,4 +14,4 @@ O evento estabelece uma relação mais próxima com a comunidade ao oferecer con
 ## Cobrança de taxa de inscrição
 
 O evento não visa lucro.  
-Uma taxa simbólica é cobrada para cobrir o deslocamento e hospedagem dos palestrantes, além de custos com materiais e com o recebimento do pagamento pela FUNDACTE.
+Uma taxa simbólica é cobrada para cobrir o deslocamento e hospedagem dos palestrantes, além de custos com materiais e com o processamento do pagamento pela FUNDACTE.
