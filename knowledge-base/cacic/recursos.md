@@ -81,7 +81,17 @@ Uso exclusivo dos membros do CACiC mediante autorização prévia.
 
 Recursos que não existem mais ou que não são mais utilizados.
 
+### Páginas da UPE - Unesp Prudente E-Sports
+
+- [Instagram](https://instagram.com/unespprudenteesports/)
+- [Facebook](https://fb.com/UPrudenteEsports)
+- E-mail esportsprudente@gmail.com
+
 ### Homepage da SECOMPP em hospedagem da FCT
+
+### Homepage do CACiC em hospedagem da FCT
+
+- [Homepage](http://docs.fct.unesp.br/entidades/discente/cacic/)
 
 ### SYSCOMPP
 
