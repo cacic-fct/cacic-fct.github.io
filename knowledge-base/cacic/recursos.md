@@ -89,10 +89,12 @@ Recursos que não existem mais ou que não são mais utilizados.
 
 ### Homepage da SECOMPP em hospedagem da FCT
 
-### Homepage do CACiC em hospedagem da FCT
+### [Homepage do CACiC em hospedagem da FCT](http://docs.fct.unesp.br/entidades/discente/cacic/)
 
-- [Homepage](http://docs.fct.unesp.br/entidades/discente/cacic/)
+- [Repositório](https://github.com/cacic-fct/cacic-site-2018)
 
 ### SYSCOMPP
+
+Para a emissão da segunda via dos certificados, entre em contato conosco.
 
 ### Grupo do Restaurante Universitário no Facebook
