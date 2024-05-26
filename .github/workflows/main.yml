@@ -59,7 +59,7 @@ jobs:
 
     env:
       TYPESENSE_API_KEY: ${{ secrets.TYPESENSE_API_KEY }}
-      TYPESENSE_URL: https://typesense.fctapp.yudi.me
+      TYPESENSE_HOST: typesense.fctapp.yudi.me
       TYPESENSE_PORT: 443
       TYPESENSE_PROTOCOL: https
     steps:
@@ -71,7 +71,7 @@ jobs:
         run: |
           docker run \
            -e TYPESENSE_API_KEY=${{ env.TYPESENSE_API_KEY }} \
-           -e TYPESENSE_HOST="${{ env.TYPESENSE_URL }}" \
+           -e TYPESENSE_HOST="${{ env.TYPESENSE_HOST }}" \
            -e TYPESENSE_PORT="${{ env.TYPESENSE_PORT }}" \
            -e TYPESENSE_PROTOCOL="${{ env.TYPESENSE_PROTOCOL }}" \
            -e CONFIG="$(cat typesense-config.json | jq -r tostring)" \
