@@ -5,6 +5,7 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
+    "dev": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
@@ -25,6 +26,7 @@
     "clsx": "^2.1.1",
     "date-fns": "^3.6.0",
     "docusaurus-lunr-search": "^3.4.0",
+    "docusaurus-theme-search-typesense": "^0.19.0-0",
     "prism-react-renderer": "^2.3.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",

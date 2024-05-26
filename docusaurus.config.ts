@@ -2,6 +2,11 @@ import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
+import {
+  type DocSearchProps,
+  type DocSearchTranslations,
+} from 'typesense-docsearch-react';
+
 const config: Config = {
   title: 'CACiC',
   tagline: 'Centro Acadêmico de Ciência da Computação FCT-Unesp',
@@ -49,6 +54,16 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+
+  scripts: [
+    {
+      src: 'https://plausible.fctapp.yudi.me/js/script.js',
+      defer: true,
+      'data-domain': 'cacic-fct.github.io',
+    },
+  ],
+
+  themes: ['docusaurus-theme-search-typesense'],
 
   themeConfig: {
     navbar: {
@@ -142,10 +157,12 @@ const config: Config = {
         },
       ],
     },
+
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+
     plugins: [
       './plugins/configure-webpack',
       [
@@ -155,15 +172,53 @@ const config: Config = {
         },
       ],
     ],
-  } satisfies Preset.ThemeConfig,
 
-  scripts: [
-    {
-      src: 'https://plausible.fctapp.yudi.me/js/script.js',
-      defer: true,
-      'data-domain': 'cacic-fct.github.io',
-    },
-  ],
+    typesense: {
+      typesenseCollectionName: 'docusaurus-2',
+
+      typesenseServerConfig: {
+        nodes: [
+          {
+            host: 'typesense.fctapp.yudi.me',
+            port: 443,
+            protocol: 'https',
+          },
+        ],
+        apiKey: 'VRIbcr31eArhsgEfKLeW0ISynrbtQgRF',
+      },
+
+      typesenseSearchParameters: {},
+
+      // @ts-ignore
+      contextualSearch: true,
+
+      // Doesn't work
+      translations: {
+        button: {
+          buttonText: 'Buscar',
+          buttonAriaLabel: 'Buscar',
+        },
+        modal: {
+          searchBox: {
+            resetButtonTitle: 'Limpar a busca',
+            resetButtonAriaLabel: 'Limpar a busca',
+            cancelButtonText: 'Cancelar',
+            cancelButtonAriaLabel: 'Cancelar',
+          },
+          footer: {
+            selectText: 'Selecionar',
+            selectKeyAriaLabel: 'Selecionar',
+            navigateText: 'Navegar',
+            navigateDownKeyAriaLabel: 'Navegar para baixo',
+            navigateUpKeyAriaLabel: 'Navegar para cima',
+            closeText: 'Fechar',
+            closeKeyAriaLabel: 'Fechar',
+            searchByText: 'Buscar por',
+          },
+        },
+      } satisfies DocSearchTranslations,
+    } satisfies DocSearchProps,
+  } satisfies Preset.ThemeConfig,
 };
 
 export default config;
