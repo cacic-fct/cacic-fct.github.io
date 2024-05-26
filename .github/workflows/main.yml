@@ -54,15 +54,14 @@ jobs:
           publish_dir: ./build
 
   scrape:
-    name: Ask Typesense to scrape the new data
     needs: deploy
     runs-on: ubuntu-latest
 
     env:
       TYPESENSE_API_KEY: ${{ secrets.TYPESENSE_API_KEY }}
-      TYPESENSE_URL: 'https://typesense.fctapp.yudi.me'
+      TYPESENSE_URL: https://typesense.fctapp.yudi.me
       TYPESENSE_PORT: 443
-      TYPESENSE_PROTOCOL: 'https'
+      TYPESENSE_PROTOCOL: https
     steps:
       - name: Checkout
         uses: actions/checkout@v4
