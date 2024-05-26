@@ -193,30 +193,7 @@ const config: Config = {
       contextualSearch: true,
 
       // Doesn't work
-      translations: {
-        button: {
-          buttonText: 'Buscar',
-          buttonAriaLabel: 'Buscar',
-        },
-        modal: {
-          searchBox: {
-            resetButtonTitle: 'Limpar a busca',
-            resetButtonAriaLabel: 'Limpar a busca',
-            cancelButtonText: 'Cancelar',
-            cancelButtonAriaLabel: 'Cancelar',
-          },
-          footer: {
-            selectText: 'Selecionar',
-            selectKeyAriaLabel: 'Selecionar',
-            navigateText: 'Navegar',
-            navigateDownKeyAriaLabel: 'Navegar para baixo',
-            navigateUpKeyAriaLabel: 'Navegar para cima',
-            closeText: 'Fechar',
-            closeKeyAriaLabel: 'Fechar',
-            searchByText: 'Buscar por',
-          },
-        },
-      } satisfies DocSearchTranslations,
+      translations: {} satisfies DocSearchTranslations,
     } satisfies DocSearchProps,
   } satisfies Preset.ThemeConfig,
 };
