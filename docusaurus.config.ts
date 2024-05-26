@@ -174,7 +174,7 @@ const config: Config = {
     ],
 
     typesense: {
-      typesenseCollectionName: 'docusaurus-2',
+      typesenseCollectionName: 'homepage-cacic',
 
       typesenseServerConfig: {
         nodes: [
