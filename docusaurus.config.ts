@@ -46,9 +46,6 @@ const config: Config = {
         theme: {
           customCss: './src/css/custom.css',
         },
-        gtag: {
-          trackingID: 'G-14H61HB1MW',
-        },
       } satisfies Preset.Options,
     ],
   ],
@@ -159,6 +156,14 @@ const config: Config = {
       ],
     ],
   } satisfies Preset.ThemeConfig,
+
+  scripts: [
+    {
+      src: 'https://plausible.fctapp.yudi.me/js/script.js',
+      defer: true,
+      'data-domain': 'cacic-fct.github.io',
+    },
+  ],
 };
 
 export default config;
