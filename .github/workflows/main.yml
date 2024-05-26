@@ -52,3 +52,27 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
+
+  scrape:
+    name: Ask Typesense to scrape the new data
+    needs: deploy
+
+    env:
+      TYPESENSE_API_KEY: ${{ secrets.TYPESENSE_API_KEY }}
+      TYPESENSE_URL: 'https://typesense.fctapp.yudi.me'
+      TYPESENSE_PORT: 443
+      TYPESENSE_PROTOCOL: 'https'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run DocSearch Scraper
+        shell: bash
+        run: |
+          docker run \
+           -e TYPESENSE_API_KEY=${{ env.TYPESENSE_API_KEY }} \
+           -e TYPESENSE_HOST="${{ env.TYPESENSE_URL }}" \
+           -e TYPESENSE_PORT="${{ env.TYPESENSE_PORT }}" \
+           -e TYPESENSE_PROTOCOL="${{ env.TYPESENSE_PROTOCOL }}" \
+           -e CONFIG="$(cat typesense-config.json | jq -r tostring)" \
+           typesense/docsearch-scraper
