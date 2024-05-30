@@ -15,3 +15,5 @@ O evento estabelece uma relação mais próxima com a comunidade ao oferecer con
 
 O evento não visa lucro.  
 Uma taxa simbólica é cobrada para cobrir o deslocamento e hospedagem dos palestrantes, além de custos com materiais e com o processamento do pagamento pela FUNDACTE.
+
+Os professores e alunos organizadores também pagam a taxa de inscrição.
