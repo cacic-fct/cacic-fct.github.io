@@ -66,6 +66,15 @@ Também se aplica o que está disposto no guia de identidade visual.
 
 É permitido que a chapa vigente adote um estilo de escrita próprio, desde que sejam respeitadas as diretrizes estabelecidas neste guia.
 
+## Cuidado com emojis
+
+Utilizar emojis de forma moderada e coerente com o conteúdo.
+
+Alguns emojis - principalmente os de gestos com as mãos - podem ser interpretados de forma diferente por pessoas de diferentes culturas, então é importante ter cuidado ao utilizá-los.  
+Além disso, os emojis têm aparência diferente em outras plataformas.
+
+Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou passivo-agressiva. Prefira usar outro, como o 😊.
+
 ## Padrão de escrita
 
 1. Nos títulos em português, apenas a primeira letra e nomes próprios devem ser escritos com iniciais maísculas.
