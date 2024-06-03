@@ -108,11 +108,11 @@ const config: Config = {
             },
             {
               label: 'Base de conhecimento',
-              to: '/kb/intro',
+              to: '/kb',
             },
             {
               label: 'Documentação',
-              to: '/docs/intro',
+              to: '/docs',
             },
             {
               label: 'Política de privacidade',
