@@ -1,6 +1,8 @@
-# Guias de estilo
+---
+sidebar_position: 1
+---
 
-## Introdução
+# Introdução
 
 A identidade é um dos elementos mais importantes da comunicação de uma entidade. Ela é responsável por transmitir os valores, a personalidade e a missão da marca de forma visualmente atraente e impactante.  
 Por isso, é fundamental que a identidade do CACiC seja utilizada de forma consistente e correta em todos os materiais e canais de comunicação, garantindo o reconhecimento e a memorabilidade da marca.

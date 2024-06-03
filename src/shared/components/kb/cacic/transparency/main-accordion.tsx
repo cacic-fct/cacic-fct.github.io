@@ -2,12 +2,12 @@ import Accordion from '@mui/material/Accordion';
 import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
-import AchievementsCards from '@site/knowledge-base/cacic/transparencia/components/achievements-cards';
-import MeetingsAccordion from '@site/knowledge-base/cacic/transparencia/components/meetings-accordion';
+import AchievementsCards from '@site/src/shared/components/kb/cacic/transparency/achievements-cards';
+import MeetingsAccordion from '@site/src/shared/components/kb/cacic/transparency/meetings-accordion';
 import {
   achievementsHamilton,
   meetingsHamilton,
-} from '@site/knowledge-base/cacic/transparencia/data/2021-margaret-hamilton';
+} from '@site/src/shared/components/kb/cacic/transparency/data/2021-margaret-hamilton';
 
 export default function MainAccordion() {
   return (

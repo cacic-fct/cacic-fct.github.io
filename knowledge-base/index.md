@@ -1,6 +1,8 @@
-# Base de conhecimento
+---
+sidebar_position: 0
+---
 
-## Introdução
+# Introdução
 
 Bem-vindo à base de conhecimento do **CACiC**.  
 Aqui você encontrará informações sobre a entidade e sobre o curso.

@@ -1,4 +1,8 @@
-# Sobre a SECOMPP
+---
+sidebar_position: 1
+---
+
+# Sobre o evento
 
 A SECOMPP é a Semana do Curso de Ciência da Computação da FCT-Unesp.
 

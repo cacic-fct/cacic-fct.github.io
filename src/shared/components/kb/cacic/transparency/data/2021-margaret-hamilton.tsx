@@ -1,5 +1,5 @@
-import { Achievements } from '@site/knowledge-base/cacic/transparencia/components/achievements-cards';
-import { Meetings } from '@site/knowledge-base/cacic/transparencia/components/meetings-accordion';
+import { Achievements } from '@site/knowledge-base/CACiC/transparencia/components/achievements-cards';
+import { Meetings } from '@site/knowledge-base/CACiC/transparencia/components/meetings-accordion';
 
 export const meetingsHamilton: Meetings[] = [
   {
