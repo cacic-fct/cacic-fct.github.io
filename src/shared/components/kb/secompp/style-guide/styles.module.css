@@ -1,0 +1,15 @@
+/* Attribution: Docusaurus
+   https://github.com/facebook/docusaurus/blob/189bb3d4a04b96baafd56f84bd531940403941b5/website/src/components/ColorGenerator/styles.module.css 
+*/
+
+.color {
+  border-radius: 0.5rem;
+  display: inline-block;
+  vertical-align: middle;
+  width: 2rem;
+  height: 2rem;
+}
+
+.colorTable {
+  font-size: small;
+}
