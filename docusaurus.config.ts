@@ -35,6 +35,24 @@ const config: Config = {
     locales: ['pt-BR'],
   },
 
+  presets: [
+    [
+      'classic',
+      {
+        docs: {
+          sidebarPath: './sidebar-kb.ts',
+          path: 'knowledge-base',
+          routeBasePath: 'kb',
+          editUrl:
+            'https://github.com/cacic-fct/cacic-fct.github.io/tree/main/',
+        },
+        theme: {
+          customCss: './src/css/custom.css',
+        },
+      } satisfies Preset.Options,
+    ],
+  ],
+
   scripts: [
     {
       src: 'https://plausible.fctapp.yudi.me/js/script.js',
@@ -181,26 +199,11 @@ const config: Config = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        sidebarPath: './sidebar-kb.ts',
-        path: 'knowledge-base',
-        routeBasePath: 'kb',
-        editUrl: 'https://github.com/cacic-fct/cacic-fct.github.io/tree/main/',
-        theme: {
-          customCss: './src/css/custom.css',
-        },
-      },
-    ],
-    [
-      '@docusaurus/plugin-content-docs',
-      {
         id: 'docs',
         path: 'docs',
         routeBasePath: 'docs',
         sidebarPath: './sidebar-docs.ts',
         editUrl: 'https://github.com/cacic-fct/cacic-fct.github.io/tree/main/',
-        theme: {
-          customCss: './src/css/custom.css',
-        },
       },
     ],
   ],
