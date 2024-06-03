@@ -2,7 +2,7 @@
 
 ## Guias de estilo
 
-O [CACiC](docs/knowledge-base/CACiC/Guias-de-estilo/Introdução.md) e a [SECOMPP](docs/knowledge-base/SECOMPP/Guias-de-estilo/Guia-de-identidade.mdx) possuem guias de estilo.
+O [CACiC](https://cacic-fct.github.io/kb/CACiC/Guias-de-estilo/Introdução) e a [SECOMPP](https://cacic-fct.github.io/kb/SECOMPP/Guias-de-estilo/Guia-de-identidade) possuem guias de estilo.
 
 Além disso, pode ser que a organização tenha feito adaptações para um ano específico. Estas estão disponíveis na seção "preservação histórica".
 
