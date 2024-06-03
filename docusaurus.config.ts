@@ -40,11 +40,9 @@ const config: Config = {
       'classic',
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          sidebarPath: './sidebar-kb.ts',
           path: 'knowledge-base',
           routeBasePath: 'kb',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/cacic-fct/cacic-fct.github.io/tree/main/',
         },
@@ -76,9 +74,16 @@ const config: Config = {
         { to: '/links', label: 'Árvore de links', position: 'left' },
         {
           type: 'docSidebar',
-          sidebarId: 'sidebar',
+          sidebarId: 'kb',
           position: 'left',
           label: 'Base de conhecimento',
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'docs',
+          docsPluginId: 'docs',
+          position: 'left',
+          label: 'Documentação',
         },
         {
           label: 'Manual do calouro',
@@ -104,6 +109,10 @@ const config: Config = {
             {
               label: 'Base de conhecimento',
               to: '/kb/intro',
+            },
+            {
+              label: 'Documentação',
+              to: '/docs/intro',
             },
             {
               label: 'Política de privacidade',
@@ -163,19 +172,8 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
 
-    plugins: [
-      './plugins/configure-webpack',
-      [
-        'docusaurus-lunr-search',
-        {
-          languages: ['pt'],
-        },
-      ],
-    ],
-
     typesense: {
       typesenseCollectionName: 'homepage-cacic',
-
       typesenseServerConfig: {
         nodes: [
           {
@@ -196,6 +194,19 @@ const config: Config = {
       translations: {} satisfies DocSearchTranslations,
     } satisfies DocSearchProps,
   } satisfies Preset.ThemeConfig,
+
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'docs',
+        path: 'docs',
+        routeBasePath: 'docs',
+        sidebarPath: './sidebar-docs.ts',
+        editUrl: 'https://github.com/cacic-fct/cacic-fct.github.io/tree/main/',
+      },
+    ],
+  ],
 };
 
 export default config;
