@@ -13,6 +13,7 @@ import CalendarMonthIcon from '@mui/icons-material/CalendarMonth';
 import AppsIcon from '@mui/icons-material/Apps';
 import GroupIcon from '@mui/icons-material/Group';
 import ArticleIcon from '@mui/icons-material/Article';
+import BookIcon from '@mui/icons-material/Book';
 
 export default function QuickAccess() {
   return (
@@ -38,6 +39,15 @@ export default function QuickAccess() {
                 <AppsIcon />
               </ListItemIcon>
               <ListItemText primary="FCT App" />
+            </ListItemButton>
+          </ListItem>
+
+          <ListItem disablePadding>
+            <ListItemButton href="https://manual.cacic.dev.br">
+              <ListItemIcon>
+                <BookIcon />
+              </ListItemIcon>
+              <ListItemText primary="Manual do calouro" />
             </ListItemButton>
           </ListItem>
 
