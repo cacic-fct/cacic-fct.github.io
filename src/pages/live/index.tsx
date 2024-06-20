@@ -13,16 +13,13 @@ const youtubeList: string[] = [];
 // IDs dos canais
 const twitchList: string[] = [];
 
-/* // Transmissões para testes 
-youtubeList.push('jfKfPfyJRdk');
-youtubeList.push('S_MOd40zlYU');
+// Transmissões para testes
+//youtubeList.push('jfKfPfyJRdk');
+//youtubeList.push('S_MOd40zlYU');
 
-twitchList.push('relaxingrhythmustv');
-twitchList.push('mst3k');
+//twitchList.push('relaxingrhythmustv');
+//twitchList.push('mst3k');
 twitchList.push('flexingseal');
-
-
-*/
 
 export default function LinkTree(): JSX.Element {
   return (
