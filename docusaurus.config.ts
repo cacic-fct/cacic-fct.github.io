@@ -61,6 +61,16 @@ const config: Config = {
     },
   ],
 
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://plausible.cacic.dev.br',
+      },
+    },
+  ],
+
   themes: ['docusaurus-theme-search-typesense'],
 
   themeConfig: {
