@@ -1,9 +1,9 @@
 import Layout from '@theme/Layout';
 
-import LinkTreeHeader from '@site/src/pages/links/components/header';
-import LinkList from '@site/src/pages/links/components/linkList';
+import LinkTreeHeader from '@site/src/components/links/header';
+import LinkList from '@site/src/components/links/linkList';
 
-import { CardList, ListType } from '@site/src/pages/links/components/linkList';
+import { CardList, ListType } from '@site/src/components/links/linkList';
 import { Container } from '@mui/material';
 
 /* Example

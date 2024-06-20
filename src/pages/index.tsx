@@ -5,7 +5,7 @@ import { Box, Container } from '@mui/material';
 
 import { members as currentMembers } from '@site/src/shared/components/slates/2024-ada-lovelace';
 import SlateGridGenerator from '@site/src/shared/components/slates/slate-grid-generator';
-import QuickAccess from '@site/src/pages/index-components/quick-access';
+import QuickAccess from '@site/src/components/index/quick-access';
 
 export default function Home(): JSX.Element {
   return (
