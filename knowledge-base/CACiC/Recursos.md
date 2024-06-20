@@ -51,10 +51,12 @@ Aqui são desenvolvidos os projetos de atividades extracurriculares (minicursos,
 Contém alunos e professores.  
 A atualização dessa lista é realizada anualmente, após a matrícula dos calouros.
 
+A lista de e-mails dos calouros pode ser solicitada ao Departamento de Matemática e Computação (DMC) (preferencial) ou ao coordenador do curso.
+
 ### Lista de e-mails dos alunos do curso
 
 Contém apenas alunos.  
-A atualização dessa lista é realizada anualmente, após a matrícula dos calouros.
+É atualizada junto da lista do curso.
 
 ### [Canal do CACiC no YouTube](https://youtube.com/@cacic-fct)
 
