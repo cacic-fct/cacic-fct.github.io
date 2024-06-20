@@ -10,7 +10,7 @@ export default function PrivacyPolicy() {
         <h1>Política de privacidade</h1>
         <p style={{ textAlign: 'justify' }}>
           A Pol&iacute;tica de Privacidade On-Line do site do{' '}
-          <strong>CACiC</strong> (https://cacic-fct.github.io) foi criada para
+          <strong>CACiC</strong> (https://cacic.dev.br) foi criada para
           respeitar a LGPD (
           <a
             href="http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm"

@@ -13,7 +13,7 @@ const config: Config = {
   favicon: 'icons/favicon.png',
 
   // Set the production url of your site here
-  url: 'https://cacic-fct.github.io',
+  url: 'https://cacic.dev.br',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -57,7 +57,7 @@ const config: Config = {
     {
       src: 'https://plausible.fctapp.yudi.me/js/script.js',
       defer: true,
-      'data-domain': 'cacic-fct.github.io',
+      'data-domain': 'cacic.dev.br',
     },
   ],
 

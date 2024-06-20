@@ -1,10 +1,10 @@
 {
   "index_name": "homepage-cacic",
   "start_urls": [
-    "https://cacic-fct.github.io/"
+    "https://cacic.dev.br/"
   ],
   "sitemap_urls": [
-    "https://cacic-fct.githu.io/sitemap.xml"
+    "https://cacic.dev.br/sitemap.xml"
   ],
   "sitemap_alternate_links": true,
   "selectors": {
