@@ -9,9 +9,7 @@ import Layout from '@theme/Layout';
 
 export default function Legal() {
   return (
-    <Layout
-      title={`CACiC`}
-      description="Description will go into a meta tag in <head />">
+    <Layout title={`CACiC`} description="Licenças">
       <Container sx={{ p: 4 }}>
         <h1>Legal</h1>
         <h2>Homepage do CACiC</h2>
