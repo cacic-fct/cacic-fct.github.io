@@ -9,13 +9,20 @@ import TwitchBroadcast from '@site/src/components/live/twitchBroadcast';
 
 // IDs das transmissões
 const youtubeList: string[] = [];
-// Transmissões para testes
-//const youtubeList = ['jfKfPfyJRdk', 'S_MOd40zlYU'];
 
 // IDs dos canais
 const twitchList: string[] = [];
-// Transmissões para testes
-//const twitchList = ['relaxingrhythmustv', 'mst3k', 'flexingseal'];
+
+/* // Transmissões para testes 
+youtubeList.push('jfKfPfyJRdk');
+youtubeList.push('S_MOd40zlYU');
+
+twitchList.push('relaxingrhythmustv');
+twitchList.push('mst3k');
+twitchList.push('flexingseal');
+
+
+*/
 
 export default function LinkTree(): JSX.Element {
   return (
@@ -27,9 +34,10 @@ export default function LinkTree(): JSX.Element {
         {youtubeList.length === 0 && twitchList.length === 0 && (
           <NoBroadcasts />
         )}
+
+        <YouTubeBroadcast youtubeList={youtubeList} />
+        <TwitchBroadcast twitchList={twitchList} />
       </Container>
-      <YouTubeBroadcast youtubeList={youtubeList} />
-      <TwitchBroadcast twitchList={twitchList} />
     </Layout>
   );
 }
