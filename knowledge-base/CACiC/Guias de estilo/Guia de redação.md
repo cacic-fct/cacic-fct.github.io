@@ -15,7 +15,7 @@ Também se aplica o que está disposto no guia de identidade visual.
 1. O acrônimo estilizado da entidade é "CACiC", com a letra "i" minúscula.
 
    - Não utilizar "CACIC" ou "cacic" onde é possível utilizar "CACiC".
-   - Não utilizar "C.A. Ciência da Computação" ou "CACICOM".
+   - Não utilizar "C.A. Ciência da Computação", "C.A.CI.C" ou "CACICOM".
 
 1. Quando acompanhada do nome completo, o acrônimo "CACiC" deve vir antes do nome.
 
