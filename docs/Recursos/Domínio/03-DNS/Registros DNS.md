@@ -28,6 +28,6 @@ O FCT App possui uma [tabela de registros própria](https://docs.fctapp.cacic.de
 
 :::danger
 
-Não aponte registros CNAMEs para o domínio `unesp.br`, pois a Unesp não usa DNSSEC.
+Não aponte registros `CNAME` para o domínio `unesp.br`, pois a Unesp não usa DNSSEC.
 
 :::
