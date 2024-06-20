@@ -65,14 +65,14 @@ export const achievementsHamilton: Achievements[] = [
     title: 'FCT App',
     content:
       'Aplicativo para facilitar a vida dos alunos da FCT, com o acesso aos eventos do câmpus.',
-    url: 'https://fct-pp.web.app',
+    url: 'https://fctapp.cacic.dev.br',
   },
   {
     image: '2021/manual_calouro.webp',
     title: 'Manual do calouro',
     content:
       'Fala sobre a FCT-Unesp, o movimento estudantil, a cidade de Presidente Prudente e muito mais! Está aberto a contribuições.',
-    url: 'https://fct-pp.web.app/manual-do-calouro',
+    url: 'https://fctapp.cacic.dev.br/manual-do-calouro',
   },
   {
     image: '2021/recepcao_calouros.webp',

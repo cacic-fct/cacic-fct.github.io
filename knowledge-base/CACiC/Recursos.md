@@ -20,7 +20,7 @@ Web app para listagem de eventos, gerenciamento de inscrições, coleta de prese
 
 - [Repositório](https://github.com/cacic-fct/fct-app)
 
-### [Manual do calouro](https://cacic-fct.github.io/manual-do-calouro)
+### [Manual do calouro](https://manual.cacic.dev.br)
 
 - [Repositório](https://github.com/cacic-fct/manual-do-calouro)
 
@@ -56,7 +56,7 @@ A atualização dessa lista é realizada anualmente, após a matrícula dos calo
 Contém apenas alunos.  
 A atualização dessa lista é realizada anualmente, após a matrícula dos calouros.
 
-### [Canal do CACiC no YouTube](https://youtube.com/@cacicfct)
+### [Canal do CACiC no YouTube](https://youtube.com/@cacic-fct)
 
 ### Servidor do CACiC no Discord
 

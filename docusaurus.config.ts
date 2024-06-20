@@ -87,7 +87,7 @@ const config: Config = {
         },
         {
           label: 'Manual do calouro',
-          href: 'https://cacic-fct.github.io/manual-do-calouro',
+          href: 'https://manual.cacic.dev.br',
           position: 'left',
         },
       ],
@@ -156,11 +156,11 @@ const config: Config = {
           items: [
             {
               label: 'FCT App',
-              href: 'https://fct-pp.web.app',
+              href: 'https://fctapp.cacic.dev.br',
             },
             {
               label: 'Manual do calouro',
-              href: 'https://cacic-fct.github.io/manual-do-calouro',
+              href: 'https://manual.cacic.dev.br',
             },
           ],
         },

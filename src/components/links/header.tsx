@@ -32,7 +32,7 @@ export default function LinkTreeHeader() {
         <Button href="https://facebook.com/cacic.fct">
           <FacebookIcon />
         </Button>
-        <Button href="https://youtube.com/cacicfct">
+        <Button href="https://youtube.com/@cacic-fct">
           <YouTubeIcon />
         </Button>
         <Button href="mailto:cacic.fct@gmail.com">
