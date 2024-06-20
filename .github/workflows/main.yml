@@ -59,7 +59,7 @@ jobs:
 
     env:
       TYPESENSE_API_KEY: ${{ secrets.TYPESENSE_API_KEY }}
-      TYPESENSE_HOST: typesense.fctapp.yudi.me
+      TYPESENSE_HOST: typesense.cacic.dev.br
       TYPESENSE_PORT: 443
       TYPESENSE_PROTOCOL: https
     steps:
