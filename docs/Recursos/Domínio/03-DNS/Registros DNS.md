@@ -4,11 +4,11 @@
 | ------- | -------------------------- | ------------------- | ----- | ----------------------------- |
 | `A`     | cacic.dev.br               | GitHub Pages IPs    | Não   | GH Pages                      |
 | `AAAA`  | cacic.dev.br               | GitHub Pages IPs    | Não   | GH Pages                      |
-| `A`     | fct.cacic.dev.br           | 200.145.181.38      | Sim   | Servidor da DTI               |
 | `A`     | www                        | 192.0.2.1           | Sim   | Redirect to root              |
 | `A`     | live                       | 192.0.2.1           | Sim   | Redirect to root/live         |
 | `CNAME` | manual                     | cacic-fct.github.io | Não   | GH Pages                      |
 | `CNAME` | secompp                    | cacic-fct.github.io | Não   | GH Pages                      |
+| `CNAME` | fct.cacic.dev.br           | 38a.fct.unesp.br    | Sim   | Servidor da DTI               |
 | `CNAME` | fotos.cacic.dev.br         | fct.cacic.dev.br    | Sim   | Immich                        |
 | `CNAME` | plausible.cacic.dev.br     | fct.cacic.dev.br    | Sim   | Analytics                     |
 | `CNAME` | status.cacic.dev.br        | fct.cacic.dev.br    | Sim   | Status page                   |
@@ -23,11 +23,5 @@
 :::note
 
 O FCT App possui uma [tabela de registros própria](https://docs.fctapp.cacic.dev.br/devops/infraestrutura/rede/dns/).
-
-:::
-
-:::danger
-
-Não aponte registros `CNAME` para o domínio `unesp.br`, pois a Unesp não usa DNSSEC.
 
 :::
