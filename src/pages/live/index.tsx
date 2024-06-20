@@ -23,7 +23,9 @@ const twitchList: string[] = [];
 
 export default function LinkTree(): JSX.Element {
   return (
-    <Layout title={`Ao vivo`} description="Confira nossas transmissões ao vivo">
+    <Layout
+      title={`Ao vivo`}
+      description="Confira nossas transmissões ao vivo.">
       <Container maxWidth="xl" sx={{ py: 4 }}>
         <Typography variant="h6" sx={{ my: 4 }}>
           Transmissão ao vivo

@@ -64,6 +64,13 @@ const config: Config = {
   themes: ['docusaurus-theme-search-typesense'],
 
   themeConfig: {
+    metadata: [
+      {
+        name: 'keywords',
+        content:
+          'CACiC, Centro Acadêmico de Ciência da Computação, Unesp Prudente, FCT-Unesp, Universidade Estadual Paulista "Júlio de Mesquita Filho"',
+      },
+    ],
     navbar: {
       logo: {
         alt: 'CACiC',
