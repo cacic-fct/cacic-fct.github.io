@@ -55,7 +55,7 @@ const config: Config = {
 
   scripts: [
     {
-      src: 'https://plausible.fctapp.yudi.me/js/script.js',
+      src: 'https://plausible.cacic.dev.br/js/script.js',
       defer: true,
       'data-domain': 'cacic.dev.br',
     },
@@ -203,7 +203,7 @@ const config: Config = {
       typesenseServerConfig: {
         nodes: [
           {
-            host: 'typesense.fctapp.yudi.me',
+            host: 'typesense.cacic.dev.br',
             port: 443,
             protocol: 'https',
           },
