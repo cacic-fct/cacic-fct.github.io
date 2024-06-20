@@ -2,6 +2,8 @@
 
 | Tipo    | Nome                       | Destino             | Proxy | Descrição                     |
 | ------- | -------------------------- | ------------------- | ----- | ----------------------------- |
+| `A`     | cacic.dev.br               | GitHub Pages IPs    | Não   | GH Pages                      |
+| `AAAA`  | cacic.dev.br               | GitHub Pages IPs    | Não   | GH Pages                      |
 | `A`     | fct.cacic.dev.br           | 200.145.181.38      | Sim   | Servidor da DTI               |
 | `A`     | www                        | 192.0.2.1           | Sim   | Redirect to root              |
 | `A`     | live                       | 192.0.2.1           | Sim   | Redirect to root/live         |
