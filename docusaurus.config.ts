@@ -115,12 +115,6 @@ const config: Config = {
               to: '/docs',
             },
             {
-              label: 'Política de privacidade',
-              to: '/legal/privacy-policy',
-            },
-            {
-              label: 'Licenças',
-              to: '/legal/licenses',
               label: 'Transmissão ao vivo',
               to: '/live',
             },
@@ -163,6 +157,19 @@ const config: Config = {
             {
               label: 'Manual do calouro',
               href: 'https://manual.cacic.dev.br',
+            },
+          ],
+        },
+        {
+          title: 'Legal',
+          items: [
+            {
+              label: 'Política de privacidade',
+              to: '/legal/privacy-policy',
+            },
+            {
+              label: 'Licenças',
+              to: '/legal/licenses',
             },
           ],
         },
