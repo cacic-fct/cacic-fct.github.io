@@ -121,6 +121,8 @@ const config: Config = {
             {
               label: 'Licenças',
               to: '/legal/licenses',
+              label: 'Transmissão ao vivo',
+              to: '/live',
             },
           ],
         },
