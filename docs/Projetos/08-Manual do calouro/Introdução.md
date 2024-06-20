@@ -13,7 +13,7 @@ O manual do calouro é um projeto antigo, que já teve várias formas:
 1. Metamorfoseou-se em uma única página dentro do FCT App, mantendo um formato próximo ao PDF:
 
    - Todos os símbolos e conteúdos foram mantidos;
-   - A navegação era muito ruim, pois a interface não foi feita para conteúdos grandes;
+   - A navegação era ruim, pois a interface não foi feita para conteúdos grandes;
    - Era muito difícil de contribuir para, pois era necessário possuir conhecimento em Angular.
 
 1. E, por fim, tornou-se um site próprio.
