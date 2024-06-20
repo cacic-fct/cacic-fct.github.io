@@ -19,7 +19,7 @@ const twitchList: string[] = [];
 
 //twitchList.push('relaxingrhythmustv');
 //twitchList.push('mst3k');
-twitchList.push('flexingseal');
+//twitchList.push('flexingseal');
 
 export default function LinkTree(): JSX.Element {
   return (
