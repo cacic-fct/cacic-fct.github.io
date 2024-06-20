@@ -4,7 +4,7 @@ A atualização das listas é realizada anualmente, após a matrícula dos calou
 
 A lista de e-mails dos calouros pode ser solicitada ao Departamento de Matemática e Computação (DMC) (preferencial) ou ao coordenador do curso.
 
-Ambos os grupos devem ser atualizados individualmente, pois a replicação não é automática.
+Os grupos devem ser atualizados individualmente, pois a replicação não é automática.
 
 :::note
 
