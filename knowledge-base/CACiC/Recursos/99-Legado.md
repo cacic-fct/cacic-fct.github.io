@@ -10,7 +10,7 @@ Recursos que não existem mais ou que não são mais utilizados.
 
 ## Homepage da SECOMPP em hospedagem da FCT
 
-## [Homepage do CACiC em hospedagem da FCT](http://docs.fct.unesp.br/entidades/discente/cacic/)
+## Homepage do CACiC em hospedagem da FCT
 
 - [Repositório](https://github.com/cacic-fct/cacic-site-2018)
 
