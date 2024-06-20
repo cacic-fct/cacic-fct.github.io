@@ -170,6 +170,10 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
    - Ao invés de "Aonde fica isso?", utilizar "Onde fica isso?".
    - Ao invés de "Onde você vai?", utilizar "Aonde você vai?".
 
+1. **Através** - Há discordância sobre o uso do termo com o sentido de "por meio de".
+
+   - Preferencialmente utilizar "por meio de" ou "por intermédio de".
+
 1. **Calouro**
 
    - Preferencialmente não utilizar "bixo", "bixete" ou "bixe".
