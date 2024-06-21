@@ -180,7 +180,6 @@ export const achievementsHamilton: Achievements[] = [
     title: 'SECOMPP22',
     content:
       '19ª Semana do Curso de Ciência da Computação da FCT-Unesp, com palestras e minicursos.',
-    url: 'https://docs.fct.unesp.br/semanas/secompp/arquivo/2022',
   },
   {
     title: 'Hacktoberfest 2022',
