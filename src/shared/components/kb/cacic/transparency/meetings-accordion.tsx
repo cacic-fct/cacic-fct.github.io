@@ -6,6 +6,13 @@ import List from '@mui/material/List';
 import ListItemButton from '@mui/material/ListItemButton';
 import ListItemText from '@mui/material/ListItemText';
 import { parseISO, format } from 'date-fns';
+import { ptBR } from 'date-fns/locale/pt-BR';
+
+function formatDate(date: string) {
+  return format(parseISO(date), "dd 'de' MMMM 'de' y", {
+    locale: ptBR,
+  });
+}
 
 export default function MeetingsAccordion({
   meetingsData,
@@ -26,14 +33,13 @@ export default function MeetingsAccordion({
         <List>
           {meetingsData.map((m, index) => (
             <ListItemButton
-              component="a"
-              href={'https://docs.google.com/document/d/' + m.id}
+              component={m.id ? 'a' : 'div'}
+              href={
+                m.id ? 'https://docs.google.com/document/d/' + m.id : undefined
+              }
               target="_blank"
               key={index}>
-              <ListItemText
-                primary={m.title}
-                secondary={format(parseISO(m.date), "dd 'de' MMMM 'de' y")}
-              />
+              <ListItemText primary={m.title} secondary={formatDate(m.date)} />
             </ListItemButton>
           ))}
         </List>
@@ -45,5 +51,5 @@ export default function MeetingsAccordion({
 export interface Meetings {
   date: string;
   title: string;
-  id: string;
+  id?: string;
 }
