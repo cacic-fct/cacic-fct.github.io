@@ -3,6 +3,138 @@ import { Meetings } from '@site/knowledge-base/CACiC/transparencia/components/me
 
 export const meetingsHamilton: Meetings[] = [
   {
+    date: '2023-03-23',
+    title: 'Conselho de curso',
+  },
+  {
+    date: '2023-03-16',
+    title: 'Conselho de curso',
+  },
+  {
+    date: '2022-12-02',
+    title: 'Conselho de curso',
+  },
+  {
+    date: '2022-12-02',
+    title: 'Conselho de curso',
+  },
+  {
+    date: '2022-11-09',
+    title: 'Assembleia do curso',
+  },
+  {
+    date: '2022-10-14',
+    title: 'Assembleia Emergencial',
+  },
+  {
+    date: '2022-10-14',
+    title: 'Reunião da SECOMPP',
+  },
+  {
+    date: '2022-10-06',
+    title: 'Conselho de curso',
+  },
+  {
+    date: '2022-10-06',
+    title: 'Reunião da SECOMPP',
+  },
+  {
+    date: '2022-09-29',
+    title: 'Reunião da SECOMPP',
+  },
+  {
+    date: '2022-09-25',
+    title: 'Reunião de setembro',
+  },
+  {
+    date: '2022-09-22',
+    title: 'Reunião da SECOMPP',
+  },
+  {
+    date: '2022-09-15',
+    title: 'Reunião da SECOMPP',
+  },
+  {
+    date: '2022-08-25',
+    title: 'Reunião da SECOMPP',
+  },
+  {
+    date: '2022-08-11',
+    title: 'Reunião da SECOMPP',
+  },
+  {
+    date: '2022-08-07',
+    title: 'Reunião de agosto',
+  },
+  {
+    date: '2022-07-28',
+    title: 'Reunião da SECOMPP',
+  },
+  {
+    date: '2022-07-14',
+    title: 'Reunião da SECOMPP',
+  },
+  {
+    date: '2022-06-30',
+    title: 'Assembleia de curso',
+  },
+  {
+    date: '2022-06-23',
+    title: 'Conselho de curso',
+  },
+  {
+    date: '2022-06-19',
+    title: 'Reunião de junho',
+  },
+  {
+    date: '2022-04-29',
+    title: 'Conselho de curso - Segunda reunião ordinária',
+  },
+  {
+    date: '2022-04-29',
+    title: 'Conselho de curso de abril',
+  },
+  {
+    date: '2022-04-27',
+    title: 'Assembleia de curso',
+  },
+  {
+    date: '2022-04-21',
+    title: 'Reunião com Fábio Takaki',
+  },
+  {
+    date: '2022-04-21',
+    title: 'Reunião de abril',
+  },
+  {
+    date: '2022-04-06',
+    title: 'Reunião sobre pendências passadas',
+  },
+  {
+    date: '2022-04-01',
+    title: 'Reunião com o Milton',
+  },
+  {
+    date: '2022-03-17',
+    title: 'Conselho de curso - Primeira reunião ordinária',
+  },
+  {
+    date: '2022-03-15',
+    title: 'Reunião geral férias',
+  },
+  {
+    date: '2022-02-28',
+    title: 'Reunião com o coordenador sobre a Ingressada',
+  },
+  {
+    date: '2022-02-22',
+    title: 'Plenária sobre as férias',
+  },
+  {
+    date: '2022-02-06',
+    title: 'Reunião de Fevereiro',
+  },
+  {
     date: '2021-12-05',
     title: 'Reunião de dezembro',
     id: '1UKLGGYeDwdR_0eB6SKhitJKy7h51tLFj',
