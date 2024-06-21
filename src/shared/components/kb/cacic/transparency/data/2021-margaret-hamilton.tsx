@@ -31,9 +31,14 @@ export const meetingsHamilton: Meetings[] = [
 
 export const achievementsHamilton: Achievements[] = [
   {
+    title: 'Correção do calendário eleitoral',
+    content:
+      'Com a dilação do mandato aprovada em assembleia de curso, as eleições passarão a ocorrer no mês de abril, conforme preferência especificada no estatuto.',
+  },
+  {
     title: 'Preservação da memória',
     content:
-      'Resgate e publicação de sites antigos da SECOMPP e dos nomes dos membros de chapas antigas.',
+      'Resgate e publicação de projetos antigos, dos nomes dos membros de chapas antigas e das contas da Unesp Prudente E-Sports.',
   },
   {
     title: 'Recepção dos calouros 2023',
