@@ -16,7 +16,7 @@ export const meetingsHamilton: Meetings[] = [
   },
   {
     date: '2022-11-09',
-    title: 'Assembleia do curso',
+    title: 'Assembleia de curso',
   },
   {
     date: '2022-10-14',
