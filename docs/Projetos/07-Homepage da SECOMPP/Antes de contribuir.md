@@ -4,7 +4,7 @@
 
 O [CACiC](https://cacic-fct.github.io/kb/CACiC/Guias-de-estilo/Introdução) e a [SECOMPP](https://cacic-fct.github.io/kb/SECOMPP/Guias-de-estilo/Guia-de-identidade) possuem guias de estilo.
 
-Além disso, pode ser que a organização tenha feito adaptações para um ano específico. Estas estão disponíveis na seção "preservação histórica".
+Além disso, pode ser que a organização tenha feito adaptações para um ano específico. Estas estão disponíveis na seção "preservação da memória".
 
 Os guias são importantes, pois há muitas pessoas contribuindo para a SECOMPP.  
 Manter a consistência é essencial para a preservação das marcas.

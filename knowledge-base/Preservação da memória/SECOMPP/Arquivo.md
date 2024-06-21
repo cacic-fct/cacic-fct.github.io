@@ -21,6 +21,11 @@ A primeira edição do evento foi em 2002.
 - [Repositório da homepage](https://github.com/cacic-fct/secompp-site-2022)
   - [Contribuidores](https://github.com/cacic-fct/secompp-site-2022/graphs/contributors)
 
+## 2020 e 2021
+
+Não houve edição do evento, por conta da pandemia de COVID-19 e consequente suspensão das atividades presenciais.  
+Apesar de existir um debate promovido pelos alunos, não houve movimentação dos professores para a realização de uma edição on-line.
+
 ## 2019
 
 - [Homepage](https://cacic-fct.github.io/secompp-site-2019/)
