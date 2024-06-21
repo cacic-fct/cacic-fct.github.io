@@ -1,5 +1,7 @@
 # Certificados pendentes
 
+O CACiC enfatiza que está empenhado em tornar o processo de emissão de certificados mais ágil e simplificado, por meio do FCT App.
+
 Os seguintes certificados estão pendentes de emissão por meio do FCT App:
 
 1. Hacktober 2022 - Alunos e Ministrantes — outubro 2022
