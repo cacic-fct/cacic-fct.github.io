@@ -4,37 +4,31 @@ export const members: SlateMember[] = [
   {
     name: 'Carlos "Tilt" Alberto',
     role: 'Presidente',
-    avatar:
-      'https://cdn.jsdelivr.net/gh/cacic-fct/cacic-site-2018@main/assets/img/membros/Carlos_equipe.png?raw=true',
+    avatar: require('@site/static/people/carlos-alberto.avif').default,
   },
   {
     name: 'Andrey Cunha',
     role: 'Vice-presidente',
-    avatar:
-      'https://cdn.jsdelivr.net/gh/cacic-fct/cacic-site-2018@main/assets/img/membros/Andrey_equipe.png?raw=true',
+    avatar: require('@site/static/people/andrey-cunha.avif').default,
   },
   {
     name: 'Vinícius Vedovotto',
     role: 'Finanças',
-    avatar:
-      'https://cdn.jsdelivr.net/gh/cacic-fct/cacic-site-2018@main/assets/img/membros/Vedovotto_equipe.png?raw=true',
+    avatar: require('@site/static/people/vinicius-vedovotto.avif').default,
   },
   {
     name: 'Rebeca Padovani',
     role: 'Comunicação',
-    avatar:
-      'https://cdn.jsdelivr.net/gh/cacic-fct/cacic-site-2018@main/assets/img/membros/Rebeca_equipe.png?raw=true',
+    avatar: require('@site/static/people/rebeca-padovani.avif').default,
   },
   {
     name: 'Vitor Alvim',
     role: 'Eventos',
-    avatar:
-      'https://cdn.jsdelivr.net/gh/cacic-fct/cacic-site-2018@main/assets/img/membros/Alvim_equipe.png?raw=true',
+    avatar: require('@site/static/people/vitor-alvim.avif').default,
   },
   {
     name: 'Felipe Canuto',
     role: 'Relações Públicas',
-    avatar:
-      'https://cdn.jsdelivr.net/gh/cacic-fct/cacic-site-2018@main/assets/img/membros/Felipe_equipe.png?raw=true',
+    avatar: require('@site/static/people/felipe-canuto.avif').default,
   },
 ];
