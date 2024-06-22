@@ -1,7 +1,8 @@
 # Guia de redação
 
-Este guia tem como objetivo padronizar a escrita de textos oficiais do CACiC, seguindo as normas da língua portuguesa e da Unesp.  
-Com isso, é possível garantir a acessibilidade e a compreensão dos documentos, pois o conteúdo fica mais compreensivo para um público amplo.
+Este guia tem como objetivo padronizar a escrita de textos oficiais do CACiC, seguindo as normas da língua portuguesa e da Unesp.
+
+As normas garantem a acessibilidade e a compreensão dos documentos, pois o conteúdo torna-se claro para um público amplo.
 
 Também se aplica o que está disposto no guia de identidade visual.
 
