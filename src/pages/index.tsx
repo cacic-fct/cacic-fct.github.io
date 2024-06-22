@@ -9,7 +9,7 @@ import QuickAccess from '@site/src/components/index/quick-access';
 
 export default function Home(): JSX.Element {
   return (
-    <Layout description="O CACiC é o órgão de representação estudantil do curso de Ciência da Computação da FCT-Unesp.">
+    <Layout description="O CACiC é o órgão de representação estudantil do curso de Ciência da Computação da FCT-Unesp, câmpus de Presidente Prudente.">
       <main>
         <Container sx={{ p: 4 }} maxWidth="sm">
           <QuickAccess />
