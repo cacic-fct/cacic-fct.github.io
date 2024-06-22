@@ -4,7 +4,7 @@ O CACiC possui um canal independente do usuário da entidade, para que seja poss
 
 :::danger
 
-Não crie um canal usando o usuário do CACiC.
+Não crie um canal com o usuário do CACiC.
 
 Utilize o seletor de contas para alterar para o canal correto.
 
