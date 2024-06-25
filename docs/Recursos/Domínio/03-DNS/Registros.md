@@ -12,6 +12,7 @@
 | `CNAME` | fotos.cacic.dev.br         | fct.cacic.dev.br    | Sim   | Immich                        |
 | `CNAME` | status.cacic.dev.br        | fct.cacic.dev.br    | Sim   | Uptime kuma                   |
 | `CNAME` | traefik.cacic.dev.br       | fct.cacic.dev.br    | Sim   | Dashboard                     |
+| `CNAME` | auth.cacic.dev.br          | fct.cacic.dev.br    | Sim   | Authentik                     |
 | `CNAME` | plausible.cacic.dev.br     | fct.cacic.dev.br    | Sim   | Analytics                     |
 | `CNAME` | highlight.cacic.dev.br     | fct.cacic.dev.br    | Sim   | Performance monitoring        |
 | `CNAME` | api.highlight.cacic.dev.br | fct.cacic.dev.br    | Não   | Performance monitoring        |
