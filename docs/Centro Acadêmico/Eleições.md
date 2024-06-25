@@ -89,8 +89,8 @@ São informações essenciais:
 
 - Nome da chapa;
   - Em 2024, pelos últimos 5 mandatos consecutivos, o nome da chapa vencedora foi de uma mulher com relevância na área de computação, matemática ou áreas afins.
-- Nome completo dos candidatos;
-- Cargos que cada candidato irá ocupar.
+- Nome completo dos integrantes;
+- Cargos que cada integrante irá ocupar.
   - O presidente será automaticamente o representante da chapa, a não ser que seja indicado outro membro.
 - E-mail institucional e celular do representante da chapa.
 
@@ -130,7 +130,7 @@ Após a posse, o presidente da comissão eleitoral deve encaminhar a ata de poss
 
 Apesar do prazo de 30 dias, a chapa vencedora deve tomar posse o mais rápido possível, para que o calendário eleitoral do próximo ano não seja prejudicado.
 
-:::note
+:::tip
 
 A chapa anterior pode dar continuidade a atividades pendentes junto à nova diretoria.
 
@@ -138,6 +138,4 @@ A chapa anterior pode dar continuidade a atividades pendentes junto à nova dire
 
 O mandato é de 1 ano, mas pode ser dilatado em assembleia geral ou encerrado antecipadamente pela chapa, especialmente no caso de correção do calendário eleitoral.
 
-A chapa vencedora deve se responsabilizar pela regularização da documentação da entidade perante a Unesp.
-
-A chapa vencedora deve tomar conhecimento dos regimentos internos da entidade.
+A chapa vencedora deve tomar conhecimento dos regimentos internos da entidade, que está disponível no Google Drive do CACiC.
