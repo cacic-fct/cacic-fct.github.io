@@ -14,7 +14,7 @@ Parágrafo Único: O Presidente do CACiC – “Alan Turing”​, é sem nenhum
 
 Substituir, com as mesmas atribuições, o Diretor Presidente, em caso de ausência ou impedimento, auxiliar o presidente na coordenação das reuniões e assembleias, redigir as atas das reuniões e assembleias, coordenar e realizar acompanhamento do desenvolvimento dos trabalhos, fazer reservas, agendamentos e estabelecimento de cronogramas.
 
-::note
+:::note
 
 Coloquialmente, diz-se que o presidente e vice-presidente fazem parte da "diretoria executiva".
 
