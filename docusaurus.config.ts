@@ -175,6 +175,10 @@ const config: Config = {
               label: 'Manual do calouro',
               href: 'https://manual.cacic.dev.br',
             },
+            {
+              label: 'Estado dos serviços',
+              href: 'https://status.cacic.dev.br',
+            },
           ],
         },
         {
