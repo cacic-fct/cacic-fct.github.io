@@ -36,7 +36,7 @@ Elaborar e coordenar eventos de caráter científico, técnico, acadêmico, cult
 
 :::note
 
-Conforme o artigo 3, parágrafo 4º, o CACiC não pode promover eventos como "churrascos" e "festas", por estes não estarem descritos.
+Conforme o artigo 3, parágrafo 4º, o CACiC não pode promover eventos como "churrascos" e "festas", por estes não se encaixarem em nenhuma das categorias descritas.
 
 :::
 
