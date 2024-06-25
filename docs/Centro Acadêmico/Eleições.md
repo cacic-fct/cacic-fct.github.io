@@ -4,7 +4,7 @@
 
 As eleições devem ser realizadas preferencialmente no mês de abril, conforme o estatuto do CACiC.
 
-Além disso, os votos devem ser coletados digitalmente, através do sistema de votação do CACiC.  
+Além disso, os votos devem ser coletados digitalmente, por meio do sistema de votação do CACiC.  
 Isso simplifica o processo ao:
 
 1. Permitir que os alunos votem de qualquer lugar, sem a necessidade de deslocamento até a faculdade;
