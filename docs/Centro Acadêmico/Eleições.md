@@ -24,9 +24,10 @@ O processo eleitoral é composto pelas seguintes etapas:
 
    - 1 aluno de cada turma
      - Considera-se apenas até o 4º ano
-   - 1 membro da diretoria executiva (presidente ou vice) da chapa atual
-     - Se o diretor executivo for candidato, ele deve escolher se irá representar a chapa atual ou a concorrente, não ocorrendo acúmulo de funções
+   - 1 membro da diretoria da chapa atual
+     - Se o diretor for candidato, ele deve escolher se irá representar a chapa atual ou a concorrente, sem que ocorra um acúmulo de representação
    - 1 membro de cada uma das chapas concorrentes
+   - Dentre os membros da comissão eleitoral, deve ser escolhido um presidente que, usualmente, é o membro da diretoria da chapa atual
 
 1. Elaboração do calendário eleitoral pela comissão eleitoral. Nele deve constar:
 
@@ -119,7 +120,13 @@ A chapa candidata deve:
 - Respeitar os prazos estabelecidos no calendário eleitoral.
   - A não entrega do material de campanha no prazo estabelecido não desclassifica a chapa, ela apenas perde o direito de divulgar o material de campanha.
 
-## Chapa vencedora
+## Após a apuração dos votos
+
+Concluída a apuração dos votos, deve-se convocar uma assembleia de posse.
+
+Após a posse, o presidente da comissão eleitoral deve encaminhar a ata de posse por meio deu um ofício. Tal ata deve ser assinada somente pelos membros que compõem a chapa eleita.
+
+### Chapa vencedora
 
 Apesar do prazo de 30 dias, a chapa vencedora deve tomar posse o mais rápido possível, para que o calendário eleitoral do próximo ano não seja prejudicado.
 
