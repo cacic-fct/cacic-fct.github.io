@@ -115,7 +115,7 @@ A chapa candidata deve:
 
 - Conhecer o estatuto do CACiC;
 - Respeitar os prazos estabelecidos no calendário eleitoral.
-  - A não entrega do material de campanha no prazo estabelecido não desclassifica a chapa: a chapa apenas perde o direito de divulgar o material de campanha.
+  - A não entrega do material de campanha no prazo estabelecido não desclassifica a chapa, ela apenas perde o direito de divulgar o material de campanha.
 
 ## Chapa vencedora
 
