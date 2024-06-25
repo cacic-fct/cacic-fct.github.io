@@ -56,6 +56,7 @@ O processo eleitoral é composto pelas seguintes etapas:
 1. Período de campanha
 
    - Debates, entrevistas e outras atividades são permitidas
+   - Não é permitido panfletagem ou entrega de qualquer outro material impresso, para poupar papel e evitar a geração de lixo
 
 1. Período de votação
 
