@@ -12,6 +12,7 @@ export default function SlateGridGenerator({ slateMembers }) {
             sx={{ width: 56, height: 56 }}
             alt={member.name}
             src={member.avatar}
+            slotProps={{ img: { loading: 'lazy' } }}
           />
           <Typography variant="h6">{member.name}</Typography>
           <Typography variant="subtitle1">{member.role}</Typography>
