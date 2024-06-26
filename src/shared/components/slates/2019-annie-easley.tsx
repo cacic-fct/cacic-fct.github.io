@@ -57,7 +57,7 @@ export const members: SlateMember[] = [
     avatar: require('@site/static/people/alexandre-folkl.avif').default,
   },
   {
-    name: 'Douglas Patrick',
+    name: 'Douglas "Doug" Patrick',
     role: 'Membro da comunicação',
     avatar: require('@site/static/people/douglas-patrick.avif').default,
   },
