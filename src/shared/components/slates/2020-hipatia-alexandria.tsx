@@ -29,7 +29,7 @@ export const members: SlateMember[] = [
   {
     name: 'Rafael Rosseto',
     role: 'Relações públicas',
-    avatar: require('@site/static/people/avatar-placeholder.webp').default,
+    avatar: require('@site/static/people/rafael-rosseto.webp').default,
   },
   {
     name: 'Gabriel Mantovani',
