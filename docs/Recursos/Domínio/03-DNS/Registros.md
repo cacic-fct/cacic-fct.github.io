@@ -11,6 +11,7 @@
 | `CNAME` | fct.cacic.dev.br           | 38a.fct.unesp.br    | Sim   | Servidor da DTI               |
 | `CNAME` | fotos.cacic.dev.br         | fct.cacic.dev.br    | Sim   | Immich                        |
 | `CNAME` | status.cacic.dev.br        | fct.cacic.dev.br    | Sim   | Uptime kuma                   |
+| `CNAME` | s.cacic.dev.br             | fct.cacic.dev.br    | Sim   | Shlink                        |
 | `CNAME` | traefik.cacic.dev.br       | fct.cacic.dev.br    | Sim   | Dashboard                     |
 | `CNAME` | auth.cacic.dev.br          | fct.cacic.dev.br    | Sim   | Authentik                     |
 | `CNAME` | plausible.cacic.dev.br     | fct.cacic.dev.br    | Sim   | Analytics                     |
