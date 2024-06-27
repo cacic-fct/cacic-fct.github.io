@@ -15,7 +15,7 @@
 | `CNAME` | auth.cacic.dev.br          | fct.cacic.dev.br    | Sim   | Authentik                     |
 | `CNAME` | plausible.cacic.dev.br     | fct.cacic.dev.br    | Sim   | Analytics                     |
 | `CNAME` | highlight.cacic.dev.br     | fct.cacic.dev.br    | Sim   | Performance monitoring        |
-| `CNAME` | api-highlight.cacic.dev.br | fct.cacic.dev.br    | Não   | Performance monitoring        |
+| `CNAME` | api-highlight.cacic.dev.br | fct.cacic.dev.br    | Sim   | Performance monitoring        |
 | `CNAME` | typesense.cacic.dev.br     | fct.cacic.dev.br    | Sim   | Search engine                 |
 | `CAA`   | letsencrypt.org            |                     | -     | Default certificate authority |
 
