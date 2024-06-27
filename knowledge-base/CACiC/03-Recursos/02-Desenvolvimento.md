@@ -9,7 +9,7 @@ Os membros são os diretores do CACiC e colaboradores selecionados.
 
 ## [Organização do CACiC no NPM](https://npmjs.com/org/cacic-fct)
 
-Essa organização contém a publicação dos pacotes desenvolvidor na organização do CACiC no GitHub.
+Essa organização contém a publicação dos pacotes desenvolvidos na organização do CACiC no GitHub.
 
 ## [Organização FCT-Coders no GitHub](https://github.com/fct-coders)
 
