@@ -52,7 +52,7 @@ export default function QuickAccess() {
           </ListItem>
 
           <ListItem disablePadding>
-            <ListItemButton href="https://manual.cacic.dev.br/pagina-do-calouro">
+            <ListItemButton href="https://manual.cacic.dev.br/página-do-calouro">
               <ListItemIcon>
                 <GroupIcon />
               </ListItemIcon>
