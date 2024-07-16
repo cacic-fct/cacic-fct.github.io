@@ -2,7 +2,9 @@
 
 Toda coleta de dado realizada pelo CACiC deve seguir a [Lei Geral de Proteção de Dados (LGPD)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm).
 
-Além disso, o CACiC deve fiscalizar quaisquer coletas de dados realizadas no curso, seja por professores, alunos ou por terceiros, como empresas, para garantir que estejam em conformidade com a LGPD e com as diretrizes desta página.
+O titular dos dados deve ser informado sobre como as informações fornecidas serão utilizadas e, se possível, deve ter a opção de não fornecê-las.
+
+O CACiC deve fiscalizar quaisquer coletas de dados realizadas no curso, seja por professores, alunos ou por terceiros, como empresas, para garantir que estejam em conformidade com a LGPD e com as diretrizes desta página.
 
 ## Formulários
 
@@ -16,8 +18,7 @@ Para que o usuário não precise preencher manualmente sempre os mesmos dados (n
 
 A coleta de fotos deve ser justificada e aprovada pela diretoria do CACiC.
 
-O indivíduo que fornece a foto deve concordar com a [licença de uso de imagem](https://cacic.dev.br/kb/CACiC/Legal/Licen%C3%A7a%20de%20uso%20de%20imagem) do CACiC.  
-Além disso, ele deve ser informado sobre como a foto será utilizada e, se possível, deve ter a opção de não fornecê-la.
+O indivíduo que fornece a foto deve concordar com a [licença de uso de imagem](https://cacic.dev.br/kb/CACiC/Legal/Licen%C3%A7a%20de%20uso%20de%20imagem) do CACiC.
 
 Não deve-se coletar fotos de pessoas a título de curiosidade. Exemplo: solicitar uma _selfie_ no questionário de integração dos calouros.
 
