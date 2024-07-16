@@ -79,7 +79,7 @@ Além disso, os membros da comissão assinam o documento de certificação da po
 
 :::danger
 
-Formulários que não forem encerrados dentro do prazo estabelecido no calendário eleitoral e no estatudo podem invalidar o processo eleitoral se houver contestação.
+Formulários que não forem encerrados dentro do prazo estabelecido no calendário eleitoral e no estatuto podem invalidar o processo eleitoral se houver contestação.
 
 :::
 
