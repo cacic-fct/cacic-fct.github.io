@@ -45,6 +45,8 @@ const config: Config = {
           routeBasePath: 'kb',
           editUrl:
             'https://github.com/cacic-fct/cacic-fct.github.io/tree/main/',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -234,6 +236,8 @@ const config: Config = {
         routeBasePath: 'docs',
         sidebarPath: './sidebar-docs.ts',
         editUrl: 'https://github.com/cacic-fct/cacic-fct.github.io/tree/main/',
+        showLastUpdateAuthor: true,
+        showLastUpdateTime: true,
       },
     ],
   ],
