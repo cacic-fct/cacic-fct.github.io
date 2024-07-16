@@ -1,13 +1,14 @@
 # Licença de uso de imagem
 
-Este contrato deve ser disponibilizado para os participantes de eventos promovidos pelo CACiC que terão suas imagens capturadas durante o evento.  
-Isso inclui participantes, ouvintes, palestrantes, organizadores, patrocinadores e qualquer outra pessoa que esteja presente no local do evento.
+Este contrato deve ser disponibilizado em qualquer coleta de imagens realizada pelo CACiC, seja em formulários, eventos ou qualquer outra situação.
 
-Dessa forma, ao efetuar a inscrição no evento, o participante concorda com os termos deste contrato.
+No caso de eventos, todos os presentes no local devem estar cientes do contrato, incluindo participantes, ouvintes, palestrantes, organizadores e patrocinadores.
+
+Ao efetuar a inscrição no evento, o participante automaticamente concorda com os termos deste contrato.
 
 **PARTES:**
 
-**Concedente:** Parte que terá suas imagens capturadas durante eventos promovidos pelo Concessionário.
+**Concedente:** Parte que terá suas imagens capturadas pelo Concessionário.
 
 **Concessionário:** CACiC - Centro Acadêmico de Ciência da Computação "Alan Turing" da Faculdade de Ciências e Tecnologia, Câmpus de Presidente Prudente, Universidade Estadual Paulista "Júlio de Mesquita Filho"
 
@@ -23,7 +24,7 @@ O presente contrato tem por objeto a concessão dos direitos de uso de imagem do
 
 **Cláusula 2ª - Condições de uso:**
 
-2.1 As imagens capturadas durante o evento poderão ser utilizadas pelo Concessionário e por terceiros designados pelo Concessionário em qualquer meio de comunicação, incluindo, mas não se limitando a, materiais impressos, internet, redes sociais, televisão, cinema, rádio, aplicativos e software distribuído.
+2.1 As imagens capturadas poderão ser utilizadas pelo Concessionário e por terceiros designados pelo Concessionário em qualquer meio de comunicação, incluindo, mas não se limitando a, materiais impressos, internet, redes sociais, televisão, cinema, rádio, aplicativos e software distribuído.
 
 **Cláusula 3ª - Exclusividade:**
 
