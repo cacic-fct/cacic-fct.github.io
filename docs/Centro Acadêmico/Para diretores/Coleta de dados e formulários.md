@@ -2,7 +2,7 @@
 
 Toda coleta de dado realizada pelo CACiC deve seguir a [Lei Geral de Proteção de Dados (LGPD)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm).
 
-Além disso, o CACiC deve fiscalizar quaisquer coleta de dados realizadas no curso, seja por professores, alunos ou por terceiros, como empresas, para garantir que estejam em conformidade com a LGPD e com as diretrizes desta página.
+Além disso, o CACiC deve fiscalizar quaisquer coletas de dados realizadas no curso, seja por professores, alunos ou por terceiros, como empresas, para garantir que estejam em conformidade com a LGPD e com as diretrizes desta página.
 
 ## Formulários
 
