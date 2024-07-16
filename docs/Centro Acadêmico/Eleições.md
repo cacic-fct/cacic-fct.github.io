@@ -88,7 +88,7 @@ Formulários que não forem encerrados dentro do prazo estabelecido no calendár
 São informações essenciais:
 
 - Nome da chapa;
-  - Em 2024, pelos últimos 5 mandatos consecutivos, o nome da chapa vencedora foi de uma mulher com relevância na área de computação, matemática ou áreas afins.
+  - Tradicionalmente, as chapas possuem nomes de mulheres com relevância na área da computação, matemática ou afins.
 - Nome completo dos integrantes;
 - Cargos que cada integrante irá ocupar.
   - O presidente será automaticamente o representante da chapa, a não ser que seja indicado outro membro.
