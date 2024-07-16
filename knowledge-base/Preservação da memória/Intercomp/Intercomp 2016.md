@@ -1,4 +1,4 @@
-# Intercompp 2016
+# Intercomp 2016
 
 Nome estilizado: INTERCOMPP® 16
 

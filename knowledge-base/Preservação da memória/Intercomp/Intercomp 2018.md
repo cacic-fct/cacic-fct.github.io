@@ -1,4 +1,4 @@
-# Intercompp 2018
+# Intercomp 2018
 
 Nome estilizado: INTERCOMPP 2k18
 
