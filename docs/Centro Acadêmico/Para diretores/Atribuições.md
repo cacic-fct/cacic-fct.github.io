@@ -2,7 +2,7 @@
 
 As atribuições de cada diretor executivo estão dispostas no artigo 16 do estatuto do CACiC.
 
-Além disso, conforme o artigo 3, parágrafo 3, inciso "a", os diretores, no papel de representantes da entidade, devem "comprometerem-se a zelar pelo patrimônio moral e material da Unesp"
+Além disso, conforme o artigo 3, inciso III, parágrafo "a", os diretores, no papel de representantes da entidade, devem "comprometerem-se a zelar pelo patrimônio moral e material da Unesp"
 
 ## Presidente
 
@@ -36,7 +36,7 @@ Elaborar e coordenar eventos de caráter científico, técnico, acadêmico, cult
 
 :::note
 
-Conforme o artigo 3, parágrafo 4º, o CACiC não pode promover eventos como "churrascos" e "festas", por estes não se encaixarem em nenhuma das categorias descritas.
+Conforme o artigo 3, inciso IV, o CACiC não pode promover eventos como "churrascos" e "festas", por estes não se encaixarem em nenhuma das categorias descritas.
 
 :::
 
