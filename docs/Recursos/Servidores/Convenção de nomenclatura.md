@@ -1,4 +1,4 @@
-# Convenção de nomeação
+# Convenção de nomenclatura
 
 Sempre que possível, use maiúsculas, para facilitar a leitura.
 
