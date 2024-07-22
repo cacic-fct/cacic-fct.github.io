@@ -28,7 +28,7 @@ Diferente da Canonical (Ubuntu), os mantenedores do Debian são firmes com essas
 ```
 
 Este servidor é gerenciado pelo CACiC,
-com auxílio da <entidade que hospeda o servidor>
+com auxílio da <entidade que hospeda o servidor>.
 
 Confira na documentação os usuários que possuem acesso
 e como entrar em contato com eles.
