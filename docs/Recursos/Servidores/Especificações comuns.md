@@ -90,3 +90,19 @@ Não deve-se abrir portas para:
 Use a VPN da Unesp para acessar os servidores hospedados na Unesp.
 
 Em caso de impossibilidade, use o WireGuard.
+
+### Servidores web
+
+#### HTTPS
+
+Todos os serviços devem aceitar conexões HTTP, para redirecioná-las permanentemente para HTTPS.
+
+#### Acessos
+
+##### Direto por IP
+
+Acessos diretos devem ser negados.
+
+#### Por hostname da Unesp ou do CACiC
+
+Deve redirecionar para a documentação do servidor.

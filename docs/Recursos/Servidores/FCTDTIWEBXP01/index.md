@@ -1,6 +1,9 @@
 # FCTDTIWEBXP01
 
-[Repositório](https://github.com/cacic-fct/server-FCTDTIWEBXP01)
+- [Repositório](https://github.com/cacic-fct/server-FCTDTIWEBXP01)
+- Responsável: CACiC e EJComp
+- Armazena informações sensíveis?
+  - **Sim**.
 
 ## Sobre
 
@@ -15,6 +18,8 @@ O processo de obtenção foi documentado em uma [discussão no GitHub](https://g
 ## Encarregados
 
 O CACiC e a EJComp são os responsáveis pela segurança dos dados do servidor e pela atualização dele, nesta ordem.
+
+Contatos:
 
 1. cacic.fct@unesp.br
 1. ejcomp.fct@unesp.br

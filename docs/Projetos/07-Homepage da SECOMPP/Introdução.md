@@ -18,7 +18,7 @@ O site é feito com [Astro](https://astro.build/) e contém integração com o [
 
 Essa proximidade é necessário por conta do perfil esperado dos [contribuidores](./Seleção%20de%20contribuidores.md).
 
-A integração com o Svelte é usada por conta do componente da tabela de horários. Este componente foi feito em Svelte 3 e não foi migrado para o Astro.
+A integração com o Svelte é usada por conta do componente da tabela de horários.
 
 ### Biblioteca de interface do usuário
 

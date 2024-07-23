@@ -12,6 +12,8 @@ Deve-se fazer login com a conta Google.
 
 Disponível em [auth.cacic.dev.br](https://auth.cacic.dev.br).
 
+Acesse [email-authentication-flow](https://auth.cacic.dev.br/if/flow/email-authentication-flow/) para login com e-mail e senha.
+
 ## FCT App
 
 Disponível em [fctapp.cacic.dev.br](https://fctapp.cacic.dev.br).
@@ -39,6 +41,12 @@ Disponível em [fotos.cacic.dev.br](https://fotos.cacic.dev.br).
 Serviço de armazenamento de segredos do CACiC.
 
 Disponível em [secrets.cacic.dev.br](https://secrets.cacic.dev.br).
+
+:::danger
+
+Todos que possuem acesso ao servidor também possuem acesso aos segredos armazenadas no Infisical.
+
+:::
 
 ## Mailcatcher ("fake" SMTP)
 
