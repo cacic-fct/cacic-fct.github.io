@@ -2,7 +2,7 @@
 
 O crachá deverá ser utilizado em eventos que necessitem de identificação dos colaboradores, membros e diretores do CACiC.
 
-Ao final da utilização, o crachá deve ser devolvido ao CACiC, para que ele possa ser reutilizado em eventos futuros.
+Ao final da utilização, o crachá deverá ser devolvido ao CACiC, para que ele possa ser reutilizado em eventos futuros.
 
 ![Exemplos de crachá](/guidelines/design/badges.avif)
 
