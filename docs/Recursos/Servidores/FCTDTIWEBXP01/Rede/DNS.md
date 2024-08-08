@@ -24,6 +24,7 @@ Esta tabela é um adendo à [tabela principal](../../../Domínio/03-Registros%20
 | `CNAME` | fotos.cacic.dev.br                     | FCTDTIWEBXP01.cacic.dev.br | Sim   | Immich                 |
 | `CNAME` | status.cacic.dev.br                    | FCTDTIWEBXP01.cacic.dev.br | Sim   | Uptime kuma            |
 | `CNAME` | s.cacic.dev.br                         | FCTDTIWEBXP01.cacic.dev.br | Sim   | Shlink                 |
+| `CNAME` | secrets.cacic.dev.br                   | FCTDTIWEBXP01.cacic.dev.br | Sim   | Infisical              |
 | `CNAME` | senhas.cacic.dev.br                    | FCTDTIWEBXP01.cacic.dev.br | Sim   | Vaultwarden            |
 | `CNAME` | auth.cacic.dev.br                      | FCTDTIWEBXP01.cacic.dev.br | Sim   | Authentik              |
 | `CNAME` | traefik.cacic.dev.br                   | FCTDTIWEBXP01.cacic.dev.br | Sim   | Dashboard              |
