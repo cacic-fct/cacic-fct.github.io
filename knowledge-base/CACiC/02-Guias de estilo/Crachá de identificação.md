@@ -43,9 +43,9 @@ A cor do logotipo do CACiC pode ser escolhida pelo colaborador, desde que ela re
 
 A tipografia do nome deve ser Inter Medium em cor preta.
 
-A tipografia dos pronomes deve ser Inter Regular em cor Pantone Cool Grey 9C, em tamanho 35% menor que a do nome.
+A tipografia dos pronomes deve ser Inter Regular em cor Pantone Cool Gray 9C, em tamanho 35% menor que a do nome.
 
-As bordas do crachá devem ser arredondadas e suas cores devem ser Pantone Cool Grey 1C.
+As bordas do crachá devem ser arredondadas e suas cores devem ser Pantone Cool Gray 1C.
 
 O espaço em branco, abaixo dos pronomes, é de uso livre.  
 É permitido desenhar, escrever ou colar adesivos.  
