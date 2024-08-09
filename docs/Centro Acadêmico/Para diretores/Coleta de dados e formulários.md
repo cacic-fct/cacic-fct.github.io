@@ -10,7 +10,7 @@ O CACiC deve fiscalizar quaisquer coletas de dados realizadas no curso, seja por
 
 ### Dados redundantes
 
-Para que o usuário não precise preencher manualmente sempre os mesmos dados (nome, e-mail, celular, RA e ano de ingresso) em formulários diferentes, colete e-mails automaticamente e utilize a função de [código de identificação](https://docs.fctapp.cacic.dev.br/frontend/interface/perfil/c%C3%B3digo-de-identifica%C3%A7%C3%A3o/) do FCT App.
+Para que o usuário não precise preencher manualmente sempre os mesmos dados (nome, e-mail, celular, RA e ano de ingresso) em formulários diferentes, colete e-mails automaticamente e utilize-os para obter os dados por meio do FCT App.
 
 ## Dados que a coleta deve ser justificada
 
