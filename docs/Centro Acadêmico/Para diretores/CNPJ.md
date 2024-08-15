@@ -1,3 +1,8 @@
+---
+tags:
+  - Legislação
+---
+
 # CNPJ
 
 A instituição não possui um número de CNPJ. Desta forma, está irregular.

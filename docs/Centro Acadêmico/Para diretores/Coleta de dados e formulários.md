@@ -1,3 +1,8 @@
+---
+tags:
+  - Legislação
+---
+
 # Coleta de dados e formulários
 
 Toda coleta de dado realizada pelo CACiC deve seguir a [Lei Geral de Proteção de Dados (LGPD)](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm).
