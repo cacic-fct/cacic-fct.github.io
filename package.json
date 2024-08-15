@@ -16,14 +16,14 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@docusaurus/core": "3.4.0",
-    "@docusaurus/plugin-content-docs": "3.4.0",
-    "@docusaurus/preset-classic": "3.4.0",
-    "@emotion/react": "^11.11.4",
-    "@emotion/styled": "^11.11.5",
+    "@docusaurus/core": "3.5.2",
+    "@docusaurus/plugin-content-docs": "3.5.2",
+    "@docusaurus/preset-classic": "3.5.2",
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
     "@mdx-js/react": "^3.0.1",
-    "@mui/icons-material": "^5.15.20",
-    "@mui/material": "^5.15.20",
+    "@mui/icons-material": "^5.16.7",
+    "@mui/material": "^5.16.7",
     "clsx": "^2.1.1",
     "date-fns": "^3.6.0",
     "docusaurus-theme-search-typesense": "^0.20.0",
@@ -33,10 +33,10 @@
     "react-twitch-embed": "^3.0.2"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.4.0",
-    "@docusaurus/tsconfig": "3.4.0",
-    "@docusaurus/types": "3.4.0",
-    "typescript": "~5.5.2"
+    "@docusaurus/module-type-aliases": "3.5.2",
+    "@docusaurus/tsconfig": "3.5.2",
+    "@docusaurus/types": "3.5.2",
+    "typescript": "~5.5.4"
   },
   "browserslist": {
     "production": [
