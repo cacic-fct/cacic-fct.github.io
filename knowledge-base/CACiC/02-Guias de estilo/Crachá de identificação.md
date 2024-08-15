@@ -12,7 +12,7 @@ O crachá deve ser composto por:
 
 1. Logotipo do CACiC:
 
-   - Caso o evento possua um crachá próprio, use o crachá do evento.
+   - Caso o evento possua um crachá próprio, use-o.
 
 1. Nome do colaborador, membro ou diretor do CACiC:
 
@@ -22,6 +22,7 @@ O crachá deve ser composto por:
 
 1. Pronomes do indivíduo:
 
+   - A inclusão dos pronomes evita constrangimentos desnecessárrios;
    - Em português, seguir o padrão:
      - Ele, dele;
      - Ela, dela;
@@ -53,7 +54,7 @@ Caso necessário, o espaço pode ser utilizado para informações adicionais ou 
 
 ## Confecção
 
-Preferencialmente, o crachá deverá ser impresso em papel A4 comum.
+Preferencialmente, o crachá deverá ser impresso em papel A4 comum, para poupar recursos.
 
 O corte do crachá deve ser feito de forma que respeite as bordas arredondadas.
 
