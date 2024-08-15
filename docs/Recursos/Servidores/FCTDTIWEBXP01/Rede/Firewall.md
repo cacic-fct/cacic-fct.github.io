@@ -34,3 +34,8 @@ O servidor apenas responde a requisições ICMP (ping) de dentro da Unesp.
 Liberar uma porta no firewall não significa que ela estará exposta para a internet.
 
 :::
+
+## Peculiaridades
+
+O servidor comunica-se com os dispositivos da intranet da FCT de maneira irrestrita.  
+Dessa forma, ele pode ser utilizado como load balancer, para redirecionar requisições para servidores sem acesso direto à internet.
