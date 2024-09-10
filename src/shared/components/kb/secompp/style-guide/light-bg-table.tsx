@@ -15,8 +15,8 @@ export default function LightBgTable(): JSX.Element {
           <td>
             <span
               className={styles.color}
-              style={{ backgroundColor: '#000000' }}></span>{' '}
-            <code>#000000</code>
+              style={{ backgroundColor: '#FFFFFF' }}></span>{' '}
+            <code>#FFFFFF</code>
           </td>
         </tr>
         <tr>
