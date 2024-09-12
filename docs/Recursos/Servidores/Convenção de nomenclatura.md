@@ -6,9 +6,12 @@ Sempre que possível, use maiúsculas, para facilitar a leitura.
   - Se localizado na Unesp, deve conter a sigla da unidade, seguida pelo acrônimo do departamento ou diretoria:
     - `FCTDTI` - Faculdade de Ciências e Tecnologia, Diretoria Técnica de Informática;
     - `FCTDMC` - Faculdade de Ciências e Tecnologia, Departamento de Matemática e Computação.
-  - Se localizado fora da rede da Unesp, deve conter o nome do responsável, seguido ou pela sigla do principal aeroporto próximo ou código da região. Se a localização exata for desconhecida, considere o aeroporto da capital do estado:
+  - Se localizado fora da rede da Unesp, deve conter o nome do responsável, seguido ou pela sigla do principal aeroporto próximo, código da região ou nome curto da cidade. Se a localização exata for desconhecida, considere o aeroporto da capital do estado:
     - `PPB` - Presidente Prudente - SP;
-    - `GRU` - São Paulo - SP.
+    - `GRU` - São Paulo - SP;
+    - `MARTINOPOLIS` - Martinópolis - SP.
+    - `VENCESLAU` - Presidente Venceslau - SP.
+    - `PIRAPOZINHO` - Pirapozinho - SP.
 - Tipo do servidor (3 letras):
   - `APP` - Servidor de aplicação;
   - `SQL` - Servidor de banco de dados;
