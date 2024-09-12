@@ -17,7 +17,6 @@ const twitchList: string[] = [];
 //youtubeList.push('jfKfPfyJRdk');
 //youtubeList.push('S_MOd40zlYU');
 
-//twitchList.push('relaxingrhythmustv');
 //twitchList.push('mst3k');
 //twitchList.push('flexingseal');
 
