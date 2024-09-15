@@ -3,7 +3,7 @@ import Card from '@mui/material/Card';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
-import Grid from '@mui/material/Unstable_Grid2';
+import Grid from '@mui/material/Grid2';
 import Button from '@mui/material/Button';
 
 const gridContainer = {
@@ -34,7 +34,7 @@ export default function AchievementsCards({
   return (
     <Grid container spacing={2}>
       {achievementsData.map((achievement, index) => (
-        <Grid sx={gridContainer} xs={4} key={index}>
+        <Grid size={{ xs: 4 }} sx={gridContainer} key={index}>
           <Card sx={gridItem}>
             <CardMedia
               sx={cardImage}

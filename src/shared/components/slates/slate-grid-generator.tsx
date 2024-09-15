@@ -1,5 +1,5 @@
 import Avatar from '@mui/material/Avatar';
-import Grid from '@mui/material/Unstable_Grid2';
+import Grid from '@mui/material/Grid2';
 import Typography from '@mui/material/Typography';
 import { Key } from 'react';
 
@@ -7,7 +7,11 @@ export default function SlateGridGenerator({ slateMembers }) {
   return (
     <Grid container spacing={2} alignItems="top" justifyContent="left">
       {slateMembers.map((member: SlateMember, index: Key) => (
-        <Grid xs={4} alignItems="center" justifyContent="center" key={index}>
+        <Grid
+          size={{ xs: 4 }}
+          alignItems="center"
+          justifyContent="center"
+          key={index}>
           <Avatar
             sx={{ width: 56, height: 56 }}
             alt={member.name}
