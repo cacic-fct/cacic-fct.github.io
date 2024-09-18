@@ -145,6 +145,9 @@ const DowntimeDecisionTree = () => {
                 <br />O servidor não está acessível por SSH.
               </Typography>
               <Typography variant="h6">O servidor responde a pings?</Typography>
+              Conecte-se diretamente ao servidor, sem passar pelo proxy.
+              <br />
+              <br />
               <code> ping &lt;domínio/ip&gt; </code>
               <br />
               <br />
