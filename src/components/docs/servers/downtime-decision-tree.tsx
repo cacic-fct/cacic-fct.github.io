@@ -114,6 +114,9 @@ const DowntimeDecisionTree = () => {
             </Typography>
             Conecte-se diretamente ao servidor, sem passar pelo proxy.
             <br />
+            O servidor pode responder apenas a solicitações originados na
+            unespNET.
+            <br />
             <br />
             <code> ssh &lt;user&gt;@&lt;domínio/ip&gt; </code>
             <br />
@@ -146,6 +149,8 @@ const DowntimeDecisionTree = () => {
               </Typography>
               <Typography variant="h6">O servidor responde a pings?</Typography>
               Conecte-se diretamente ao servidor, sem passar pelo proxy.
+              <br />
+              O servidor pode responder apenas a pings originados na unespNET.
               <br />
               <br />
               <code> ping &lt;domínio/ip&gt; </code>
