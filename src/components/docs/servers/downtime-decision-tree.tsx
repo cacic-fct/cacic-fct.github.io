@@ -35,7 +35,10 @@ const DowntimeDecisionTree = () => {
     return 'Ocorreu um erro na lógica do resultado.';
   };
 
-  const setValue = (key, value) => {
+  const setValue = (
+    key: string,
+    value: boolean | ((prevState: boolean) => boolean),
+  ) => {
     switch (key) {
       case 'statusPageAccessible':
         setStatusPageAccessible(value);
