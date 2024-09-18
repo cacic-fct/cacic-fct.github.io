@@ -22,11 +22,11 @@ const DowntimeDecisionTree = () => {
     }
 
     if (pingServerWorks) {
-      return 'O servidor responde a pings. Pode ser que o servidor esteja reiniciando. Aguarde até 30 minutos e tente o acesso SSH novamente. Se o problema persistir, pode ser que o OpenSSH esteja configurado incorretamente ou que a porta 22 tenha sido bloqueada. Entre em contato com a DTI para verificar o estado do Firewall.';
+      return 'O servidor responde a pings. Pode ser que o servidor esteja reiniciando. Aguarde até 30 minutos e tente o acesso SSH novamente. Se o problema persistir, pode ser que o OpenSSH esteja configurado incorretamente ou que a porta 22 tenha sido bloqueada. Entre em contato com a entidade responsável pela hospedagem para verificar o estado da máquina. Caso ela esteja normal, contate a DTI para verificar o estado do Firewall.';
     }
 
     if (pingDtiServersWorks) {
-      return 'Pode ser que o servidor esteja reiniciando. Aguarde até 30 minutos e tente o acesso SSH novamente. Se o problema persistir, entre em contato com a DTI para verificar o estado da máquina e, se necessário, solicitar a reinicialização dela.';
+      return 'Pode ser que o servidor esteja reiniciando. Aguarde até 30 minutos e tente o acesso SSH novamente. Se o problema persistir, entre em contato com a entidade responsável pela hospedagem para verificar o estado da máquina e, se necessário, solicitar a reinicialização dela.';
     }
 
     if (pingDtiServersWorks === false) {
