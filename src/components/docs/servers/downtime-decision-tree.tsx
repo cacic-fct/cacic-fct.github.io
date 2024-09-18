@@ -112,7 +112,10 @@ const DowntimeDecisionTree = () => {
             <Typography variant="h6">
               O servidor responde ao acesso SSH?
             </Typography>
-            <code> ssh -i ~/.ssh/id_rsa &lt;user&gt;@&lt;ip&gt; </code>
+            Conecte-se diretamente ao servidor, sem passar pelo proxy.
+            <br />
+            <br />
+            <code> ssh &lt;user&gt;@&lt;domínio/ip&gt; </code>
             <br />
             <br />
             <Button
@@ -142,7 +145,7 @@ const DowntimeDecisionTree = () => {
                 <br />O servidor não está acessível por SSH.
               </Typography>
               <Typography variant="h6">O servidor responde a pings?</Typography>
-              <code> ping 38a.fct.unesp.br </code>
+              <code> ping &lt;domínio/ip&gt; </code>
               <br />
               <br />
               <Button
@@ -177,11 +180,9 @@ const DowntimeDecisionTree = () => {
               <Typography variant="h6">
                 <i>Toda</i> a infraestrutura de rede da DTI responde a pings?
               </Typography>
-              <code>
-                ping fct1-pp.net.unesp.br
-                <br />
-                ping pprudente.fct.unesp.br{' '}
-              </code>
+              <code>ping fct1-pp.net.unesp.br</code>
+              <br />
+              <code>ping pprudente.fct.unesp.br</code>
               <br />
               <br />
               <Button
