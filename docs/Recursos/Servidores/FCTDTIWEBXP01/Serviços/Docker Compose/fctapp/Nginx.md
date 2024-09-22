@@ -60,7 +60,7 @@ Em conjunto com o Angular, o `nonce` é usado para permitir a execução de _scr
   - `https://content-firebaseappcheck.googleapis.com/` - Firebase
   - `https://cdn.jsdelivr.net/gh/cacic-fct/fct-app@main/src/assets/certificates/templates/` - Templates de certificados
   - `https://cdn.jsdelivr.net/gh/cacic-fct/fonts@main/Inter/latin-ext/` - Fonte Inter para templates de certificados
-  - `https://api.highlight.cacic.dev.br` - Monitoramento de erros do Highlight
+  - `https://glitchtip.cacic.dev.br` - Monitoramento de erros do Glitchtip
 - `manifest-src`
   - `'self'`
 - `default-src`

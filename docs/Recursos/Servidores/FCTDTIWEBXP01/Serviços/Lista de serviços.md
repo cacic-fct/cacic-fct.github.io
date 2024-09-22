@@ -24,11 +24,11 @@ Painel de monitoramento do CACiC.
 
 Disponível em [grafana.cacic.dev.br](https://grafana.cacic.dev.br).
 
-## Highlight (monitoramento)
+## Glitchtip (monitoramento)
 
 Platforma de monitoramento de erros e performance de projetos do CACiC.
 
-Disponível em [highlight.cacic.dev.br](https://highlight.cacic.dev.br).
+Disponível em [glitchtip.cacic.dev.br](https://glitchtip.cacic.dev.br).
 
 ## Immich (fotos)
 
