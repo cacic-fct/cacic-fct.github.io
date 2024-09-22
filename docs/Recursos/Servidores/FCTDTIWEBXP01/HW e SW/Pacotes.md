@@ -8,9 +8,11 @@ O shell padrão do servidor é o `bash`, mas o `zsh` está instalado.
 
 Cada usuário pode escolher o seu shell padrão e instalar plugins locais.
 
-## ncdu
+## gdu
 
-O `ncdu` é um utilitário de linha de comando que permite visualizar, de forma interativa, o uso do disco.
+O `gdu` é um utilitário de linha de comando que permite visualizar, de forma interativa, o uso do disco.
+
+É uma solução mais rápida que o `ncdu` e mais amigável que o `du`.
 
 ## htop
 
