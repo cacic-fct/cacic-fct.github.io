@@ -4,12 +4,16 @@
 
 Os servidores do CACiC devem rodar Debian Stable.
 
-Apesar dos alunos estarem mais habituados com o Arch Linux ou Ubuntu, a filosofia e diretrizes do Debian estão mais alinhados com as necessidades dos projetos da entidade:  
-É um sistema [seguro](https://wiki.debian.org/WhyDebian#Security_and_Reliability) e [robusto, pronto OOTB](https://wiki.debian.org/DontBreakDebian) e que [necessita de poucas atualizações](https://www.debian.org/releases/) – a major version só atualiza a cada 2 anos e é mantida por no mínimo 3 anos e o upgrade dificilmente quebra o SO.
+Apesar dos alunos estarem mais habituados com o Arch Linux ou Ubuntu, a filosofia e as diretrizes do Debian estão mais alinhados com as necessidades dos projetos da entidade:  
+É um sistema [seguro](https://wiki.debian.org/WhyDebian#Security_and_Reliability) e [robusto, pronto OOTB](https://wiki.debian.org/DontBreakDebian) e que [necessita de poucas atualizações](https://www.debian.org/releases/) – a _major version_ só atualiza a cada 2 anos e é mantida por no mínimo 3 anos e o upgrade dificilmente quebra o SO.
 
-O formato de Rolling Release adotado pelo Arch Linux pode ser problemático, pois não há alguém fazendo manutenções constantes. O Fedora tem um problema parecido.
+O formato de _rolling release_ adotado pelo Arch Linux pode ser problemático, pois não há alguém fazendo manutenções constantes. O Fedora tem um problema parecido.
 
 Diferente da Canonical (Ubuntu), os mantenedores do Debian são firmes com essas políticas e não sofrem pressão do mercado.
+
+### Atualizações automáticas
+
+Deve-se configurar o servidor para que os pacotes gerenciados pelo `apt` recebam atualizações automáticas diárias.
 
 ### Configurações
 
@@ -89,13 +93,16 @@ Não deve-se abrir portas para:
 
 Use a VPN da Unesp para acessar os servidores hospedados na Unesp.
 
-Em caso de impossibilidade, use o WireGuard.
+Em caso de impossibilidade, use obrigatoriamente o WireGuard.  
+Não use Tailscale, CloudFlare WARP ou tecnologias similares.
 
 ### Servidores web
 
 #### HTTPS
 
 Todos os serviços devem aceitar conexões HTTP, para redirecioná-las permanentemente para HTTPS.
+
+Também deve-se abrir para UDP as portas 80 (HTTP) e 443 (HTTPS), para utilização do protocolo HTTP/3.
 
 #### Acessos
 
