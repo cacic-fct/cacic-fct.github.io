@@ -29,11 +29,13 @@ ACCEPT     icmp --  186.217.0.0/16       anywhere             icmp echo-request
 
 :::note
 
-O servidor apenas responde a requisições ICMP (ping) de dentro da Unesp.
+A permissão para responder pings originados do bloco `186.217.0.0/16` foi uma adição manual, que não está disponível no script de firewall da DTI.
 
-Liberar uma porta no firewall não significa que ela estará exposta para a internet.
+Liberar uma porta no `iptables` não significa que ela estará exposta para a internet. [Solicite a abertura para a DTI](../../Especificações%20comuns.md#abertura-de-portas)
 
 :::
+
+Observe que o servidor apenas responde a requisições ICMP (ping) de dentro da Unesp.
 
 ## Peculiaridades
 
