@@ -63,6 +63,14 @@ Substitui o Google Analytics.
 
 Disponível em [plausible.cacic.dev.br](https://plausible.cacic.dev.br).
 
+## Shlink (encurtador de links)
+
+Serviço de encurtamento de links do CACiC.
+
+Permite personalização OGP.
+
+Disponível em [s.cacic.dev.br](https://shlink.cacic.dev.br).
+
 ## Traefik (proxy/roteamento)
 
 Serviço de proxy reverso utilizado para roteamento de tráfego e gestão de certificados SSL.
