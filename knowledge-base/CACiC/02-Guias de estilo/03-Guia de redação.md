@@ -91,7 +91,7 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
      - Impede leitores de tela de interpretar ou reproduzir o texto corretamente:
        - O conteúdo se torna inacessível para pessoas com deficiência visual.
      - Dificulta a leitura por pessoas com dislexia;
-     - Isso dificulta a busca por palavras-chave;
+     - Dificulta a busca por palavras-chave;
      - A depender dos caracteres utilizados, o texto pode não ser exibido corretamente em todos os dispositivos.
 
 1. Utilizar itálico para destacar palavras ou frases ao invés de negrito ou sublinhado:
