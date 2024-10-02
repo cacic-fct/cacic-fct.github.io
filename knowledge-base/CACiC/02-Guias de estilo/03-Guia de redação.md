@@ -82,11 +82,21 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
 
    - Ao invés de "O Que Fazemos Na Unesp?", utilizar "O que fazemos na Unesp?".
 
-1. Ao fazer referência a um ano, utilizar a grafia correta:
+1. Não utilize caracteres especiais para substituir letras:
 
-   - Ao invés de “2k23”, utilizar "2023".
+   - Ao invés de “2k23”, utilizar "2023";
+   - "𝑬𝒗𝒆𝒏𝒕𝒐 𝒈𝒓𝒂𝒕𝒖𝒊𝒕𝒐 𝒆 𝒂𝒃𝒆𝒓𝒕𝒐 𝒂𝒐 𝒑𝒖́𝒃𝒍𝒊𝒄𝒐!";
+   - "C@fé c0m 1nt3rn3t";
+   - Problemas:
+     - Impede leitores de tela de interpretar ou reproduzir o texto corretamente:
+       - O conteúdo se torna inacessível para pessoas com deficiência visual.
+     - Dificulta a leitura por pessoas com dislexia;
+     - Isso dificulta a busca por palavras-chave;
+     - A depender dos caracteres utilizados, o texto pode não ser exibido corretamente em todos os dispositivos.
 
-1. Utilizar itálico para destacar palavras ou frases ao invés de negrito ou sublinhado.
+1. Utilizar itálico para destacar palavras ou frases ao invés de negrito ou sublinhado:
+
+   - Ao invés de "**Inscreva-se agora**", utilizar "_Inscreva-se agora_".
 
 1. Palavras em idioma estrangeiro devem ser escritas em itálico:
 
