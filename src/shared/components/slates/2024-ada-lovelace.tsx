@@ -2,13 +2,8 @@ import { SlateMember } from '@site/src/shared/components/slates/slate-grid-gener
 
 export const members: SlateMember[] = [
   {
-    name: 'Luiz Henrique Serafim',
-    role: 'Presidente',
-    avatar: require('@site/static/people/avatar-placeholder.webp').default,
-  },
-  {
     name: 'Igor José Rodrigues',
-    role: 'Vice-presidente',
+    role: 'Presidente em exercício',
     avatar: require('@site/static/people/avatar-placeholder.webp').default,
   },
   {
@@ -69,6 +64,11 @@ export const members: SlateMember[] = [
   {
     name: 'Marcos Betoni',
     role: 'Relações Públicas',
+    avatar: require('@site/static/people/avatar-placeholder.webp').default,
+  },
+  {
+    name: 'Luiz Henrique Serafim',
+    role: 'Ex-presidente',
     avatar: require('@site/static/people/avatar-placeholder.webp').default,
   },
 ];
