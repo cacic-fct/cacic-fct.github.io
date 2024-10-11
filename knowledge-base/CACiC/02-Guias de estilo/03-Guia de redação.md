@@ -102,6 +102,11 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
 
    - "O termo _software_ é utilizado para se referir a programas de computador".
 
+1. Numerais:
+
+   - Números de zero a dez: escreva por extenso;
+   - Números de 11 em diante: escreva em algarismos arábicos.
+
 1. Empregar corretamente “a”, “há” e “à”:
 
    - “Há muito tempo”, “há 2 anos”
