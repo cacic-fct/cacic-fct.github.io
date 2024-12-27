@@ -208,7 +208,7 @@ const config: Config = {
             protocol: 'https',
           },
         ],
-        apiKey: 'VRIbcr31eArhsgEfKLeW0ISynrbtQgRF',
+        apiKey: '3RhEqDi1DwXS764K7XdEvXFRb8LG66Ks',
       },
 
       typesenseSearchParameters: {},
