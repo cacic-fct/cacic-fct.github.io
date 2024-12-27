@@ -19,15 +19,15 @@
     "@docusaurus/core": "3.5.2",
     "@docusaurus/plugin-content-docs": "3.5.2",
     "@docusaurus/preset-classic": "3.5.2",
-    "@emotion/react": "^11.13.3",
-    "@emotion/styled": "^11.13.0",
-    "@mdx-js/react": "^3.0.1",
-    "@mui/icons-material": "^6.1.0",
-    "@mui/material": "^6.1.0",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mdx-js/react": "^3.1.0",
+    "@mui/icons-material": "^6.3.0",
+    "@mui/material": "^6.3.0",
     "clsx": "^2.1.1",
     "date-fns": "^3.6.0",
     "docusaurus-theme-search-typesense": "^0.22.0",
-    "prism-react-renderer": "^2.4.0",
+    "prism-react-renderer": "^2.4.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-twitch-embed": "^3.0.2"
@@ -36,7 +36,7 @@
     "@docusaurus/module-type-aliases": "3.5.2",
     "@docusaurus/tsconfig": "3.5.2",
     "@docusaurus/types": "3.5.2",
-    "typescript": "~5.6.2"
+    "typescript": "~5.6.3"
   },
   "browserslist": {
     "production": [
