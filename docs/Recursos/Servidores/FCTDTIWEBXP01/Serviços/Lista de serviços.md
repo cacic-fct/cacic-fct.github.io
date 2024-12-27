@@ -44,7 +44,7 @@ Disponível em [secrets.cacic.dev.br](https://secrets.cacic.dev.br).
 
 :::danger
 
-Todos que possuem acesso ao servidor também possuem acesso aos segredos armazenadas no Infisical.
+Todos que possuem acesso ao servidor também possuem acesso aos segredos armazenados no Infisical.
 
 :::
 
