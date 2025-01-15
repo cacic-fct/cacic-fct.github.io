@@ -72,6 +72,16 @@ e como entrar em contato com eles.
  -----------------------------------------------------
 ```
 
+## Formatação de disco
+
+Os discos dos servidores linux do CACiC que não usem RAID devem estar formatados com BTRFS.
+
+Em caso de qualquer tipo de RAID, devem estar formatados com ZFS. Não deve-se utilizar hardware RAID.
+
+### SWAP
+
+No mínimo o tamanho equivalente à RAM do servidor.
+
 ## Rede
 
 ### Abertura de portas

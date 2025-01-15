@@ -4,6 +4,7 @@
 - Responsável: CACiC e EJComp
 - Armazena informações sensíveis?
   - **Sim**.
+- Nomenclatura DTI: "Servidor da SECOMPP" ou "38a".
 
 ## Sobre
 

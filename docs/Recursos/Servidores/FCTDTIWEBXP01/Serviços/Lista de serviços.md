@@ -34,13 +34,13 @@ Disponível em [glitchtip.cacic.dev.br](https://glitchtip.cacic.dev.br).
 
 Serviço de armazenamento de fotos do CACiC, utilizado para divulgação de álbuns de eventos acadêmicos.
 
-Disponível em [fotos.cacic.dev.br](https://fotos.cacic.dev.br).
+Disponível em [fotos.cacic.dev.br](https://fotos.cacic.dev.br) para a unespNET.
 
 ## Infisical (segredos)
 
 Serviço de armazenamento de segredos do CACiC.
 
-Disponível em [secrets.cacic.dev.br](https://secrets.cacic.dev.br).
+Disponível em [secrets.cacic.dev.br](https://secrets.cacic.dev.br) para a unespNET.
 
 :::danger
 
@@ -93,7 +93,7 @@ Disponível em [status.cacic.dev.br](https://status.cacic.dev.br).
 
 Gerenciador de senhas do CACiC.
 
-Disponível em [senhas.cacic.dev.br](https://senhas.cacic.dev.br).
+Disponível em [senhas.cacic.dev.br](https://senhas.cacic.dev.br) para a unespNET.
 
 :::danger
 

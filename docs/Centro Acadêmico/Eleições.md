@@ -57,7 +57,7 @@ O processo eleitoral é composto pelas seguintes etapas:
 1. Período de campanha
 
    - Debates, entrevistas e outras atividades são permitidas
-   - Não é permitido panfletagem ou entrega de qualquer outro material impresso, para poupar papel e evitar a geração de lixo
+   - Evite a panfletagem ou entrega de qualquer outro material impresso, para poupar papel e evitar a geração desnecessária de lixo
 
 1. Período de votação
 
@@ -124,7 +124,7 @@ A chapa candidata deve:
 
 Concluída a apuração dos votos, deve-se convocar uma assembleia de posse.
 
-Após a posse, o presidente da comissão eleitoral deve encaminhar a ata de posse por meio deu um ofício. Tal ata deve ser assinada somente pelos membros que compõem a chapa eleita.
+Após a posse, o presidente da comissão eleitoral deve encaminhar a ata de posse por meio de um ofício para ???? (consultar a chapa anterior e preencher a informação aqui). Tal ata deve ser assinada somente pelos membros que compõem a chapa eleita.
 
 ### Chapa vencedora
 
@@ -138,4 +138,4 @@ A chapa anterior pode dar continuidade a atividades pendentes junto à nova dire
 
 O mandato é de 1 ano, mas pode ser dilatado em assembleia geral ou encerrado antecipadamente pela chapa, especialmente no caso de correção do calendário eleitoral.
 
-A chapa vencedora deve tomar conhecimento dos regimentos internos da entidade, que está disponível no Google Drive do CACiC.
+A chapa vencedora deve tomar conhecimento dos regimentos internos da entidade, que está disponível no Google Drive do CACiC, e deve atualizar o site da entidade com as novas informações.
