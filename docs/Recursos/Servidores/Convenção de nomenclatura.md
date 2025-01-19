@@ -11,7 +11,6 @@ Sempre que possível, use maiúsculas, para facilitar a leitura.
     - `GRU` - São Paulo - SP;
     - `MARTINOPOLIS` - Martinópolis - SP.
     - `VENCESLAU` - Presidente Venceslau - SP.
-    - `PIRAPOZINHO` - Pirapozinho - SP.
     - `PIRAPO` - Pirapozinho - SP.
 - Tipo do servidor (3 letras):
   - `APP` - Servidor de aplicação;
@@ -34,3 +33,7 @@ Exemplos:
 - `FCTDTIWEBXP01` - Servidor web de produção da Diretoria Técnica de Informática, acessível pela internet.
 - `AWSRICSQLXD02` - 2º Servidor de banco de dados de desenvolvimento da Amazon Web Services, localizado em `us-east-1` (Virginia), acessível pela internet.
 - `FULANOPPBAPPD01` - Servidor de aplicação de desenvolvimento do "Fulano", localizado em Presidente Prudente, acessível pela internet.
+
+## Repositório no GitHub
+
+Se o servidor possui um repositório no GitHub, o nome do repositório deve seguir a mesma convenção de nomenclatura do servidor, com a adição do prefixo `server-`.
