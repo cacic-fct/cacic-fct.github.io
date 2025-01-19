@@ -117,7 +117,7 @@ const DowntimeDecisionTree = () => {
             </Typography>
             Conecte-se diretamente ao servidor, sem passar pelo proxy.
             <br />
-            O servidor pode responder apenas a solicitações originados na
+            O servidor pode responder apenas a solicitações originadas na
             unespNET.
             <br />
             <br />

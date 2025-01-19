@@ -124,7 +124,7 @@ A chapa candidata deve:
 
 Concluída a apuração dos votos, deve-se convocar uma assembleia de posse.
 
-Após a posse, o presidente da comissão eleitoral deve encaminhar a ata de posse por meio de um ofício para ???? (consultar a chapa anterior e preencher a informação aqui). Tal ata deve ser assinada somente pelos membros que compõem a chapa eleita.
+Após a posse, o presidente da comissão eleitoral deve encaminhar a ata de posse por meio de um ofício para a Seção **???? (consultar a chapa anterior e preencher a informação aqui)**. Tal ata deve ser assinada somente pelos membros que compõem a chapa eleita, sem necessidade das assinaturas dos participantes da comissão eleitoral.
 
 ### Chapa vencedora
 

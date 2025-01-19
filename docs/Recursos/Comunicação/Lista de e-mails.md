@@ -34,6 +34,6 @@ Lista dos administradores do FCT App.
 
 ### SECOMPP
 
-Lista dos membros da comissão organizadora da SECOMPP.
+Lista dos alunos membros da comissão organizadora da SECOMPP.
 
 [`secompp`](https://groups.google.com/g/secompp)

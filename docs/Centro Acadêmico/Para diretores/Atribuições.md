@@ -28,7 +28,7 @@ Realizar a contabilidade através do controle do livro-caixa e de formulação d
 
 ## Comunicação
 
-Disponibilizar informações das diversas oportunidades e eventos aos membros, à Coordenação e ao Conselho do curso de Bacharelado em Ciência da Computação da FCT/UNESP, bem como à Direção da FCT/UNESP e a toda sociedade, realizar a manutenção do mural, do website e do e-mail do CACiC – “Alan Turing”​, também sendo responsável pelas correspondências.
+Disponibilizar informações das diversas oportunidades e eventos aos membros, à Coordenação e ao Conselho do curso de Bacharelado em Ciência da Computação da FCT/UNESP, bem como à Direção da FCT/UNESP e a toda sociedade, realizar a manutenção do mural, do site e do e-mail do CACiC – “Alan Turing”​, também sendo responsável pelas correspondências.
 
 ## Eventos
 

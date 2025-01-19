@@ -12,6 +12,7 @@ Sempre que possível, use maiúsculas, para facilitar a leitura.
     - `MARTINOPOLIS` - Martinópolis - SP.
     - `VENCESLAU` - Presidente Venceslau - SP.
     - `PIRAPOZINHO` - Pirapozinho - SP.
+    - `PIRAPO` - Pirapozinho - SP.
 - Tipo do servidor (3 letras):
   - `APP` - Servidor de aplicação;
   - `SQL` - Servidor de banco de dados;
