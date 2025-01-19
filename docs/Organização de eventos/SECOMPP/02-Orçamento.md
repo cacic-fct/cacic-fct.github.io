@@ -1,0 +1,14 @@
+# Orçamento
+
+A SECOMPP não é autosustentável, isto é, é necessária a injeção de recursos pela reitoria, departamento e patrocinadores. O orçamento é dividido em:
+
+- **Caixa inicial**: é o valor remanescente da edição anterior.
+- **Contribuições**: são os valores que a reitoria e o departamento injetam na SECOMPP e, também, doações;
+- **Receitas**: são provenientes de inscrições, patrocínios, venda de produtos, etc.;
+- **Patrocínios**: pode haver a existência de cotas de patrocínio, que são divididos em ouro, prata e bronze, cada um com um valor e benefícios diferentes;
+- **Inscrições**: podem ser divididas em unespiano, estudante de outras instituições, professores e profissionais;
+- **Despesas fixas**: são aquelas que ocorrem todos os anos, como o coffee break, kits, confraternização, etc.
+- **Despesas variáveis**: são aquelas que variam de acordo com a necessidade, como o deslocamento de palestrantes, aluguel de equipamentos, contratação de serviços, etc.
+- **Outras receitas ou despesas**: são aquelas que não se encaixam nas categorias anteriores.
+
+É importante que uma planilha seja criada para o controle de todas as movimentações financeiras, uma vez que o dinheiro remanescente é utilizado no ano seguinte.
