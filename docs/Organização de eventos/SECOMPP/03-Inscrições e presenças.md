@@ -43,9 +43,9 @@ Se nenhum minicurso for selecionado, a participação no evento é gratuita, uma
 
 ### Pagamento
 
-O pagamento deve ser feito por meio do Pix da Fundacte. Não deve-se utilizar a conta bancária de um aluno, para evitar problemas com o fisco e com o bloqueio de valores pelo banco.
+O pagamento deve ser feito por meio do Pix da FUNDACTE. Não deve-se utilizar a conta bancária de um aluno, para evitar problemas com o fisco e com o bloqueio de valores pelo banco.
 
-Caso necessário, o participante pode optar pelo pagamento em dinheiro, que deve ser recolhido pelo CACiC e repassado à Fundacte.
+Caso necessário, o participante pode optar pelo pagamento em dinheiro, que deve ser recolhido pelo CACiC e repassado à FUNDACTE.
 
 ## Presenças
 

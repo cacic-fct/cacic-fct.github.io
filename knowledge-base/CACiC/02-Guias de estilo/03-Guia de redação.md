@@ -58,8 +58,17 @@ Também se aplica o que está disposto no guia de identidade visual.
    - Não usar "FCT/Unesp".
 
 1. A FCT utiliza algarismos arábicos para indicar os anfiteatros e blocos no mapa, em editais e no diário oficial.
+
    - Ao invés de "Anfiteatro I", utilizar "Anfiteatro 1".
    - Ao invés de "Bloco de Aulas I", utilizar "Bloco de aulas 1".
+
+1. Utilizar "FUNDACTE" para referenciar a Fundação de Ciências, Tecnologia e Ensino.
+
+   - Não utilizar "Fundacte".
+
+1. Utilizar "Vunesp" para referenciar a Fundação para o Vestibular da Universidade Estadual Paulista.
+
+   - Não utilizar "VUNESP".
 
 ## Identidade da chapa em exercício
 
