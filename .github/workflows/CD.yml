@@ -60,7 +60,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      TYPESENSE_API_KEY: ${{ secrets.TYPESENSE_API_KEY }}
+      TYPESENSE_API_KEY: ${{ secrets.TYPESENSE_API_ADMIN }}
       TYPESENSE_HOST: typesense.cacic.dev.br
       TYPESENSE_PORT: 443
       TYPESENSE_PROTOCOL: https
