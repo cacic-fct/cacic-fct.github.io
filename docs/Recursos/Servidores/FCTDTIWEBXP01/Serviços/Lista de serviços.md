@@ -14,6 +14,8 @@ Disponível em [auth.cacic.dev.br](https://auth.cacic.dev.br).
 
 Acesse [email-authentication-flow](https://auth.cacic.dev.br/if/flow/email-authentication-flow/) para login com e-mail e senha.
 
+O Authentik é mais simples que o Keyclock para usos internos.
+
 ## FCT App
 
 Disponível em [fctapp.cacic.dev.br](https://fctapp.cacic.dev.br).
