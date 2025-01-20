@@ -15,6 +15,9 @@ import GroupIcon from '@mui/icons-material/Group';
 import ArticleIcon from '@mui/icons-material/Article';
 import BookIcon from '@mui/icons-material/Book';
 
+import theme from '@site/src/shared/components/mui-theme';
+import { ThemeProvider } from '@emotion/react';
+
 export default function QuickAccess() {
   return (
     <Card>
