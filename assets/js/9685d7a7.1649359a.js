@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcacic_fct=self.webpackChunkcacic_fct||[]).push([[5048],{52041:c=>{c.exports=JSON.parse('{"tags":[{"label":"Legisla\xe7\xe3o","permalink":"/docs/tags/legislacao","count":3}]}')}}]);
