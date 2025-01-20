@@ -145,7 +145,7 @@ const config: Config = {
             },
             {
               label: 'YouTube',
-              href: 'https://youtube.com/@cacicfct',
+              href: 'https://youtube.com/@cacic-fct',
             },
 
             {
