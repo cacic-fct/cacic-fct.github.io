@@ -4,6 +4,20 @@ title: Lista de serviços
 
 O servidor do FCT App também hospeda outros serviços utilizados pelo CACiC.
 
+## Serviços próprios do CACiC
+
+### FCT App
+
+Disponível em [fctapp.cacic.dev.br](https://fctapp.cacic.dev.br).
+
+### Gerador de e-mails
+
+Disponível em [emails.cacic.dev.br](https://emails.cacic.dev.br).
+
+### Error pages
+
+Disponível como middleware do Traefik.
+
 ## Authentik (autenticação)
 
 Utilizado para autenticação comum entre os serviços do CACiC.
@@ -15,10 +29,6 @@ Disponível em [auth.cacic.dev.br](https://auth.cacic.dev.br).
 Acesse [email-authentication-flow](https://auth.cacic.dev.br/if/flow/email-authentication-flow/) para login com e-mail e senha.
 
 O Authentik é mais simples que o Keyclock para usos internos.
-
-## FCT App
-
-Disponível em [fctapp.cacic.dev.br](https://fctapp.cacic.dev.br).
 
 ## Grafana (painel de monitoramento)
 

@@ -2,11 +2,11 @@
 
 ## Reunião com o coordenador do curso
 
-A comissão de recepção deve manter contato com o coordenador do curso que, tradicionalmente, faz uma palestra de boas-vindas aos calouros. A comissão também deve informar o coordenador sobre as atividades planejadas.
+A comissão de recepção deve manter contato com o coordenador do curso que, tradicionalmente, faz uma palestra de boas-vindas aos calouros. A comissão também deve informar o coordenador sobre as atividades planejadas pelos alunos, para a montagem de um cronograma de atividades.
 
 ## Pedágio
 
-O CACiC e a comissão do pedágio podem divulgar o pedágio por meio dos canais oficiais da entidade desde que os recursos sejam revertidos ao caixa do CA ou para atividades de integração do curso, como o churrasco. Caso o dinheiro não seja revertido em prol do curso, o CACiC não fará a divulgação.
+O CACiC e a comissão do pedágio podem divulgar o pedágio por meio dos canais oficiais da entidade desde que os recursos sejam revertidos ao caixa do CA ou para atividades de integração do curso, como confraternizações (o churrasco), palestras e eventos acadêmicos. Caso o dinheiro não seja revertido em prol do curso, o CACiC não fará a divulgação.
 
 ## Festas
 
