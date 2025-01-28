@@ -10,12 +10,12 @@ Debian Stable, conforme [especificações comuns](../../Especificações%20comun
 
 Conforme norma da Unesp, cada pessoa possui seu próprio usuário.\*
 
-- dti (1000)
-- fernando (1001)
-- guibatalhoti (1002)
-- willshobwish (1003)
-- danielserezane (1004)
-- renanyudi (1005)
+- [dti](https://www.fct.unesp.br/#!/informatica/sobre-o-sti/) (1000)
+- [fernando](https://www.fct.unesp.br/#!/departamentos/matematica-e-computacao/estrutura-administrativa/) (1001)
+- [guibatalhoti](https://github.com/guibatalhoti) (1002)
+- [willshobwish](https://github.com/willshobwish) (1003)
+- [danielserezane](https://github.com/salies) (1004)
+- [renanyudi](https://github.com/yudi) (1005)
 
 \*Configurado pela DTI.
 

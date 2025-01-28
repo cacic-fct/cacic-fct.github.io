@@ -7,5 +7,5 @@
 1. Não delete nenhum tipo de arquivo. O que pode parecer irrelevante para você, pode ser útil para a próxima gestão.
    - Se não há mais espaço:
      1. Compacte arquivos grandes ou converta para formatos mais eficientes;
-     1. Transfira fotos para o https://fotos.cacic.dev.br;
+     1. Transfira fotos e vídeos para o https://fotos.cacic.dev.br;
      1. Apague arquivos duplicados;

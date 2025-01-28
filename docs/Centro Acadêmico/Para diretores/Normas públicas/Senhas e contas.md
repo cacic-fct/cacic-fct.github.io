@@ -20,6 +20,7 @@
    - TikTok e semelhantes. O CA não é um influenciador digital;
    - Twitter e semelhantes. O formato de microblog não é adequado para o CA;
    - Linktree e semelhantes. Use o árvore de links do site do CACiC;
+   - Bit.ly e semelhantes. Use o encurtador de links do CACiC;
    - Dropbox, Box, Mega e semelhantes. Use o Google Drive do CACiC ou os servidores próprios.
 
 1. Leia as normas internas sobre recuperação de contas;
