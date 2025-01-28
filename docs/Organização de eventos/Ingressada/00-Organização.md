@@ -6,7 +6,7 @@ A comissão de recepção é responsável por organizar as atividades de integra
 
 A comissão deve ser formada com antecedência suficiente para que as atividades sejam bem planejadas.
 
-:::danger
+:::note
 
 Pela denotação negativa do termo "trote", prefira por usar os termos "recepção" ou "Ingressada" para se referir às atividades de integração dos calouros.
 
