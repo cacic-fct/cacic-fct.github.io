@@ -12,6 +12,8 @@ Pela denotação negativa do termo "trote", prefira por usar os termos "recepç�
 
 :::
 
+Os membros da comissão devem ser rigorosamente selecionados para evitar constrangimentos, assédios e excessos. A comissão deve ser composta por pessoas que respeitem a diversidade e a individualidade dos calouros.
+
 ## O papel do CACiC
 
 O CACiC é responsável por supervisionar as atividades de integração dos calouros, para evitar assédios, excessos e importunações, a fim de garantir que as interações sejam saudáveis respeitosas. O CACiC deve ser informado sobre todas as atividades planejadas pela comissão de recepção e deve estar presente durante as atividades oficiais.
