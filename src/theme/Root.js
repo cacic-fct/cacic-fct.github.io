@@ -7,8 +7,10 @@ import { ThemeProvider } from '@mui/material/styles';
 export default function Root({ children }) {
   return (
     <>
-      <InitColorSchemeScript />
-      <ThemeProvider theme={theme}>{children}</ThemeProvider>
+      {/* <InitColorSchemeScript /> */}
+      {/* <ThemeProvider theme={theme}> */}
+      {children}
+      {/* </ThemeProvider> */}
     </>
   );
 }
