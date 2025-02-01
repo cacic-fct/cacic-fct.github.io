@@ -57,6 +57,14 @@ export default function LinkList({ cardList }: { cardList: CardList[] }) {
   }
 }
 
+/**
+ * Interface representing a link item with associated metadata
+ * @interface ListType
+ * @property {string} title - The title or name of the link
+ * @property {string} icon - The MUI icon identifier
+ * @property {string} url - The URL or destination path of the link
+ * @property {string | null} content - Optional content description associated with the link
+ */
 export interface ListType {
   title: string;
   icon: string;
@@ -64,6 +72,15 @@ export interface ListType {
   content: string | null;
 }
 
+/**
+ * Interface representing a card list structure.
+ * @interface
+ * @property {string | null} title - The title of the card list
+ * @property {ListType[]} content - Array of list items
+ * @property {Object} [img] - Optional image object
+ * @property {string} img.src - Source URL of the image
+ * @property {string} img.alt - Alternative text for the image
+ */
 export interface CardList {
   title: string | null;
   content: ListType[];

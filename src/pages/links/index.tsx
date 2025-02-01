@@ -7,6 +7,21 @@ import { CardList, ListType } from '@site/src/components/links/linkList';
 import { Container } from '@mui/material';
 
 /* Example
+ * Para adicionar um item à árvore de links, edite as variáveis linkList e cardList que estão fora do comentário.
+ *
+ * linkList: Lista de links
+ ** title: Título do item
+ ** icon: Ícone MUI
+ ** url: URL do item
+ ** content: Descrição do item ou null
+ *
+ * cardList: Lista de cards
+ ** title: Título do card
+ ** content: Lista de links
+ ** img: Imagem do card (opcional)
+ *** src: URL da imagem
+ *** alt: Texto alternativo da imagem
+
       const linkList1 = [
         {
           title: 'Plenária do MUP – Inscrições',
@@ -17,6 +32,15 @@ import { Container } from '@mui/material';
         },
       ];
   
+      const linkList2 = [
+        {
+          title: 'Site do CACiC',
+          icon: 'school',
+          url: 'https://cacic.dev.br',
+          content: null,
+        },
+      ];
+
       const cardList = [
         {
           title: null,
@@ -28,20 +52,28 @@ import { Container } from '@mui/material';
         },
         {
           title: 'Movimento estudantil',
-          content: linkList,
+          content: linkList1,
+        },
+        {
+          title: 'CACiC',
+          content: linkList2,
         },
       ];
-    */
+*/
+
 const linkList: ListType[] = [];
 const cardList: CardList[] = [];
 
 export default function LinkTree(): JSX.Element {
   return (
     <>
-      <Layout title={`Links`} description="Árvore de links do CACiC">
+      <Layout title="Links" description="Árvore de links do CACiC">
         <Container maxWidth="sm" sx={{ py: 4 }}>
           <LinkTreeHeader />
           <LinkList cardList={cardList} />
+          <a href="https://github.com/cacic-fct/cacic-fct.github.io/edit/main/src/pages/links/index.tsx">
+            Editar árvore
+          </a>
         </Container>
       </Layout>
     </>
