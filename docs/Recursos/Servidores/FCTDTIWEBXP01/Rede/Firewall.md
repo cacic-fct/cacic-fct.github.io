@@ -35,7 +35,7 @@ Liberar uma porta no `iptables` não significa que ela estará exposta para a in
 
 :::
 
-Observe que o servidor apenas responde a requisições ICMP (ping) de dentro da Unesp.
+Observe que o servidor apenas responde a requisições ICMP (ping) de dentro da unespNET.
 
 ## Peculiaridades
 

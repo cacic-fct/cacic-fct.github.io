@@ -6,6 +6,18 @@ As normas garantem a acessibilidade e a compreensão dos documentos, pois o cont
 
 Também se aplica o que está disposto no guia de identidade visual.
 
+## Normas
+
+1. Todas as comunicações e materiais oficiais do CACiC devem ser redigidos de forma objetiva, clara e impessoal, respeitando os princípios da transparência, da ética e da representatividade institucional. As comunicações e materiais oficiais do CACiC não devem conter referências a indivíduos específicos, sejam membros da entidade ou terceiros, salvo em casos de reconhecimento formal aprovado pela diretoria.
+
+   1. É vedado o uso de nomes de usuários, apelidos, identificadores pessoais de redes sociais ou qualquer outro elemento que personalize excessivamente as comunicações.
+
+   1. Os conteúdos devem sempre representar o CACiC como um todo, evitando a personificação da entidade em qualquer indivíduo ou grupo específico.
+
+1. A chapa vigente pode adotar um estilo de escrita próprio, desde que respeite todas as diretrizes estabelecidas nesta página, mantendo a impessoalidade e a representatividade institucional.
+
+   1. É permitida a inclusão do nome da chapa em exercício nos materiais oficiais do CACiC, desde que seja feita de forma discreta, sem qualquer destaque ou ênfase.
+
 ## Identidade do CACiC
 
 1. O nome completo da entidade é: Centro Acadêmico da Ciência da Computação - "Alan Turing".
@@ -66,15 +78,13 @@ Também se aplica o que está disposto no guia de identidade visual.
 
    - Não utilizar "Fundacte".
 
+1. Utilizar "unespNET" para se referir à intranet da Unesp.
+
+   - Não utilizar "UnespNet" ou outras variações.
+
 1. Utilizar "Vunesp" para referenciar a Fundação para o Vestibular da Universidade Estadual Paulista.
 
    - Não utilizar "VUNESP".
-
-## Identidade da chapa em exercício
-
-É permitida a inclusão do nome da chapa em exercício em materiais oficiais do CACiC desde que ela seja feita de forma discreta, sem destaque visual.
-
-É permitido que a chapa vigente adote um estilo de escrita próprio, desde que sejam respeitadas as diretrizes estabelecidas neste guia.
 
 ## Cuidado com emojis
 

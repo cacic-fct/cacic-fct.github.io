@@ -8,11 +8,9 @@
 
 ## Sobre
 
-O FCTDTIWEBXP01 é uma máquina virtual localizada na Diretoria Técnica de Informática.
+O FCTDTIWEBXP01 é uma máquina virtual localizada na Diretoria Técnica de Informática. Ele foi concecido para hospedagem dos sistemas da SECOMPP, mas também hospeda outros serviços do CACiC.
 
 O professor responsável é o Almir, mas o CACiC possui total autonomia sobre o servidor.
-
-Ele foi concecido para hospedagem dos sistemas da SECOMPP, mas também hospeda outros serviços do CACiC.
 
 O processo de obtenção foi documentado em uma [discussão no GitHub](https://github.com/cacic-fct/fct-app/discussions/182#discussioncomment-9413541).
 

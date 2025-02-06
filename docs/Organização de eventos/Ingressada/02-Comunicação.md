@@ -48,6 +48,6 @@ Todos os alunos, incluindo os que não fazem parte da comissão de recepção, d
 
 Não é permitido solicitar dados pessoais sensíveis, como sexualidade, estado civil, estado de saúde, religião, orientação política, entre outros.
 
-Não é permitido solicitar fotos ou o nome de usuário de mídias sociais.
+Não é permitido solicitar fotos ou o nome de usuário de mídias sociais, para evitar abordagens constrangedoras e assédio.
 
 Leitura complementar: [Coleta de dados e formulários](../../Centro%20Acadêmico/Para%20diretores/Coleta%20de%20dados%20e%20formulários.md).
