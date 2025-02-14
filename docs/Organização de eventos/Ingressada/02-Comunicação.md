@@ -16,6 +16,9 @@ Caso o DMC se recuse a fornecer a lista, solicite ao coordenador do curso.
 
 Caso o coordenador do curso se recuse a fornecer a lista, solicite ao professor responsável pela disciplina ATP 1, uma vez que todos os calouros estarão matriculados nessa disciplina.
 
+Use a lista para enviar e-mails de boas-vindas e para convidar os calouros a participar das atividades de integração.  
+Além disso, use-a para adicionar os calouros às [listas de e-mails do curso no Google Groups](../../Recursos/Comunicação/Lista%20de%20e-mails.md).
+
 ## Divulgação
 
 O método principal de divulgação das atividades de integração dos calouros deve ser o e-mail institucional, para atingir os alunos que não entraram no grupo do WhatsApp.

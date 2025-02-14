@@ -8,6 +8,6 @@ Parte dos alunos usa o Google para encontrar os recursos do evento ao invés de 
 
 Para garantir isso, use o template padrão e siga as recomendações do [Google Search Console](https://search.google.com/search-console).
 
-# Sistema de inscrições
+## Sistema de inscrições
 
 Não é recomendado a criação de um sistema próprio, pelos motivos discutidos no [projeto do FCT App](https://github.com/cacic-fct/fct-app/discussions/182#discussioncomment-10927548).

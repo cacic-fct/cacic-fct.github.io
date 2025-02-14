@@ -1,4 +1,6 @@
-# Emissão de certificados
+# Após o evento
+
+## Emissão de certificados
 
 Os certificados são emitidos apenas para inscritos pagantes.
 
@@ -11,3 +13,7 @@ Use e contribua para os [scripts de geração de certificados do CACiC](https://
 A emissão dos certificados foi cobrada dos inscritos, então, não atrase a entrega.
 
 :::
+
+## Material dos minicursos
+
+Todos os materiais dos minicursos devem ser disponibilizados para os inscritos. O CACiC deve arquivar esses materiais para futuras referências e solicitações.
