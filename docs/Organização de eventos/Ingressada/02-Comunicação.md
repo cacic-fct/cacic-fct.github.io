@@ -16,6 +16,8 @@ Caso o DMC se recuse a fornecer a lista, solicite ao coordenador do curso.
 
 Caso o coordenador do curso se recuse a fornecer a lista, solicite ao professor responsável pela disciplina ATP 1, uma vez que todos os calouros estarão matriculados nessa disciplina.
 
+Você também pode encontrar calouros ao digitar cada o nome deles na caixa de "Destinatários" do e-mail institucional.
+
 Use a lista para enviar e-mails de boas-vindas e para convidar os calouros a participar das atividades de integração.  
 Além disso, use-a para adicionar os calouros às [listas de e-mails do curso no Google Groups](../../Recursos/Comunicação/Lista%20de%20e-mails.md).
 
@@ -34,6 +36,12 @@ Use o modelo que está no [gerador de e-mails do CACiC](https://emails.cacic.dev
 O e-mail não é amplamente utilizado fora do ambiente acadêmico por jovens, então, é comum que o calouro não tenha o hábito de verificar a caixa de entrada dele.
 
 Incentivar a criação do e-mail institucional é uma forma de treiná-lo a utilizar esse recurso. Ademais, a caixa estará livre de spam e notificações de mídias sociais, o que facilita em adquirir o hábito de verificar.
+
+Use o modelo que está no [gerador de e-mails do CACiC](https://emails.cacic.dev.br/).
+
+#### E-mail de orientações para atividades fora do câmpus
+
+Festas, pedágio e canais de denúncia.
 
 Use o modelo que está no [gerador de e-mails do CACiC](https://emails.cacic.dev.br/).
 
