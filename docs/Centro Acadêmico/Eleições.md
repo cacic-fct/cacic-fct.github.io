@@ -57,6 +57,26 @@ O processo eleitoral é composto pelas seguintes etapas:
 1. Período de campanha
 
    - Debates, entrevistas e outras atividades são permitidas
+   - Palestras e workshops organizados pelas chapas para apresentar suas propostas
+   - Sessões de perguntas e respostas com os integrantes das chapas
+   - Divulgação de vídeos ou posts explicativos sobre os planos de gestão
+   - Encontros virtuais ou presenciais para interação com os eleitores
+
+   - As mídias sociais (Instagram e Facebook) do CACiC podem ser usadas para:
+
+     - Apresentação das chapas e sumário dos planos de gestão
+
+   - O canal do YouTube do CACiC pode ser usado para:
+
+     - Hospedar, de maneira não listada, vídeos explicativos sobre os planos de gestão
+     - Transmissão ao vivo ou gravação de eventos, em modo público, como debates e entrevistas
+
+   - Os canais de comunicação oficial do CACiC podem ser usados para:
+
+     - Transmissão ao vivo de eventos, como debates e entrevistas
+     - Publicação de material de campanha, desde que respeitoso
+
+   - É permitido a publicação de material de campanha respeitoso nos canais de comunicação oficial do CACiC (e-mail, grupo no WhatsApp, mídias sociais, etc.)
    - Não é permitido panfletagem ou entrega de qualquer outro material impresso, para poupar papel e evitar a geração desnecessária de lixo
 
 1. Período de votação
@@ -97,9 +117,9 @@ São informações essenciais:
 #### Formulário de votação
 
 - As respostas devem ser restritas a integrantes da Unesp;
-  - Os e-mails devem ser coletados para garantir a unicidade do voto.
+  - Os e-mails devem ser coletados para garantir a unicidade e validade do voto.
 - Deve-se coletar o RA do votante para garantir a unicidade do voto.
-- Deve-se conter as chapas candidatas e os votos nulo e branco.
+- Deve-se conter as chapas candidatas e as opções de voto nulo e de voto em branco.
 
 ## Chapa candidata
 
