@@ -12,22 +12,32 @@ Isso simplifica o processo ao:
 1. Facilitar a contagem dos votos, não sendo necessário realizar a contagem manualmente e presencialmente.
    - A contagem manual demora horas, é suscetível a erros e pode necessitar de recontagem.
 
+Quando o estatuto não abordar determinada situação (omissão), a comissão eleitoral deve deliberar sobre o assunto em assembleia.
+
 ## Etapas
 
 O processo eleitoral é composto pelas seguintes etapas:
 
-1. Convocação do processo eleitoral por edital pela diretoria atual
+1. Convocação do processo eleitoral:
 
-   - Deve ser feita com antecedência mínima de 10 dias do término da gestão
+   1. Por edital pela diretoria, com antecedência mínima de 10 dias do término da gestão;
+
+   1. Por assembleia geral convocada pelos estudantes, em caso de omissão da diretoria atual
+
+      - Um documento deverá ser encaminhado a um dos diretores do Centro Acadêmico, contendo o nome do requerente, as pautas propostas e a assinatura de 20% dos alunos matriculados no curso. A diretoria terá o prazo de 1 dia útil para análise do documento e deverá convocar uma assembleia a ser realizada em até 3 dias úteis.
+
+   1. Por assembleia de destituição, em caso de grave omissão pela diretoria atual
+
+      - Caso os prazos não sejam respeitados, uma assembleia com pauta única de destituição poderá ser convocada pelos próprios alunos. Para que a destituição seja válida, é necessário aprovação de dois terços dos alunos presentes na assembleia e que uma diretoria temporária seja empossada para conduzir o processo eleitoral.
 
 1. Formação da comissão eleitoral, que deve conter:
 
-   - 1 aluno de cada turma
+   - 1 aluno de cada turma regular
      - Considera-se apenas até o 4º ano
    - 1 membro da diretoria da chapa atual
      - Se o diretor for candidato, ele deve escolher se irá representar a chapa atual ou a concorrente, sem que ocorra um acúmulo de representação
    - 1 membro de cada uma das chapas concorrentes
-   - Dentre os membros da comissão eleitoral, deve ser escolhido um presidente que, usualmente, é o membro da diretoria da chapa atual
+   - Dentre os membros da comissão eleitoral, deve ser escolhido um presidente que, usualmente, é o membro da diretoria da chapa atual, pelo seu presumido maior nível de conhecimento sobre a legislação do CACiC
 
 1. Elaboração do calendário eleitoral pela comissão eleitoral. Nele deve constar:
 
