@@ -50,6 +50,8 @@ Realize essas atividades de forma concomitante:
 
 1. Regularize a situação discente no conselho de curso.
 
+   - Use o modelo `d.a.-indicacao--1-10` com alterações no campo "de" e "para".
+
 1. Converse com o Centro Acadêmico do curso de Matemática para a regularização da situação discente no conselho do departamento.
 
 ## Princípios do CACiC
