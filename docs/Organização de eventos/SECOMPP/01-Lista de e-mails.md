@@ -24,7 +24,7 @@ Caso a comissão organizadora prefira usar a lista de e-mails, adicione todos os
 
 :::danger
 
-Não remova os proprietários das listas de e-mails.
+Não remova os proprietários das listas de e-mails. Isso pode causar problemas de acesso e prejudicar a recuperação do grupo.
 
 :::
 

@@ -4,7 +4,7 @@
 
 Este site.
 
-- [Repositório](https://github.com/cacic-fct/homepage)
+- [Repositório](https://github.com/cacic-fct/cacic-fct.github.io)
 
 ## FCT App
 

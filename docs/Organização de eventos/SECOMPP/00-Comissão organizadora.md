@@ -4,7 +4,10 @@
 
 No início do ano, o coordenador do curso encaminhará ao CACiC, à EJComp e aos representates discentes do conselho de curso um e-mail convite para a reunião inicial da organização.
 
-É dever do CACiC corrigir os destinatários, caso necessário, e atualizar a lista de e-mails do evento:
+É dever do CACiC corrigir os destinatários, caso necessário, e atualizar a lista de e-mails do evento. Isso permitirá que os futuros organizadores possam consultar mensagens antigas, sem depender de acesso às contas das entidades estudantis.
+
+<details>
+  <summary>Saiba como corrigir os destinatários</summary>
 
 1. Clique para "responder a todos" e observe a lista de destinatários e CC;
 1. Mova para o campo "Para", caso esteja no campo "CC":
@@ -19,7 +22,7 @@ No início do ano, o coordenador do curso encaminhará ao CACiC, à EJComp e aos
 1. Informe a mudança aos professores:
    - "Realizando correção nos destinatários: exclusão de discentes individuais e inclusão do endereço da lista de e-mails de alunos organizadores do evento. A lista é monitorada pelo CACiC e os discentes removidos são integrantes da lista."
 
-Isso permitirá que os futuros organizadores possam consultar mensagens antigas, sem depender de acesso às contas das entidades estudantis.
+</details>
 
 Os alunos devem decidir entre si quantos e quem serão os representantes discentes na comissão organizadora (alunos líderes). O aluno indicado não precisa fazer parte de uma entidade estudantil, mas deve contribuir com a organização do evento de forma ativa. Não há necessidade de formalizar os nomes, basta comparecer à reunião e, depois, adicionar o endereço do aluno à lista de e-mails, caso ele ainda possua interesse em participar.
 

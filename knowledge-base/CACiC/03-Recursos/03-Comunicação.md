@@ -16,14 +16,21 @@ Confira o link de convite na descrição do Grupo Geral da Computação no Whats
 
 ### Meta Business Suite
 
-#### [Página do CACiC no Instagram](https://instagram.com/cacic-fct)
+#### Facebook
 
-#### [Página do CACiC no Facebook](https://fb.com/cacic-fct)
+- [Página do CACiC](https://fb.com/cacic.fct)
+- [Página da SECOMPP](https://fb.com/secompp)
+- [Página do Intercomp](https://fb.com/intercomp.fct)
+- Grupo da FCT
+- Grupo do curso de Ciência da Computação
 
-#### Grupo da FCT no Facebook
+#### Instagram
 
-#### Grupo do curso de Ciência da Computação no Facebook
+- [Página do CACiC](https://instagram.com/cacic.fct)
+- [Página da SECOMPP](https://instagram.com/secompp.fct)
+- [Página do Intercomp](https://instagram.com/intercomp.fct)
 
-### Comunidade do curso de Ciência da Computação no WhatsApp
+#### WhatsApp
 
-Se você é aluno do curso, solicite o convite para um de seus colegas.
+- Comunidade do curso de Ciência da Computação
+  - Se você é aluno do curso, solicite o convite para um de seus colegas ou entre em contato com o CACiC.

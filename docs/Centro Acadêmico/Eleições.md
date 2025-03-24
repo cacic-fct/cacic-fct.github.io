@@ -117,13 +117,13 @@ São informações essenciais:
 #### Formulário de votação
 
 - As respostas devem ser restritas a integrantes da Unesp;
-  - Os e-mails devem ser coletados para garantir a unicidade e validade do voto.
-- Deve-se coletar o RA do votante para garantir a unicidade do voto.
+  - Os e-mails devem ser coletados para garantir a unicidade e a validade do voto.
+- Deve-se coletar o RA do votante para garantir a unicidade e a validade do voto.
 - Deve-se conter as chapas candidatas e as opções de voto nulo e de voto em branco.
 
 ## Chapa candidata
 
-A chapa deve contemplar os cargos de
+A chapa deve contemplar os cargos de:
 
 - Presidente;
 - Vice-Presidente;
@@ -138,7 +138,31 @@ A chapa candidata deve:
 
 - Conhecer o estatuto do CACiC;
 - Respeitar os prazos estabelecidos no calendário eleitoral.
-  - A não entrega do material de campanha no prazo estabelecido não desclassifica a chapa, ela apenas perde o direito de divulgar o material de campanha.
+
+### Material de campanha
+
+O material de campanha deve ser respeitoso com as demais chapas e com a comunidade acadêmica.
+
+A não entrega do material de campanha no prazo estabelecido não desclassifica a chapa, ela apenas perde o direito de divulga-lo.
+
+#### Sugestões
+
+Elabore a apresentação da chapa no formato de um único post do Instagram, com as seguintes informações:
+
+- Nome da chapa. Se for o nome de uma pessoa, adicione uma breve descrição sobre ela;
+- Resumo das propostas de gestão;
+- Nome ou apelido dos integrantes e seus respectivos cargos. Não adicione nenhum tipo de descrição às pessoas, como "o nerd do curso" ou "o melhor diretor de eventos";
+
+Se as propostas da chapa não couberem em um post, elabore um documento em PDF com elas e disponibilize-o no Grupo Geral da Computação.
+
+#### Estilo
+
+Preze pela acessibilidade e pela legibilidade do material de campanha:
+
+- Não use os estilos Vaporwave, Glitch e Neubrutalismo, por serem pouco legíveis;
+- Atente-se à paleta de cores e à tipografia, para que não haja dificuldade de leitura;
+
+Para produzir um bom material e para demonstrar conhecimento sobre as normas do Centro Acadêmico, siga os guias de identidade visual e de redação do CACiC.
 
 ## Após a apuração dos votos
 
@@ -158,4 +182,4 @@ A chapa anterior pode dar continuidade a atividades pendentes junto à nova dire
 
 O mandato é de 1 ano, mas pode ser dilatado em assembleia geral ou encerrado antecipadamente pela chapa, especialmente no caso de correção do calendário eleitoral.
 
-A chapa vencedora deve tomar conhecimento dos regimentos internos da entidade, que está disponível no Google Drive do CACiC, e deve atualizar o site da entidade com as novas informações.
+A chapa vencedora deve consultar a página "[Início do mandato](./Para%20diretores/Início%20do%20mandato.md)" para saber os próximos passos.

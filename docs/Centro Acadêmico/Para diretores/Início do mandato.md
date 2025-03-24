@@ -4,7 +4,7 @@
 
 1. Convocação da assembleia de posse;
 
-   - Convide a chapa anterior para divulgar aos alunos um balanço do mandato e para a transmissão de informações relevantes ao público. Para informações sigilosas, agende uma reunião privada com a chapa anterior;
+   - Convide a chapa anterior para divulgar aos alunos um balanço do mandato e para a transmissão de informações relevantes ao público, como projetos pendentes. Também será necessário agendar uma reunião privada com a chapa anterior para a transmissão de informações sigilosas;
    - É necessário fazer ata em todas as assembleias:
      - Pela inexistência de quórum suficiente, inclua "Em segunda chamada, às XXhXXmin do dia XX de XXXX de XXXX, na sala XXX da FCT-Unesp, foi aberta a assembleia.", conforme demanda o estatuto do CACiC;
 
@@ -14,11 +14,17 @@
 
 Realize essas atividades de forma concomitante:
 
-1. Agendar uma conversa privada com chapas anteriores para a transmissão de informações;
+1. Obtenha as credenciais de acesso aos recursos do CACiC. **Antes de alterar as senhas e os contatos de recuperação, consulte os regimentos internos do CACiC**.
+
+   - Acesso ao e-mail: Solicite a senha à chapa anterior;
+   - Acesso à organização do CACiC no GitHub: Solicite a adição à chapa anterior;
+   - Acesso aos servidores: Solicite somente se necessário. Justifique a necessidade do acesso aos [_founding lead developers_](https://docs.fctapp.cacic.dev.br/Geral/Especifica%C3%A7%C3%B5es%20gerais/Auditing#founding-lead-developers).
+
+1. Agendar uma conversa privada com chapas anteriores para a transmissão de informações. Há informações que não estão públicas que são essenciais para a continuidade das atividades.
 
    - Faça ata da reunião;
-   - Há informações que não estão públicas ou que não podem ser disponibilizadas publicamente e que são essenciais para a continuidade das atividades;
    - Se necessário, marque mais de uma reunião ou marque reuniões somente com membros específicos;
+   - Se necessário, solicite a presença de membros de chapas mais antigas;
 
 1. Atualização das informações no site do CACiC:
 
@@ -31,7 +37,7 @@ Realize essas atividades de forma concomitante:
 
 1. Estudo do estatuto e dos regimentos internos pelos novos diretores:
 
-   - Embora os regimentos internos pareçam muito restritivos, eles são essenciais para a organização e a manutenção da entidade. Além disso, eles foram elaborados com base em experiências passadas e em situações que ocorreram na entidade e no curso. Antes de propor mudanças, é importante entender os motivos de cada regra. Caso necessário, consulete chapas anteriores.
+   - Embora os regimentos internos pareçam muito restritivos, eles são essenciais para a organização e a manutenção da entidade. Além disso, eles foram elaborados com base em experiências passadas e em situações que ocorreram na entidade e no curso. Antes de propor mudanças, é importante entender os motivos de cada regra. Caso necessário, consulte chapas anteriores.
 
 1. Estudo do conteúdo do site do CACiC:
 
@@ -40,9 +46,15 @@ Realize essas atividades de forma concomitante:
      - Seções de "guia de identidade visual" e "guia de redação";
    - Caso haja informações desatualizadas, atualize-as.
 
+1. Atualize a lista de pessoas que possuem acesso às chaves da sala do CACiC junto ao Departamento de Matemática e Computação;
+
+1. Regularize a situação discente no conselho de curso.
+
+1. Converse com o Centro Acadêmico do curso de Matemática para a regularização da situação discente no conselho do departamento.
+
 ## Princípios do CACiC
 
-Durante o mandato, é importante que a nova diretoria esteja ciente dos princípios do CACiC, uma entidade guiada por princípios fundamentais que garantem sua integridade, crescimento e impacto positivo na comunidade acadêmica. Esses pilares estão interligados e se complementam para promover um ambiente dinâmico, inclusivo e inovador.
+Durante o mandato, é importante que a nova diretoria esteja ciente dos princípios do CACiC, uma entidade guiada por bases fundamentais que garantem sua integridade, crescimento e impacto positivo na comunidade acadêmica. Esses pilares estão interligados e se complementam para promover um ambiente dinâmico, inclusivo e inovador.
 
 1. Transparência:
 

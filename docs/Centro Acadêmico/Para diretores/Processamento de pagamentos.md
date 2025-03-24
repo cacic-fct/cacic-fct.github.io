@@ -9,11 +9,11 @@ Nas vendas promovidas pelo CACiC a pessoas não associadas (não membros), o CAC
 
 Nas vendas promovidas pelo CACiC a associados (membros), rege o Código Civil (CC).
 
-Nas vendas promovidas por alunos e comissões, rege o Código Civil (CC).
+Nas vendas promovidas por alunos e comissões de alunos, rege o Código Civil (CC).
 
 ## Direito de arrependimento
 
-Nas vendas promovidas pelo CACiC a pessoa não associada, o consumidor tem direito de arrepender-se da compra em até 7 dias, conforme o Código de Defesa do Consumidor (artigo 49). O consumidor deve ser reembolsado integralmente, incluindo o valor do frete, se houver.
+Nas vendas promovidas pelo CACiC à pessoa não associada, o consumidor tem direito de arrepender-se da compra em até 7 dias, nos termos do Código de Defesa do Consumidor (artigo 49). O consumidor deve ser reembolsado integralmente, incluindo o valor do frete, se houver.
 
 ## Parcelamento
 

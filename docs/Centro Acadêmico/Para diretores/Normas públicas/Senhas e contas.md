@@ -13,7 +13,7 @@
 1. Para serviços que permitem 2FA, deve-se usar o TOTP (Time-based One-Time Password) ao invés de SMS ou e-mail;
 
    1. Use somente o gerador de TOTP do https://senhas.cacic.dev.br;
-   1. Não use o gerador de TOTP do senhas.cacic na conta Google do CACiC, para que o controle do recurso seja mantido em caso de vazamento de informações do servidor.
+   1. Não cadastre o gerador de TOTP do senhas.cacic na conta Google do CACiC como fator de autenticação, para que o controle do e-mail não seja perdido em caso de vazamento das informações do servidor.
 
 1. O CACiC fica proibido de ter conta nas seguintes plataformas:
 

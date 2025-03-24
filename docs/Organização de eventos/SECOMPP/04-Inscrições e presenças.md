@@ -1,5 +1,11 @@
 # Inscrições e presenças
 
+:::danger
+
+Não é recomendado a criação de um sistema próprio de inscrições e presenças, pelos motivos discutidos no [projeto do FCT App](https://github.com/cacic-fct/fct-app/discussions/182#discussioncomment-10927548).
+
+:::
+
 ## Inscrições
 
 ### Formulário
@@ -59,7 +65,7 @@ Isso é importante, pois nem sempre o pagamento é feito pelo próprio inscrito.
 
 ### Pagamento
 
-O pagamento deve ser feito por meio do Pix da FUNDACTE. Não deve-se utilizar a conta bancária de um aluno, para evitar problemas com o fisco, com o bloqueio de valores pelo banco e com a prestação de contas.
+O pagamento deve ser feito por meio da chave Pix da FUNDACTE (`00.395.519/0001-16`). Não deve-se utilizar a conta bancária de um aluno, para evitar problemas com o fisco, com o bloqueio de valores pelo banco e com a prestação de contas.
 
 Caso estritamente necessário, o participante poderá optar pelo pagamento em dinheiro, que deve ser recolhido pelo CACiC e repassado à FUNDACTE.
 
