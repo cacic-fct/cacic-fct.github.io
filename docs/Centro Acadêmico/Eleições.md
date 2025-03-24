@@ -22,13 +22,19 @@ O processo eleitoral é composto pelas seguintes etapas:
 
    1. Por edital, pela diretoria atual, com antecedência mínima de 10 dias do término da gestão;
 
-   1. Por assembleia geral convocada pelos estudantes, em caso de omissão da diretoria atual
+      - Mesmo que a diretoria atual não tenha disponibilidade para conduzir o processo eleitoral, ela deve priorizar a convocação por edital, para evitar a mobilização de uma assembleia. Após a formação da comissão, basta apontar outro integrante como responsável pela condução do processo.
 
-      - Um documento deverá ser encaminhado a um dos diretores do Centro Acadêmico, contendo o nome do requerente, as pautas propostas e a assinatura de 20% dos alunos matriculados no curso. A diretoria terá o prazo de 1 dia útil para análise do documento e deverá convocar uma assembleia a ser realizada em até 3 dias úteis.
+   1. Por assembleia geral convocada pelos estudantes, em caso de omissão da diretoria atual:
 
-   1. Por assembleia de destituição, em caso de grave omissão pela diretoria atual
+      - Um documento deverá ser encaminhado a um dos diretores do Centro Acadêmico, contendo o nome do requerente, as pautas propostas e a assinatura de 20% dos alunos matriculados no curso. A diretoria terá o prazo de 1 dia útil para análise do documento e deverá convocar uma assembleia a ser realizada em até 3 dias úteis;
+      - Essa alternativa não é recomendada, pois ainda exige a participação de um diretor da atual gestão na formação da comissão eleitoral. Se um diretor aceitar participar, por que ele não convocou a assembleia diretamente por edital antes?
 
-      - Caso os prazos não sejam respeitados, uma assembleia com pauta única de destituição poderá ser convocada pelos próprios alunos. Para que a destituição seja válida, é necessário aprovação de dois terços dos alunos presentes na assembleia e que uma diretoria temporária seja empossada para conduzir o processo eleitoral.
+   1. Por assembleia com pauta única de destituição, em caso de grave omissão pela diretoria atual:
+
+      - Para que a destituição seja válida, é necessário:
+        - Assinatura de 20% dos alunos matriculados para a validação da convocação da assembleia;
+        - Aprovação da destituição por dois terços dos alunos que estão presentes na assembleia;
+        - Definição de uma diretoria temporária pela assembleia, que tomará posse e convocará o processo eleitoral imediatamente.
 
 1. Formação da comissão eleitoral, que deve conter:
 
