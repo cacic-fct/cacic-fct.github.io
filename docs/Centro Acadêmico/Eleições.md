@@ -20,7 +20,7 @@ O processo eleitoral é composto pelas seguintes etapas:
 
 1. Convocação do processo eleitoral:
 
-   1. Por edital pela diretoria atual, com antecedência mínima de 10 dias do término da gestão;
+   1. Por edital, pela diretoria atual, com antecedência mínima de 10 dias do término da gestão;
 
    1. Por assembleia geral convocada pelos estudantes, em caso de omissão da diretoria atual
 
