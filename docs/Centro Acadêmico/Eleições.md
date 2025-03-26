@@ -32,7 +32,7 @@ O processo eleitoral é composto pelas seguintes etapas:
    1. Por assembleia com pauta única de destituição, em caso de grave omissão pela diretoria atual:
 
       - Para que a destituição seja válida, é necessário:
-        - Assinatura de 20% dos alunos matriculados para a validação da convocação da assembleia;
+        - Abaixo-assinado com a assinatura de 20% dos alunos matriculados para da convocação da assembleia;
         - Aprovação da destituição por dois terços dos alunos que estão presentes na assembleia;
         - Definição de uma diretoria temporária pela assembleia, que tomará posse e convocará o processo eleitoral imediatamente.
 
