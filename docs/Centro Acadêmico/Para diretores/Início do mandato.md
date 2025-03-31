@@ -1,14 +1,10 @@
 # Início do mandato
 
+O mandato é de 1 ano, mas pode ser dilatado em assembleia geral ou encerrado antecipadamente pela chapa, especialmente no caso de correção do calendário eleitoral.
+
 ## Finalização do processo eleitoral
 
-1. Convocação da assembleia de posse;
-
-   - Convide a chapa anterior para divulgar aos alunos um balanço do mandato e para a transmissão de informações relevantes ao público, como projetos pendentes. Também será necessário agendar uma reunião privada com a chapa anterior para a transmissão de informações sigilosas;
-   - É necessário fazer ata em todas as assembleias:
-     - Pela inexistência de quórum suficiente, inclua "Em segunda chamada, às XXhXXmin do dia XX de XXXX de XXXX, na sala XXX da FCT-Unesp, foi aberta a assembleia.", conforme demanda o estatuto do CACiC;
-
-1. Encaminhamento da ata de posse à diretoria da FCT.
+Consulte a seção [Após a apuração dos votos](../Eleições.md#após-a-apuração-dos-votos).
 
 ## Primeiros passos
 
@@ -24,11 +20,22 @@ Realize essas atividades de forma concomitante:
 
    - Faça ata da reunião;
    - Se necessário, marque mais de uma reunião ou marque reuniões somente com membros específicos;
-   - Se necessário, solicite a presença de membros de chapas mais antigas;
+   - Se necessário, solicite a presença de membros de chapas mais antigas, não somente da chapa anterior.
+
+1. Emissão dos documentos certificadores da chapa anterior:
+
+   - Consulte os membros da chapa anterior para saber quais membros permaneceram no CA até o fim do mandato.
+   - Escreva um documento para cada membro, com o nome completo, cargo e data de início e de término do mandato. O documento deve ser assinado pelo presidente do CACiC.
+
+1. Verificação do financeiro:
+
+   - Obtenha os valores com a chapa anterior;
+   - Verifique o histórico de movimentação financeira, para saber se o saldo está correto e se não há débitos pendentes;
+   - Caso o saldo esteja divergente, entre em contato com a chapa anterior para verificar o que ocorreu. Caso a chapa anterior se recuse a prestar contas, comunique o ocorrido aos alunos do curso, sem ferir a honra dos membros da chapa anterior.
 
 1. Atualização das informações no site do CACiC:
 
-   1. Atualize a data de término do mandato da chapa anterior. Também consulte os membros que comporam a chapa até o fim do mandato, para precisão dos dados históricos.
+   1. Atualize a data de término do mandato da chapa anterior.
    1. Crie um novo componente para a nova diretoria:
 
       - Obrigatório: converta as imagens para formatos eficientes, como AVIF ou melhor;
@@ -52,7 +59,9 @@ Realize essas atividades de forma concomitante:
 
    - Use o modelo `d.a.-indicacao--1-10` com alterações no campo "de" e "para".
 
-1. Converse com o Centro Acadêmico do curso de Matemática para a regularização da situação discente no conselho do departamento.
+1. Regularize a situação discente no conselho departamental.
+   - Se o Centro Acadêmico do curso de Matemática estiver ativo, converse com os membros dele para a regularização. O CACiC tem o direito te apontar um membro para o conselho, assim como a outra entidade. Se o Centro Acadêmico do curso de Matemática não estiver ativo, o CA pode indicar dois membros após consulta com o curso de Matemática.
+   - Converse com o departamento de Matemática e Computação para obter as informações necessárias.
 
 ## Princípios do CACiC
 

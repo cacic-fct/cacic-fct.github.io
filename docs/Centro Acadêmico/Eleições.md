@@ -12,7 +12,7 @@ Isso simplifica o processo ao:
 1. Facilitar a contagem dos votos, não sendo necessário realizar a contagem manualmente e presencialmente.
    - A contagem manual demora horas, é suscetível a erros e pode necessitar de recontagem.
 
-Quando o estatuto não abordar determinada situação (omissão), a comissão eleitoral deve deliberar sobre o assunto em assembleia.
+Quando o estatuto não abordar determinada situação (omissão), o assunto deve ser deliberado em assembleia.
 
 ## Etapas
 
@@ -24,17 +24,18 @@ O processo eleitoral é composto pelas seguintes etapas:
 
       - Mesmo que a diretoria atual não tenha disponibilidade para conduzir o processo eleitoral, ela deve priorizar a convocação por edital, para evitar a mobilização de uma assembleia. Após a formação da comissão, basta apontar outro integrante como responsável pela condução do processo.
 
-   1. Por assembleia geral convocada pelos estudantes, em caso de omissão da diretoria atual:
+   1. Por assembleia geral:
 
-      - Um documento deverá ser encaminhado a um dos diretores do Centro Acadêmico, contendo o nome do requerente, as pautas propostas e a assinatura de 20% dos alunos matriculados no curso. A diretoria terá o prazo de 1 dia útil para análise do documento e deverá convocar uma assembleia a ser realizada em até 3 dias úteis;
-      - Essa alternativa não é recomendada, pois ainda exige a participação de um diretor da atual gestão na formação da comissão eleitoral. Se um diretor aceitar participar, por que ele não convocou a assembleia diretamente por edital antes?
-
-   1. Por assembleia com pauta única de destituição, em caso de grave omissão pela diretoria atual:
-
-      - Para que a destituição seja válida, é necessário:
-        - Abaixo-assinado com a assinatura de 20% dos alunos matriculados para da convocação da assembleia;
-        - Aprovação da destituição por dois terços dos alunos que estão presentes na assembleia;
-        - Definição de uma diretoria temporária pela assembleia, que tomará posse e convocará o processo eleitoral imediatamente.
+      1. Convocada pela diretoria após o fim do prazo para convocação por edital:
+         - A assembleia deve formar a comissão eleitoral e homologar ela;
+         - Caso o mandato tenha vencido e outra chapa não tenha sido eleita, fica presumida a dilação do mandato da diretoria, desde que não haja oposição. Dessa forma, a diretoria ainda pode convocar uma assembleia sem a necessidade de um abaixo-assinado;
+      1. Convocada pelos estudantes, por meio de um abaixo-assinado, com a assinatura de 20% dos alunos matriculados no curso, em caso de grave omissão ou para destituição. Em ambos os casos, uma diretoria temporária deve ser empossada, que tomará posse e convocará o processo eleitoral imediatamente:
+         1. Grave omissão:
+            - A diretoria não convocou o processo eleitoral ou uma assembleia mesmo com o mandato vencido;
+         1. Destituição:
+            - Deve ser a única pauta da assembleia;
+            - Requer aprovação de dois terços dos alunos presentes na assembleia;
+            - Caso a diretoria esteja presente, ela pode exercer o princípio da ampla defesa;
 
 1. Formação da comissão eleitoral, que deve conter:
 
@@ -48,7 +49,8 @@ O processo eleitoral é composto pelas seguintes etapas:
 1. Elaboração do calendário eleitoral pela comissão eleitoral. Nele deve constar:
 
    - Prazo para elaboração do formulário de inscrição de chapas
-   - Período das inscrições das chapas candidatas
+   - Prazo para solicitação da lista de RAs dos alunos matriculados no curso ao departamento
+   - Período das inscrições das chapas candidatas, que deve se estender até 48 horas antes do início da votação
    - Prazo para entrega do material de campanha
 
      - Por isonomia, não admite-se a divulgação de material de campanha após o prazo, pois a chapa teria mais tempo para elaborar o material que as demais
@@ -64,11 +66,10 @@ O processo eleitoral é composto pelas seguintes etapas:
 
 1. Abertura da inscrição de chapas candidatas
 
-   - O período mínimo é de 3 dias após a divulgação do formulário
+   - Abertura após 3 dias da divulgação do processo eleitoral
+   - Fechamento 48 horas antes do início da votação
 
 1. Divulgação das chapas inscritas
-
-   - Deve ocorrer em até 3 dias após o término do prazo de inscrição
 
 1. Período de campanha
 
@@ -80,7 +81,7 @@ O processo eleitoral é composto pelas seguintes etapas:
 
    - As mídias sociais (Instagram e Facebook) do CACiC podem ser usadas para:
 
-     - Apresentação das chapas e sumário dos planos de gestão
+     - Apresentação das chapas e sumário dos planos de gestão apenas
 
    - O canal do YouTube do CACiC pode ser usado para:
 
@@ -92,15 +93,18 @@ O processo eleitoral é composto pelas seguintes etapas:
      - Transmissão ao vivo de eventos, como debates e entrevistas
      - Publicação de material de campanha, desde que respeitoso
 
-   - É permitido a publicação de material de campanha respeitoso nos canais de comunicação oficial do CACiC (e-mail, grupo no WhatsApp, mídias sociais, etc.)
-   - Não é permitido panfletagem ou entrega de qualquer outro material impresso, para poupar papel e evitar a geração desnecessária de lixo
+   - Não é permitido panfletagem ou entrega de qualquer outro material impresso, para poupar papel e evitar a produção desnecessária de lixo
 
 1. Período de votação
 
    - Deve ocorrer preferencialmente no mês de abril
    - Será realizado obrigatoriamente em dois dias úteis
 
-1. Apuração dos votos
+1. Apuração dos votos e divulgação do vencedor
+
+   - Ao encerrar o formulário, faça a apuração imediatamente
+   - Use a lista de RAs dos alunos matriculados no curso para confirmar os votos válidos
+     - Em caso de voto inválido, simplesmente não o contabilize
 
 1. Posse da chapa vencedora:
    - Deve ocorrer em até 30 dias após a apuração dos votos
@@ -182,11 +186,7 @@ Para produzir um bom material e para demonstrar conhecimento sobre as normas do 
 
 ## Após a apuração dos votos
 
-Concluída a apuração dos votos, deve-se convocar uma assembleia de posse.
-
-Após a posse, o presidente da comissão eleitoral deve encaminhar a ata de posse por meio de um ofício para a Seção **???? (consultar a chapa anterior e preencher a informação aqui)**. Tal ata deve ser assinada somente pelos membros que compõem a chapa eleita, sem necessidade das assinaturas dos participantes da comissão eleitoral.
-
-### Chapa vencedora
+Concluída a apuração dos votos, deve-se gerar um relatório com os votos e convocar uma assembleia de posse.
 
 Apesar do prazo de 30 dias, a chapa vencedora deve tomar posse o mais rápido possível, para que o calendário eleitoral do próximo ano não seja prejudicado.
 
@@ -196,6 +196,42 @@ A chapa anterior pode dar continuidade a atividades pendentes junto à nova dire
 
 :::
 
-O mandato é de 1 ano, mas pode ser dilatado em assembleia geral ou encerrado antecipadamente pela chapa, especialmente no caso de correção do calendário eleitoral.
+### Ofício e ata de posse
+
+Após a posse, o presidente da comissão eleitoral deve encaminhar um ofício ao diretor da unidade, por meio da Seção Técnica Acadêmica (STA), comunicando a eleição da chapa. Anexo ao ofício, deve estar a ata da assembleia de posse e um relatório com a lista de votantes válidos, sem exibir os votos individuais. A ata deve ser assinada por todos os membros da chapa eleita.
+
+**Ofício:**
+
+> Ofício ao Sr. Diretor da FCT-Unesp, NONONONO.
+>
+> O presidente da comissão eleitoral, formada em XX de XXXXX de XXXX e responsável pela organização e integridade do processo eleitoral para a gestão 20XX-20XX do Centro Acadêmico de Ciência da Computação — "Alan Turing" (CACiC), homologa a eleição da chapa NONONONO para o mandato de 1 ano. Anexos a este documento encontram-se a ata da assembleia de posse, com a composição da chapa eleita e as assinaturas dos membros, bem como um relatório contendo a lista de votantes válidos.
+
+Somente o presidente da comissão eleitoral deve assinar o ofício.
+
+**Ata da assembleia:**
+
+> Às XX horas do dia XX de XXXXX de XXXX, em assembleia presencial ocorrida nas dependências da FCT-Unesp, foi dada a posse dos novos membros do Centro Acadêmico de Ciência da Computação. As eleições ocorreram nos dias XX de XXXXX de XX e XX de XXXXX de XXXX, em conformidade com os Artigos 11, 12, 23, 24, 25, 26 e 27 do estatuto da entidade, sob a responsabilidade da comissão eleitoral formada no dia XX de XXXXX de XXXX. A eleição contou com XX votos válidos, sendo XX votos (XX%) para a chapa NONONONO, X brancos (X%) e X nulos (X%). A composição da chapa se dá da seguinte forma:
+>
+> - Presidente: NONONONO
+> - Vice-presidente: NONONONO
+> - Diretor de comunicação: NONONONO
+> - Diretor de eventos: NONONONO
+> - Diretor de finanças: NONONONO
+> - Diretor de relações públicas: NONONONO
+> - Membros:
+>
+>   - NONONONO
+>
+> Fazendo cumprir as determinações estatutárias do Centro Acadêmico de Ciência da Computação “Alan Turing”, fica instaurada a posse da chapa "NONONONO" para o próximo mandato.
+
+**Relatório de votantes válidos:**
+
+> Lista de votantes válidos na forma de RAs:
+>
+> - 000000000
+> - 000000000
+> - 000000000
+
+### Chapa vencedora
 
 A chapa vencedora deve consultar a página "[Início do mandato](./Para%20diretores/Início%20do%20mandato.md)" para saber os próximos passos.
