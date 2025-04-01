@@ -251,15 +251,21 @@ A chapa vencedora deve consultar a página "[Início do mandato](./Para%20direto
 
 <details>
 <summary>O que fazer em caso de empate?</summary>
+
 Realize uma nova eleição entre as chapas empatadas em até 72 horas após a apuração dos votos.
+
 </details>
 
 <details>
 <summary>Como votos brancos e nulos funcionam?</summary>
+
 Os votos brancos e nulos não são considerados válidos, eles são apenas contabilizados para o cálculo do percentual de votos, sem interferir no resultado da eleição. Isto é, se há mais votos nulos ou brancos do que votos válidos, a chapa com mais votos válidos ainda é a vencedora.
+
 </details>
 
 <details>
 <summary>Os prazos são muito apertados, como fazer campanha?</summary>
+
 Convoque a eleição com maior antecedência possível, para que o calendário eleitoral tenha prazos mais longos.
+
 </details>
