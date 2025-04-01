@@ -11,6 +11,6 @@ A comissão deve atualizar as informações e valores presentes da página de au
 ## Manual do calouro da computação
 
 Assuntos específicos ao curso de Ciência da Computação podem ser tratados em um documento ou um projeto separado.  
-Caso um projeto seja criado, o repositório dele deverá ser hospedado na organização do CACiC no GitHub e ele, além de seguir as normas da entidade (desenvolvimento, redação, identidade visual, etc.), deverá ser de desenvolvimento contínuo, sem poder ser substituído anualmente.
+Caso um projeto de _software_ seja criado, o repositório dele deverá ser hospedado na organização do CACiC no GitHub e ele, além de seguir as normas da entidade (desenvolvimento, redação, identidade visual, etc.), deverá ser de desenvolvimento contínuo, sem poder ser substituído anualmente.
 
 Assuntos que não são adequados para divulgação pública podem ser tratados em um documento de divulgação limitada.

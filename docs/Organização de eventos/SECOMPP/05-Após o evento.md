@@ -17,3 +17,7 @@ A emissão dos certificados foi cobrada dos inscritos, então, não atrase a ent
 ## Material dos minicursos
 
 Todos os materiais dos minicursos devem ser disponibilizados para os inscritos. O CACiC deve arquivar esses materiais para futuras referências e solicitações.
+
+## Comissão organizadora
+
+É importante que a comissão se reúna após o evento para discutir o que deu certo e o que deu poderia ser feito de forma diferente. A reunião deve ser feita com todos os alunos organizadores, inclusive os de extensão.

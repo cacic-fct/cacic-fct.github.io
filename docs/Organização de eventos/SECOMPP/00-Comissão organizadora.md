@@ -26,6 +26,8 @@ No início do ano, o coordenador do curso encaminhará ao CACiC, à EJComp e aos
 
 Os alunos devem decidir entre si quantos e quem serão os representantes discentes na comissão organizadora (alunos líderes). O aluno indicado não precisa fazer parte de uma entidade estudantil, mas deve contribuir com a organização do evento de forma ativa. Não há necessidade de formalizar os nomes, basta comparecer à reunião e, depois, adicionar o endereço do aluno à lista de e-mails, caso ele ainda possua interesse em participar.
 
+A comissão tem direito a receber horas de ACC e de extensão. Negocie, durante as reuniões iniciais com os professores, os números.
+
 ## Reuniões
 
 Após a primeira reunião, costuma haver um grande hiato até a próxima.
@@ -51,12 +53,6 @@ Todas as decisões que influenciam diretamente na SECOMPP devem ser submetidas p
 Os alunos organizadores são livres para decidirem as questões de sistemas (site, inscrições) e material de divulgação, sem influência direta dos professores, desde que observadas as normas do CACiC. É importante que os progressos sejam reportados aos docentes, que podem contribuir com sugestões e críticas, que só precisam ser acatadas se fizerem sentido.
 
 Embora os professores estejam no topo da hierarquia, eles pouco contribuem para a organização e alguns chegam a atrapalhar, então, os alunos organizadores devem se manter ativos, independentes e com uma postura firme.
-
-## Após o evento
-
-A comissão tem direito a receber horas de ACC e de extensão. Negocie, durante as reuniões iniciais com os professores, os números.
-
-É importante que a comissão se reúna após o evento para discutir o que deu certo e o que deu poderia ser feito de forma diferente. A reunião deve ser feita com todos os alunos organizadores, inclusive os de extensão.
 
 :::info
 

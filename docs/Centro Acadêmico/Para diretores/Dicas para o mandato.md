@@ -2,9 +2,9 @@
 
 ## Rastreabilidade
 
-Mantenha um registro de todas as atividades realizadas durante o mandato. Isso facilita a transição de mandatos e a prestação de contas.
+Mantenha um registro de todas as atividades realizadas durante o mandato. Isso pode ser feito em planilhas, documentos de texto ou aplicativos de gerenciamento de projetos. É importante conceder acesso a chapas futuras.
 
-Pode ser feito em planilhas, documentos de texto ou aplicativos de gerenciamento de projetos.
+Isso facilita na transição de mandatos e na prestação de contas.
 
 ## Não delete, arquive
 
