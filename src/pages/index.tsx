@@ -29,10 +29,17 @@ export default function Home(): JSX.Element {
         </Container>
 
         <Container sx={{ p: 2 }} maxWidth="sm">
-          <Typography variant="h5" sx={{ py: 1 }}>
+          {/* <Typography variant="h5" sx={{ py: 1 }}>
             Chapa Ada Lovelace
           </Typography>
-          <SlateGridGenerator slateMembers={currentMembers} />
+          <SlateGridGenerator slateMembers={currentMembers} /> */}
+          <Typography variant="h5" sx={{ py: 1 }}>
+            Diretoria vacante
+          </Typography>
+          <p>
+            O mandato da Chapa Ada Lovelace venceu em 11/04/2025 e novas
+            eleições não foram convocadas nem pela diretoria, nem pelos alunos.
+          </p>
         </Container>
       </main>
       <Box sx={{ py: 4 }} />
