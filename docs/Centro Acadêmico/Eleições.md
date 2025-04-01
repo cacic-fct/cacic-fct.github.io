@@ -4,11 +4,13 @@
 
 As eleições devem ser realizadas preferencialmente no mês de abril, conforme o estatuto do CACiC.
 
-Além disso, os votos devem ser coletados digitalmente, por meio do sistema de votação do CACiC.  
+Além disso, os votos devem ser coletados digitalmente, por meio do Google Forms.  
 Isso simplifica o processo ao:
 
-1. Permitir que os alunos votem de qualquer lugar, sem a necessidade de deslocamento até a faculdade;
-1. Garantir a segurança e integridade dos votos;
+1. Permitir que os alunos votem de qualquer lugar, sem a necessidade de deslocamento até a faculdade.
+   - Isso permite uma maior representatividade.
+1. Garantir a segurança e integridade dos votos:
+   - Há melhores mecanismos para garantir a unicidade e a validação dos votos, como o uso de e-mails institucionais, que ajudam a evitar fraudes.
 1. Facilitar a contagem dos votos, não sendo necessário realizar a contagem manualmente e presencialmente.
    - A contagem manual demora horas, é suscetível a erros e pode necessitar de recontagem.
 
@@ -104,7 +106,9 @@ O processo eleitoral é composto pelas seguintes etapas:
 
    - Ao encerrar o formulário, faça a apuração imediatamente
    - Use a lista de RAs dos alunos matriculados no curso para confirmar os votos válidos
-     - Em caso de voto inválido, simplesmente não o contabilize
+     - Em caso de voto indevido, simplesmente não o contabilize
+     - Em caso de voto nulo ou branco, contabilize-os, mas desconsidere-os para o cálculo do percentual de votos válidos
+     - Em caso de preenchimento incorreto dos dados do votante, desconsidere o voto
 
 1. Posse da chapa vencedora:
    - Deve ocorrer em até 30 dias após a apuração dos votos
@@ -136,10 +140,11 @@ São informações essenciais:
 
 #### Formulário de votação
 
-- As respostas devem ser restritas a integrantes da Unesp;
+- As respostas devem ser restritas a integrantes da Unesp:
   - Os e-mails devem ser coletados para garantir a unicidade e a validade do voto.
-- Deve-se coletar o RA do votante para garantir a unicidade e a validade do voto.
-- Deve-se conter as chapas candidatas e as opções de voto nulo e de voto em branco.
+- Deve-se coletar o RA do votante para garantir a unicidade e a validade do voto;
+- Deve-se conter as chapas candidatas e as opções de voto nulo e de voto em branco;
+- Deve-se conter a composição das chapas candidatas, com os nomes dos integrantes e os cargos que ocupam.
 
 ## Chapa candidata
 
@@ -159,6 +164,10 @@ A chapa candidata deve:
 - Conhecer o estatuto do CACiC;
 - Respeitar os prazos estabelecidos no calendário eleitoral.
 
+Os membros da chapa:
+
+- Não podem concorrer em mais de uma chapa simultaneamente;
+
 ### Material de campanha
 
 O material de campanha deve ser respeitoso com as demais chapas e com a comunidade acadêmica.
@@ -171,16 +180,18 @@ Elabore a apresentação da chapa no formato de um único post do Instagram, com
 
 - Nome da chapa. Se for o nome de uma pessoa, adicione uma breve descrição sobre ela;
 - Resumo das propostas de gestão;
-- Nome ou apelido dos integrantes e seus respectivos cargos. Não adicione nenhum tipo de descrição às pessoas, como "o nerd do curso" ou "o melhor diretor de eventos";
+- Nome ou apelido dos integrantes e seus respectivos cargos.
 
 Se as propostas da chapa não couberem em um post, elabore um documento em PDF com elas e disponibilize-o no Grupo Geral da Computação.
 
 #### Estilo
 
-Preze pela acessibilidade e pela legibilidade do material de campanha:
+Preze pela acessibilidade, pela legibilidade e pela impessoalidade do material de campanha:
 
 - Não use os estilos Vaporwave, Glitch e Neubrutalismo, por serem pouco legíveis;
 - Atente-se à paleta de cores e à tipografia, para que não haja dificuldade de leitura;
+- Não adicione nenhum tipo de descrição às pessoas, como "o nerd do curso" ou "o melhor diretor de eventos";
+- Não adicione frases de efeito, como "a chapa que vai mudar tudo" ou "a chapa que vai fazer história";
 
 Para produzir um bom material e para demonstrar conhecimento sobre as normas do Centro Acadêmico, siga os guias de identidade visual e de redação do CACiC.
 
@@ -210,7 +221,7 @@ Somente o presidente da comissão eleitoral deve assinar o ofício.
 
 **Ata da assembleia:**
 
-> Às XX horas do dia XX de XXXXX de XXXX, em assembleia presencial ocorrida nas dependências da FCT-Unesp, foi dada a posse dos novos membros do Centro Acadêmico de Ciência da Computação. As eleições ocorreram nos dias XX de XXXXX de XX e XX de XXXXX de XXXX, em conformidade com os Artigos 11, 12, 23, 24, 25, 26 e 27 do estatuto da entidade, sob a responsabilidade da comissão eleitoral formada no dia XX de XXXXX de XXXX. A eleição contou com XX votos válidos, sendo XX votos (XX%) para a chapa NONONONO, X brancos (X%) e X nulos (X%). A composição da chapa se dá da seguinte forma:
+> Às XX horas do dia XX de XXXXX de XXXX, em assembleia presencial ocorrida nas dependências da FCT-Unesp, foi dada a posse dos novos membros do Centro Acadêmico de Ciência da Computação. As eleições ocorreram nos dias XX de XXXXX de XX e XX de XXXXX de XXXX, em conformidade com os Artigos 11, 12, 23, 24, 25, 26 e 27 do estatuto da entidade, sob a responsabilidade da comissão eleitoral formada no dia XX de XXXXX de XXXX. A eleição contou com XX votos, sendo XX votos válidos (XX%) para a chapa NONONONO, XX votos válidos (XX%) para a chapa NANANANA, X brancos (X%) e X nulos (X%). A composição da chapa vencedora NONONONO se dá da seguinte forma:
 >
 > - Presidente: NONONONO
 > - Vice-presidente: NONONONO
@@ -235,3 +246,20 @@ Somente o presidente da comissão eleitoral deve assinar o ofício.
 ### Chapa vencedora
 
 A chapa vencedora deve consultar a página "[Início do mandato](./Para%20diretores/Início%20do%20mandato.md)" para saber os próximos passos.
+
+## FAQ
+
+<details>
+<summary>O que fazer em caso de empate?</summary>
+Realize uma nova eleição entre as chapas empatadas em até 72 horas após a apuração dos votos.
+</details>
+
+<details>
+<summary>Como votos brancos e nulos funcionam?</summary>
+Os votos brancos e nulos não são considerados válidos, eles são apenas contabilizados para o cálculo do percentual de votos, sem interferir no resultado da eleição. Isto é, se há mais votos nulos ou brancos do que votos válidos, a chapa com mais votos válidos ainda é a vencedora.
+</details>
+
+<details>
+<summary>Os prazos são muito apertados, como fazer campanha?</summary>
+Convoque a eleição com maior antecedência possível, para que o calendário eleitoral tenha prazos mais longos.
+</details>
