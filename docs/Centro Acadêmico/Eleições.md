@@ -26,10 +26,10 @@ O processo eleitoral é composto pelas seguintes etapas:
 
    1. Por assembleia geral:
 
-      1. Convocada pela diretoria após o fim do prazo para convocação por edital:
+      1. Convocada pela diretoria após o fim do prazo para convocação por edital previsto no estatuto:
          - A assembleia deve formar a comissão eleitoral e homologar ela;
          - Caso o mandato tenha vencido e outra chapa não tenha sido eleita, fica presumida a dilação do mandato da diretoria, desde que não haja oposição. Dessa forma, a diretoria ainda pode convocar uma assembleia sem a necessidade de um abaixo-assinado;
-      1. Convocada pelos estudantes, por meio de um abaixo-assinado, com a assinatura de 20% dos alunos matriculados no curso, em caso de grave omissão ou para destituição. Em ambos os casos, uma diretoria temporária deve ser empossada, que tomará posse e convocará o processo eleitoral imediatamente:
+      1. Convocada pelos estudantes, por meio de um abaixo-assinado, com a assinatura de 20% dos alunos matriculados no curso, em caso de grave omissão ou para destituição. Em ambos os casos, uma diretoria temporária deve ser empossada e ela convocará o processo eleitoral imediatamente:
          1. Grave omissão:
             - A diretoria não convocou o processo eleitoral ou uma assembleia mesmo com o mandato vencido;
          1. Destituição:
