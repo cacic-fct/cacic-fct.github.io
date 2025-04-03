@@ -14,26 +14,27 @@ Dessa forma:
 
 Esta tabela é um adendo à [tabela principal](../../../Domínio/03-Registros%20DNS.md).
 
-| Tipo    | Nome                       | Destino                    | Proxy |                         |
-| ------- | -------------------------- | -------------------------- | ----- | ----------------------- |
-| `CNAME` | auth.cacic.dev.br          | FCTDTIWEBXP01.cacic.dev.br | Sim   | Authentik               |
-| `CNAME` | cal.cacic.dev.br           | FCTDTIWEBXP01.cacic.dev.br | Sim   | Calendário              |
-| `CNAME` | dashboard.cacic.dev.br     | FCTDTIWEBXP01.cacic.dev.br | Sim   | Beszel                  |
-| `CNAME` | emails.cacic.dev.br        | FCTDTIWEBXP01.cacic.dev.br | Sim   | Projeto email templates |
-| `CNAME` | fctapp.cacic.dev.br        | FCTDTIWEBXP01.cacic.dev.br | Sim   |                         |
-| `CNAME` | FCTDTIWEBXP01.cacic.dev.br | 38a.fct.unesp.br           | Sim   | Servidor da DTI         |
-| `CNAME` | fotos.cacic.dev.br         | FCTDTIWEBXP01.cacic.dev.br | Sim   | Immich                  |
-| `CNAME` | glitchtip.cacic.dev.br     | FCTDTIWEBXP01.cacic.dev.br | Sim   | Error monitoring        |
-| `CNAME` | grafana.cacic.dev.br       | FCTDTIWEBXP01.cacic.dev.br | Sim   | Monitoring              |
-| `CNAME` | plausible.cacic.dev.br     | FCTDTIWEBXP01.cacic.dev.br | Sim   | Analytics               |
-| `CNAME` | s.cacic.dev.br             | FCTDTIWEBXP01.cacic.dev.br | Sim   | Shlink                  |
-| `CNAME` | secrets.cacic.dev.br       | FCTDTIWEBXP01.cacic.dev.br | Sim   | Infisical               |
-| `CNAME` | senhas.cacic.dev.br        | FCTDTIWEBXP01.cacic.dev.br | Sim   | Vaultwarden             |
-| `CNAME` | smtp.cacic.dev.br          | FCTDTIWEBXP01.cacic.dev.br | Sim   | Mailcatcher             |
-| `CNAME` | status.cacic.dev.br        | FCTDTIWEBXP01.cacic.dev.br | Sim   | Uptime kuma             |
-| `CNAME` | traefik.cacic.dev.br       | FCTDTIWEBXP01.cacic.dev.br | Sim   | Dashboard               |
-| `CNAME` | typesense.cacic.dev.br     | FCTDTIWEBXP01.cacic.dev.br | Sim   | Search engine           |
-| `CNAME` | watchtower.cacic.dev.br    | FCTDTIWEBXP01.cacic.dev.br | Sim   |                         |
+| Tipo    | Nome                       | Destino                    | Proxy |                                 |
+| ------- | -------------------------- | -------------------------- | ----- | ------------------------------- |
+| `CNAME` | auth.cacic.dev.br          | FCTDTIWEBXP01.cacic.dev.br | Sim   | Authentik                       |
+| `CNAME` | cal.cacic.dev.br           | FCTDTIWEBXP01.cacic.dev.br | Sim   | Calendário                      |
+| `CNAME` | dashboard.cacic.dev.br     | FCTDTIWEBXP01.cacic.dev.br | Sim   | Beszel                          |
+| `CNAME` | emails.cacic.dev.br        | FCTDTIWEBXP01.cacic.dev.br | Sim   | Projeto email templates         |
+| `CNAME` | fctapp.cacic.dev.br        | FCTDTIWEBXP01.cacic.dev.br | Sim   |                                 |
+| `CNAME` | FCTDTIWEBXP01.cacic.dev.br | 38a.fct.unesp.br           | Sim   | Servidor da DTI                 |
+| `CNAME` | fotos.cacic.dev.br         | FCTDTIWEBXP01.cacic.dev.br | Sim   | Immich                          |
+| `CNAME` | glitchtip.cacic.dev.br     | FCTDTIWEBXP01.cacic.dev.br | Sim   | Error monitoring                |
+| `CNAME` | grafana.cacic.dev.br       | FCTDTIWEBXP01.cacic.dev.br | Sim   | Monitoring                      |
+| `CNAME` | plausible.cacic.dev.br     | FCTDTIWEBXP01.cacic.dev.br | Sim   | Analytics                       |
+| `CNAME` | plsbl.cacic.dev.br         | FCTDTIWEBXP01.cacic.dev.br | Sim   | Analytics - Alternativa adblock |
+| `CNAME` | s.cacic.dev.br             | FCTDTIWEBXP01.cacic.dev.br | Sim   | Shlink                          |
+| `CNAME` | secrets.cacic.dev.br       | FCTDTIWEBXP01.cacic.dev.br | Sim   | Infisical                       |
+| `CNAME` | senhas.cacic.dev.br        | FCTDTIWEBXP01.cacic.dev.br | Sim   | Vaultwarden                     |
+| `CNAME` | smtp.cacic.dev.br          | FCTDTIWEBXP01.cacic.dev.br | Sim   | Mailcatcher                     |
+| `CNAME` | status.cacic.dev.br        | FCTDTIWEBXP01.cacic.dev.br | Sim   | Uptime kuma                     |
+| `CNAME` | traefik.cacic.dev.br       | FCTDTIWEBXP01.cacic.dev.br | Sim   | Dashboard                       |
+| `CNAME` | typesense.cacic.dev.br     | FCTDTIWEBXP01.cacic.dev.br | Sim   | Search engine                   |
+| `CNAME` | watchtower.cacic.dev.br    | FCTDTIWEBXP01.cacic.dev.br | Sim   |                                 |
 
 Mesmo que esta tabela indique o endereço do servidor, todos os registros que apontam para o domínio `FCTDTIWEBXP01.cacic.dev.br` devem estar protegidos pelo proxy do Cloudflare. Isso é necessário para impedir ataques externos automatizados.
 

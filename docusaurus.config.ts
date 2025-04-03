@@ -57,7 +57,7 @@ const config: Config = {
 
   scripts: [
     {
-      src: 'https://plausible.cacic.dev.br/js/script.js',
+      src: 'https://plsbl.cacic.dev.br/js/script.js',
       defer: true,
       'data-domain': 'cacic.dev.br',
     },
@@ -68,7 +68,7 @@ const config: Config = {
       tagName: 'link',
       attributes: {
         rel: 'preconnect',
-        href: 'https://plausible.cacic.dev.br',
+        href: 'https://plsbl.cacic.dev.br',
       },
     },
   ],

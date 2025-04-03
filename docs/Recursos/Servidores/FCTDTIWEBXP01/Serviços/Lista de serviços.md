@@ -75,6 +75,8 @@ Substitui o Google Analytics.
 
 Disponível em [plausible.cacic.dev.br](https://plausible.cacic.dev.br).
 
+Use plsbl.cacic.dev.br para contornar bloqueadores de anúncios.
+
 ## Shlink (encurtador de links)
 
 Serviço de encurtamento de links do CACiC.
