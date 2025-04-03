@@ -12,3 +12,7 @@ A SECOMPP não é autosustentável, isto é, é necessária a injeção de recur
 - **Outras receitas ou despesas**: são aquelas que não se encaixam nas categorias anteriores.
 
 É importante que uma planilha seja criada para o controle de todas as movimentações financeiras, uma vez que o dinheiro remanescente é utilizado no ano seguinte.
+
+## Patrocínio x Apoio
+
+A SECOMPP pode ter patrocinadores e apoiadores. A diferença entre eles é que o patrocinador é aquele que contribui financeiramente, enquanto o apoiador é aquele que contribui com produtos ou serviços. O apoio pode ser em forma de desconto ou doação.
