@@ -57,11 +57,13 @@ Realize essas atividades de forma concomitante:
 
 1. Regularize a situação discente no conselho de curso.
 
-   - Use o modelo `d.a.-indicacao--1-10` com alterações no campo "de" e "para".
+   - A indicação é feito por meio do Diretório Acadêmico, caso ele esteja ativo. Caso não esteja, o CA pode indicar dois membros diretamente;
+   - Use o modelo `d.a.-indicacao--1-10` com alterações no campo "de" e "para";
+   - Converse com o Departamento de Matemática e Computação para obter as informações necessárias.
 
 1. Regularize a situação discente no conselho departamental.
    - Se o Centro Acadêmico do curso de Matemática estiver ativo, converse com os membros dele para a regularização. O CACiC tem o direito te apontar um membro para o conselho, assim como a outra entidade. Se o Centro Acadêmico do curso de Matemática não estiver ativo, o CA pode indicar dois membros após consulta com o curso de Matemática.
-   - Converse com o departamento de Matemática e Computação para obter as informações necessárias.
+   - Converse com o Departamento de Matemática e Computação para obter as informações necessárias.
 
 ## Princípios do CACiC
 
