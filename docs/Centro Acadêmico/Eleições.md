@@ -117,8 +117,6 @@ O processo eleitoral é composto pelas seguintes etapas:
 
 A comissão deve zelar pela transparência e lisura do processo eleitoral, garantindo que todas as regras sejam seguidas.
 
-Além disso, os membros da comissão assinam o documento de certificação da posse da nova diretoria, após a eleição.
-
 ### Fomulários
 
 :::danger
@@ -209,7 +207,7 @@ A chapa anterior pode dar continuidade a atividades pendentes junto à nova dire
 
 ### Ofício e ata de posse
 
-Após a posse, o presidente da comissão eleitoral deve encaminhar um ofício ao diretor da unidade, por meio da Seção Técnica Acadêmica (STA), comunicando a eleição da chapa. Anexo ao ofício, deve estar a ata da assembleia de posse e um relatório com a lista de votantes válidos, sem exibir os votos individuais. A ata deve ser assinada por todos os membros da chapa eleita.
+Após a posse, o presidente da comissão eleitoral deve encaminhar um ofício ao diretor da unidade, que deve ser protocolado na [Seção Técnica de Comunicações (STCOM)](https://www.fct.unesp.br/#!/administracao/comunicacoes/), comunicando a eleição da chapa. Anexo ao ofício, deve estar a ata da assembleia de posse e um relatório com a lista de votantes válidos, sem exibir os votos individuais. A ata deve ser assinada por todos os membros da chapa eleita.
 
 **Ofício:**
 
@@ -221,7 +219,7 @@ Somente o presidente da comissão eleitoral deve assinar o ofício.
 
 **Ata da assembleia:**
 
-> Às XX horas do dia XX de XXXXX de XXXX, em assembleia presencial ocorrida nas dependências da FCT-Unesp, foi dada a posse dos novos membros do Centro Acadêmico de Ciência da Computação. As eleições ocorreram nos dias XX de XXXXX de XX e XX de XXXXX de XXXX, em conformidade com os Artigos 11, 12, 23, 24, 25, 26 e 27 do estatuto da entidade, sob a responsabilidade da comissão eleitoral formada no dia XX de XXXXX de XXXX. A eleição contou com XX votos, sendo XX votos válidos (XX%) para a chapa NONONONO, XX votos válidos (XX%) para a chapa NANANANA, X brancos (X%) e X nulos (X%). A composição da chapa vencedora NONONONO se dá da seguinte forma:
+> Às XX:XX horas do dia XX de XXXXX de XXXX, em assembleia presencial ocorrida nas dependências da FCT-Unesp, foi dada a posse dos novos membros do Centro Acadêmico de Ciência da Computação. As eleições ocorreram nos dias XX de XXXXX de XX e XX de XXXXX de XXXX, em conformidade com os Artigos 11, 12, 23, 24, 25, 26 e 27 do estatuto da entidade, sob a responsabilidade da comissão eleitoral formada no dia XX de XXXXX de XXXX. A eleição contou com XX votos, sendo XX votos válidos (XX%) para a chapa NONONONO, XX votos válidos (XX%) para a chapa NANANANA, X brancos (X%) e X nulos (X%). A composição da chapa vencedora NONONONO se dá da seguinte forma:
 >
 > - Presidente: NONONONO
 > - Vice-presidente: NONONONO
@@ -234,6 +232,8 @@ Somente o presidente da comissão eleitoral deve assinar o ofício.
 >   - NONONONO
 >
 > Fazendo cumprir as determinações estatutárias do Centro Acadêmico de Ciência da Computação “Alan Turing”, fica instaurada a posse da chapa "NONONONO" para o próximo mandato.
+
+A ata de posse deve ser assinada por todos os membros da chapa eleita.
 
 **Relatório de votantes válidos:**
 
