@@ -30,6 +30,10 @@ Acesse [email-authentication-flow](https://auth.cacic.dev.br/if/flow/email-authe
 
 O Authentik é mais simples que o Keyclock para usos internos.
 
+## Crowdsec
+
+Serviço de proteção contra ataques de rede.
+
 ## Grafana (painel de monitoramento)
 
 Painel de monitoramento do CACiC.

@@ -4,6 +4,11 @@ sidebar:
   order: 5
 ---
 
+## Como testar?
+
+É proibido realizar testes de segurança na unespNET sem autorização da universidade.  
+Se você for pego, você pode ter os serviços de rede suspensos e ter de responder a um processo administrativo, que pode levar ao cancelamento da sua matrícula.
+
 ## Onde reportar?
 
 [Abra um security advisory](https://github.com/cacic-fct/fct-app/security/advisories/new) no repositório do projeto principal no GitHub.
