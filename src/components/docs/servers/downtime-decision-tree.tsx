@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import { Button, Card, CardContent, Typography, Link } from '@mui/material';
 
 type StepKeys =
