@@ -110,9 +110,9 @@ Não use Tailscale, CloudFlare WARP ou tecnologias similares.
 
 #### HTTPS
 
-Todos os serviços devem aceitar conexões HTTP, para redirecioná-las permanentemente para HTTPS.
+Todos os serviços devem aceitar conexões HTTP, com o único objetivo de redirecioná-las permanentemente para HTTPS.
 
-Também deve-se abrir para UDP as portas 80 (HTTP) e 443 (HTTPS), para utilização do protocolo HTTP/3.
+Também deve-se abrir para UDP a porta 443 (HTTPS), para utilização do protocolo HTTP/3.
 
 #### Acessos
 
@@ -122,4 +122,4 @@ Acessos diretos devem ser negados.
 
 #### Por hostname da Unesp ou do CACiC
 
-Deve redirecionar para a documentação do servidor.
+Deve redirecionar para a documentação do servidor, quando possível.
