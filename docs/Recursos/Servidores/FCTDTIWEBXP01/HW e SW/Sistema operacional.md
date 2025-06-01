@@ -81,11 +81,11 @@ ALGO=lz4
 # Specifies the amount of RAM that should be used for zram
 # based on a percentage the total amount of available memory
 # This takes precedence and overrides SIZE below
-#PERCENT=50
+PERCENT=90
 
 # Specifies a static amount of RAM that should be used for
 # the ZRAM devices, this is in MiB
-SIZE=4096
+#SIZE=8192
 
 # Specifies the priority for the swap devices, see swapon(2)
 # for more details. Higher number = higher priority
