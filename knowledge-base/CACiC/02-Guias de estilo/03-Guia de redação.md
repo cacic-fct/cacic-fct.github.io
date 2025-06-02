@@ -254,7 +254,7 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
 
 1. **Paralisação**
 
-   - Escreve-se com "s" ao invés de "z".
+   - Escreve-se com "s", ao invés de "z".
 
 1. **Personalizar**
 
