@@ -63,7 +63,7 @@ O processo eleitoral é composto pelas seguintes etapas:
 
    - Prazo para elaboração do formulário de votação
    - Período de votação
-   - Data da apuração dos votos, que deve ser preferencialmente no dia seguinte ao fechamento da votação
+   - Data da apuração dos votos, que deve ser preferencialmente no mesmo dia ou no dia seguinte ao fechamento da votação
    - Data da posse da chapa vencedora
 
 1. Abertura da inscrição de chapas candidatas
