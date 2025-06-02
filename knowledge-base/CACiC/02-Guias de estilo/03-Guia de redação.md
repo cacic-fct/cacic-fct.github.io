@@ -20,7 +20,7 @@ Também se aplica o que está disposto no guia de identidade visual.
 
 ## Identidade do CACiC
 
-1. O nome completo da entidade é: Centro Acadêmico da Ciência da Computação - "Alan Turing".
+1. O nome completo da entidade é: Centro Acadêmico da Ciência da Computação — "Alan Turing".
 
    - Também é admitida a seguinte forma: CACiC - Centro Acadêmico de Ciência da Computação "Alan Turing"
      da Faculdade de Ciências e Tecnologia, Câmpus de Presidente Prudente, Universidade Estadual Paulista "Júlio de Mesquita Filho".
@@ -32,7 +32,7 @@ Também se aplica o que está disposto no guia de identidade visual.
 
 1. Quando acompanhada do nome completo, o acrônimo "CACiC" deve vir antes do nome.
 
-   - Uso correto: CACiC - Centro Acadêmico da Ciência da Computação - "Alan Turing";
+   - Uso correto: CACiC - Centro Acadêmico da Ciência da Computação — "Alan Turing";
    - Não utilizar:
      - "Centro Acadêmico da Ciência da Computação - 'Alan Turing' (CACiC)";
      - "Centro Acadêmico da Ciência da Computação - CACiC - 'Alan Turing'".

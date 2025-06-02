@@ -240,7 +240,7 @@ Somente o presidente da comissão eleitoral deve assinar o ofício.
 >   - NONONONO;
 >   - NONONONO.
 >
-> Fazendo cumprir as determinações estatutárias do Centro Acadêmico de Ciência da Computação “Alan Turing”, fica instaurada a posse da chapa "NONONONO" para o próximo mandato.
+> Fazendo cumprir as determinações estatutárias do Centro Acadêmico de Ciência da Computação — “Alan Turing”, fica instaurada a posse da chapa "NONONONO" para o próximo mandato.
 
 A ata de posse deve ser assinada por todos os membros da chapa eleita.
 

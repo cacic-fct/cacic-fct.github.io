@@ -10,7 +10,7 @@ Ao efetuar a inscrição no evento, o participante automaticamente concorda com 
 
 **Concedente:** Parte que terá suas imagens capturadas pelo Concessionário.
 
-**Concessionário:** CACiC - Centro Acadêmico de Ciência da Computação "Alan Turing" da Faculdade de Ciências e Tecnologia, Câmpus de Presidente Prudente, Universidade Estadual Paulista "Júlio de Mesquita Filho"
+**Concessionário:** CACiC - Centro Acadêmico de Ciência da Computação — "Alan Turing" da Faculdade de Ciências e Tecnologia, Câmpus de Presidente Prudente, Universidade Estadual Paulista "Júlio de Mesquita Filho"
 
 **OBJETO:**
 
