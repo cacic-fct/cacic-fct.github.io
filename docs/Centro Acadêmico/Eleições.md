@@ -43,7 +43,7 @@ O processo eleitoral é composto pelas seguintes etapas:
 
    - 1 aluno de cada turma regular
      - Considera-se apenas até o 4º ano
-   - 1 membro da diretoria da chapa atual
+   - 1 membro da diretoria da chapa atual (eleita ou temporária)
      - Se o diretor for candidato, ele deve escolher se irá representar a chapa atual ou a concorrente, sem que ocorra um acúmulo de representação
    - 1 membro de cada uma das chapas concorrentes
    - Dentre os membros da comissão eleitoral, deve ser escolhido um presidente que, usualmente, é o membro da diretoria da chapa atual, pelo seu presumido maior nível de conhecimento sobre a legislação do CACiC
