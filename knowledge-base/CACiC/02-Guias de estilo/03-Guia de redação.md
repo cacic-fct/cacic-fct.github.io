@@ -10,7 +10,7 @@ Também se aplica o que está disposto no guia de identidade visual.
 
 1. Todas as comunicações e materiais oficiais do CACiC devem ser redigidos de forma objetiva, clara e impessoal, respeitando os princípios da transparência, da ética e da representatividade institucional. As comunicações e materiais oficiais do CACiC não devem conter referências a indivíduos específicos, sejam membros da entidade ou terceiros, salvo em casos de reconhecimento formal aprovado pela diretoria.
 
-   1. É vedado o uso de nomes de usuários, apelidos, identificadores pessoais de redes sociais ou qualquer outro elemento que personalize excessivamente as comunicações.
+   1. É vedado o uso de nomes de usuários, apelidos, identificadores pessoais de redes sociais ou qualquer outro elemento que personalize excessivamente as comunicações;
 
    1. Os conteúdos devem sempre representar o CACiC como um todo, evitando a personificação da entidade em qualquer indivíduo ou grupo específico.
 
@@ -27,14 +27,14 @@ Também se aplica o que está disposto no guia de identidade visual.
 
 1. O acrônimo estilizado da entidade é "CACiC", com a letra "i" minúscula.
 
-   - Não utilizar "CACIC" ou "cacic" onde é possível utilizar "CACiC".
+   - Não utilizar "CACIC" ou "cacic" onde é possível utilizar "CACiC";
    - Não utilizar "C.A. Ciência da Computação", "C.A.CI.C" ou "CACICOM".
 
 1. Quando acompanhada do nome completo, o acrônimo "CACiC" deve vir antes do nome.
 
-   - Uso correto: CACiC - Centro Acadêmico da Ciência da Computação - "Alan Turing".
+   - Uso correto: CACiC - Centro Acadêmico da Ciência da Computação - "Alan Turing";
    - Não utilizar:
-     - "Centro Acadêmico da Ciência da Computação - 'Alan Turing' (CACiC)"
+     - "Centro Acadêmico da Ciência da Computação - 'Alan Turing' (CACiC)";
      - "Centro Acadêmico da Ciência da Computação - CACiC - 'Alan Turing'".
 
 1. Utilizar a sigla "CA"
@@ -121,10 +121,19 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
 
    - "O termo _software_ é utilizado para se referir a programas de computador".
 
-1. Numerais:
+1. Para numerais, siga a norma culta:
 
    - Números de zero a dez: escreva por extenso;
-   - Números de 11 em diante: escreva em algarismos arábicos.
+   - Números de 11 em diante: escreva em algarismos arábicos;
+   - Quando houver números inferiores e superiores a dez na mesma frase, todos os números deverão ser escritos em algarismos arábicos.
+
+1. Em listas, siga a norma culta:
+
+   - Utilize ponto e vírgula para separar os itens, e ponto final no último item;
+   - Sempre pontue, não deixe o final de cada item sem pontuação;
+   - Exemplo:
+     - "Os itens necessários são: lápis; borracha; caderno; e caneta.";
+     - "Na minha geladeira há: leite de amêndoas; tofu; iogurte de soja; frutas; e verduras.".
 
 1. Empregar corretamente “a”, “há” e “à”:
 
@@ -141,7 +150,7 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
 
 1. Evitar o uso de gerúndio
 
-   - Ao invés de "Vamos estar realizando uma reunião", utilizar "Realizaremos uma reunião".
+   - Ao invés de "Vamos estar realizando uma reunião", utilizar "Realizaremos uma reunião";
    - Ao invés de "Estamos realizando uma reunião", utilizar com preferência "Uma reunião está sendo realizada" ou "Estamos a realizar uma reunião".
 
 1. Não utilizar termos diferentes para se referir à "assembleia" ou "plenária".
@@ -156,13 +165,13 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
 
 1. Não utilizar contrações informais:
 
-   - Ao invés de "pro", utilizar "para o".
-   - Ao invés de "pra", utilizar "para".
+   - Ao invés de "pro", utilizar "para o";
+   - Ao invés de "pra", utilizar "para";
    - "Num" não é uma contração informal, então pode ser utilizada.
 
 1. Utilizar verbos na forma imperativa para instruções.
 
-   - Ao invés de "Você deve se inscrever", utilizar "Inscreva-se".
+   - Ao invés de "Você deve se inscrever", utilizar "Inscreva-se";
    - Ao invés de "Arrasta para o lado", utilizar "Arraste para o lado".
 
 1. Utilizar singular para frases imperativas.
@@ -180,29 +189,29 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
 1. A linguagem inclusiva adotada pelo CACiC é a do uso mínimo de gênero.  
    Utiliza-se o masculino como neutro quando necessário, a fim de evitar a separação em gêneros, a repetição de termos e para garantir a clareza dos textos para todos os públicos.
 
-   - Ao invés de "entregador" ou "entregadora", utilizar com preferência "quem fará a entrega" ou "pessoa entregadora".
-   - Ao invés de "alunos e alunas", utilizar "alunos".
+   - Ao invés de "entregador" ou "entregadora", utilizar com preferência "quem fará a entrega" ou "pessoa entregadora";
+   - Ao invés de "alunos e alunas", utilizar "alunos";
    - Ao invés de "o(a) vencedor(a) será escolhido(a) pelo(a) juiz(a)", utilizar "o vencedor será escolhido pelo juiz".
 
    - Admite-se a utilização de palavras no feminino para referir-se a indivíduos que utilizam pronomes femininos:
 
-     - "A aluna vencedora" para se referir a uma aluna que venceu um concurso.
+     - "A aluna vencedora" para se referir a uma aluna que venceu um concurso;
      - "A professora" para se referir a uma professora.
 
    - Admite-se a utilização de neopronomes para referir-se a indivíduos que os utilizam:
 
-     - Se a pessoa não especificar sua preferência, as palavras devem utilizar o sufixo -e ao invés de -x ou -@, para garantir a compreensão do texto.
+     - Se a pessoa não especificar sua preferência, as palavras devem utilizar o sufixo -e ao invés de -x ou -@, para garantir a compreensão do texto;
      - Ao invés de "Bem-vindes à reunião de alunes", utilizar "Bem-vindos à reunião de alunos".
 
 ### Lista de termos
 
 1. **Aonde** - Conferir o uso correto.
 
-   - "Aonde" apresenta noção de movimento.
+   - "Aonde" apresenta noção de movimento:
      - A palavra pode ser substuída por “a que”, “ao qual” ou “à qual” sem alteração de sentido.
-   - "Onde" é utilizado para indicar um lugar onde algo está. Tem noção de permanência/estática.
+   - "Onde" é utilizado para indicar um lugar onde algo está. Tem noção de permanência/estática:
      - A palavra pode ser substituída por “em que”, "no qual" ou "na qual" sem alteração de sentido.
-   - Ao invés de "Aonde fica isso?", utilizar "Onde fica isso?".
+   - Ao invés de "Aonde fica isso?", utilizar "Onde fica isso?";
    - Ao invés de "Onde você vai?", utilizar "Aonde você vai?".
 
 1. **Através** - Há discordância sobre o uso do termo com o sentido de "por meio de".
@@ -212,6 +221,10 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
 1. **Calouro**
 
    - Preferencialmente não utilizar "bixo", "bixete" ou "bixe".
+
+1. **Computação**
+
+   - Não utilizar "computa" em contextos formais, como assembleias e documentos.
 
 1. **Contatar** - Utilize sem "c".
 
@@ -227,7 +240,7 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
 
 1. **Minicurso** - Utilizar sem hífen.
 
-   - Não utilizar "mini-curso".
+   - Não utilizar "mini-curso";
    - Conforme norma ortográfica, usa-se o hífen apenas nos casos em que a palavra inicia-se com as letras "i" ou "h".
 
 1. **On-line** - Utilizar com hífen.
@@ -240,7 +253,7 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
 
 1. **Por favor** - Não utilizar.
 
-   - Ao invés de escrever “Por favor, se inscreva até 25/02”, utilizar “Se inscreva até 25/02”.
+   - Ao invés de escrever “Por favor, se inscreva até 25/02”, utilizar “Se inscreva até 25/02”;
    - É permitido o uso do termo em comunicações individuais (e-mail para professor(es) ou e-mail para 1 aluno).
 
 1. **Redefinir**
@@ -256,5 +269,5 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
 
 ## Acessibilidade
 
-1. Utilizar as ferramentas específicas embutidas nos sites de mídia social para garantir a acessibilidade dos posts.
+1. Utilizar as ferramentas específicas embutidas nos sites de mídia social para garantir a acessibilidade dos posts:
    - No Instagram, ao invés de descrever a imagem utilizando o campo de texto da postagem, utilize a ferramenta de descrição de imagem.

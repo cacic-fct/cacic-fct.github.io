@@ -117,7 +117,7 @@ O processo eleitoral é composto pelas seguintes etapas:
 
 A comissão deve zelar pela transparência e lisura do processo eleitoral, garantindo que todas as regras sejam seguidas.
 
-### Fomulários
+### Formulários
 
 :::danger
 
@@ -162,9 +162,13 @@ A chapa candidata deve:
 - Conhecer o estatuto do CACiC;
 - Respeitar os prazos estabelecidos no calendário eleitoral.
 
-Os membros da chapa:
+Os diretores da chapa:
 
-- Não podem concorrer em mais de uma chapa simultaneamente;
+- Devem estar regularmente matriculados, ou seja, não podem estar com a matrícula suspensa.
+
+Os diretores e os membros da chapa:
+
+- Não podem concorrer em mais de uma chapa simultaneamente.
 
 ### Material de campanha
 
