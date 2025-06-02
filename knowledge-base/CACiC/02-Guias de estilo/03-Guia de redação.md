@@ -255,7 +255,7 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
 1. **Por favor** - Não utilizar.
 
    - Ao invés de escrever “Por favor, se inscreva até 25/02”, utilizar “Se inscreva até 25/02”;
-   - É permitido o uso do termo em comunicações individuais (e-mail para professor(es) ou e-mail para 1 aluno).
+   - É permitido o uso do termo em comunicações individuais (e-mail para professor(es) ou e-mail para um aluno).
 
 1. **Redefinir**
 
