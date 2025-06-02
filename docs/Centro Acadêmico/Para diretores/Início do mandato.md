@@ -2,6 +2,8 @@
 
 O mandato é de 1 ano, mas pode ser dilatado em assembleia geral ou encerrado antecipadamente pela chapa, especialmente no caso de correção do calendário eleitoral.
 
+A baixa participação dos alunos no processo eleitoral pode ser um indicativo de rejeição da chapa ou de falta de interesse dos alunos pelo Centro Acadêmico. É importante que a chapa eleita esteja atenta a esses sinais e que busque formas de reverter essa situação, como a promoção de eventos, de campanhas de conscientização e de ações que envolvam os alunos nas atividades do CACiC.
+
 ## Finalização do processo eleitoral
 
 Consulte a seção [Após a apuração dos votos](../Eleições.md#após-a-apuração-dos-votos).

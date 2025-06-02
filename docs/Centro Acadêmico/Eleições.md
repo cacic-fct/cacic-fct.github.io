@@ -250,7 +250,7 @@ A ata de posse deve ser assinada por todos os membros da chapa eleita.
 >
 > - 000000000;
 > - 000000000;
-> - 0.
+> - 000000000\.
 
 ### Chapa vencedora
 
@@ -269,6 +269,8 @@ Realize uma nova eleição entre as chapas empatadas em até 72 horas após a ap
 <summary>Como votos brancos e nulos funcionam?</summary>
 
 Os votos brancos e nulos não são considerados válidos, eles são apenas contabilizados para o cálculo do percentual de votos, sem interferir no resultado da eleição. Isto é, se há mais votos nulos ou brancos do que votos válidos, a chapa com mais votos válidos ainda é a vencedora.
+
+Os alunos que não se sentirem representados por nenhuma das opções e que não desejam a eleição de nenhuma das chapas podem votar em branco ou nulo, mas, idealmente, deveriam ter composto uma chapa para concorrer à eleição.
 
 </details>
 
