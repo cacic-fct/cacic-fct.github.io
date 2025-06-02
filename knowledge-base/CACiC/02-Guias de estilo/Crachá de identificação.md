@@ -33,7 +33,7 @@ O crachá deve ser composto por:
      - They, them, theirs.
    - Neopronomes são permitidos e devem seguir a formatação.
 
-Não deve haver distinção por cargo. Todos que estão vestindo o crachá devem saber de todas as informações do evento ou saber direcionar para quem possua a informação.
+Não deve haver distinção por cargo, isto é, não especifique se o indivíduo é "auxiliar", "organizador", "diretor", etc. Todos que estão vestindo o crachá devem saber de todas as informações do evento ou saber direcionar para quem possua a informação.
 
 ## Estilização
 
