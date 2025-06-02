@@ -31,7 +31,7 @@ O processo eleitoral é composto pelas seguintes etapas:
       1. Convocada pela diretoria após o fim do prazo para convocação por edital previsto no estatuto:
          - A assembleia deve formar a comissão eleitoral e homologar ela;
          - Caso o mandato tenha vencido e outra chapa não tenha sido eleita, fica presumida a dilação do mandato da diretoria, desde que não haja oposição. Dessa forma, a diretoria ainda pode convocar uma assembleia sem a necessidade de um abaixo-assinado;
-      1. Convocada pelos estudantes, por meio de um abaixo-assinado, com a assinatura de 20% dos alunos matriculados no curso, em caso de grave omissão ou para destituição. Em ambos os casos, uma diretoria temporária deve ser empossada e ela convocará o processo eleitoral imediatamente:
+      1. Convocada pelos estudantes, por meio de um abaixo-assinado, com a assinatura de 20% dos alunos matriculados no curso, em caso de grave omissão ou para destituição. Em ambos os casos, uma diretoria provisória deve ser empossada e ela convocará o processo eleitoral imediatamente:
          1. Grave omissão:
             - A diretoria não convocou o processo eleitoral ou uma assembleia mesmo com o mandato vencido.
          1. Destituição:
@@ -43,7 +43,7 @@ O processo eleitoral é composto pelas seguintes etapas:
 
    - 1 aluno de cada turma regular:
      - Considera-se apenas até o 4º ano.
-   - 1 membro da diretoria da chapa atual, seja ela eleita ou temporária:
+   - 1 membro da diretoria da chapa atual, seja ela eleita ou provisória:
      - Se o diretor for candidato, ele deve escolher se irá representar a chapa atual ou a concorrente, sem que ocorra um acúmulo de representação.
    - 1 membro de cada uma das chapas concorrentes;
    - Dentre os membros da comissão eleitoral, deve ser escolhido um presidente que, usualmente, é o membro da diretoria da chapa atual, pelo seu presumido maior nível de conhecimento sobre a legislação do CACiC.
