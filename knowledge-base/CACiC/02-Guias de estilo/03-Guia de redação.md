@@ -197,10 +197,11 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
 
      - "A aluna vencedora" para se referir a uma aluna que venceu um concurso;
      - "A professora" para se referir a uma professora.
+     - "O grupo de alunas" para se referir a um grupo de alunos que utilizam pronomes femininos;
 
    - Admite-se a utilização de neopronomes para referir-se a indivíduos que os utilizam:
 
-     - Se a pessoa não especificar sua preferência, as palavras devem utilizar o sufixo -e ao invés de -x ou -@, para garantir a compreensão do texto;
+     - Se a pessoa não especificar a preferência dela, as palavras devem utilizar o sufixo -e ao invés de -x ou -@, para garantir a compreensão do texto;
      - Ao invés de "Bem-vindes à reunião de alunes", utilizar "Bem-vindos à reunião de alunos".
 
 ### Lista de termos
