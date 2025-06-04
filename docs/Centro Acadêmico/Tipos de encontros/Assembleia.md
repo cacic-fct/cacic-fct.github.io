@@ -21,3 +21,5 @@ As deliberações votadas em assembleia são superiores ao estatuto.
 Apensar do estatuto dar o nome de "Assembleia Geral", a nomenclatura "Assembleia de curso" é preferida, pois evita ambiguidades com as assembleias gerais de estudantes da FCT-Unesp.
 
 :::
+
+O CACiC deve sempre elaborar uma ata de assembleia.

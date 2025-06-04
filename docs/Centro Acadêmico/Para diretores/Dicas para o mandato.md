@@ -6,6 +6,21 @@ Mantenha um registro de todas as atividades realizadas durante o mandato. Isso p
 
 Isso facilita na transição de mandatos e na prestação de contas.
 
+Em assembleias, plenárias e reuniões, sempre elabore uma ata. Ela ajuda a manter um histórico claro das atividades e decisões.
+
+Nas atas, inclua:
+
+- Data, hora e local da reunião. Se for assembleia e houve segunda convocação, informe o horário da primeira e da segunda convocação;
+- Nome do presidente da mesa;
+- Nome do secretário da mesa;
+- Ordem do dia, com os assuntos a serem tratados;
+- Resumo das discussões e deliberações;
+- Resultado das votações;
+- Assinaturas do presidente e do secretário da mesa;
+- Lista de presença, com nome e assinatura dos presentes.
+
+A ata deve ser encaminhada aos membros do CACiC que não puderam comparacer ao encontro. A ata deve ser arquivada no Google Drive do CACiC.
+
 ## Não delete, arquive
 
 "Não delete, arquive" é uma política de gerenciamento de arquivos e dados para garantir a preservação de informações importantes.

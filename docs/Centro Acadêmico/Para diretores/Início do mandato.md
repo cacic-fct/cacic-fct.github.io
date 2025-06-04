@@ -2,8 +2,6 @@
 
 O mandato é de 1 ano, mas pode ser dilatado em assembleia geral ou encerrado antecipadamente pela chapa, especialmente no caso de correção do calendário eleitoral.
 
-A baixa participação dos alunos no processo eleitoral pode ser um indicativo de rejeição da chapa ou de falta de interesse dos alunos pelo Centro Acadêmico. É importante que a chapa eleita esteja atenta a esses sinais e que busque formas de reverter essa situação, como a promoção de eventos, de campanhas de conscientização e de ações que envolvam os alunos nas atividades do CACiC.
-
 ## Finalização do processo eleitoral
 
 Consulte a seção [Após a apuração dos votos](../Eleições.md#após-a-apuração-dos-votos).
@@ -11,6 +9,10 @@ Consulte a seção [Após a apuração dos votos](../Eleições.md#após-a-apura
 ## Primeiros passos
 
 Realize essas atividades de forma concomitante:
+
+1. Analise o resultado das eleições:
+
+   - A baixa participação dos alunos no processo eleitoral pode ser um indicativo de rejeição da chapa ou de falta de interesse dos alunos pelo Centro Acadêmico. É importante que a chapa eleita esteja atenta a esses sinais e que busque formas de reverter essa situação, como por meio da promoção de eventos, de campanhas de conscientização e de ações que envolvam os alunos nas atividades do CACiC.
 
 1. Obtenha as credenciais de acesso aos recursos do CACiC. **Antes de alterar as senhas e os contatos de recuperação, consulte os regimentos internos do CACiC**.
 
@@ -37,7 +39,7 @@ Realize essas atividades de forma concomitante:
 
 1. Atualização das informações no site do CACiC:
 
-   1. Atualize a data de término do mandato da chapa anterior.
+   1. Atualize a data de término do mandato da chapa anterior e o cargo de cada membro;
    1. Crie um novo componente para a nova diretoria:
 
       - Obrigatório: converta as imagens para formatos eficientes, como AVIF ou melhor;
@@ -64,7 +66,7 @@ Realize essas atividades de forma concomitante:
    - Converse com o Departamento de Matemática e Computação para obter as informações necessárias.
 
 1. Regularize a situação discente no conselho departamental.
-   - Se o Centro Acadêmico do curso de Matemática estiver ativo, converse com os membros dele para a regularização. O CACiC tem o direito te apontar um membro para o conselho, assim como a outra entidade. Se o Centro Acadêmico do curso de Matemática não estiver ativo, o CA pode indicar dois membros após consulta com o curso de Matemática.
+   - Se o Centro Acadêmico do curso de Matemática estiver ativo, converse com os membros dele para a regularização. O CACiC tem o direito te apontar um membro para o conselho, assim como a outra entidade tem o direito de indicar outro. Se o Centro Acadêmico do curso de Matemática não estiver ativo, o CA pode indicar dois membros após consulta com o curso de Matemática;
    - Converse com o Departamento de Matemática e Computação para obter as informações necessárias.
 
 ## Princípios do CACiC
