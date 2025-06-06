@@ -214,7 +214,7 @@ A chapa anterior pode dar continuidade a atividades pendentes junto à nova dire
 
 ### Ofício e ata de posse
 
-Após a posse, o presidente da comissão eleitoral deve encaminhar um ofício ao diretor da unidade, que deve ser protocolado na [Seção Técnica de Comunicações (STCOM)](https://www.fct.unesp.br/#!/administracao/comunicacoes/), comunicando a eleição da chapa. Anexo ao ofício, deve estar a ata da assembleia de posse e um relatório com a lista de votantes válidos, sem exibir os votos individuais. A ata deve ser assinada por todos os membros da chapa eleita.
+Após a posse, o presidente da comissão eleitoral deve encaminhar um ofício ao diretor da unidade, que deve ser protocolado na [Seção Técnica de Comunicações (STCOM)](https://www.fct.unesp.br/#!/administracao/comunicacoes/), comunicando a eleição da chapa. Anexo ao ofício, deve estar a ata da assembleia de posse e um relatório com a lista de votantes válidos, sem exibir os votos individuais.
 
 **Ofício:**
 
