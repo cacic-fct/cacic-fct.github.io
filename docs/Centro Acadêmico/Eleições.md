@@ -2,6 +2,13 @@
 
 ## Introdução
 
+Este documento sugere boas práticas para a realização das eleições, mas não substitui o estatuto do CACiC.  
+Dessa forma, o estatuto deve ser consultado antes da atualização de qualquer informação nesta página.
+
+Quando o estatuto não abordar determinada situação (omissão), o assunto deve ser deliberado em assembleia.
+
+## Requisitos
+
 As eleições devem ser realizadas preferencialmente no mês de abril, conforme o estatuto do CACiC.
 
 Além disso, os votos devem ser coletados digitalmente, por meio do Google Forms.  
@@ -13,9 +20,6 @@ Isso simplifica o processo ao:
    - Há melhores mecanismos para garantir a unicidade e a validação dos votos, como o uso de e-mails institucionais, que ajudam a evitar fraudes.
 1. Facilitar a contagem dos votos, não sendo necessário realizar a contagem manualmente e presencialmente:
    - A contagem manual demora horas, é suscetível a erros e pode necessitar de recontagem.
-
-Este documento é complementar ao estatuto do CACiC, que deve ser consultado para entender melhor o processo eleitoral.  
-Quando o estatuto não abordar determinada situação (omissão), o assunto deve ser deliberado em assembleia.
 
 ## Etapas
 
@@ -257,7 +261,7 @@ A ata de posse deve ser assinada por todos os membros da chapa eleita.
 
 A chapa vencedora deve consultar a página "[Início do mandato](./Para%20diretores/Início%20do%20mandato.md)" para saber os próximos passos.
 
-## FAQ
+## FAQ - Perguntas frequentes
 
 <details>
 <summary>O que fazer em caso de empate?</summary>
