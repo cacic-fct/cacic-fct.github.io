@@ -14,6 +14,7 @@ Isso simplifica o processo ao:
 1. Facilitar a contagem dos votos, não sendo necessário realizar a contagem manualmente e presencialmente:
    - A contagem manual demora horas, é suscetível a erros e pode necessitar de recontagem.
 
+Este documento é complementar ao estatuto do CACiC, que deve ser consultado para entender melhor o processo eleitoral.  
 Quando o estatuto não abordar determinada situação (omissão), o assunto deve ser deliberado em assembleia.
 
 ## Etapas
@@ -46,7 +47,7 @@ O processo eleitoral é composto pelas seguintes etapas:
    - 1 membro da diretoria da chapa atual, seja ela eleita ou provisória:
      - Se o diretor for candidato, ele deve escolher se irá representar a chapa atual ou a concorrente, sem que ocorra um acúmulo de representação.
    - 1 membro de cada uma das chapas concorrentes;
-   - Dentre os membros da comissão eleitoral, deve ser escolhido um presidente que, usualmente, é o membro da diretoria da chapa atual, pelo seu presumido maior nível de conhecimento sobre a legislação do CACiC.
+   - Dentre os membros da comissão eleitoral, deve ser escolhido um presidente que, usualmente, é o membro da diretoria da chapa atual, pelo seu presumido maior nível de conhecimento sobre a legislação do CACiC. O presidente, além de ser o líder, assina a responsabilidade pelo processo eleitoral, logo, deve garantir que todas as etapas sejam cumpridas e que as regras sejam seguidas.
 
 1. Elaboração do calendário eleitoral pela comissão eleitoral. Nele deve constar:
 
