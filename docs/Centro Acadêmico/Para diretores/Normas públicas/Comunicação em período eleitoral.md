@@ -16,20 +16,19 @@
 #### Instagram e Facebook
 
 - **Apresentação das chapas e sumário dos planos de gestão**
-  - As chapas podem apresentar-se e divulgar um sumário dos planos de gestão
+  - As chapas podem apresentar-se e divulgar um sumário dos planos de gestão.
 
 #### YouTube
 
 O canal do YouTube do CACiC pode ser usado para:
 
 - **Hospedar, de maneira não listada, vídeos explicativos sobre os planos de gestão**
-  - As chapas podem hospedar vídeos explicativos sobre os plan
 
 ### Comunicação oficial
 
 #### E-mail
 
-As chapas podem fazer uso livre da lista de e-mails do curso para divulgar suas propostas.
+As chapas podem fazer uso livre da lista de e-mails do curso para divulgar suas propostas, sem necessitar de intermediação do CACiC.
 
 #### Grupo no WhatsApp
 
