@@ -54,7 +54,6 @@ Conforme a LGPD:
 
 Adicionalmente, o CACiC considera como dados sensíveis:
 
-- Estado civil ou qualquer informação sobre a vida amorosa do indivíduo;
+- Estado civil ou qualquer informação sobre a vida amorosa do indivíduo.
 
-Não deve-se coletar dados sensíveis, nem mesmo se anonimizados ou para fins estatísticos.  
-Não é possível garantir a segurança no tratamento desses dados.
+Não deve-se coletar dados sensíveis, nem mesmo se anonimizados ou para fins estatísticos, pois não é possível garantir a segurança no tratamento desses dados.
