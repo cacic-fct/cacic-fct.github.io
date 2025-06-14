@@ -16,7 +16,7 @@ Caso o DMC se recuse a fornecer a lista, solicite ao coordenador do curso.
 
 Caso o coordenador do curso se recuse a fornecer a lista, solicite ao professor responsável pela disciplina ATP 1, uma vez que todos os calouros estarão matriculados nessa disciplina.
 
-Você também pode encontrar calouros ao digitar cada o nome deles na caixa de "Destinatários" do e-mail institucional.
+Você também pode encontrar calouros ao digitar o nome deles na caixa de "Destinatários" do e-mail institucional.
 
 Use a lista para enviar e-mails de boas-vindas e para convidar os calouros a participar das atividades de integração.  
 Além disso, use-a para adicionar os calouros às [listas de e-mails do curso no Google Groups](../../Recursos/Comunicação/Lista%20de%20e-mails.md).
