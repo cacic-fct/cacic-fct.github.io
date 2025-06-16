@@ -5,6 +5,7 @@ import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 import Grid from '@mui/material/Grid2';
 import Button from '@mui/material/Button';
+import MuiThemeClientProvider from '@site/src/theme/MuiThemeProvider';
 
 const gridContainer = {
   maxWidth: 345,
@@ -32,40 +33,42 @@ export default function AchievementsCards({
   achievementsData: Achievements[];
 }) {
   return (
-    <Grid container spacing={2}>
-      {achievementsData.map((achievement, index) => (
-        <Grid size={{ xs: 4 }} sx={gridContainer} key={index}>
-          <Card sx={gridItem}>
-            <CardMedia
-              sx={cardImage}
-              component="img"
-              image={
-                achievement.image
-                  ? require(`@site/static/openness/${achievement.image}`)
-                      .default
-                  : require('@site/static/openness/placeholder.webp').default
-              }
-              title={achievement.title}
-            />
-            <CardContent>
-              <Typography gutterBottom variant="h5" component="div">
-                {achievement.title}
-              </Typography>
-              <Typography variant="body2" color="text.secondary">
-                {achievement.content}
-              </Typography>
-              {achievement.url && (
-                <CardActions>
-                  <Button size="small" href={achievement.url}>
-                    Ver mais
-                  </Button>
-                </CardActions>
-              )}
-            </CardContent>
-          </Card>
-        </Grid>
-      ))}
-    </Grid>
+    <MuiThemeClientProvider>
+      <Grid container spacing={2}>
+        {achievementsData.map((achievement, index) => (
+          <Grid size={{ xs: 4 }} sx={gridContainer} key={index}>
+            <Card sx={gridItem}>
+              <CardMedia
+                sx={cardImage}
+                component="img"
+                image={
+                  achievement.image
+                    ? require(`@site/static/openness/${achievement.image}`)
+                        .default
+                    : require('@site/static/openness/placeholder.webp').default
+                }
+                title={achievement.title}
+              />
+              <CardContent>
+                <Typography gutterBottom variant="h5" component="div">
+                  {achievement.title}
+                </Typography>
+                <Typography variant="body2" color="text.secondary">
+                  {achievement.content}
+                </Typography>
+                {achievement.url && (
+                  <CardActions>
+                    <Button size="small" href={achievement.url}>
+                      Ver mais
+                    </Button>
+                  </CardActions>
+                )}
+              </CardContent>
+            </Card>
+          </Grid>
+        ))}
+      </Grid>
+    </MuiThemeClientProvider>
   );
 }
 

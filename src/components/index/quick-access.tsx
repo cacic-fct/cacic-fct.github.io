@@ -15,64 +15,65 @@ import GroupIcon from '@mui/icons-material/Group';
 import ArticleIcon from '@mui/icons-material/Article';
 import BookIcon from '@mui/icons-material/Book';
 
-import theme from '@site/src/shared/components/mui-theme';
-import { ThemeProvider } from '@emotion/react';
+import MuiThemeClientProvider from '@site/src/theme/MuiThemeProvider';
 
 export default function QuickAccess() {
   return (
-    <Card>
-      <CardContent>
-        <Typography variant="h5" component="div">
-          Acesso rápido
-        </Typography>
+    <MuiThemeClientProvider>
+      <Card>
+        <CardContent>
+          <Typography variant="h5" component="div">
+            Acesso rápido
+          </Typography>
 
-        <List>
-          <ListItem disablePadding>
-            <ListItemButton href="https://www.fct.unesp.br/#!/administracao/graduacao/espaco-do-aluno/">
-              <ListItemIcon>
-                <CalendarMonthIcon />
-              </ListItemIcon>
-              <ListItemText primary="Calendário do câmpus" />
-            </ListItemButton>
-          </ListItem>
+          <List>
+            <ListItem disablePadding>
+              <ListItemButton href="https://www.fct.unesp.br/#!/administracao/graduacao/espaco-do-aluno/">
+                <ListItemIcon>
+                  <CalendarMonthIcon />
+                </ListItemIcon>
+                <ListItemText primary="Calendário do câmpus" />
+              </ListItemButton>
+            </ListItem>
 
-          <ListItem disablePadding>
-            <ListItemButton href="https://fctapp.cacic.dev.br/">
-              <ListItemIcon>
-                <AppsIcon />
-              </ListItemIcon>
-              <ListItemText primary="FCT App" />
-            </ListItemButton>
-          </ListItem>
+            <ListItem disablePadding>
+              <ListItemButton href="https://fctapp.cacic.dev.br/">
+                <ListItemIcon>
+                  <AppsIcon />
+                </ListItemIcon>
+                <ListItemText primary="FCT App" />
+              </ListItemButton>
+            </ListItem>
 
-          <ListItem disablePadding>
-            <ListItemButton href="https://manual.cacic.dev.br">
-              <ListItemIcon>
-                <BookIcon />
-              </ListItemIcon>
-              <ListItemText primary="Manual do calouro" />
-            </ListItemButton>
-          </ListItem>
+            <ListItem disablePadding>
+              <ListItemButton href="https://manual.cacic.dev.br">
+                <ListItemIcon>
+                  <BookIcon />
+                </ListItemIcon>
+                <ListItemText primary="Manual do calouro" />
+              </ListItemButton>
+            </ListItem>
 
-          <ListItem disablePadding>
-            <ListItemButton href="https://manual.cacic.dev.br/página-do-calouro">
-              <ListItemIcon>
-                <GroupIcon />
-              </ListItemIcon>
-              <ListItemText primary="Página do calouro" />
-            </ListItemButton>
-          </ListItem>
+            <ListItem disablePadding>
+              <ListItemButton href="https://manual.cacic.dev.br/página-do-calouro">
+                <ListItemIcon>
+                  <GroupIcon />
+                </ListItemIcon>
+                <ListItemText primary="Página do calouro" />
+              </ListItemButton>
+            </ListItem>
 
-          <ListItem disablePadding>
-            <ListItemButton href="https://drive.google.com/file/d/1IkP7qYwvtdDc9CRiKueyjZ8bESRsDUS5/view">
-              <ListItemIcon>
-                <ArticleIcon />
-              </ListItemIcon>
-              <ListItemText primary="Estatuto do CACiC" />
-            </ListItemButton>
-          </ListItem>
-        </List>
-      </CardContent>
-    </Card>
+            <ListItem disablePadding>
+              <ListItemButton href="https://drive.google.com/file/d/1IkP7qYwvtdDc9CRiKueyjZ8bESRsDUS5/view">
+                <ListItemIcon>
+                  <ArticleIcon />
+                </ListItemIcon>
+                <ListItemText primary="Estatuto do CACiC" />
+              </ListItemButton>
+            </ListItem>
+          </List>
+        </CardContent>
+      </Card>
+    </MuiThemeClientProvider>
   );
 }

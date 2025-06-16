@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Button, Card, CardContent, Typography, Link } from '@mui/material';
+import MuiThemeClientProvider from '@site/src/theme/MuiThemeProvider';
 
 type StepKeys =
   | 'statusPageAccessible'
@@ -127,53 +128,55 @@ const DowntimeDecisionTree = () => {
     stepIndex >= steps.length || values.pingDtiServersWorks !== undefined;
 
   return (
-    <Card variant="outlined" sx={{ mb: 2 }}>
-      <CardContent>
-        {currentStep && !showResult && (
-          <>
-            <Typography variant="h6">{currentStep.question}</Typography>
-            <br />
-            <Button
-              variant="contained"
-              sx={{ mr: 1 }}
-              onClick={() => handleResponse(true)}>
-              Sim
-            </Button>
-            <Button variant="contained" onClick={() => handleResponse(false)}>
-              Não
-            </Button>
-            <Button variant="outlined" sx={{ ml: 2 }} onClick={reset}>
-              Reiniciar
-            </Button>
-          </>
-        )}
+    <MuiThemeClientProvider>
+      <Card variant="outlined" sx={{ mb: 2 }}>
+        <CardContent>
+          {currentStep && !showResult && (
+            <>
+              <Typography variant="h6">{currentStep.question}</Typography>
+              <br />
+              <Button
+                variant="contained"
+                sx={{ mr: 1 }}
+                onClick={() => handleResponse(true)}>
+                Sim
+              </Button>
+              <Button variant="contained" onClick={() => handleResponse(false)}>
+                Não
+              </Button>
+              <Button variant="outlined" sx={{ ml: 2 }} onClick={reset}>
+                Reiniciar
+              </Button>
+            </>
+          )}
 
-        {showResult && (
-          <>
-            <Typography variant="body1">
-              {(Object.keys(values) as StepKeys[]).map((key) => {
-                const step = steps.find((s) => s.key === key);
-                if (!step) return null;
+          {showResult && (
+            <>
+              <Typography variant="body1">
+                {(Object.keys(values) as StepKeys[]).map((key) => {
+                  const step = steps.find((s) => s.key === key);
+                  if (!step) return null;
 
-                return (
-                  <p key={key}>
-                    <strong>{step.question}</strong>
-                    <br />
-                    Resposta: {values[key] ? 'Sim' : 'Não'}
-                  </p>
-                );
-              })}
-            </Typography>
-            <Typography variant="h6">Recomendação</Typography>
-            <Typography variant="body1">{getResult(values)}</Typography>
-            <br />
-            <Button variant="contained" onClick={reset}>
-              Reiniciar
-            </Button>
-          </>
-        )}
-      </CardContent>
-    </Card>
+                  return (
+                    <p key={key}>
+                      <strong>{step.question}</strong>
+                      <br />
+                      Resposta: {values[key] ? 'Sim' : 'Não'}
+                    </p>
+                  );
+                })}
+              </Typography>
+              <Typography variant="h6">Recomendação</Typography>
+              <Typography variant="body1">{getResult(values)}</Typography>
+              <br />
+              <Button variant="contained" onClick={reset}>
+                Reiniciar
+              </Button>
+            </>
+          )}
+        </CardContent>
+      </Card>
+    </MuiThemeClientProvider>
   );
 };
 

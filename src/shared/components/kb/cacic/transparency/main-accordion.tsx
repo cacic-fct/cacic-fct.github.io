@@ -8,21 +8,24 @@ import {
   achievementsHamilton,
   meetingsHamilton,
 } from '@site/src/shared/components/kb/cacic/transparency/data/2021-margaret-hamilton';
+import MuiThemeClientProvider from '@site/src/theme/MuiThemeProvider';
 
 export default function MainAccordion() {
   return (
-    <Accordion>
-      <AccordionSummary
-        expandIcon={<ExpandMoreIcon />}
-        aria-controls="panel1-content"
-        id="panel1-header">
-        Chapa Margaret Hamilton (2021-2023)
-      </AccordionSummary>
-      <AccordionDetails>
-        <MeetingsAccordion meetingsData={meetingsHamilton} />
+    <MuiThemeClientProvider>
+      <Accordion>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
+          aria-controls="panel1-content"
+          id="panel1-header">
+          Chapa Margaret Hamilton (2021-2023)
+        </AccordionSummary>
+        <AccordionDetails>
+          <MeetingsAccordion meetingsData={meetingsHamilton} />
 
-        <AchievementsCards achievementsData={achievementsHamilton} />
-      </AccordionDetails>
-    </Accordion>
+          <AchievementsCards achievementsData={achievementsHamilton} />
+        </AccordionDetails>
+      </Accordion>
+    </MuiThemeClientProvider>
   );
 }

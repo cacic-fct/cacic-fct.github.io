@@ -5,6 +5,7 @@ import LinkList from '@site/src/components/links/linkList';
 
 import { CardList, ListType } from '@site/src/components/links/linkList';
 import { Container } from '@mui/material';
+import MuiThemeClientProvider from '@site/src/theme/MuiThemeProvider';
 
 /* Para adicionar um item à árvore de links, edite as variáveis linkList e cardList que estão fora do comentário.
  * Se você não possui permissão no repositório, abra um pull request com as alterações.
@@ -71,8 +72,8 @@ const cardList: CardList[] = [];
 
 export default function LinkTree(): JSX.Element {
   return (
-    <>
-      <Layout title="Links" description="Árvore de links do CACiC">
+    <Layout title="Links" description="Árvore de links do CACiC">
+      <MuiThemeClientProvider>
         <Container maxWidth="sm" sx={{ py: 4 }}>
           <LinkTreeHeader />
           <LinkList cardList={cardList} />
@@ -80,7 +81,7 @@ export default function LinkTree(): JSX.Element {
             Editar árvore
           </a>
         </Container>
-      </Layout>
-    </>
+      </MuiThemeClientProvider>
+    </Layout>
   );
 }

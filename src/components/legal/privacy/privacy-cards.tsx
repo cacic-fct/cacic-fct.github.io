@@ -5,15 +5,16 @@ import TrackingData from '@site/src/components/legal/privacy/tracking-data-card'
 import { Divider } from '@mui/material';
 
 import styles from './common.module.css';
+import MuiThemeClientProvider from '@site/src/theme/MuiThemeProvider';
 
 export default function PrivacyCards() {
   return (
-    <>
+    <MuiThemeClientProvider>
       <TrackingData />
       <Divider className={styles.divider} />
       <LinkedDataCard />
       <Divider className={styles.divider} />
       <NonLinkedDataCard />
-    </>
+    </MuiThemeClientProvider>
   );
 }
