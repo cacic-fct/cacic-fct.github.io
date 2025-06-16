@@ -81,7 +81,7 @@ export default function CalendarioEleitoral() {
    */
   const formatDateWithDayOfWeek = (date: Date): string => {
     const formattedDate = format(date, 'dd/MM/yy', { locale: ptBR });
-    const dayOfWeek = format(date, 'EEEE', { locale: ptBR });
+    const dayOfWeek = format(date, 'EEE', { locale: ptBR });
     return `${formattedDate} (${dayOfWeek})`;
   };
 
@@ -117,8 +117,8 @@ export default function CalendarioEleitoral() {
 
       // Format the results as a readable string
       const result = [
-        `Início da inscrição das chapas: ${formatDateWithDayOfWeek(calendar.registrationStart)}`,
-        `Fim da inscrição das chapas: ${formatDateWithDayOfWeek(calendar.registrationEnd)}`,
+        `Início da inscrição das chapas: ${formatDateWithDayOfWeek(calendar.registrationStart)} às 8h`,
+        `Fim da inscrição das chapas: ${formatDateWithDayOfWeek(calendar.registrationEnd)} às 8h`,
         `Período de campanha: ${
           isSameDay(calendar.campaignStart, calendar.campaignEnd)
             ? `${formatDateWithDayOfWeek(calendar.campaignStart)}`
@@ -129,7 +129,7 @@ export default function CalendarioEleitoral() {
         `Apuração dos votos: ${formatDateWithDayOfWeek(calendar.countingDay)}`,
         `Posse da chapa vencedora: ${formatDateWithDayOfWeek(calendar.takeOfficeDay)}`,
         ``,
-        `O período de votação não pode ser realizado em feriados, finais de semana ou durante as férias acadêmicas.`,
+        `O período de votação não pode ocorrer em feriados, finais de semana ou durante as férias acadêmicas.`,
       ].join('\n');
 
       setCalendarResult(result);
@@ -144,7 +144,7 @@ export default function CalendarioEleitoral() {
   return (
     <MuiThemeClientProvider>
       <LocalizationProvider dateAdapter={AdapterDateFns} adapterLocale={ptBR}>
-        <Box maxWidth={500} mx="auto" mt={4} p={2}>
+        <Box maxWidth={600} mx="auto" mt={4} p={2}>
           <Typography variant="h5" gutterBottom>
             Gerar Calendário Eleitoral
           </Typography>

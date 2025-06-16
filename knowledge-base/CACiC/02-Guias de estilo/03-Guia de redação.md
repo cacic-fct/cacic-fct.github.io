@@ -97,67 +97,79 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
 
 ## Padrão de escrita
 
-1. Nos títulos em português, apenas a primeira letra e nomes próprios devem ser escritos com iniciais maísculas.
+### Títulos
 
-   - Ao invés de "O Que Fazemos Na Unesp?", utilizar "O que fazemos na Unesp?".
+Nos títulos em português, apenas a primeira letra e nomes próprios devem ser escritos com iniciais maísculas.
 
-1. Não utilize caracteres especiais para substituir letras:
+- Ao invés de "O Que Fazemos Na Unesp?", utilizar "O que fazemos na Unesp?".
 
-   - Ao invés de “2k23”, utilizar "2023";
-   - "𝑬𝒗𝒆𝒏𝒕𝒐 𝒈𝒓𝒂𝒕𝒖𝒊𝒕𝒐 𝒆 𝒂𝒃𝒆𝒓𝒕𝒐 𝒂𝒐 𝒑𝒖́𝒃𝒍𝒊𝒄𝒐!";
-   - "C@fé c0m 1nt3rn3t";
-   - Problemas:
-     - Impede leitores de tela de interpretar ou reproduzir o texto corretamente:
-       - O conteúdo se torna inacessível para pessoas com deficiência visual.
-     - Dificulta a leitura por pessoas com dislexia;
-     - Dificulta a busca por palavras-chave;
-     - A depender dos caracteres utilizados, o texto pode não ser exibido corretamente em todos os dispositivos.
+### Substituição de letras
 
-1. Utilizar itálico para destacar palavras ou frases ao invés de negrito ou sublinhado:
+Não utilize caracteres especiais para substituir letras:
 
-   - Ao invés de "**Inscreva-se agora**", utilizar "_Inscreva-se agora_".
+- Ao invés de “2k23”, utilizar "2023";
+- "𝑬𝒗𝒆𝒏𝒕𝒐 𝒈𝒓𝒂𝒕𝒖𝒊𝒕𝒐 𝒆 𝒂𝒃𝒆𝒓𝒕𝒐 𝒂𝒐 𝒑𝒖́𝒃𝒍𝒊𝒄𝒐!";
+- "C@fé c0m 1nt3rn3t";
+
+Isso pode causar problemas de acessibilidade e de compreensão do texto:
+
+- Impede leitores de tela de interpretar ou reproduzir o texto corretamente:
+  - O conteúdo se torna inacessível para pessoas com deficiência visual.
+- Dificulta a leitura por pessoas com dislexia;
+- Impossibilita a busca por palavras-chave (<kbd>CTRL</kbd>+<kbd>F</kbd>);
+- A depender dos caracteres utilizados, o texto pode não ser exibido corretamente em todos os dispositivos.
+
+### Realce de palavras
+
+1. Deve-se prefirir o itálico para destacar palavras ou frases ao invés do negrito ou do sublinhado:
+
+   - Ao invés de "**Inscreva-se agora**", prefira "_Inscreva-se agora_".
 
 1. Palavras em idioma estrangeiro devem ser escritas em itálico:
 
    - "O termo _software_ é utilizado para se referir a programas de computador".
 
-1. Para numerais, siga a norma culta:
+### Numerais
 
-   - Números de zero a dez: escreva por extenso;
-   - Números de 11 em diante: escreva em algarismos arábicos;
-   - Quando houver números inferiores e superiores a dez na mesma frase, todos os números deverão ser escritos em algarismos arábicos.
+Siga a norma culta:
 
-1. Em listas, siga a norma culta:
+- Números de zero a dez: escreva por extenso;
+- Números de 11 em diante: escreva em algarismos arábicos;
+- Quando houver números inferiores e superiores a dez na mesma frase, todos os números deverão ser escritos em algarismos arábicos.
 
-   - Utilize ponto e vírgula para separar os itens, e ponto final no último item;
-   - Sempre pontue, não deixe o final de cada item sem pontuação;
-   - Exemplo:
-     - "Os itens necessários são: lápis; borracha; caderno; e caneta.";
-     - "Na minha geladeira há: leite de amêndoas; tofu; iogurte de soja; frutas; e verduras.".
+#### Horas
+
+Siga o manual de estilo da [SECOM](https://www12.senado.leg.br/manualdecomunicacao/estilos/hora).
+
+### Listas
+
+Siga a norma culta:
+
+- Utilize ponto e vírgula para separar os itens, e ponto final no último item;
+- Sempre pontue, não deixe o final de cada item sem pontuação;
+- Exemplo:
+  - "Os itens necessários são: lápis; borracha; caderno; e caneta.";
+  - "Na minha geladeira há: leite de amêndoas; tofu; iogurte de soja; frutas; e verduras.".
+
+### Emprego correto de palavras
 
 1. Empregar corretamente “a”, “há” e “à”:
 
-   - “Há muito tempo”, “há 2 anos”
-   - “Às 14h”
-   - “Espere de duas a cinco horas”
-   - “Vou te esperar das duas às cinco”
-   - “A que horas você vai sair?”
-   - “A reunião está marcada para as 15 horas.”
+   - “Há muito tempo”, “há 2 anos”;
+   - “Às 14h”;
+   - “Espere de duas a cinco horas”;
+   - “Vou te esperar das duas às cinco”;
+   - “A que horas você vai sair?”;
+   - “A reunião está marcada para as 15h”;
+   - "Compareça à assembleia às 18h".
 
 1. Não utilize "o mesmo", a palavra não é um pronome pessoal.
 
    - Ao invés de "Verifique se o mesmo encontra-se parado neste andar", utilizar "Verifique se ele está parado neste andar".
 
-1. Evitar o uso de gerúndio
-
-   - Ao invés de "Vamos estar realizando uma reunião", utilizar "Realizaremos uma reunião";
-   - Ao invés de "Estamos realizando uma reunião", utilizar com preferência "Uma reunião está sendo realizada" ou "Estamos a realizar uma reunião".
-
 1. Não utilizar termos diferentes para se referir à "assembleia" ou "plenária".
 
    - Não utilizar eufemismos como "café com internet" ou "reunião".
-
-1. Não fazer referências a membros individuais do CACiC sem necessidade.
 
 1. Não utilizar apóstrofo para indicar plural.
 
@@ -168,6 +180,15 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
    - Ao invés de "pro", utilizar "para o";
    - Ao invés de "pra", utilizar "para";
    - "Num" não é uma contração informal, então pode ser utilizada.
+
+### Estilo de escrita
+
+1. Não fazer referências a membros individuais do CACiC sem necessidade.
+
+1. Evitar o uso de gerúndio
+
+   - Ao invés de "Vamos estar realizando uma reunião", utilizar "Realizaremos uma reunião";
+   - Ao invés de "Estamos realizando uma reunião", utilizar com preferência "Uma reunião está sendo realizada" ou "Estamos a realizar uma reunião".
 
 1. Utilizar verbos na forma imperativa para instruções.
 
@@ -186,23 +207,25 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
 
    - Ao invés de "👩🏼‍🏫", utilizar "👩‍🏫".
 
-1. A linguagem inclusiva adotada pelo CACiC é a do uso mínimo de gênero.  
-   Utiliza-se o masculino como neutro quando necessário, a fim de evitar a separação em gêneros, a repetição de termos e para garantir a clareza dos textos para todos os públicos.
+### Linguagem inclusiva
 
-   - Ao invés de "entregador" ou "entregadora", utilizar com preferência "quem fará a entrega" ou "pessoa entregadora";
-   - Ao invés de "alunos e alunas", utilizar "alunos";
-   - Ao invés de "o(a) vencedor(a) será escolhido(a) pelo(a) juiz(a)", utilizar "o vencedor será escolhido pelo juiz".
+A linguagem inclusiva adotada pelo CACiC é a do uso mínimo de gênero.  
+Utiliza-se o masculino como neutro quando necessário, a fim de evitar a separação em gêneros, a repetição de termos e para garantir a clareza dos textos para todos os públicos.
 
-   - Admite-se a utilização de palavras no feminino para referir-se a indivíduos que utilizam pronomes femininos:
+- Ao invés de "entregador" ou "entregadora", utilizar com preferência "quem fará a entrega" ou "pessoa entregadora";
+- Ao invés de "alunos e alunas", utilizar "alunos";
+- Ao invés de "o(a) vencedor(a) será escolhido(a) pelo(a) juiz(a)", utilizar "o vencedor será escolhido pelo juiz".
 
-     - "A aluna vencedora" para se referir a uma aluna que venceu um concurso;
-     - "A professora" para se referir a uma professora.
-     - "O grupo de alunas" para se referir a um grupo de alunos que utilizam pronomes femininos;
+- Admite-se a utilização de palavras no feminino para referir-se a indivíduos que utilizam pronomes femininos:
 
-   - Admite-se a utilização de neopronomes para referir-se a indivíduos que os utilizam:
+  - "A aluna vencedora" para se referir a uma aluna que venceu um concurso;
+  - "A professora" para se referir a uma professora.
+  - "O grupo de alunas" para se referir a um grupo de alunos que utilizam pronomes femininos;
 
-     - Se a pessoa não especificar a preferência dela, as palavras devem utilizar o sufixo -e ao invés de -x ou -@, para garantir a compreensão do texto;
-     - Ao invés de "Bem-vindes à reunião de alunes", utilizar "Bem-vindos à reunião de alunos".
+- Admite-se a utilização de neopronomes para referir-se a indivíduos que os utilizam:
+
+  - Se a pessoa não especificar a preferência dela, as palavras devem utilizar o sufixo -e ao invés de -x ou -@, para garantir a compreensão do texto;
+  - Ao invés de "Bem-vindes à reunião de alunes", utilizar "Bem-vindos à reunião de alunos".
 
 ### Lista de termos
 
@@ -235,7 +258,7 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
 
    - Não utilizar "contactar", conforme Acordo Ortográfico de 2009.
 
-1. **eduroam** - Utilizar em minúsculas.
+1. **eduroam** - Marca registrada em minúsculas.
 
    - Não utilizar "Eduroam" ou "EduRoam".
 
@@ -279,4 +302,4 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
 ## Acessibilidade
 
 1. Utilizar as ferramentas específicas embutidas nos sites de mídia social para garantir a acessibilidade dos posts:
-   - No Instagram, ao invés de descrever a imagem utilizando o campo de texto da postagem, utilize a ferramenta de descrição de imagem.
+   - No Instagram, ao invés de descrever a imagem utilizando o campo de texto da postagem (como no #pratodosverem), utilize a ferramenta de descrição de imagem da plataforma.
