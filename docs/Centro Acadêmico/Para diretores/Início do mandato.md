@@ -4,7 +4,7 @@ O mandato é de 1 ano, mas pode ser dilatado em assembleia geral ou encerrado an
 
 ## Finalização do processo eleitoral
 
-Consulte a seção [Após a apuração dos votos](../Eleições.mdx#após-a-apuração-dos-votos).
+Consulte a seção [Posse da chapa vencedora](../Eleições.mdx#8-posse-da-chapa-vencedora) para finalizar o processo eleitoral.
 
 ## Primeiros passos
 
