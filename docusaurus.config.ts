@@ -163,8 +163,8 @@ const config: Config = {
           title: 'Recursos',
           items: [
             {
-              label: 'FCT App',
-              href: 'https://fctapp.cacic.dev.br',
+              label: 'Conta CACiC',
+              href: 'https://account.cacic.dev.br',
             },
             {
               label: 'Manual do calouro',

@@ -37,11 +37,11 @@ export default function QuickAccess() {
             </ListItem>
 
             <ListItem disablePadding>
-              <ListItemButton href="https://fctapp.cacic.dev.br/">
+              <ListItemButton href="https://account.cacic.dev.br/">
                 <ListItemIcon>
                   <AppsIcon />
                 </ListItemIcon>
-                <ListItemText primary="FCT App" />
+                <ListItemText primary="Conta CACiC" />
               </ListItemButton>
             </ListItem>
 
