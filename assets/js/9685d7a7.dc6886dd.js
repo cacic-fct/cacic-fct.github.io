@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcacic_fct=self.webpackChunkcacic_fct||[]).push([[5048],{52041:a=>{a.exports=JSON.parse('{"tags":[{"label":"Estatuto","permalink":"/docs/tags/estatuto","count":1},{"label":"Legisla\xe7\xe3o","permalink":"/docs/tags/legislacao","count":3}]}')}}]);
