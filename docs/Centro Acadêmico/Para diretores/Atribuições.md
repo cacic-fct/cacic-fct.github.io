@@ -1,3 +1,8 @@
+---
+tags:
+  - Estatuto
+---
+
 # Atribuições
 
 As atribuições de cada diretor executivo estão dispostas no artigo 16 do estatuto do CACiC.

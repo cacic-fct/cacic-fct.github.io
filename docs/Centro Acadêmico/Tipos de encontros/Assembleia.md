@@ -1,3 +1,8 @@
+---
+tags:
+  - Estatuto
+---
+
 # Assembleia
 
 Assembleias são necessariamente deliberativas.

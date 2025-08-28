@@ -153,7 +153,16 @@ Siga a norma culta:
 
 ### Hashtags
 
-O CACiC não é influenciador digital, o uso de hashtags deve ser feito com moderação e apenas quando relevante para o conteúdo.
+O CACiC não é influenciador digital, o uso de hashtags deve ser feito com moderação e apenas quando adequado para o conteúdo.
+
+Por exemplo, em um post de divulgação de um evento, pode ser relevante utilizar hashtags como #FCT, #Unesp e #CienciaDaComputacao para alcançar um público maior.
+
+Evite usos com:
+
+- **Termos irrelevantes:** #VenhaParticipar #BoraPraAssembleia
+- **Termos nichados:** #CACiC #AssembleiaCACiC #ComputaUnida
+
+Esses termos não contribuem para a indexação do post, ou seja, não contribuem para alcançar um público mais amplo, logo, apenas poluem o texto.
 
 ### Emprego correto de palavras
 

@@ -4,7 +4,7 @@
 
 ### Evite o uso excessivo de papel
 
-Sempre que possível, utilize ferramentas digitais para realizar sorteios, reduzindo desperdícios e aumentando a segurança. Caso seja necessário o uso de cédulas físicas, prefira papel reutilizado ou reciclado e lápis.
+Sempre que possível, utilize ferramentas digitais para realizar sorteios, para reduzir desperdícios e para aumentar a segurança. Caso seja necessário o uso de cédulas físicas, prefira papel reutilizado ou reciclado e lápis.
 
 ### Garantia de Integridade da Urna
 
