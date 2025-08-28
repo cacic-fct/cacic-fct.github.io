@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcacic_fct=self.webpackChunkcacic_fct||[]).push([[1224],{36446:t=>{t.exports=JSON.parse('{"tags":[{"label":"Estatuto","permalink":"/kb/tags/estatuto","count":1}]}')}}]);
