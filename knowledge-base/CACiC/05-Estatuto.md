@@ -1,5 +1,7 @@
 ---
 sidebar_position: 99
+tags:
+  - Estatuto
 ---
 
 # Estatuto

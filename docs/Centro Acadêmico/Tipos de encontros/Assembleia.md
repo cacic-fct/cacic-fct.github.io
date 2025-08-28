@@ -22,4 +22,4 @@ Apensar do estatuto dar o nome de "Assembleia Geral", a nomenclatura "Assembleia
 
 :::
 
-O CACiC deve sempre elaborar uma ata de assembleia.
+O CACiC deve sempre elaborar uma ata de assembleia. Todos os estudantes devem possuir acesso às atas.

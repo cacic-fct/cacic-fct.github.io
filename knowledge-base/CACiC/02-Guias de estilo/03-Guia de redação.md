@@ -8,7 +8,7 @@ Também se aplica o que está disposto no guia de identidade visual.
 
 ## Normas
 
-1. Todas as comunicações e materiais oficiais do CACiC devem ser redigidos de forma objetiva, clara e impessoal, respeitando os princípios da transparência, da ética e da representatividade institucional. As comunicações e materiais oficiais do CACiC não devem conter referências a indivíduos específicos, sejam membros da entidade ou terceiros, salvo em casos de reconhecimento formal aprovado pela diretoria.
+1. Todas as comunicações e materiais oficiais do CACiC devem ser redigidos de forma objetiva, clara e impessoal, respeitando os princípios da transparência, da ética e da representatividade institucional. As comunicações e materiais oficiais do CACiC não devem conter referências a indivíduos específicos, sejam membros da entidade ou terceiros, salvo em casos aprovados pela diretoria.
 
    1. É vedado o uso de nomes de usuários, apelidos, identificadores pessoais de redes sociais ou qualquer outro elemento que personalize excessivamente as comunicações;
 
@@ -150,6 +150,10 @@ Siga a norma culta:
 - Exemplo:
   - "Os itens necessários são: lápis; borracha; caderno; e caneta.";
   - "Na minha geladeira há: leite de amêndoas; tofu; iogurte de soja; frutas; e verduras.".
+
+### Hashtags
+
+O CACiC não é influenciador digital, o uso de hashtags deve ser feito com moderação e apenas quando relevante para o conteúdo.
 
 ### Emprego correto de palavras
 
