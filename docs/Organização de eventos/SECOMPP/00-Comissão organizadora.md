@@ -28,11 +28,17 @@ Os alunos devem decidir entre si quantos e quem serão os representantes discent
 
 A comissão tem direito a receber horas de ACC e de extensão. Negocie, durante as reuniões iniciais com os professores, os números.
 
+:::tip
+
+Os trabalhos podem começar antes do convite dos professores e da reunião inicial, mas é importante que os docentes estejam cientes do andamento da organização.
+
+:::
+
 ## Reuniões
 
 Após a primeira reunião, costuma haver um grande hiato até a próxima.
 
-Atas devem ser feitas em todas as reuniões, para que os alunos que não puderam comparecer possam se atualizar e para registrar as falas dos professores que, às vezes, tentam voltar atrás em suas decisões.
+Atas devem ser feitas em todas as reuniões, para que os alunos que não puderam comparecer possam se atualizar, para registrar as falas dos professores que, às vezes, tentam voltar atrás em suas decisões e para referência futura.
 
 Normalmente, duas atas são feitas, uma pelo CACiC e outra pela EJComp.
 
