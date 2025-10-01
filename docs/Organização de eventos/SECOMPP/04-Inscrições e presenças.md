@@ -18,6 +18,9 @@ A SECOMPP é um evento público, então, não restrinja os formulários de inscr
 
 :::
 
+Envie uma cópia do formulário ao e-mail do participante, para que ele possa conferir as informações que forneceu.
+Forneça o e-mail de contato da organização no formulário, para que o participante possa tirar dúvidas.
+
 O formulário de inscrição deve solicitar:
 
 **Para fins cadastrais:**
