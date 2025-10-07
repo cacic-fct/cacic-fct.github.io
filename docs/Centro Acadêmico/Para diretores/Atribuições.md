@@ -5,7 +5,7 @@ tags:
 
 # Atribuições
 
-As atribuições de cada diretor executivo estão dispostas no artigo 16 do estatuto do CACiC.
+As atribuições de cada diretor executivo estão dispostas no artigo 16 do estatuto do CACiC. Abaixo, encontram-se trechos desse artigo.
 
 Além disso, conforme o artigo 3, inciso III, parágrafo "a", os diretores, no papel de representantes da entidade, devem "comprometerem-se a zelar pelo patrimônio moral e material da Unesp"
 
