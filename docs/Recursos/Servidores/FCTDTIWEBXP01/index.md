@@ -35,6 +35,6 @@ A manutenção e o controle de acesso são realizados pelo grupo de [_founding l
 :::info
 
 Para solicitar acesso ao servidor, consulte um dos encarregados da manutenção. Não solicite acesso diretamente a DTI.  
-A DTI é encarregada apenas pela hospedagem e manutenção física do servidor.
+A DTI é encarregada apenas da hospedagem e da manutenção física do servidor.
 
 :::
