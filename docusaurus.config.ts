@@ -245,7 +245,6 @@ const config: Config = {
         showLastUpdateTime: true,
       },
     ],
-    '@docusaurus/plugin-sitemap',
   ],
 };
 
