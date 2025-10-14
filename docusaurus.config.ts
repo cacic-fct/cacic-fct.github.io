@@ -12,6 +12,11 @@ const config: Config = {
   tagline: 'Centro Acadêmico de Ciência da Computação FCT-Unesp',
   favicon: 'icons/favicon.png',
 
+  future: {
+    v4: true, // Improve compatibility with the upcoming Docusaurus v4
+    experimental_faster: true,
+  },
+
   // Set the production url of your site here
   url: 'https://cacic.dev.br',
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -24,8 +29,14 @@ const config: Config = {
   projectName: 'cacic-fct.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
   trailingSlash: false,
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'throw',
+      onBrokenMarkdownImages: 'throw',
+    },
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -234,6 +245,7 @@ const config: Config = {
         showLastUpdateTime: true,
       },
     ],
+    '@docusaurus/plugin-sitemap',
   ],
 };
 
