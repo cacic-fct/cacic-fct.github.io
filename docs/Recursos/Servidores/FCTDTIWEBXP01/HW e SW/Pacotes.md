@@ -18,6 +18,6 @@ O `gdu` é um utilitário de linha de comando que permite visualizar, de forma i
 
 O `htop` é um monitor de sistema interativo, semelhante ao `top`, que exibe informações sobre o uso de CPU, memória e swap, bem como sobre os processos em execução. Também em comum com o `iotop`, ele monitora a utilização de disco e exibe informações sobre os processos que estão lendo e escrevendo dados no disco.
 
-## zpasqfranz
+## zpaqfranz
 
 O `zpaqfranz` é um utilitário de linha de comando que permite compactar e descompactar arquivos no formato `.zpaq`.
