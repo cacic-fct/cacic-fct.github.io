@@ -14,21 +14,21 @@ export const members: SlateMember[] = [
     {
         name: 'Cristian Eidi',
         role: 'Comunicação',
-        avatar:require('@site/static/people/cristian-eidi.avif').default,
+        avatar: require('@site/static/people/cristian-eidi.avif').default,
     },
     {
         name: 'Daniel Pádua',
         role: 'Eventos',
-        avatar:require('@site/static/people/avatar-placeholder.webp').default,
+        avatar: require('@site/static/people/avatar-placeholder.webp').default,
     },
     {
         name: 'Felipe Nava',
         role: 'Relações públicas',
-        avatar:require('@site/static/people/avatar-placeholder.webp').default,
+        avatar: require('@site/static/people/avatar-placeholder.webp').default,
     },
     {
         name: 'Paulo Lima',
         role: 'Finanças',
-        avatar:require('@site/static/people/avatar-placeholder.webp').default,
+        avatar: require('@site/static/people/avatar-placeholder.webp').default,
     },
 ]
