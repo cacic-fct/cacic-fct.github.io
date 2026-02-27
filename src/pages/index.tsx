@@ -3,7 +3,7 @@ import Layout from '@theme/Layout';
 import Typography from '@mui/material/Typography';
 import { Box, Container } from '@mui/material';
 
-import { members as currentMembers } from '@site/src/shared/components/slates/2024-ada-lovelace';
+import { members as currentMembers } from '@site/src/shared/components/slates/2025-grace-hopper';
 import SlateGridGenerator from '@site/src/shared/components/slates/slate-grid-generator';
 import QuickAccess from '@site/src/components/index/quick-access';
 
@@ -29,17 +29,18 @@ export default function Home(): JSX.Element {
         </Container>
 
         <Container sx={{ p: 2 }} maxWidth="sm">
-          {/* <Typography variant="h5" sx={{ py: 1 }}>
-            Chapa Ada Lovelace
-          </Typography>
-          <SlateGridGenerator slateMembers={currentMembers} /> */}
           <Typography variant="h5" sx={{ py: 1 }}>
+            Chapa Grace Hopper
+          </Typography>
+          <SlateGridGenerator slateMembers={currentMembers} />
+          {/* <Typography variant="h5" sx={{ py: 1 }}>
             Diretoria vacante
           </Typography>
           <p>
-            O mandato da Chapa Ada Lovelace venceu em 11/04/2025 e novas
+            Motivo para a diretoria estar vacante, exemplo:
+            O mandato da Chapa NONONONO venceu em NONONONONO e novas
             eleições não foram convocadas nem pela diretoria, nem pelos alunos.
-          </p>
+          </p> */}
         </Container>
       </main>
       <Box sx={{ py: 4 }} />
