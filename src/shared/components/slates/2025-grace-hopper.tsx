@@ -22,7 +22,7 @@ export const members: SlateMember[] = [
         avatar: require('@site/static/people/avatar-placeholder.webp').default,
     },
     {
-        name: 'Felipe Nava',
+        name: 'Filipe Nava',
         role: 'Relações públicas',
         avatar: require('@site/static/people/avatar-placeholder.webp').default,
     },
