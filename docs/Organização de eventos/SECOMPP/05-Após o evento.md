@@ -10,7 +10,7 @@ Use e contribua para os [scripts de geração de certificados do CACiC](https://
 
 :::warning
 
-Os inscritos pagarem pela emissão dos certificados, então, não atrase a entrega.
+Os inscritos pagaram pela emissão dos certificados, então, não atrase a entrega.
 
 :::
 
