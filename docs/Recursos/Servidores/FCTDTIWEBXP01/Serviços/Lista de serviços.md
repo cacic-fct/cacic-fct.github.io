@@ -2,13 +2,21 @@
 title: Lista de serviços
 ---
 
-O servidor do FCT App também hospeda outros serviços utilizados pelo CACiC.
+O servidor do CACiC Event Manager também hospeda outros serviços utilizados pelo CACiC.
 
 ## Serviços próprios do CACiC
 
-### FCT App
+### CACiC Account Manager
 
-Disponível em [fctapp.cacic.dev.br](https://fctapp.cacic.dev.br).
+Serviço de gerenciamento de contas do CACiC, utilizado para autenticação em outros serviços do CACiC, com integração ao Keycloak.
+
+Disponível em [account.cacic.dev.br](https://account.cacic.dev.br).
+
+### CACiC Event Manager
+
+Antigo FCT App.
+
+Disponível em [eventos.cacic.dev.br](https://fctapp.cacic.dev.br).
 
 ### Gerador de e-mails
 
@@ -29,6 +37,16 @@ Disponível em [auth.cacic.dev.br](https://auth.cacic.dev.br).
 Acesse [email-authentication-flow](https://auth.cacic.dev.br/if/flow/email-authentication-flow/) para login com e-mail e senha.
 
 O Authentik é mais simples que o Keyclock para usos internos.
+
+## Keycloak (autenticação)
+
+Também conhecido como CACiC SSO.
+Utilizado para autenticação em servíços públicos do CACiC, como o CACiC Event Manager.
+
+Como usuário, deve-se fazer login com a conta Google.  
+Como administrador, deve-se solicitar permissão de acesso ao Keycloak para um dos encarregados do servidor.
+
+Disponível em [sso.cacic.dev.br](https://sso.cacic.dev.br).
 
 ## Crowdsec
 

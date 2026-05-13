@@ -194,10 +194,10 @@ export const achievementsHamilton: Achievements[] = [
   },
   {
     image: '2021/fct_app.webp',
-    title: 'FCT App',
+    title: 'CACiC Event Manager (FCT App)',
     content:
       'Aplicativo para facilitar a vida dos alunos da FCT, com o acesso aos eventos do câmpus.',
-    url: 'https://fctapp.cacic.dev.br',
+    url: 'https://eventos.cacic.dev.br',
   },
   {
     image: '2021/manual_calouro.webp',

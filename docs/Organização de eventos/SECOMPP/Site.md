@@ -10,8 +10,4 @@ Para garantir isso, use o template padrão e siga as recomendações do [Google 
 
 ## Sistema de inscrições
 
-:::danger
-
-Não é recomendado a criação de um sistema próprio de inscrições e presenças, pelos motivos discutidos no [projeto do FCT App](https://github.com/cacic-fct/fct-app/discussions/182#discussioncomment-10927548).
-
-:::
+Use sempre o CACiC Event Manager, não reescreva um sistema de inscrições do zero. O CACiC Event Manager é uma plataforma robusta, fácil de usar e que pode ser integrada com o site do evento.

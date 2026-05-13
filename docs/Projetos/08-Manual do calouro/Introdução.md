@@ -7,11 +7,9 @@ sidebar_position: 0
 O manual do calouro é um projeto antigo, que já teve várias formas:
 
 1. Iniciou-se como um PDF, que não chegou a ser distribuído:
-
    - Havia rejeição a determinados símbolos e conteúdos;
 
-1. Metamorfoseou-se em uma única página dentro do FCT App, mantendo um formato próximo ao PDF:
-
+1. Metamorfoseou-se em uma única página dentro do FCT App (novo CACiC Event Manager), mantendo um formato próximo ao PDF:
    - Todos os símbolos e conteúdos foram mantidos;
    - A navegação era ruim, pois a interface não foi feita para conteúdos grandes;
    - Era difícil de contribuir para, pois era necessário possuir conhecimento em Angular.

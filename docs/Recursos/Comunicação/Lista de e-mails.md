@@ -32,7 +32,7 @@ Não deve-se deletar mensagens antigas.
 
 ### FCT App
 
-Lista dos administradores do FCT App.
+Lista dos administradores do CACiC Event Manager (FCT App).
 
 [`fctapp`](https://groups.google.com/g/fctapp)
 

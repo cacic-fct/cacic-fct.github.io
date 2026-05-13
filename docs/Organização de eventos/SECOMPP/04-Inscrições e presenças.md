@@ -1,14 +1,12 @@
 # Inscrições e presenças
 
-:::danger
-
-Não é recomendado a criação de um sistema próprio de inscrições e presenças, pelos motivos discutidos no [projeto do FCT App](https://github.com/cacic-fct/fct-app/discussions/182#discussioncomment-10927548).
-
-:::
-
 ## Inscrições
 
-### Formulário
+### CACiC Event Manager
+
+Sempre use o CACiC Event Manager para gerenciar todo o fluxo do evento, para automatizar o processo de inscrições e presenças, para evitar a perda de dados e para facilitar a emissão de certificados de participação.
+
+### Formulário (alternativa)
 
 Recomenda-se a utilização do Google Forms. Plataformas como o Even3 cobram taxas e são limitadas, o que pode dificultar os trabalhos da organização.
 
@@ -26,19 +24,15 @@ O formulário de inscrição deve solicitar:
 **Para fins cadastrais:**
 
 1. Nome completo _sem abreviações_:
-
    - Para controle de presenças e para a emissão do certificado de participação;
 
 2. E-mail (institucional, se for aluno da Unesp):
-
    - Para entrega do certificado de participação;
 
 3. Telefone:
-
    - Somente para contatos urgentes, por texto, sobre a inscrição;
 
 4. CPF:
-
    - Para controle de presenças e para a emissão do certificado de participação;
    - Também colete o CPF de alunos, pois apenas o RA não é suficiente para a identificação do participante fora do ambiente da Unesp. Isto é, o certificado emitido com o RA não é válido fora da Unesp.
 
@@ -48,16 +42,13 @@ Não solicite o número do RG, pois ele está em desuso.
 **Para fins de coleta de estatísticas:**
 
 5. Se aluno da Unesp:
-
    - Número do RA;
      - O RA, em sua composição, fornece o curso e o ano de ingresso do aluno, portanto, não é necessário solicitar essas informações separadamente;
 
 6. Se servidor da Unesp:
-
    - Cargo na instituição;
 
 7. Aluno de outras instituições:
-
    - Instituição de ensino;
    - Curso;
    - Por onde soube do evento.

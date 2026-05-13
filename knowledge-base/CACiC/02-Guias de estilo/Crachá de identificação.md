@@ -11,17 +11,14 @@ Ao final da utilização, o crachá deverá ser devolvido ao CACiC, para que ele
 O crachá deve ser composto por:
 
 1. Logotipo do CACiC:
-
    - Caso o evento possua um crachá próprio, use-o.
 
 1. Nome do colaborador, membro ou diretor do CACiC:
-
    - Preferencialmente e, no máximo, dois nomes;
    - Não deve conter abreviações;
    - Apelidos são permitidos, desde que sejam de conhecimento geral;
 
 1. Pronomes do indivíduo:
-
    - A inclusão dos pronomes evita constrangimentos desnecessárrios;
    - Em português, seguir o padrão:
      - Ele, dele;
@@ -49,7 +46,7 @@ As bordas do crachá devem ser arredondadas e suas cores devem ser Pantone Cool 
 
 O espaço em branco, abaixo dos pronomes, é de uso livre.  
 É permitido desenhar, escrever ou colar adesivos.  
-Caso necessário, o espaço pode ser utilizado para informações adicionais ou para abrigar o Aztec code do perfil do FCT App do colaborador.
+Caso necessário, o espaço pode ser utilizado para informações adicionais ou para abrigar o Aztec code do perfil do CACiC Event Manager do colaborador.
 
 ## Confecção
 

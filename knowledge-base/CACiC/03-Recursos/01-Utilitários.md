@@ -6,7 +6,7 @@ Este site.
 
 - [Repositório](https://github.com/cacic-fct/cacic-fct.github.io)
 
-## FCT App
+## CACiC Event Manager
 
 Web app para listagem de eventos, gerenciamento de inscrições, coleta de presenças e emissão de certificados.
 

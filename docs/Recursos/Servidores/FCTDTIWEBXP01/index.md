@@ -30,7 +30,7 @@ Os encarregados são responsáveis pelas atribuições definidas na LGPD.
 
 ### Manutenção
 
-A manutenção e o controle de acesso são realizados pelo grupo de [_founding lead developers_](https://docs.fctapp.cacic.dev.br/Geral/Especifica%C3%A7%C3%B5es%20gerais/Auditing#founding-lead-developers) do FCT App.
+A manutenção e o controle de acesso são realizados pelo grupo de [_founding lead developers_](https://docs.fctapp.cacic.dev.br/Geral/Especifica%C3%A7%C3%B5es%20gerais/Auditing#founding-lead-developers) do CACiC Event Manager.
 
 :::info
 

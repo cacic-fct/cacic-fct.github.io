@@ -4,7 +4,7 @@ title: Organização de arquivos
 
 ## Estrutura de pastas
 
-A estrutura de pastas do servidor do FCT App é organizada da seguinte forma:
+A estrutura de pastas do servidor do CACiC Event Manager é organizada da seguinte forma:
 
 ```plaintext
 /
