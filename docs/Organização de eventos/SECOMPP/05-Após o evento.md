@@ -6,7 +6,7 @@ Os certificados são emitidos apenas para inscritos pagantes.
 
 Cruze os dados de inscrições com os de pagamentos e de presença para emitir os certificados.
 
-Use e contribua para os [scripts de geração de certificados do CACiC](https://github.com/cacic-fct/certificate-generator).
+Em caso de indisponibilidade de emissão pelo CACiC Event Manager, use e contribua para os [scripts de geração de certificados do CACiC](https://github.com/cacic-fct/certificate-generator).
 
 :::warning
 
