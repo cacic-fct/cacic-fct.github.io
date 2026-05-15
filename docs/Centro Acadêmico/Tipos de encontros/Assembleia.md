@@ -5,11 +5,15 @@ tags:
 
 # Assembleia
 
+## Assembleia de curso
+
 Assembleias são necessariamente deliberativas.
 
 Devem possuir um quórum de 30% + 1 dos membros.
 
 Em segunda convocação, após 30 minutos, a assembleia pode ser realizada com qualquer número de membros, exceto se tratar sobre alterações estatutárias.
+
+A condução da votação, incluindo a definição do formato de votação, dos critérios de participação e elegibilidade dos votantes, bem como dos demais procedimentos aplicáveis, ficará a critério do presidente da assembleia.
 
 De acordo com o artigo 22 do estatuto, são atribuições da Assembleia Geral:
 
@@ -27,4 +31,10 @@ Apensar do estatuto dar o nome de "Assembleia Geral", a nomenclatura "Assembleia
 
 :::
 
-O CACiC deve sempre elaborar uma ata de assembleia. Todos os estudantes devem possuir acesso às atas.
+O CACiC deve sempre elaborar uma ata de assembleia. Todos os estudantes de ciência da computação devem possuir acesso às atas.
+
+## Assembleia geral dos estudantes da FCT-Unesp
+
+O CACiC deve sempre elaborar uma ata de assembleia própria, mesmo que outra entidade esteja elaborando uma. Todos os estudantes de ciência da computação devem possuir acesso às atas do CACiC.
+
+A condução da votação fica a critério do Diretório Acadêmico ou, na ausência deste, do presidente da assembleia. O CACiC não pode interferir em critérios decididos pelas outras entidades, mas pode encaminhar sugestões.
