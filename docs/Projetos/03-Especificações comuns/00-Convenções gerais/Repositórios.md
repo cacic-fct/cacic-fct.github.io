@@ -42,7 +42,7 @@ Títulos e conteúdos de issues sempre em português.
 ## Pull Requests
 
 🇺🇸 - Títulos  
-🇧🇷 - Conteúdo
+🇧🇷 - Conteúdo  
 Livre - Commits
 
 Títulos de PRs devem seguir a formatação de commits.

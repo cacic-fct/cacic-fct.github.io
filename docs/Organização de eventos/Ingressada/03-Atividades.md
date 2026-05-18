@@ -12,7 +12,7 @@ A comissão do pedágio deve incentivar o uso e a reaplicação a cada 3 horas d
 
 ## Festas
 
-O CACiC, como entidade, não pode participar da organização de festas. O CACiC e a comissão de recepção não podem promover esse tipo de evento por meio dos canais oficiais da entidade.
+O CACiC, como entidade, não pode participar da organização de festas, conforme demanda o estatuto. O CACiC e a comissão de recepção não podem promover esse tipo de evento por meio dos canais oficiais da entidade.
 
 O CA e a comissão devem obrigatoriamente adotar uma política de redução de danos: ao invés de proibir o uso de álcool e drogas, devem orientar sobre como se divertir de forma segura e saudável.
 
@@ -32,7 +32,7 @@ O CA e a comissão devem obrigatoriamente adotar uma política de redução de d
 - Na festa:
   - Deixar o copo ou a garrafa de bebida sem supervisão;
   - Misturar bebidas alcoólicas ou drogas com outras substâncias;
-  - Aceitar bebidas ou alimentos de estranhos;
+  - Aceitar bebidas ou alimentos de estranhos, incluindo veteranos;
   - Compartilhar copos, garrafas ou latas de bebida;
 - Ao usar drogas:
   - Usar drogas sem a supervisão de pessoas de confiança;
@@ -40,4 +40,4 @@ O CA e a comissão devem obrigatoriamente adotar uma política de redução de d
 - No caminho:
   - Voltar sozinho tarde da noite;
   - Dirigir alcoolizado ou sob o efeito de substâncias psicoativas;
-  - Aceitar a companhia ou caronas de estranhos;
+  - Aceitar a companhia ou caronas de estranhos, incluindo veteranos.
