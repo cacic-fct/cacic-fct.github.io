@@ -16,7 +16,7 @@ Os membros da comissão devem ser rigorosamente selecionados para evitar constra
 
 ## O papel do CACiC
 
-O CACiC é responsável por supervisionar as atividades de integração dos calouros, para evitar assédios, excessos e importunações, a fim de garantir que as interações sejam saudáveis respeitosas. O CACiC deve ser informado sobre todas as atividades planejadas pela comissão de recepção e deve estar presente durante as atividades oficiais realizadas dentro e fora do câmpus.
+O CACiC é responsável por supervisionar as atividades de integração dos calouros, para evitar assédios, excessos e importunações, a fim de garantir que as interações sejam saudáveis e respeitosas. O CACiC deve ser informado sobre todas as atividades planejadas pela comissão de recepção e deve estar presente durante as atividades _oficiais_ realizadas dentro e fora do câmpus.
 
 O CACiC, como entidade, não reconhece, promove, divulga ou apoia atividades como festas, calouradas ou trotes.
 

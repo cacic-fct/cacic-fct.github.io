@@ -2,7 +2,7 @@
 
 ## Reunião com o coordenador do curso
 
-A comissão de recepção deve manter contato com o coordenador do curso que, tradicionalmente, faz uma palestra de boas-vindas aos calouros. A comissão também deve informar o coordenador sobre as atividades planejadas pelos alunos, para a montagem conjunta de um cronograma de atividades.
+A comissão de recepção deve manter contato com o coordenador do curso que, tradicionalmente, faz uma palestra de boas-vindas aos calouros. A comissão também deve informar o coordenador sobre as atividades planejadas pelos alunos, para a elaboração conjunta de um cronograma de atividades.
 
 ## Pedágio
 

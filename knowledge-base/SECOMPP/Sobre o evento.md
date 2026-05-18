@@ -13,7 +13,7 @@ Em todas as edições são oferecidos minicursos e palestras, além dos _coffee 
 ## Extensão
 
 A SECOMPP faz parte do pilar da extensão, que compõe, junto com o ensino e a pesquisa, o tripé universitário.  
-O evento estabelece uma relação mais próxima com a comunidade ao oferecer conhecimento por meio de suas oportunidades de aprendizado.
+O evento estabelece uma relação mais próxima com a comunidade ao oferecer conhecimento de forma acessível e ao promover a formação de rede de contatos entre estudantes, profissionais e entusiastas da área de computação.
 
 ## Cobrança de taxa de inscrição
 

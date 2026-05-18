@@ -5,11 +5,19 @@ tags:
 
 # Processamento de pagamentos
 
+Apesar do CACiC ser uma [instituição com cadastro irregular](./CNPJ.md), a lei brasileira pode reconhecer a entidade como "sociedade de fato", ou seja, uma organização que, mesmo sem um CNPJ, é capaz de realizar atividades e negócios jurídicos, respondendo civil e criminalmente por suas ações.
+
 Nas vendas promovidas pelo CACiC a pessoas não associadas (não membros), o CACiC deve seguir as leis do Código de Defesa do Consumidor (CDC) e do Código Civil (CC).
 
 Nas vendas promovidas pelo CACiC a associados (membros), rege o Código Civil (CC).
 
 Nas vendas promovidas por alunos e comissões de alunos, rege o Código Civil (CC).
+
+:::tip
+
+Para evitar os imbroglios legais, realize vendas por meio de comissões de alunos, e não diretamente pelo CACiC.
+
+:::
 
 ## Direito de arrependimento
 
@@ -27,4 +35,4 @@ Nas vendas promovidas por alunos e comissões (relação consumidor-consumidor),
 
 O CACiC não é obrigado a trocar produtos sem defeito, exceto em casos de arrependimento de compra, conforme o Código de Defesa do Consumidor.
 
-O direito de arrependimento não existe para relações entre consumidores.
+O direito de arrependimento não existe para vendas a associados.

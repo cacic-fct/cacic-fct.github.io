@@ -8,7 +8,7 @@
 
 Conforme regimento interno do CACiC, nas mídias sociais, a divulgação deve ser feita somente por meio dos perfis das entidades estudantis (CACiC e EJComp) e do curso de Ciência da Computação (computacao.fct).
 
-Diretores podem fornecer maiores detalhes.
+Diretores do CACiC podem fornecer maiores detalhes.
 
 :::
 

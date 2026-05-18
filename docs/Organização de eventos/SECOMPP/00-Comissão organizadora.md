@@ -36,7 +36,7 @@ Os trabalhos podem começar antes do convite dos professores e da reunião inici
 
 ## Reuniões
 
-Após a primeira reunião, costuma haver um grande hiato até a próxima.
+Após a primeira reunião com os professores, costuma haver um grande hiato até a próxima.
 
 Atas devem ser feitas em todas as reuniões, para que os alunos que não puderam comparecer possam se atualizar, para registrar as falas dos professores que, às vezes, tentam voltar atrás em suas decisões e para referência futura.
 
@@ -58,7 +58,7 @@ Todas as decisões que influenciam diretamente na SECOMPP devem ser submetidas p
 
 Os alunos organizadores são livres para decidirem as questões de sistemas (site, inscrições) e material de divulgação, sem influência direta dos professores, desde que observadas as normas do CACiC. É importante que os progressos sejam reportados aos docentes, que podem contribuir com sugestões e críticas, que só precisam ser acatadas se fizerem sentido.
 
-Embora os professores estejam no topo da hierarquia, eles pouco contribuem para a organização e alguns chegam a atrapalhar, então, os alunos organizadores devem se manter ativos, independentes e com uma postura firme.
+Embora os professores estejam no topo da hierarquia, eles possuem outras responsabilidades além da SECOMPP e, muitas vezes, acabam não se envolvendo muito na organização do evento, então, os alunos organizadores devem se manter ativos, independentes e com uma postura firme.
 
 :::info
 
