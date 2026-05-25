@@ -134,7 +134,16 @@ const DowntimeDecisionTree = () => {
           {currentStep && !showResult && (
             <>
               <Typography variant="h6">{currentStep.question}</Typography>
-              <br />
+
+              {currentStep.instructions && (
+                <Typography
+                  component="div"
+                  variant="body2"
+                  sx={{ mt: 1, mb: 2 }}>
+                  {currentStep.instructions}
+                </Typography>
+              )}
+
               <Button
                 variant="contained"
                 sx={{ mr: 1 }}
@@ -152,7 +161,7 @@ const DowntimeDecisionTree = () => {
 
           {showResult && (
             <>
-              <Typography variant="body1">
+              <Typography component="div" variant="body1">
                 {(Object.keys(values) as StepKeys[]).map((key) => {
                   const step = steps.find((s) => s.key === key);
                   if (!step) return null;
