@@ -16,7 +16,7 @@ O site é feito com [Astro](https://astro.build/) e contém integração com o [
 
 [O Astro é um framework que gera sites leves e rápidos](https://astro.build/blog/2023-web-framework-performance-report/), isso enquanto mantém uma proximidade razoável com o desenvolvimento web _vanilla_ (tradicional, com HTML, CSS e JavaScript puros).
 
-Essa proximidade é necessário por conta do perfil esperado dos [contribuidores](./Seleção%20de%20contribuidores.md).
+Essa proximidade é necessário por conta do perfil esperado dos [contribuidores](./03-Seleção%20de%20contribuidores.md).
 
 A integração com o Svelte é usada por conta do componente da tabela de horários.
 
