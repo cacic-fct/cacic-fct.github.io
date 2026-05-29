@@ -68,9 +68,9 @@ const config: Config = {
 
   scripts: [
     {
-      src: 'https://plsbl.cacic.dev.br/js/script.js',
+      src: 'https://a.cacic.dev.br/b.js',
       defer: true,
-      'data-domain': 'cacic.dev.br',
+      'data-website-id': 'adaec359-723c-470c-80b6-1372ec4b47d1',
     },
   ],
 
@@ -79,7 +79,7 @@ const config: Config = {
       tagName: 'link',
       attributes: {
         rel: 'preconnect',
-        href: 'https://plsbl.cacic.dev.br',
+        href: 'https://a.cacic.dev.br/b.js',
       },
     },
   ],
