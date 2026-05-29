@@ -2,11 +2,6 @@ import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
-import {
-  type DocSearchProps,
-  type DocSearchTranslations,
-} from 'typesense-docsearch-react';
-
 const config: Config = {
   title: 'CACiC',
   tagline: 'Centro Acadêmico de Ciência da Computação FCT-Unesp',
@@ -84,7 +79,7 @@ const config: Config = {
     },
   ],
 
-  themes: ['docusaurus-theme-search-typesense'],
+  themes: [],
 
   themeConfig: {
     navbar: {
@@ -209,27 +204,14 @@ const config: Config = {
       additionalLanguages: ['javascript', 'typescript', 'bash', 'yaml'],
     },
 
-    typesense: {
-      typesenseCollectionName: 'homepage-cacic',
-      typesenseServerConfig: {
-        nodes: [
-          {
-            host: 'typesense.cacic.dev.br',
-            port: 443,
-            protocol: 'https',
-          },
-        ],
-        apiKey: 'etOHqAAHkyZoleQFoZ9s9xvvuiLb6cEn',
-      },
-
-      typesenseSearchParameters: {},
-
-      // @ts-ignore
+    algolia: {
+      appId: '1CDJ7AB4WP',
+      apiKey: 'd8918cee93ae1c9c05fadf734c2f6fa1',
+      indexName: 'CACiC Homepage',
       contextualSearch: true,
-
-      // Doesn't work
-      translations: {} satisfies DocSearchTranslations,
-    } satisfies DocSearchProps,
+      searchPagePath: 'busca',
+      searchParameters: {},
+    },
   } satisfies Preset.ThemeConfig,
 
   plugins: [

@@ -53,23 +53,14 @@ jobs:
   scrape:
     needs: deploy
     runs-on: ubuntu-latest
-
-    env:
-      TYPESENSE_API_KEY: ${{ secrets.TYPESENSE_API_ADMIN }}
-      TYPESENSE_HOST: typesense.cacic.dev.br
-      TYPESENSE_PORT: 443
-      TYPESENSE_PROTOCOL: https
     steps:
-      - name: Checkout
-        uses: actions/checkout@v6
-
-      - name: Run DocSearch Scraper
-        shell: bash
-        run: |
-          docker run \
-           -e TYPESENSE_API_KEY=${{ env.TYPESENSE_API_KEY }} \
-           -e TYPESENSE_HOST="${{ env.TYPESENSE_HOST }}" \
-           -e TYPESENSE_PORT="${{ env.TYPESENSE_PORT }}" \
-           -e TYPESENSE_PROTOCOL="${{ env.TYPESENSE_PROTOCOL }}" \
-           -e CONFIG="$(cat typesense-config.json | jq -r tostring)" \
-           typesense/docsearch-scraper
+      - name: Algolia Crawler creation and crawl
+        uses: algolia/algoliasearch-crawler-github-actions@v1.1.13
+        id: algolia_crawler
+        with:
+          crawler-user-id: ${{ secrets.DOCS_ALGOLIA_CRAWLER_USER_ID }}
+          crawler-api-key: ${{ secrets.DOCS_ALGOLIA_CRAWLER_API_KEY }}
+          algolia-app-id: ${{ secrets.DOCS_ALGOLIA_APP_ID }}
+          algolia-api-key: ${{ secrets.DOCS_ALGOLIA_API_KEY }}
+          site-url: 'https://cacic.dev.br'
+          crawler-name: 'CACiC Homepage'
