@@ -10,6 +10,7 @@ $RECYCLE.BIN/
 # Generated files
 .docusaurus
 .cache-loader
+static/js/cacic-umami-tracking.js
 
 # Misc
 .DS_Store

@@ -2,6 +2,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
+const isProduction = process.env.NODE_ENV === 'production';
+
 const config: Config = {
   title: 'CACiC',
   tagline: 'Centro Acadêmico de Ciência da Computação FCT-Unesp',
@@ -61,23 +63,35 @@ const config: Config = {
     ],
   ],
 
-  scripts: [
-    {
-      src: 'https://a.cacic.dev.br/b.js',
-      defer: true,
-      'data-website-id': 'adaec359-723c-470c-80b6-1372ec4b47d1',
-    },
-  ],
+  scripts: isProduction
+    ? [
+        {
+          src: '/js/cacic-umami-tracking.js',
+          defer: true,
+          'data-website-id': 'adaec359-723c-470c-80b6-1372ec4b47d1',
+        },
+      ]
+    : [],
 
-  headTags: [
-    {
-      tagName: 'link',
-      attributes: {
-        rel: 'preconnect',
-        href: 'https://a.cacic.dev.br/b.js',
-      },
-    },
-  ],
+  headTags: isProduction
+    ? [
+        {
+          tagName: 'link',
+          attributes: {
+            rel: 'preconnect',
+            href: 'https://account.cacic.dev.br',
+            crossorigin: 'anonymous',
+          },
+        },
+        {
+          tagName: 'link',
+          attributes: {
+            rel: 'preconnect',
+            href: 'https://a.cacic.dev.br',
+          },
+        },
+      ]
+    : [],
 
   themes: [],
 

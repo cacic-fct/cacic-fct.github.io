@@ -6,16 +6,22 @@
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "dev": "docusaurus start --no-open",
-    "build": "docusaurus build",
+    "build:analytics": "mkdir -p static/js && bun build src/analytics/cacic-umami-tracking.ts --target=browser --format=iife --outfile=static/js/cacic-umami-tracking.js --minify",
+    "build": "bun run build:analytics && docusaurus build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
+    "deploy": "bun run build:analytics && docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
+    "lint": "oxlint . --ignore-path=.oxlintignore --import-plugin --react-plugin --jsx-a11y-plugin --deny-warnings",
+    "lint:fix": "oxlint . --ignore-path=.oxlintignore --import-plugin --react-plugin --jsx-a11y-plugin --fix",
+    "format": "oxfmt --config=.oxfmtrc.json . --write",
+    "format:check": "oxfmt --config=.oxfmtrc.json . --check",
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@cacic-fct/account-manager-privacy": "0.0.2",
     "@docusaurus/core": "^3.8.0",
     "@docusaurus/faster": "^3.9.1",
     "@docusaurus/plugin-content-docs": "^3.8.0",
@@ -39,6 +45,8 @@
     "@docusaurus/module-type-aliases": "^3.8.0",
     "@docusaurus/tsconfig": "^3.8.0",
     "@docusaurus/types": "^3.8.0",
+    "oxfmt": "^0.56.0",
+    "oxlint": "^1.71.0",
     "typescript": "~5.6.3"
   },
   "browserslist": {
