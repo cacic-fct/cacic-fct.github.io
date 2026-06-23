@@ -21,6 +21,7 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@cacic-fct/account-manager-cookie-banner": "^0.0.1",
     "@cacic-fct/account-manager-privacy": "0.0.2",
     "@docusaurus/core": "^3.8.0",
     "@docusaurus/faster": "^3.9.1",

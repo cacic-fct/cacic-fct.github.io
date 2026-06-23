@@ -4,6 +4,7 @@
     "": {
       "name": "cacic-fct",
       "dependencies": {
+        "@cacic-fct/account-manager-cookie-banner": "^0.0.1",
         "@docusaurus/core": "^3.8.0",
         "@docusaurus/faster": "^3.9.1",
         "@docusaurus/plugin-content-docs": "^3.8.0",
@@ -38,6 +39,8 @@
     "core-js-pure",
   ],
   "packages": {
+    "@cacic-fct/account-manager-cookie-banner": ["@cacic-fct/account-manager-cookie-banner@0.0.1", "https://npm.pkg.github.com/download/@cacic-fct/account-manager-cookie-banner/0.0.1/b429d2eaeca92306f4a044c46f615a4c373c0b9e", { "peerDependencies": { "@angular/common": ">=19", "@angular/core": ">=19" } }, "sha512-lNllPo8JwJCVqDB/6bhLTaWu2Yr6ZvIkHk20tfpV8LvP2ZZcLOpRbimrRFaDZcQXg0VdgaU1wxwnRfshcCNkEw=="],
+
     "@oxfmt/binding-android-arm-eabi": ["@oxfmt/binding-android-arm-eabi@0.56.0", "", { "os": "android", "cpu": "arm" }, "sha512-CSCxi7ovYojgfdPOdUb9T508HKeAdDIKeRGg7x8IZwVJrWz9gVgX7MbUnFqtQAE4QvoNo07mj2JlwnOzJw4qqA=="],
 
 
