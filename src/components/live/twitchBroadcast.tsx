@@ -12,7 +12,7 @@ export default function TwitchBroadcast({
       <>
         {twitchList.map((channel: string) => {
           return (
-            <div className={styles.container}>
+            <div className={styles.container} key={channel}>
               <TwitchEmbed
                 channel={channel}
                 id={channel}
@@ -26,4 +26,5 @@ export default function TwitchBroadcast({
       </>
     );
   }
+  return null;
 }

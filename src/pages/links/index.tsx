@@ -3,7 +3,7 @@ import Layout from '@theme/Layout';
 import LinkTreeHeader from '@site/src/components/links/header';
 import LinkList from '@site/src/components/links/linkList';
 
-import { CardList, ListType } from '@site/src/components/links/linkList';
+import { CardList } from '@site/src/components/links/linkList';
 import { Container } from '@mui/material';
 import MuiThemeClientProvider from '@site/src/theme/MuiThemeProvider';
 
@@ -67,7 +67,6 @@ import MuiThemeClientProvider from '@site/src/theme/MuiThemeProvider';
  ];
 */
 
-const linkList: ListType[] = [];
 const cardList: CardList[] = [];
 
 export default function LinkTree(): JSX.Element {

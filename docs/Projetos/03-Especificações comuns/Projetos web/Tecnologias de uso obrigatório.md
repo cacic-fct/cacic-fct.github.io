@@ -9,11 +9,11 @@ Todos os projetos devem ser escritos em TypeScript.
 
 O TypeScript é uma linguagem de programação que estende o JavaScript ao adicionar tipagem estática ao código. Ela permite que o código seja menos propenso a erros, além de facilitar em manutenções futuras.
 
-## ESLint
+## Oxlint
 
-Todos os projetos devem usar o ESLint.
+Todos os projetos devem usar o Oxlint.
 
-O ESLint é uma ferramenta de análise de código estática para identificar padrões problemáticos encontrados no código.
+O Oxlint é uma ferramenta de análise de código estática para identificar padrões problemáticos encontrados no código.
 
 Ele ajuda a manter o código limpo, organizado e padronizado.
 
@@ -25,11 +25,11 @@ Onde não foi possível documentar com JSDoc, o código deve ser documentado em 
 
 Caso não seja possível documentar o código, a funcionalidade deve ser descrita ensta documentação.
 
-## Prettier
+## Oxfmt
 
-Todos os projetos JavaScript do CACiC devem usar o Prettier, com configurações baseadas nas existentes em outros projetos.
+Todos os projetos JavaScript do CACiC devem usar o Oxfmt, com configurações baseadas nas existentes em outros projetos.
 
-O Prettier é uma ferramenta de formatação de código que ajuda a manter o código limpo, organizado e padronizado.
+O Oxfmt é uma ferramenta de formatação de código que ajuda a manter o código limpo, organizado e padronizado.
 
 ## Gerenciador de pacotes bun
 
