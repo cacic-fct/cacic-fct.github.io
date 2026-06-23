@@ -1,0 +1,6 @@
+build
+coverage
+dist
+.docusaurus
+node_modules
+static/js/cacic-umami-tracking.js
