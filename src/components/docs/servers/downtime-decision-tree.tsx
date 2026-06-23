@@ -1,22 +1,38 @@
 import React, { useState } from 'react';
-import { Button, Card, CardContent, Typography, Link } from '@mui/material';
+import {
+  Button,
+  Card,
+  CardContent,
+  FormControl,
+  InputLabel,
+  Link,
+  MenuItem,
+  Select,
+  Stack,
+  Typography,
+} from '@mui/material';
+import type { SelectChangeEvent } from '@mui/material/Select';
 import MuiThemeClientProvider from '@site/src/theme/MuiThemeProvider';
 
-type StepKeys =
-  | 'statusPageAccessible'
-  | 'sshAccessible'
-  | 'pingServerWorks'
-  | 'pingDtiServersWorks';
-
-type StepValues = {
-  [key in StepKeys]?: boolean;
-};
-
-const steps: {
-  key: StepKeys;
+type Step = {
+  key: string;
   question: string;
   instructions?: React.ReactNode;
-}[] = [
+};
+
+type StepValues = {
+  [key: string]: boolean | undefined;
+};
+
+type ServerTroubleshootingGuide = {
+  id: string;
+  name: string;
+  description: string;
+  steps: Step[];
+  getResult: (values: StepValues) => string;
+};
+
+const fctDtiWebXp01Steps: Step[] = [
   {
     key: 'statusPageAccessible',
     question: 'A página de estado dos serviços está acessível?',
@@ -69,7 +85,7 @@ const steps: {
   },
 ];
 
-const getResult = (values: StepValues) => {
+const getFctDtiWebXp01Result = (values: StepValues) => {
   const {
     statusPageAccessible,
     sshAccessible,
@@ -98,9 +114,31 @@ const getResult = (values: StepValues) => {
   return 'Ocorreu um erro na lógica do resultado.';
 };
 
+const servers: ServerTroubleshootingGuide[] = [
+  {
+    id: 'FCTDTIWEBXP01',
+    name: 'FCTDTIWEBXP01',
+    description:
+      'Servidor web de produção da Diretoria Técnica de Informática.',
+    steps: fctDtiWebXp01Steps,
+    getResult: getFctDtiWebXp01Result,
+  },
+];
+
 const DowntimeDecisionTree = () => {
+  const [selectedServerId, setSelectedServerId] = useState(servers[0].id);
   const [values, setValues] = useState<StepValues>({});
   const [stepIndex, setStepIndex] = useState(0);
+
+  const selectedServer =
+    servers.find((server) => server.id === selectedServerId) ?? servers[0];
+  const steps = selectedServer.steps;
+
+  const handleServerChange = (event: SelectChangeEvent) => {
+    setSelectedServerId(event.target.value);
+    setValues({});
+    setStepIndex(0);
+  };
 
   const handleResponse = (value: boolean) => {
     const key = steps[stepIndex].key;
@@ -131,6 +169,28 @@ const DowntimeDecisionTree = () => {
     <MuiThemeClientProvider>
       <Card variant="outlined" sx={{ mb: 2 }}>
         <CardContent>
+          <Stack spacing={2} sx={{ mb: 3 }}>
+            <FormControl fullWidth>
+              <InputLabel id="downtime-server-label">Servidor</InputLabel>
+              <Select
+                labelId="downtime-server-label"
+                id="downtime-server"
+                value={selectedServerId}
+                label="Servidor"
+                onChange={handleServerChange}>
+                {servers.map((server) => (
+                  <MenuItem key={server.id} value={server.id}>
+                    {server.name}
+                  </MenuItem>
+                ))}
+              </Select>
+            </FormControl>
+
+            <Typography variant="body2" color="text.secondary">
+              {selectedServer.description}
+            </Typography>
+          </Stack>
+
           {currentStep && !showResult && (
             <>
               <Typography variant="h6">{currentStep.question}</Typography>
@@ -162,7 +222,7 @@ const DowntimeDecisionTree = () => {
           {showResult && (
             <>
               <Typography component="div" variant="body1">
-                {(Object.keys(values) as StepKeys[]).map((key) => {
+                {Object.keys(values).map((key) => {
                   const step = steps.find((s) => s.key === key);
                   if (!step) return null;
 
@@ -176,7 +236,9 @@ const DowntimeDecisionTree = () => {
                 })}
               </Typography>
               <Typography variant="h6">Recomendação</Typography>
-              <Typography variant="body1">{getResult(values)}</Typography>
+              <Typography variant="body1">
+                {selectedServer.getResult(values)}
+              </Typography>
               <br />
               <Button variant="contained" onClick={reset}>
                 Reiniciar
