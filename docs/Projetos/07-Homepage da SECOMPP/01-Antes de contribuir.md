@@ -13,7 +13,7 @@ Estude os guias de estilo antes de começar a contribuir!
 
 ## Preze por
 
-### [Eficiência](../03-Especificações%20comuns/Projetos%20web/Eficiência%20de%20recursos.md)
+### [Eficiência](../03-Especificações comuns/Projetos web/Eficiência de recursos.md)
 
 O site da SECOMPP deve atingir 100 pontos em todas as categorias do [PageSpeed Insights](https://pagespeed.web.dev/analysis?url=https://secompp.cacic.dev.br/).
 
