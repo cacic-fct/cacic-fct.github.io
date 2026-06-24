@@ -18,9 +18,12 @@ export async function isCookieBannerEnabled(appName) {
 
   const client = new UnleashClient({
     url: UNLEASH_URL,
-    clientKey: readRuntimeConfigValue('cacic-unleash-client-key') || PRODUCTION_CLIENT_KEY,
+    clientKey:
+      readRuntimeConfigValue('cacic-unleash-client-key') ||
+      PRODUCTION_CLIENT_KEY,
     appName,
-    environment: readRuntimeConfigValue('cacic-unleash-environment') || 'production',
+    environment:
+      readRuntimeConfigValue('cacic-unleash-environment') || 'production',
     refreshInterval: 60,
     disableMetrics: true,
     bootstrap: [
