@@ -4,7 +4,7 @@ O mandato é de 1 ano, mas pode ser dilatado em assembleia geral ou encerrado an
 
 ## Finalização do processo eleitoral
 
-Consulte a seção [Posse da chapa vencedora](../Eleições.mdx#8-posse-da-chapa-vencedora) na página de Eleições para finalizar o processo eleitoral.
+Consulte a seção [Posse da chapa vencedora](/docs/Centro%20Acad%C3%AAmico/Elei%C3%A7%C3%B5es#8-posse-da-chapa-vencedora) na página de Eleições para finalizar o processo eleitoral.
 
 ## Primeiros passos
 
