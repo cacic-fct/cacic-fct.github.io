@@ -4,18 +4,29 @@
 import { useEffect } from 'react';
 import { createCookieBanner } from '@cacic-fct/account-manager-cookie-banner';
 import '@cacic-fct/account-manager-cookie-banner/styles.css';
+import { isCookieBannerEnabled } from '../feature-flags/cookie-banner-feature-flag';
 
 export default function Root({ children }) {
   useEffect(() => {
-    const banner = createCookieBanner({
-      privacyPolicyUrl: 'https://cacic.dev.br/legal/privacy-policy',
-      onAccept: () => {
-        window.dispatchEvent(new Event('cookieBannerAccepted'));
-      },
+    let banner;
+    let disposed = false;
+
+    void isCookieBannerEnabled('cacic-fct').then((enabled) => {
+      if (disposed || !enabled) {
+        return;
+      }
+
+      banner = createCookieBanner({
+        privacyPolicyUrl: 'https://cacic.dev.br/legal/privacy-policy',
+        onAccept: () => {
+          window.dispatchEvent(new Event('cookieBannerAccepted'));
+        },
+      });
     });
 
     return () => {
-      banner.destroy();
+      disposed = true;
+      banner?.destroy();
     };
   }, []);
 

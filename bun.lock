@@ -5,6 +5,7 @@
       "name": "cacic-fct",
       "dependencies": {
         "@cacic-fct/account-manager-cookie-banner": "^0.0.1",
+        "@cacic-fct/account-manager-privacy": "0.0.2",
         "@docusaurus/core": "^3.8.0",
         "@docusaurus/faster": "^3.9.1",
         "@docusaurus/plugin-content-docs": "^3.8.0",
@@ -23,6 +24,7 @@
         "react": "^18.3.1",
         "react-dom": "^18.3.1",
         "react-twitch-embed": "^3.0.2",
+        "unleash-proxy-client": "^3.8.0",
       },
       "devDependencies": {
         "@docusaurus/module-type-aliases": "^3.8.0",
@@ -39,7 +41,21 @@
     "core-js-pure",
   ],
   "packages": {
-    "@cacic-fct/account-manager-cookie-banner": ["@cacic-fct/account-manager-cookie-banner@0.0.1", "https://npm.pkg.github.com/download/@cacic-fct/account-manager-cookie-banner/0.0.1/b429d2eaeca92306f4a044c46f615a4c373c0b9e", { "peerDependencies": { "@angular/common": ">=19", "@angular/core": ">=19" } }, "sha512-lNllPo8JwJCVqDB/6bhLTaWu2Yr6ZvIkHk20tfpV8LvP2ZZcLOpRbimrRFaDZcQXg0VdgaU1wxwnRfshcCNkEw=="],
+    "@angular/common": ["@angular/common@22.0.2", "", { "dependencies": { "tslib": "^2.3.0" }, "peerDependencies": { "@angular/core": "22.0.2", "rxjs": "^6.5.3 || ^7.4.0" } }, "sha512-XSkHYRwrM54v4GZ+fg9KU1KbSIE/iQF33VXKo5zqVNKO11MnAbJ59qzyqX/5EzSeogHyBoHApprFKACsCAKm/Q=="],
+
+    "@angular/core": ["@angular/core@22.0.2", "", { "dependencies": { "tslib": "^2.3.0" }, "peerDependencies": { "@angular/compiler": "22.0.2", "rxjs": "^6.5.3 || ^7.4.0", "zone.js": "~0.15.0 || ~0.16.0" }, "optionalPeers": ["@angular/compiler", "zone.js"] }, "sha512-YMs6OZNeXh4tg67ePwSRN426WYvjqGdjxEwLrdOONKAruOmJAzW/Tqe328k/4SHfdbJTR87GPpRi5FzVP43DRA=="],
+
+    "@cacic-fct/account-manager-cookie-banner": ["@cacic-fct/account-manager-cookie-banner@0.0.1", "https://npm.pkg.github.com/download/@cacic-fct/account-manager-cookie-banner/0.0.1/b429d2eaeca92306f4a044c46f615a4c373c0b9e", { "peerDependencies": { "@angular/common": ">=19", "@angular/core": ">=19" }, "optionalPeers": ["@angular/common", "@angular/core"] }, "sha512-lNllPo8JwJCVqDB/6bhLTaWu2Yr6ZvIkHk20tfpV8LvP2ZZcLOpRbimrRFaDZcQXg0VdgaU1wxwnRfshcCNkEw=="],
+
+    "@cacic-fct/account-manager-m2m-contracts": ["@cacic-fct/account-manager-m2m-contracts@0.0.2", "https://npm.pkg.github.com/download/@cacic-fct/account-manager-m2m-contracts/0.0.2/615723236427967b338a512668c954c643e53c89", {}, "sha512-sYy0xG3kFp+2U2a6dAavCsUfs9qpvObmgESpyqfNspiU2qBXoyfruw4Sqzn+g8hD3UHnveQPTdfT5VLpQOyvOg=="],
+
+    "@cacic-fct/account-manager-privacy": ["@cacic-fct/account-manager-privacy@0.0.2", "https://npm.pkg.github.com/download/@cacic-fct/account-manager-privacy/0.0.2/862b6f1fa75babbfc4f80b0bb4e195c921672a68", { "dependencies": { "@cacic-fct/account-manager-m2m-contracts": "0.0.2", "tslib": "^2.8.0" }, "peerDependencies": { "@angular/common": ">=19", "@angular/core": ">=19", "rxjs": "^7.8.0" } }, "sha512-V++Frc+OB96rrQIHUUz/Nlpntp7yUc44h8jF73y+KugvjxPCpCnDu6aWtipHP7PlFMcvLoTjQoNn8rN8YW+miA=="],
+
+    "tiny-emitter": ["tiny-emitter@2.1.0", "", {}, "sha512-NB6Dk1A9xgQPMoGqC5CVXn123gWyte215ONT5Pp5a0yt4nlEoO1ZWeCwpncaekPHXO60i47ihFnZPiRPjRMq4Q=="],
+
+    "rxjs": ["rxjs@7.8.2", "", { "dependencies": { "tslib": "^2.1.0" } }, "sha512-dhKf903U/PQZY6boNNtAGdWbG85WAbjT/1xYoZIC7FAY0yWapOBQVsVrDl58W86//e1VpMNBtRV4MaXfdMySFA=="],
+
+    "unleash-proxy-client": ["unleash-proxy-client@3.8.0", "", { "dependencies": { "tiny-emitter": "^2.1.0" } }, "sha512-7+IMDM/t8sUojbYmOMoRW0SjD7+ShOrpI+vR1QWSv1Fnf7IxXLKp1dVhWnWyh9p4iyqFw4RXG9Iw5LHuBMV4aA=="],
 
     "@oxfmt/binding-android-arm-eabi": ["@oxfmt/binding-android-arm-eabi@0.56.0", "", { "os": "android", "cpu": "arm" }, "sha512-CSCxi7ovYojgfdPOdUb9T508HKeAdDIKeRGg7x8IZwVJrWz9gVgX7MbUnFqtQAE4QvoNo07mj2JlwnOzJw4qqA=="],
 
