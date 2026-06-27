@@ -5,8 +5,8 @@
     "": {
       "name": "cacic-fct",
       "dependencies": {
-        "@cacic-fct/account-manager-cookie-banner": "^0.0.2",
-        "@cacic-fct/account-manager-privacy": "0.0.2",
+        "@cacic-fct/account-manager-cookie-banner": "^0.1.1",
+        "@cacic-fct/account-manager-privacy": "^0.1.1",
         "@docusaurus/core": "^3.8.0",
         "@docusaurus/faster": "^3.9.1",
         "@docusaurus/plugin-content-docs": "^3.8.0",
@@ -87,10 +87,6 @@
     "@algolia/requester-fetch": ["@algolia/requester-fetch@5.40.0", "", { "dependencies": { "@algolia/client-common": "5.40.0" } }, "sha512-wXQ05JZZ10Dr642QVAkAZ4ZZlU+lh5r6dIBGmm9WElz+1EaQ6BNYtEOTV6pkXuFYsZpeJA89JpDOiwBOP9j24w=="],
 
     "@algolia/requester-node-http": ["@algolia/requester-node-http@5.40.0", "", { "dependencies": { "@algolia/client-common": "5.40.0" } }, "sha512-5qCRoySnzpbQVg2IPLGFCm4LF75pToxI5tdjOYgUMNL/um91aJ4dH3SVdBEuFlVsalxl8mh3bWPgkUmv6NpJiQ=="],
-
-    "@angular/common": ["@angular/common@22.0.2", "", { "dependencies": { "tslib": "^2.3.0" }, "peerDependencies": { "@angular/core": "22.0.2", "rxjs": "^6.5.3 || ^7.4.0" } }, "sha512-XSkHYRwrM54v4GZ+fg9KU1KbSIE/iQF33VXKo5zqVNKO11MnAbJ59qzyqX/5EzSeogHyBoHApprFKACsCAKm/Q=="],
-
-    "@angular/core": ["@angular/core@22.0.2", "", { "dependencies": { "tslib": "^2.3.0" }, "peerDependencies": { "@angular/compiler": "22.0.2", "rxjs": "^6.5.3 || ^7.4.0", "zone.js": "~0.15.0 || ~0.16.0" }, "optionalPeers": ["@angular/compiler", "zone.js"] }, "sha512-YMs6OZNeXh4tg67ePwSRN426WYvjqGdjxEwLrdOONKAruOmJAzW/Tqe328k/4SHfdbJTR87GPpRi5FzVP43DRA=="],
 
     "@babel/code-frame": ["@babel/code-frame@7.27.1", "", { "dependencies": { "@babel/helper-validator-identifier": "^7.27.1", "js-tokens": "^4.0.0", "picocolors": "^1.1.1" } }, "sha512-cjQ7ZlQ0Mv3b47hABuTevyTuYN4i+loJKGeV9flcCgIK37cCXRh+L1bd3iBHlynerhQ7BhCkn2BPbQUL+rGqFg=="],
 
@@ -298,11 +294,11 @@
 
     "@babel/types": ["@babel/types@7.28.4", "", { "dependencies": { "@babel/helper-string-parser": "^7.27.1", "@babel/helper-validator-identifier": "^7.27.1" } }, "sha512-bkFqkLhh3pMBUQQkpVgWDWq/lqzc2678eUyDlTBhRqhCHFguYYGM0Efga7tYk4TogG/3x0EEl66/OQ+WGbWB/Q=="],
 
-    "@cacic-fct/account-manager-cookie-banner": ["@cacic-fct/account-manager-cookie-banner@0.0.2", "https://npm.pkg.github.com/download/@cacic-fct/account-manager-cookie-banner/0.0.2/695ae11e9bad48a294af37a38deb1d59ec9672ea", {}, "sha512-6RtBMnJhvPFcTSs7BhSkFl0v8To4+oYtoWSfNHbfZFyvB0Ow3wngNBsCXZX8dE0+n0LJh6+pFCslI3cGADZTuw=="],
+    "@cacic-fct/account-manager-cookie-banner": ["@cacic-fct/account-manager-cookie-banner@0.1.1", "", {}, "sha512-fNB2dT9isAClyALbWUtry8lwT/mK2UtbldgW/eGGPkYHoJ7/e8ZLdk1IjHhiRmwLUwvgOs082vY17iYmgXmoLw=="],
 
-    "@cacic-fct/account-manager-m2m-contracts": ["@cacic-fct/account-manager-m2m-contracts@0.0.2", "https://npm.pkg.github.com/download/@cacic-fct/account-manager-m2m-contracts/0.0.2/615723236427967b338a512668c954c643e53c89", {}, "sha512-sYy0xG3kFp+2U2a6dAavCsUfs9qpvObmgESpyqfNspiU2qBXoyfruw4Sqzn+g8hD3UHnveQPTdfT5VLpQOyvOg=="],
+    "@cacic-fct/account-manager-m2m-contracts": ["@cacic-fct/account-manager-m2m-contracts@0.1.2", "", {}, "sha512-vCIT2NsuhFs7ja4g0Pfyv4Zkk7keYBRiFZSYbAts2gHi4OT8AZM5h6mHcD02XRVnnI8i7Uhxzfn8pTLYiV1yfQ=="],
 
-    "@cacic-fct/account-manager-privacy": ["@cacic-fct/account-manager-privacy@0.0.2", "https://npm.pkg.github.com/download/@cacic-fct/account-manager-privacy/0.0.2/862b6f1fa75babbfc4f80b0bb4e195c921672a68", { "dependencies": { "@cacic-fct/account-manager-m2m-contracts": "0.0.2", "tslib": "^2.8.0" }, "peerDependencies": { "@angular/common": ">=19", "@angular/core": ">=19", "rxjs": "^7.8.0" } }, "sha512-V++Frc+OB96rrQIHUUz/Nlpntp7yUc44h8jF73y+KugvjxPCpCnDu6aWtipHP7PlFMcvLoTjQoNn8rN8YW+miA=="],
+    "@cacic-fct/account-manager-privacy": ["@cacic-fct/account-manager-privacy@0.1.1", "", { "dependencies": { "@cacic-fct/account-manager-m2m-contracts": "^0.1.1", "tslib": "^2.8.0" }, "peerDependencies": { "@angular/common": ">=19", "@angular/core": ">=19", "rxjs": "^7.8.0" }, "optionalPeers": ["@angular/common", "@angular/core", "rxjs"] }, "sha512-RutMod2JSCOF0sUK9U4eBQqfZJo7a5e8s67GqOifsIYiGRTidxZqS4frjftDBsC9n5f+N/mRFM7uVQpmje62uQ=="],
 
     "@colors/colors": ["@colors/colors@1.5.0", "", {}, "sha512-ooWCrlZP11i8GImSjTHYHLkvFDP48nS4+204nGb1RiX/WXYHmJA2III9/e2DWVabCESdW7hBAEzHRqUn9OUVvQ=="],
 
@@ -2193,8 +2189,6 @@
     "run-applescript": ["run-applescript@7.1.0", "", {}, "sha512-DPe5pVFaAsinSaV6QjQ6gdiedWDcRCbUuiQfQa2wmWV7+xC9bGulGI8+TdRmoFkAPaBXk8CrAbnlY2ISniJ47Q=="],
 
     "run-parallel": ["run-parallel@1.2.0", "", { "dependencies": { "queue-microtask": "^1.2.2" } }, "sha512-5l4VyZR86LZ/lDxZTR6jqL8AFE2S0IFLMP26AbjsLVADxHdhB/c0GUsH+y39UfCi3dzz8OlQuPmnaJOMoDHQBA=="],
-
-    "rxjs": ["rxjs@7.8.2", "", { "dependencies": { "tslib": "^2.1.0" } }, "sha512-dhKf903U/PQZY6boNNtAGdWbG85WAbjT/1xYoZIC7FAY0yWapOBQVsVrDl58W86//e1VpMNBtRV4MaXfdMySFA=="],
 
     "safe-buffer": ["safe-buffer@5.2.1", "", {}, "sha512-rp3So07KcdmmKbGvgaNxQSJr7bGVSVk5S9Eq1F+ppbRo70+YeaDxkw5Dd8NPN+GD6bjnYm2VuPuCXmpuYvmCXQ=="],
 
