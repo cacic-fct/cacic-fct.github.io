@@ -1,6 +1,6 @@
-# FCTDTIWEBXP01
+# FCTDTIX01
 
-- [Repositório](https://github.com/cacic-fct/server-FCTDTIWEBXP01)
+- [Repositório](https://github.com/cacic-fct/server-FCTDTIX01)
 - Responsável: CACiC e EJComp
 - Armazena informações sensíveis?
   - **Sim**.
@@ -9,7 +9,7 @@
 
 ## Sobre
 
-O FCTDTIWEBXP01 é uma máquina virtual localizada na Diretoria Técnica de Informática. Ele foi concecido para hospedagem dos sistemas da SECOMPP, mas também hospeda outros serviços do CACiC.
+O FCTDTIX01 é uma máquina virtual localizada na Diretoria Técnica de Informática. Ele foi concecido para hospedagem dos sistemas da SECOMPP, mas também hospeda outros serviços do CACiC.
 
 O professor responsável é o Almir, mas o CACiC possui total autonomia sobre o servidor.
 

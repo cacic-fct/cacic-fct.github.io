@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState } from "react";
 import {
   Button,
   Card,
@@ -10,9 +10,9 @@ import {
   Select,
   Stack,
   Typography,
-} from '@mui/material';
-import type { SelectChangeEvent } from '@mui/material/Select';
-import MuiThemeClientProvider from '@site/src/theme/MuiThemeProvider';
+} from "@mui/material";
+import type { SelectChangeEvent } from "@mui/material/Select";
+import MuiThemeClientProvider from "@site/src/theme/MuiThemeProvider";
 
 type Step = {
   key: string;
@@ -34,8 +34,8 @@ type ServerTroubleshootingGuide = {
 
 const fctDtiWebXp01Steps: Step[] = [
   {
-    key: 'statusPageAccessible',
-    question: 'A página de estado dos serviços está acessível?',
+    key: "statusPageAccessible",
+    question: "A página de estado dos serviços está acessível?",
     instructions: (
       <>
         <Link href="https://status.cacic.dev.br" target="_blank">
@@ -45,8 +45,8 @@ const fctDtiWebXp01Steps: Step[] = [
     ),
   },
   {
-    key: 'sshAccessible',
-    question: 'O servidor responde ao acesso SSH?',
+    key: "sshAccessible",
+    question: "O servidor responde ao acesso SSH?",
     instructions: (
       <>
         Conecte-se diretamente ao servidor, sem passar pelo proxy.
@@ -59,8 +59,8 @@ const fctDtiWebXp01Steps: Step[] = [
     ),
   },
   {
-    key: 'pingServerWorks',
-    question: 'O servidor responde a pings?',
+    key: "pingServerWorks",
+    question: "O servidor responde a pings?",
     instructions: (
       <>
         Conecte-se diretamente ao servidor, sem passar pelo proxy.
@@ -73,8 +73,8 @@ const fctDtiWebXp01Steps: Step[] = [
     ),
   },
   {
-    key: 'pingDtiServersWorks',
-    question: 'Toda a infraestrutura de rede da DTI responde a pings?',
+    key: "pingDtiServersWorks",
+    question: "Toda a infraestrutura de rede da DTI responde a pings?",
     instructions: (
       <>
         <code>ping fct1-pp.net.unesp.br</code>
@@ -86,40 +86,34 @@ const fctDtiWebXp01Steps: Step[] = [
 ];
 
 const getFctDtiWebXp01Result = (values: StepValues) => {
-  const {
-    statusPageAccessible,
-    sshAccessible,
-    pingServerWorks,
-    pingDtiServersWorks,
-  } = values;
+  const { statusPageAccessible, sshAccessible, pingServerWorks, pingDtiServersWorks } = values;
 
   if (sshAccessible) {
     return statusPageAccessible
-      ? 'Faça login por SSH e reinicie os serviços afetados. Não entre em contato com a entidade responsável pela hospedagem.'
-      : 'Faça login por SSH e inicie o authentik e o uptime-kuma - ele auxiliará a identificar outros serviços que estão off-line, para que você possa reiniciá-los. Não entre em contato com a DTI.';
+      ? "Faça login por SSH e reinicie os serviços afetados. Não entre em contato com a entidade responsável pela hospedagem."
+      : "Faça login por SSH e inicie o authentik e o uptime-kuma - ele auxiliará a identificar outros serviços que estão off-line, para que você possa reiniciá-los. Não entre em contato com a DTI.";
   }
 
   if (pingServerWorks) {
-    return 'Pode ser que o servidor esteja reiniciando. Aguarde até 30 minutos e tente o acesso SSH novamente. Se o problema persistir, pode ser que o OpenSSH esteja configurado incorretamente ou que a porta 22 tenha sido bloqueada. Entre em contato com a entidade responsável pela hospedagem para verificar o estado da máquina. Caso ela esteja normal, contate a DTI para verificar o estado do Firewall.';
+    return "Pode ser que o servidor esteja reiniciando. Aguarde até 30 minutos e tente o acesso SSH novamente. Se o problema persistir, pode ser que o OpenSSH esteja configurado incorretamente ou que a porta 22 tenha sido bloqueada. Entre em contato com a entidade responsável pela hospedagem para verificar o estado da máquina. Caso ela esteja normal, contate a DTI para verificar o estado do Firewall.";
   }
 
   if (pingDtiServersWorks) {
-    return 'Pode ser que o servidor esteja reiniciando. Aguarde até 30 minutos e tente o acesso SSH novamente. Se o problema persistir, entre em contato com a entidade responsável pela hospedagem para verificar o estado da máquina e, se necessário, solicitar a reinicialização dela.';
+    return "Pode ser que o servidor esteja reiniciando. Aguarde até 30 minutos e tente o acesso SSH novamente. Se o problema persistir, entre em contato com a entidade responsável pela hospedagem para verificar o estado da máquina e, se necessário, solicitar a reinicialização dela.";
   }
 
   if (pingDtiServersWorks === false) {
-    return 'Aguarde a solução do problema pela DTI. Entre em contato caso esteja demorando muito. Lembre-se de que eles não trabalham aos finais de semana.';
+    return "Aguarde a solução do problema pela DTI. Entre em contato caso esteja demorando muito. Lembre-se de que eles não trabalham aos finais de semana.";
   }
 
-  return 'Ocorreu um erro na lógica do resultado.';
+  return "Ocorreu um erro na lógica do resultado.";
 };
 
 const servers: ServerTroubleshootingGuide[] = [
   {
-    id: 'FCTDTIWEBXP01',
-    name: 'FCTDTIWEBXP01',
-    description:
-      'Servidor web de produção da Diretoria Técnica de Informática.',
+    id: "FCTDTIX01",
+    name: "FCTDTIX01",
+    description: "Servidor web de produção da Diretoria Técnica de Informática.",
     steps: fctDtiWebXp01Steps,
     getResult: getFctDtiWebXp01Result,
   },
@@ -130,8 +124,7 @@ const DowntimeDecisionTree = () => {
   const [values, setValues] = useState<StepValues>({});
   const [stepIndex, setStepIndex] = useState(0);
 
-  const selectedServer =
-    servers.find((server) => server.id === selectedServerId) ?? servers[0];
+  const selectedServer = servers.find((server) => server.id === selectedServerId) ?? servers[0];
   const steps = selectedServer.steps;
 
   const handleServerChange = (event: SelectChangeEvent) => {
@@ -146,9 +139,9 @@ const DowntimeDecisionTree = () => {
     setValues(newValues);
 
     if (
-      (key === 'sshAccessible' && value === true) ||
-      (key === 'pingServerWorks' && value === true) ||
-      key === 'pingDtiServersWorks'
+      (key === "sshAccessible" && value === true) ||
+      (key === "pingServerWorks" && value === true) ||
+      key === "pingDtiServersWorks"
     ) {
       setStepIndex(steps.length); // show result
     } else {
@@ -162,8 +155,7 @@ const DowntimeDecisionTree = () => {
   };
 
   const currentStep = steps[stepIndex];
-  const showResult =
-    stepIndex >= steps.length || values.pingDtiServersWorks !== undefined;
+  const showResult = stepIndex >= steps.length || values.pingDtiServersWorks !== undefined;
 
   return (
     <MuiThemeClientProvider>
@@ -177,7 +169,8 @@ const DowntimeDecisionTree = () => {
                 id="downtime-server"
                 value={selectedServerId}
                 label="Servidor"
-                onChange={handleServerChange}>
+                onChange={handleServerChange}
+              >
                 {servers.map((server) => (
                   <MenuItem key={server.id} value={server.id}>
                     {server.name}
@@ -196,18 +189,12 @@ const DowntimeDecisionTree = () => {
               <Typography variant="h6">{currentStep.question}</Typography>
 
               {currentStep.instructions && (
-                <Typography
-                  component="div"
-                  variant="body2"
-                  sx={{ mt: 1, mb: 2 }}>
+                <Typography component="div" variant="body2" sx={{ mt: 1, mb: 2 }}>
                   {currentStep.instructions}
                 </Typography>
               )}
 
-              <Button
-                variant="contained"
-                sx={{ mr: 1 }}
-                onClick={() => handleResponse(true)}>
+              <Button variant="contained" sx={{ mr: 1 }} onClick={() => handleResponse(true)}>
                 Sim
               </Button>
               <Button variant="contained" onClick={() => handleResponse(false)}>
@@ -230,15 +217,13 @@ const DowntimeDecisionTree = () => {
                     <p key={key}>
                       <strong>{step.question}</strong>
                       <br />
-                      Resposta: {values[key] ? 'Sim' : 'Não'}
+                      Resposta: {values[key] ? "Sim" : "Não"}
                     </p>
                   );
                 })}
               </Typography>
               <Typography variant="h6">Recomendação</Typography>
-              <Typography variant="body1">
-                {selectedServer.getResult(values)}
-              </Typography>
+              <Typography variant="body1">{selectedServer.getResult(values)}</Typography>
               <br />
               <Button variant="contained" onClick={reset}>
                 Reiniciar
