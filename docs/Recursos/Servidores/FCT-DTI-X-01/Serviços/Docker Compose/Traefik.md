@@ -18,7 +18,7 @@ O comando `- "--api.insecure"` deve ser definido para `false`, para evitar que a
 Todo o tráfego HTTP é redirecionado para HTTPS. Isso é feito por meio da configuração abaixo:
 
 ```yaml
-- "--entrypoints.web.http.redirections.entryPoint.to=websecure"
+- '--entrypoints.web.http.redirections.entryPoint.to=websecure'
 ```
 
 #### _Responding timeouts_
@@ -26,7 +26,7 @@ Todo o tráfego HTTP é redirecionado para HTTPS. Isso é feito por meio da conf
 https://github.com/traefik/traefik/wiki/respondingTimeouts-for-applications
 
 ```yaml
-- "--entrypoints.websecure.transport.respondingTimeouts.readTimeout=0s"
+- '--entrypoints.websecure.transport.respondingTimeouts.readTimeout=0s'
 ```
 
 ### Certificados SSL
