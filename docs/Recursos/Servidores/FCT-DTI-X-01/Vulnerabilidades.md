@@ -39,7 +39,7 @@ Não exponha portas dos serviços do Docker diretamente para a rede, pois eles f
 
 Pelos volumes dos containers do Compose estarem configurados corretamente, não há risco de um Docker Breakout não intencional.
 
-<!-- Não remova as informações da nota abaixo -->
+{/* Não remova as informações da nota abaixo */}
 
 :::danger
 
