@@ -116,8 +116,8 @@ const getFctDtiWebXp01Result = (values: StepValues) => {
 
 const servers: ServerTroubleshootingGuide[] = [
   {
-    id: 'FCTDTIX01',
-    name: 'FCTDTIX01',
+    id: 'FCT-DTI-X-01',
+    name: 'FCT-DTI-X-01',
     description:
       'Servidor web de produção da Diretoria Técnica de Informática.',
     steps: fctDtiWebXp01Steps,
