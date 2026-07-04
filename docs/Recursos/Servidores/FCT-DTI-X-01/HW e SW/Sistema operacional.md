@@ -10,12 +10,13 @@ Debian Stable, conforme [especificações comuns](../../Especificações%20comun
 
 Conforme norma da Unesp, cada pessoa possui seu próprio usuário.\*
 
-- [dti](https://www.fct.unesp.br/#!/informatica/sobre-o-sti/) (1000)
+- [redes](https://www.fct.unesp.br/#!/informatica/sobre-o-sti/) (dti, 1000)
 - [fernando](https://www.fct.unesp.br/#!/departamentos/matematica-e-computacao/estrutura-administrativa/) (1001)
 - [guibatalhoti](https://github.com/guibatalhoti) (1002)
 - [willshobwish](https://github.com/willshobwish) (1003)
 - [danielserezane](https://github.com/salies) (1004)
 - [renanyudi](https://github.com/yudi) (1005)
+- [kampuz](https://github.com/kampuz) (1006)
 
 \*Configurado pela DTI.
 
@@ -28,6 +29,10 @@ Os usuários também foram adicionados ao grupo `docker`, para não ser necessá
 ### Pacote Docker
 
 Enquanto não for disponibilizado um pacote Docker com o Compose v2 no repositório do Debian, deve-se instala-lo diretamente do repositório oficial do Docker.
+
+Deve ser instalado diretamento do repositório oficial do Docker, para que atualizações de segurança sejam aplicadas o mais rápido possível.
+
+```bash
 
 ### Backup
 

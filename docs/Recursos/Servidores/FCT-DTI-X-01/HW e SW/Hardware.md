@@ -8,7 +8,8 @@ O servidor é uma máquina virtual que está hospedada na Diretoria Técnica de 
 
 - **Memória RAM:** 8 GB;
 - **Armazenamento:**
-  - 150 GB formatados em `ext4`\*;
-    - 20 GB para o swap.
+  - 170 GB formatados em `ext4`\*;
+    - 2 GB para partição swap\*;
+    - 18 GB para swapfile.
 
 \*Configurado pela DTI.
