@@ -32,7 +32,7 @@ Enquanto não for disponibilizado um pacote Docker com o Compose v2 no repositó
 
 Deve ser instalado diretamento do repositório oficial do Docker, para que atualizações de segurança sejam aplicadas o mais rápido possível.
 
-```bash
+````bash
 
 ### Backup
 
@@ -44,7 +44,7 @@ No diretório `/home/shared`, os arquivos `*-backup.zpaq` são incrementados com
 sudo zpaqfranz a "/home/shared/docker-compose-backup.???.zpaq" /home/shared/docker-compose -index "/home/shared/docker-compose-backup.000.zpaq" -filelist
 
 sudo zpaqfranz a "/home/shared/docker-data-backup.???.zpaq" /home/shared/docker-data -index "/home/shared/docker-data-backup.000.zpaq" -filelist
-```
+````
 
 Estes comandos deve ser executados com permissões elevadas, por conta das permissões dos arquivos do Docker.
 
