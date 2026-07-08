@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@cacic-fct/account-manager-cookie-banner": "^0.1.1",
-    "@cacic-fct/account-manager-privacy": "^0.1.2",
+    "@cacic-fct/account-manager-privacy": "^0.1.4",
     "@docusaurus/core": "^3.10.1",
     "@docusaurus/faster": "^3.10.1",
     "@docusaurus/plugin-content-docs": "^3.10.1",
@@ -32,8 +32,8 @@
     "@mdx-js/react": "^3.1.1",
     "@mui/icons-material": "^7.3.11",
     "@mui/material": "^7.3.11",
-    "@mui/x-date-pickers": "^8.29.0",
-    "caniuse-lite": "^1.0.30001799",
+    "@mui/x-date-pickers": "^8.29.2",
+    "caniuse-lite": "^1.0.30001803",
     "clsx": "^2.1.1",
     "date-fns": "^3.6.0",
     "docusaurus-theme-search-typesense": "^0.22.0",
@@ -47,8 +47,8 @@
     "@docusaurus/module-type-aliases": "^3.10.1",
     "@docusaurus/tsconfig": "^3.10.1",
     "@docusaurus/types": "^3.10.1",
-    "oxlint": "^1.71.0",
-    "prettier": "^3.8.4",
+    "oxlint": "^1.73.0",
+    "prettier": "^3.9.4",
     "typescript": "~5.6.3"
   },
   "browserslist": {
