@@ -89,15 +89,15 @@ Serviço de SMTP utilizado para testes de envio de e-mails.
 Servidor disponível em `mailcatcher:1025` na rede Docker `smtp` e `traefik`.  
 Caixa de entrada disponível em [smtp.cacic.dev.br](https://smtp.cacic.dev.br).
 
-## Plausible (analytics)
+## Umami (analytics)
 
 Serviço de análise do CACiC.
 
 Substitui o Google Analytics.
 
-Disponível em [plausible.cacic.dev.br](https://plausible.cacic.dev.br).
+Disponível em [analytics.cacic.dev.br](https://analytics.cacic.dev.br).
 
-Use plsbl.cacic.dev.br para contornar bloqueadores de anúncios.
+Use a.cacic.dev.br para contornar bloqueadores de anúncios.
 
 ## Shlink (encurtador de links)
 
