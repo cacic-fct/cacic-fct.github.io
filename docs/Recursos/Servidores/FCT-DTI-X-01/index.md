@@ -1,7 +1,7 @@
 # FCT-DTI-X-01
 
 - [Repositório](https://github.com/cacic-fct/server-FCT-DTI-X-01)
-- Responsável: CACiC e EJComp
+- Responsável: CACiC e EJComp\*
 - Armazena informações sensíveis?
   - **Sim**.
 - Entidade responsável pela hospedagem: DTI
@@ -17,7 +17,7 @@ O processo de obtenção foi documentado em uma [discussão no GitHub](https://g
 
 ## Encarregados
 
-O CACiC e a EJComp são os responsáveis pela segurança dos dados do servidor e pela atualização dele, nesta ordem.
+O CACiC é o responsável pela segurança dos dados do servidor e pela manutenção dele. Em caso de dissolução da entidade, a EJComp assume as responsabilidades.
 
 Contatos:
 

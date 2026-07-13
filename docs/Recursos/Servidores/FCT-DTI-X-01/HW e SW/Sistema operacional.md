@@ -28,8 +28,6 @@ Os usuários também foram adicionados ao grupo `docker`, para não ser necessá
 
 ### Pacote Docker
 
-Enquanto não for disponibilizado um pacote Docker com o Compose v2 no repositório do Debian, deve-se instala-lo diretamente do repositório oficial do Docker.
-
 Deve ser instalado diretamento do repositório oficial do Docker, para que atualizações de segurança sejam aplicadas o mais rápido possível.
 
 ````bash
@@ -50,7 +48,7 @@ Estes comandos deve ser executados com permissões elevadas, por conta das permi
 
 Não delete os arquivos de números inferiores (antigos), pois eles são necessários para a restauração.
 
-Os arquivo são, então, movidos para o servidor de [Yudi](https://github.com/Yudi).
+Os arquivo são, então, movidos para o servidor de [Yudi](https://github.com/Yudi), onde são criptografados e armazenados a longo prazo.
 
 ## Configurações
 
