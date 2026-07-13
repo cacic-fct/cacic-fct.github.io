@@ -26,7 +26,7 @@ Esta tabela é um adendo à [tabela principal](../../../Domínio/03-Registros%20
 | `CNAME` | glitchtip.cacic.dev.br    | FCT-DTI-X-01.cacic.dev.br | Sim   | Error monitoring                      |
 | `CNAME` | grafana.cacic.dev.br      | FCT-DTI-X-01.cacic.dev.br | Sim   | Monitoring                            |
 | `CNAME` | analytics.cacic.dev.br    | FCT-DTI-X-01.cacic.dev.br | Sim   | Analytics                             |
-| `CNAME` | a.cacic.dev.br        | FCT-DTI-X-01.cacic.dev.br | Sim   | Analytics - Alternativa adblock       |
+| `CNAME` | a.cacic.dev.br            | FCT-DTI-X-01.cacic.dev.br | Sim   | Analytics - Alternativa adblock       |
 | `CNAME` | analytics.cacic.dev.br    | FCT-DTI-X-01.cacic.dev.br | Sim   | Umami Analytics                       |
 | `CNAME` | a.cacic.dev.br            | FCT-DTI-X-01.cacic.dev.br | Sim   | Umami Analytics - Alternativa adblock |
 | `CNAME` | s.cacic.dev.br            | FCT-DTI-X-01.cacic.dev.br | Sim   | Shlink                                |
