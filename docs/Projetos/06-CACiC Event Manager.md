@@ -2,4 +2,4 @@
 
 O CACiC Event Manager possui uma documentação própria, por conta de sua extensão.
 
-Para acessá-la, [clique aqui](https://docs.fctapp.cacic.dev.br).
+Para acessá-la, [clique aqui](https://docs.fctapp.cacic.com.br).

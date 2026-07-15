@@ -1,6 +1,6 @@
 # Lista de e-mails
 
-O endereço da lista de e-mails (secompp@cacic.dev.br) deve ser divulgado como o meio de contato do evento ao invés dos endereços das entidades estudantis. Isso permite que alunos que não fazem parte das entidades possam colaborar na resposta de e-mails sobre o evento.
+O endereço da lista de e-mails (secompp@cacic.com.br) deve ser divulgado como o meio de contato do evento ao invés dos endereços das entidades estudantis. Isso permite que alunos que não fazem parte das entidades possam colaborar na resposta de e-mails sobre o evento.
 
 :::tip
 

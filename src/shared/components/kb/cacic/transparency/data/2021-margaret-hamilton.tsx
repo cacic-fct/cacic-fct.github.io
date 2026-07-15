@@ -197,14 +197,14 @@ export const achievementsHamilton: Achievements[] = [
     title: 'CACiC Event Manager (FCT App)',
     content:
       'Aplicativo para facilitar a vida dos alunos da FCT, com o acesso aos eventos do câmpus.',
-    url: 'https://eventos.cacic.dev.br',
+    url: 'https://eventos.cacic.com.br',
   },
   {
     image: '2021/manual_calouro.webp',
     title: 'Manual do calouro',
     content:
       'Fala sobre a FCT-Unesp, o movimento estudantil, a cidade de Presidente Prudente e muito mais! Está aberto a contribuições.',
-    url: 'https://fctapp.cacic.dev.br/manual-do-calouro',
+    url: 'https://fctapp.cacic.com.br/manual-do-calouro',
   },
   {
     image: '2021/recepcao_calouros.webp',

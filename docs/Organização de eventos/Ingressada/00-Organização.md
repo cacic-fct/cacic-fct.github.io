@@ -20,7 +20,7 @@ O CACiC é responsável por supervisionar as atividades de integração dos calo
 
 O CACiC, como entidade, não reconhece, promove, divulga ou apoia atividades como festas, calouradas ou trotes.
 
-O Centro Acadêmico deve [divulgar os canais de denúncia](https://manual.cacic.dev.br/canais-de-den%C3%BAncia/) institucionais (ouvidorias) da faculdade e da reitoria para os calouros, para que eles possam reportar qualquer tipo de problema, além dos canais públicos, como a Polícia Militar (190), Disque Denúncia (181), Disque Direitos Humanos (100), a Delegacia de Defesa da Mulher (180) e o Ministério Público. O CACiC não pode tratar denúncias ou encaminhar problemas, apenas indicar os canais corretos.
+O Centro Acadêmico deve [divulgar os canais de denúncia](https://manual.cacic.com.br/canais-de-den%C3%BAncia/) institucionais (ouvidorias) da faculdade e da reitoria para os calouros, para que eles possam reportar qualquer tipo de problema, além dos canais públicos, como a Polícia Militar (190), Disque Denúncia (181), Disque Direitos Humanos (100), a Delegacia de Defesa da Mulher (180) e o Ministério Público. O CACiC não pode tratar denúncias ou encaminhar problemas, apenas indicar os canais corretos.
 
 :::note
 

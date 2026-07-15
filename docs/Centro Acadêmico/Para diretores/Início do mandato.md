@@ -15,12 +15,12 @@ Realize essas atividades de forma concomitante:
    - A baixa participação dos alunos no processo eleitoral pode ser um indicativo de rejeição da chapa ou de falta de interesse dos alunos pelo Centro Acadêmico. É importante que a chapa eleita esteja atenta a esses sinais e que busque formas de reverter a situação, como por meio da promoção de eventos, de campanhas de conscientização e de ações que envolvam os alunos nas atividades do CACiC;
    - Confira o ano de ingresso dos alunos que votaram por meio dos dois primeiros dígitos do RA. A baixa participação de determinadas turmas indica que a chapa deve priorizar ações para engajar esses alunos.
 
-1. Obtenha acesso aos recursos do CACiC. **Antes de alterar as senhas e os contatos de recuperação, consulte os regimentos internos do CACiC**. Caso não consiga contato com a chapa anterior, solicite ajuda aos [_founding lead developers_](https://docs.fctapp.cacic.dev.br/Geral/Especifica%C3%A7%C3%B5es%20gerais/Auditing#founding-lead-developers) para obter acesso à documentação interna, que contém as informações necessárias para o acesso aos recursos do CACiC.
+1. Obtenha acesso aos recursos do CACiC. **Antes de alterar as senhas e os contatos de recuperação, consulte os regimentos internos do CACiC**. Caso não consiga contato com a chapa anterior, solicite ajuda aos [_founding lead developers_](https://docs.fctapp.cacic.com.br/Geral/Especifica%C3%A7%C3%B5es%20gerais/Auditing#founding-lead-developers) para obter acesso à documentação interna, que contém as informações necessárias para o acesso aos recursos do CACiC.
 
    - Acesso ao e-mail: Senha disponível na documentação interna. Não altere a senha sem consultar os regimentos internos do CACiC;
    - Acesso à organização do CACiC no GitHub: Solicite a adição à chapa anterior;
-   - Acesso à documentação interna do CACiC: Se a chapa anterior não tiver permissões de admin no Authentik, solicite a um dos [_founding lead developers_](https://docs.fctapp.cacic.dev.br/Geral/Especifica%C3%A7%C3%B5es%20gerais/Auditing#founding-lead-developers);
-   - Acesso aos servidores: Solicite somente se necessário. Justifique a necessidade aos [_founding lead developers_](https://docs.fctapp.cacic.dev.br/Geral/Especifica%C3%A7%C3%B5es%20gerais/Auditing#founding-lead-developers).
+   - Acesso à documentação interna do CACiC: Se a chapa anterior não tiver permissões de admin no Authentik, solicite a um dos [_founding lead developers_](https://docs.fctapp.cacic.com.br/Geral/Especifica%C3%A7%C3%B5es%20gerais/Auditing#founding-lead-developers);
+   - Acesso aos servidores: Solicite somente se necessário. Justifique a necessidade aos [_founding lead developers_](https://docs.fctapp.cacic.com.br/Geral/Especifica%C3%A7%C3%B5es%20gerais/Auditing#founding-lead-developers).
    - Controle do servidor do Discord: Solicite o cargo do CACiC para algum membro da manutenção.
 
 1. Agendar uma conversa privada com chapas anteriores para a transmissão de informações. Há informações que não estão públicas que são essenciais para a continuidade das atividades.

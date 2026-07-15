@@ -1,6 +1,6 @@
 # Usos
 
-O CACiC é o único responsável pelo gerenciamento do domínio `cacic.dev.br` e de seus subdomínios.  
+O CACiC é o único responsável pelo gerenciamento do domínio `cacic.com.br` e de seus subdomínios.  
 Não será concedido acesso ao painel de controle do Cloudflare.
 
 Se for detectado uso indevido do domínio, o CACiC se reserva ao direito a revogar os registros permanentemente.
@@ -29,11 +29,11 @@ Se você deseja utilizar o domínio do CACiC, entre em contato com a entidade.
 Para outros CACiCs:
 
 ```
-*.<sigla-universidade>.cacic.dev.br
+*.<sigla-universidade>.cacic.com.br
 ```
 
 Para outras entidades acadêmicas:
 
 ```
-*.<nome-entidade>.<sigla-universidade>.cacic.dev.br
+*.<nome-entidade>.<sigla-universidade>.cacic.com.br
 ```

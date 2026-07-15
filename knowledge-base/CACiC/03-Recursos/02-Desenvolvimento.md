@@ -1,6 +1,6 @@
 # Desenvolvimento
 
-## Domínio cacic.dev.br
+## Domínio cacic.com.br
 
 ## [Organização do CACiC no GitHub](https://github.com/cacic-fct)
 

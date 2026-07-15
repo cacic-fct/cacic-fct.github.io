@@ -12,6 +12,6 @@ Web app para listagem de eventos, gerenciamento de inscrições, coleta de prese
 
 - [Repositório](https://github.com/cacic-fct/fct-app)
 
-## [Manual do calouro](https://manual.cacic.dev.br)
+## [Manual do calouro](https://manual.cacic.com.br)
 
 - [Repositório](https://github.com/cacic-fct/manual-do-calouro)

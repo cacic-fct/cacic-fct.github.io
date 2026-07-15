@@ -29,7 +29,7 @@ O método principal de divulgação das atividades de integração dos calouros 
 
 #### E-mail de boas-vindas
 
-Use o modelo que está no [gerador de e-mails do CACiC](https://emails.cacic.dev.br/).
+Use o modelo que está no [gerador de e-mails do CACiC](https://emails.cacic.com.br/).
 
 #### E-mail de lembrete para ativar e-mail institucional
 
@@ -37,13 +37,13 @@ O e-mail não é amplamente utilizado fora do ambiente acadêmico por jovens, en
 
 Incentivar a criação do e-mail institucional é uma forma de treiná-lo a utilizar esse recurso. Ademais, a caixa estará livre de spam e notificações de mídias sociais, o que facilita em adquirir o hábito de verificar.
 
-Use o modelo que está no [gerador de e-mails do CACiC](https://emails.cacic.dev.br/).
+Use o modelo que está no [gerador de e-mails do CACiC](https://emails.cacic.com.br/).
 
 #### E-mail de orientações para atividades fora do câmpus
 
 Festas, pedágio e canais de denúncia.
 
-Use o modelo que está no [gerador de e-mails do CACiC](https://emails.cacic.dev.br/).
+Use o modelo que está no [gerador de e-mails do CACiC](https://emails.cacic.com.br/).
 
 ## Grupo no WhatsApp
 

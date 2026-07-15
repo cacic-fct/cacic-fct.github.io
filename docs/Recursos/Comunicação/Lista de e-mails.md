@@ -46,7 +46,7 @@ Caso seja necessário conceder poderes a um aluno que não seja diretor do CACiC
 
 [`secompp`](https://groups.google.com/g/secompp)
 
-`secompp(a)cacic.dev.br` é um alias para esta lista.
+`secompp(a)cacic.com.br` é um alias para esta lista.
 
 #### Colaboradores
 
@@ -62,4 +62,4 @@ Lista dos alunos organizadores do Intercomp.
 
 [`intercomp-fct`](https://groups.google.com/g/intercomp-fct)
 
-`intercomp(a)cacic.dev.br` é um alias para esta lista.
+`intercomp(a)cacic.com.br` é um alias para esta lista.

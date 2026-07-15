@@ -1,6 +1,6 @@
 # Transmissão ao vivo
 
-A página também pode ser acessada pelo link [live.cacic.dev.br](https://live.cacic.dev.br).
+A página também pode ser acessada pelo link [live.cacic.com.br](https://live.cacic.com.br).
 
 Por padrão, a página exibe apenas o _feed_ principal de _live_ do canal do YouTube do CACiC.  
 Se nenhuma _live_ estiver ocorrendo, a página exibirá um erro de "vídeo indisponível".

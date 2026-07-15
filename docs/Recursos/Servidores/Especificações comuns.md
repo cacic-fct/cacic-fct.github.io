@@ -67,7 +67,7 @@ e como entrar em contato com eles.
 |                                                    |
 | <ID>                                               |
 | Leia a documentação em:                            |
-| https://cacic.dev.br/docs/Recursos/Servidores/<ID> |
+| https://cacic.com.br/docs/Recursos/Servidores/<ID> |
 |                                                    |
  -----------------------------------------------------
 ```

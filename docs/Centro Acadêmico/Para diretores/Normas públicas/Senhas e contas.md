@@ -6,12 +6,12 @@
    1. Ser preferencialmente redefinidas a cada mudança de gestão, exceto pela senha da conta Google;
    1. Conter no mínimo 20 caracteres;
    1. Conter caracteres alfanuméricos e especiais.
-1. As credenciais de contas ligadas ao CACiC devem ser armazenadas no https://senhas.cacic.dev.br
+1. As credenciais de contas ligadas ao CACiC devem ser armazenadas no https://senhas.cacic.com.br
    1. As senhas devem ser armazenadas na organização do site e não em contas individuais;
    1. Use o gerador de senhas deste site para gerar senhas seguras;
    1. Se não for possível a armazenagem da senha no site, deve-se adicionar ela no Google Password Manager.
 1. Para serviços que permitem 2FA, deve-se usar o TOTP (Time-based One-Time Password) ao invés de SMS ou e-mail;
-   1. Use somente o gerador de TOTP do https://senhas.cacic.dev.br;
+   1. Use somente o gerador de TOTP do https://senhas.cacic.com.br;
    1. Não cadastre o gerador de TOTP do senhas.cacic na conta Google do CACiC como fator de autenticação (2FA), para que o controle do e-mail não seja perdido em caso de vazamento das informações do servidor.
 
 1. O CACiC fica proibido de ter conta nas seguintes plataformas:

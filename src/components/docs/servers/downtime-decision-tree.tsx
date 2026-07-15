@@ -38,8 +38,8 @@ const fctDtiWebXp01Steps: Step[] = [
     question: 'A página de estado dos serviços está acessível?',
     instructions: (
       <>
-        <Link href="https://status.cacic.dev.br" target="_blank">
-          https://status.cacic.dev.br
+        <Link href="https://status.cacic.com.br" target="_blank">
+          https://status.cacic.com.br
         </Link>
       </>
     ),

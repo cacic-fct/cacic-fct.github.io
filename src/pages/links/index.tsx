@@ -42,7 +42,7 @@ import MuiThemeClientProvider from '@site/src/theme/MuiThemeProvider';
    {
      title: 'Site do CACiC',
      icon: 'school',
-     url: 'https://cacic.dev.br',
+     url: 'https://cacic.com.br',
      content: null,
    },
  ];

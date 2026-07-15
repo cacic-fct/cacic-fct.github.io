@@ -15,7 +15,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://cacic.dev.br',
+  url: 'https://cacic.com.br',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -79,7 +79,7 @@ const config: Config = {
           tagName: 'link',
           attributes: {
             rel: 'preconnect',
-            href: 'https://account.cacic.dev.br',
+            href: 'https://account.cacic.com.br',
             crossorigin: 'anonymous',
           },
         },
@@ -87,7 +87,7 @@ const config: Config = {
           tagName: 'link',
           attributes: {
             rel: 'preconnect',
-            href: 'https://a.cacic.dev.br',
+            href: 'https://a.cacic.com.br',
           },
         },
       ]
@@ -119,7 +119,7 @@ const config: Config = {
         },
         {
           label: 'Manual do calouro',
-          href: 'https://manual.cacic.dev.br',
+          href: 'https://manual.cacic.com.br',
           position: 'left',
         },
       ],
@@ -184,15 +184,15 @@ const config: Config = {
           items: [
             {
               label: 'Conta CACiC',
-              href: 'https://account.cacic.dev.br',
+              href: 'https://account.cacic.com.br',
             },
             {
               label: 'Manual do calouro',
-              href: 'https://manual.cacic.dev.br',
+              href: 'https://manual.cacic.com.br',
             },
             {
               label: 'Estado dos serviços',
-              href: 'https://status.cacic.dev.br',
+              href: 'https://status.cacic.com.br',
             },
           ],
         },

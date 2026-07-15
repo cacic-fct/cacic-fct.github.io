@@ -1,6 +1,6 @@
 # Certificados pendentes
 
-O CACiC tornou o processo de emissão de certificados mais ágil e simplificado por meio do [CACiC Eventos](https://eventos.cacic.dev.br/). Todos os certificados pendentes foram emitidos por meio da plataforma.
+O CACiC tornou o processo de emissão de certificados mais ágil e simplificado por meio do [CACiC Eventos](https://eventos.cacic.com.br/). Todos os certificados pendentes foram emitidos por meio da plataforma.
 
 Se esquecemos de algum, entre em contato conosco por e-mail.
 

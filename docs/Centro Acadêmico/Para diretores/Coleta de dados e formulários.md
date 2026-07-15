@@ -23,7 +23,7 @@ Para que o usuário não precise preencher manualmente sempre os mesmos dados (n
 
 A coleta de fotos deve ser justificada e aprovada pela diretoria do CACiC.
 
-O indivíduo que fornece a foto deve concordar com a [licença de uso de imagem](https://cacic.dev.br/kb/CACiC/Legal/Licen%C3%A7a%20de%20uso%20de%20imagem) do CACiC.
+O indivíduo que fornece a foto deve concordar com a [licença de uso de imagem](https://cacic.com.br/kb/CACiC/Legal/Licen%C3%A7a%20de%20uso%20de%20imagem) do CACiC.
 
 Não deve-se coletar fotos de pessoas a título de curiosidade. Exemplo: solicitar uma _selfie_ no questionário de integração dos calouros.
 

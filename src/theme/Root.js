@@ -17,7 +17,7 @@ export default function Root({ children }) {
       }
 
       banner = createCookieBanner({
-        privacyPolicyUrl: 'https://cacic.dev.br/legal/privacy-policy',
+        privacyPolicyUrl: 'https://cacic.com.br/legal/privacy-policy',
         onAccept: () => {
           window.dispatchEvent(new Event('cookieBannerAccepted'));
         },

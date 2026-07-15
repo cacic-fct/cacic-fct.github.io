@@ -36,4 +36,4 @@ Fotos não são essenciais, então é possível hospedar o Immich.
 
 É proibida a exposição de portas diretamente no servidor.
 
-Use o proxy e o domínio `*.cacic.dev.br` para redirecionar para o serviço.
+Use o proxy e o domínio `*.cacic.com.br` para redirecionar para o serviço.

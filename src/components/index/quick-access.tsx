@@ -37,7 +37,7 @@ export default function QuickAccess() {
             </ListItem>
 
             <ListItem disablePadding>
-              <ListItemButton href="https://account.cacic.dev.br/">
+              <ListItemButton href="https://account.cacic.com.br/">
                 <ListItemIcon>
                   <AppsIcon />
                 </ListItemIcon>
@@ -46,7 +46,7 @@ export default function QuickAccess() {
             </ListItem>
 
             <ListItem disablePadding>
-              <ListItemButton href="https://manual.cacic.dev.br">
+              <ListItemButton href="https://manual.cacic.com.br">
                 <ListItemIcon>
                   <BookIcon />
                 </ListItemIcon>
@@ -55,7 +55,7 @@ export default function QuickAccess() {
             </ListItem>
 
             <ListItem disablePadding>
-              <ListItemButton href="https://manual.cacic.dev.br/página-do-calouro">
+              <ListItemButton href="https://manual.cacic.com.br/página-do-calouro">
                 <ListItemIcon>
                   <GroupIcon />
                 </ListItemIcon>

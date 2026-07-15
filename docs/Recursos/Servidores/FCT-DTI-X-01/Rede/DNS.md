@@ -16,36 +16,36 @@ Esta tabela é um adendo à [tabela principal](../../../Domínio/03-Registros%20
 
 | Tipo    | Nome                      | Destino                   | Proxy |                                       |
 | ------- | ------------------------- | ------------------------- | ----- | ------------------------------------- |
-| `CNAME` | auth.cacic.dev.br         | FCT-DTI-X-01.cacic.dev.br | Sim   | Authentik                             |
-| `CNAME` | cal.cacic.dev.br          | FCT-DTI-X-01.cacic.dev.br | Sim   | Calendário                            |
-| `CNAME` | dashboard.cacic.dev.br    | FCT-DTI-X-01.cacic.dev.br | Sim   | Beszel                                |
-| `CNAME` | emails.cacic.dev.br       | FCT-DTI-X-01.cacic.dev.br | Sim   | Projeto email templates               |
-| `CNAME` | fctapp.cacic.dev.br       | FCT-DTI-X-01.cacic.dev.br | Sim   |                                       |
-| `CNAME` | FCT-DTI-X-01.cacic.dev.br | 38a.fct.unesp.br          | Sim   | Servidor da DTI                       |
-| `CNAME` | fotos.cacic.dev.br        | FCT-DTI-X-01.cacic.dev.br | Sim   | Immich                                |
-| `CNAME` | glitchtip.cacic.dev.br    | FCT-DTI-X-01.cacic.dev.br | Sim   | Error monitoring                      |
-| `CNAME` | grafana.cacic.dev.br      | FCT-DTI-X-01.cacic.dev.br | Sim   | Monitoring                            |
-| `CNAME` | analytics.cacic.dev.br    | FCT-DTI-X-01.cacic.dev.br | Sim   | Analytics                             |
-| `CNAME` | a.cacic.dev.br            | FCT-DTI-X-01.cacic.dev.br | Sim   | Analytics - Alternativa adblock       |
-| `CNAME` | analytics.cacic.dev.br    | FCT-DTI-X-01.cacic.dev.br | Sim   | Umami Analytics                       |
-| `CNAME` | a.cacic.dev.br            | FCT-DTI-X-01.cacic.dev.br | Sim   | Umami Analytics - Alternativa adblock |
-| `CNAME` | s.cacic.dev.br            | FCT-DTI-X-01.cacic.dev.br | Sim   | Shlink                                |
-| `CNAME` | secrets.cacic.dev.br      | FCT-DTI-X-01.cacic.dev.br | Sim   | Infisical                             |
-| `CNAME` | senhas.cacic.dev.br       | FCT-DTI-X-01.cacic.dev.br | Sim   | Vaultwarden                           |
-| `CNAME` | smtp.cacic.dev.br         | FCT-DTI-X-01.cacic.dev.br | Sim   | Mailcatcher                           |
-| `CNAME` | status.cacic.dev.br       | FCT-DTI-X-01.cacic.dev.br | Sim   | Uptime kuma                           |
-| `CNAME` | traefik.cacic.dev.br      | FCT-DTI-X-01.cacic.dev.br | Sim   | Dashboard                             |
-| `CNAME` | typesense.cacic.dev.br    | FCT-DTI-X-01.cacic.dev.br | Sim   | Search engine                         |
-| `CNAME` | watchtower.cacic.dev.br   | FCT-DTI-X-01.cacic.dev.br | Sim   |                                       |
+| `CNAME` | auth.cacic.com.br         | FCT-DTI-X-01.cacic.com.br | Sim   | Authentik                             |
+| `CNAME` | cal.cacic.com.br          | FCT-DTI-X-01.cacic.com.br | Sim   | Calendário                            |
+| `CNAME` | dashboard.cacic.com.br    | FCT-DTI-X-01.cacic.com.br | Sim   | Beszel                                |
+| `CNAME` | emails.cacic.com.br       | FCT-DTI-X-01.cacic.com.br | Sim   | Projeto email templates               |
+| `CNAME` | fctapp.cacic.com.br       | FCT-DTI-X-01.cacic.com.br | Sim   |                                       |
+| `CNAME` | FCT-DTI-X-01.cacic.com.br | 38a.fct.unesp.br          | Sim   | Servidor da DTI                       |
+| `CNAME` | fotos.cacic.com.br        | FCT-DTI-X-01.cacic.com.br | Sim   | Immich                                |
+| `CNAME` | glitchtip.cacic.com.br    | FCT-DTI-X-01.cacic.com.br | Sim   | Error monitoring                      |
+| `CNAME` | grafana.cacic.com.br      | FCT-DTI-X-01.cacic.com.br | Sim   | Monitoring                            |
+| `CNAME` | analytics.cacic.com.br    | FCT-DTI-X-01.cacic.com.br | Sim   | Analytics                             |
+| `CNAME` | a.cacic.com.br            | FCT-DTI-X-01.cacic.com.br | Sim   | Analytics - Alternativa adblock       |
+| `CNAME` | analytics.cacic.com.br    | FCT-DTI-X-01.cacic.com.br | Sim   | Umami Analytics                       |
+| `CNAME` | a.cacic.com.br            | FCT-DTI-X-01.cacic.com.br | Sim   | Umami Analytics - Alternativa adblock |
+| `CNAME` | s.cacic.com.br            | FCT-DTI-X-01.cacic.com.br | Sim   | Shlink                                |
+| `CNAME` | secrets.cacic.com.br      | FCT-DTI-X-01.cacic.com.br | Sim   | Infisical                             |
+| `CNAME` | senhas.cacic.com.br       | FCT-DTI-X-01.cacic.com.br | Sim   | Vaultwarden                           |
+| `CNAME` | smtp.cacic.com.br         | FCT-DTI-X-01.cacic.com.br | Sim   | Mailcatcher                           |
+| `CNAME` | status.cacic.com.br       | FCT-DTI-X-01.cacic.com.br | Sim   | Uptime kuma                           |
+| `CNAME` | traefik.cacic.com.br      | FCT-DTI-X-01.cacic.com.br | Sim   | Dashboard                             |
+| `CNAME` | typesense.cacic.com.br    | FCT-DTI-X-01.cacic.com.br | Sim   | Search engine                         |
+| `CNAME` | watchtower.cacic.com.br   | FCT-DTI-X-01.cacic.com.br | Sim   |                                       |
 
-Mesmo que esta tabela indique o endereço do servidor, todos os registros que apontam para o domínio `FCT-DTI-X-01.cacic.dev.br` devem estar protegidos pelo proxy do Cloudflare. Isso é necessário para impedir ataques externos automatizados.
+Mesmo que esta tabela indique o endereço do servidor, todos os registros que apontam para o domínio `FCT-DTI-X-01.cacic.com.br` devem estar protegidos pelo proxy do Cloudflare. Isso é necessário para impedir ataques externos automatizados.
 
 ## Configurações do CloudFlare
 
 Para que o caching do service worker funcione, o CloudFlare não pode injetar conteúdo no HTML da página do front end. Uma regra específica deve ser feita para impedir isso:
 
 ```
-(http.host eq "fctapp.cacic.dev.br")
+(http.host eq "fctapp.cacic.com.br")
 ```
 
 - Auto Minify - Off
