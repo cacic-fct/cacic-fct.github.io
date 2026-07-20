@@ -1,3 +1,4 @@
+import { JSX } from 'react';
 import Layout from '@theme/Layout';
 
 import NoBroadcasts from '@site/src/components/live/noBroadcasts';
@@ -14,11 +15,11 @@ const youtubeList: string[] = [];
 const twitchList: string[] = [];
 
 // Transmissões para testes
-//youtubeList.push('jfKfPfyJRdk');
-//youtubeList.push('S_MOd40zlYU');
+// youtubeList.push('4xDzrJKXOOY');
+// youtubeList.push('S_MOd40zlYU');
 
-//twitchList.push('mst3k');
-//twitchList.push('flexingseal');
+// twitchList.push('mst3k');
+// twitchList.push('flexingseal');
 
 export default function LinkTree(): JSX.Element {
   return (
