@@ -1,11 +1,12 @@
 {
   "lockfileVersion": 1,
+  "configVersion": 0,
   "workspaces": {
     "": {
       "name": "cacic-fct",
       "dependencies": {
-        "@cacic-fct/account-manager-cookie-banner": "^0.1.1",
-        "@cacic-fct/account-manager-privacy": "^0.1.4",
+        "@cacic-fct/account-manager-cookie-banner": "^0.1.2",
+        "@cacic-fct/account-manager-privacy": "^0.1.5",
         "@docusaurus/core": "^3.10.1",
         "@docusaurus/faster": "^3.10.1",
         "@docusaurus/plugin-content-docs": "^3.10.1",
@@ -285,11 +286,11 @@
 
     "@babel/types": ["@babel/types@7.28.4", "", { "dependencies": { "@babel/helper-string-parser": "^7.27.1", "@babel/helper-validator-identifier": "^7.27.1" } }, "sha512-bkFqkLhh3pMBUQQkpVgWDWq/lqzc2678eUyDlTBhRqhCHFguYYGM0Efga7tYk4TogG/3x0EEl66/OQ+WGbWB/Q=="],
 
-    "@cacic-fct/account-manager-cookie-banner": ["@cacic-fct/account-manager-cookie-banner@0.1.1", "", {}, "sha512-fNB2dT9isAClyALbWUtry8lwT/mK2UtbldgW/eGGPkYHoJ7/e8ZLdk1IjHhiRmwLUwvgOs082vY17iYmgXmoLw=="],
+    "@cacic-fct/account-manager-cookie-banner": ["@cacic-fct/account-manager-cookie-banner@0.1.2", "", {}, "sha512-/1Zg85crrfaRnPA0cI9jsp4KllqBqZN16QxM1hbSKR6FUsSIh4TGrXmOlGcodIptben00m7azBL3twbklFyaTg=="],
 
     "@cacic-fct/account-manager-m2m-contracts": ["@cacic-fct/account-manager-m2m-contracts@0.1.2", "", {}, "sha512-vCIT2NsuhFs7ja4g0Pfyv4Zkk7keYBRiFZSYbAts2gHi4OT8AZM5h6mHcD02XRVnnI8i7Uhxzfn8pTLYiV1yfQ=="],
 
-    "@cacic-fct/account-manager-privacy": ["@cacic-fct/account-manager-privacy@0.1.4", "", { "dependencies": { "@cacic-fct/account-manager-m2m-contracts": "^0.1.1", "tslib": "^2.8.0" }, "peerDependencies": { "@angular/common": ">=19", "@angular/core": ">=19", "rxjs": "^7.8.0" }, "optionalPeers": ["@angular/common", "@angular/core", "rxjs"] }, "sha512-cGhkuUWZgi+4uPHHY2PFzCETj2ItHDlI0yW2A4lMc30tYNLENmECq3O2KEuTVdMgK5+LzWWkoQE9I7qJyBGfJg=="],
+    "@cacic-fct/account-manager-privacy": ["@cacic-fct/account-manager-privacy@0.1.5", "", { "dependencies": { "@cacic-fct/account-manager-m2m-contracts": "^0.1.1", "tslib": "^2.8.0" }, "peerDependencies": { "@angular/common": ">=19", "@angular/core": ">=19", "rxjs": "^7.8.0" }, "optionalPeers": ["@angular/common", "@angular/core", "rxjs"] }, "sha512-PIxLZLLz/BWWwej8WGpJ+/bzCtxgAXvb7NMql41BaCqRBWVuLz4qGRN/90XA5t0UabJDovOCsHSEk0wMENbTFQ=="],
 
     "@colors/colors": ["@colors/colors@1.5.0", "", {}, "sha512-ooWCrlZP11i8GImSjTHYHLkvFDP48nS4+204nGb1RiX/WXYHmJA2III9/e2DWVabCESdW7hBAEzHRqUn9OUVvQ=="],
 
