@@ -30,7 +30,7 @@ export default function LightBgTable(): JSX.Element {
           </td>
         </tr>
         <tr>
-          <td>Logotipo</td>
+          <td>Isotipo</td>
           <td>
             <span
               className={styles.color}
