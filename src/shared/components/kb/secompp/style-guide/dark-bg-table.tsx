@@ -1,3 +1,4 @@
+import { JSX } from 'react';
 import styles from './styles.module.css';
 
 export default function DarkBgTable(): JSX.Element {
@@ -29,7 +30,7 @@ export default function DarkBgTable(): JSX.Element {
           </td>
         </tr>
         <tr>
-          <td>Logotipo</td>
+          <td>Isotipo</td>
           <td>
             <span
               className={styles.color}
