@@ -22,7 +22,6 @@ title: Coffee break
 
 Considere disponibilizar algumas opções vegetarianas e veganas mesmo se não houver demanda direta, pois elas são gostosas e podem abranger participantes que não se sentem confortáveis em informar as preferências alimentares.
 
-
 :::danger[Cuidado]
 
 Não deixe de informar no formulário que as adaptações para restrições alimentares são realizadas em regime de "melhor esforço", uma vez que nem sempre é possível atender a todas as demandas.
