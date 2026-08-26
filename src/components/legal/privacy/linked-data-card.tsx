@@ -38,19 +38,6 @@ export default function LinkedDataCard() {
       <List>
         <ListItem>
           <ListItemIcon>
-            <NearMeOutlined aria-hidden="true" />
-          </ListItemIcon>
-          <ListItemText
-            primary="Localização"
-            secondary={
-              <Fragment>
-                <Typography>Localização aproximada</Typography>
-              </Fragment>
-            }
-          />
-        </ListItem>
-        <ListItem>
-          <ListItemIcon>
             <InfoOutlined aria-hidden="true" />
           </ListItemIcon>
           <ListItemText
@@ -60,6 +47,19 @@ export default function LinkedDataCard() {
                 <Typography>Nome</Typography>
                 <Typography>Endereço de e-mail</Typography>
                 <Typography>Número do celular</Typography>
+              </Fragment>
+            }
+          />
+        </ListItem>
+        <ListItem>
+          <ListItemIcon>
+            <NearMeOutlined aria-hidden="true" />
+          </ListItemIcon>
+          <ListItemText
+            primary="Localização"
+            secondary={
+              <Fragment>
+                <Typography>Localização aproximada</Typography>
               </Fragment>
             }
           />
