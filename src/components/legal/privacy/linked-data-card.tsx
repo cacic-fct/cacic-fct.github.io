@@ -14,6 +14,7 @@ import {
   AnalyticsOutlined,
   SettingsOutlined,
   CreditCardOutlined,
+  NearMeOutlined,
 } from '@mui/icons-material';
 
 import styles from './common.module.css';
@@ -35,6 +36,19 @@ export default function LinkedDataCard() {
         Funcionalidade do app
       </Typography>
       <List>
+        <ListItem>
+          <ListItemIcon>
+            <NearMeOutlined aria-hidden="true" />
+          </ListItemIcon>
+          <ListItemText
+            primary="Localização"
+            secondary={
+              <Fragment>
+                <Typography>Localização aproximada</Typography>
+              </Fragment>
+            }
+          />
+        </ListItem>
         <ListItem>
           <ListItemIcon>
             <InfoOutlined aria-hidden="true" />

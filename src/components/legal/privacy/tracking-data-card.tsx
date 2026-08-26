@@ -22,10 +22,9 @@ export default function TrackingData() {
         name="finger-print-outline"
       />
       <Typography variant="h5">Dados usados para rastrear você</Typography>
-      <Typography>Usamos serviços Google em nosso aplicativo.</Typography>
       <Typography>
-        Os seguintes dados podem ser usados para rastrear você em apps e sites
-        de propriedade de outras empresas:
+        Os seguintes dados podem ser usados para rastrear você em nossas
+        aplicações e em sites de outras empresas:
       </Typography>
       <List>
         <ListItem>
@@ -36,12 +35,10 @@ export default function TrackingData() {
             primary="Informações de contato"
             secondary={
               <Fragment>
+                <Typography>O identificador único da sua conta</Typography>
                 <Typography>O nome da sua conta Google</Typography>
                 <Typography>
                   O endereço de e-mail da sua conta Google
-                </Typography>
-                <Typography>
-                  Seu número do celular se ele foi verificado pelo Google
                 </Typography>
               </Fragment>
             }
