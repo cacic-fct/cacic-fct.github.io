@@ -35,7 +35,7 @@ export default function TrackingData() {
             primary="Informações de contato"
             secondary={
               <Fragment>
-                <Typography>O identificador único da sua conta</Typography>
+                <Typography>Identificador único da sua conta</Typography>
                 <Typography>O nome da sua conta Google</Typography>
                 <Typography>
                   O endereço de e-mail da sua conta Google
