@@ -35,7 +35,7 @@ export default function LinkTreeHeader() {
         <Button href="https://youtube.com/@cacic-fct">
           <YouTubeIcon />
         </Button>
-        <Button href="mailto:cacic.fct@gmail.com">
+        <Button href="mailto:contato@cacic.com.br">
           <MailIcon />
         </Button>
       </div>

@@ -175,7 +175,7 @@ const config: Config = {
 
             {
               label: 'E-mail',
-              href: 'mailto:cacic.fct@gmail.com',
+              href: 'mailto:contato@cacic.com.br',
             },
           ],
         },
