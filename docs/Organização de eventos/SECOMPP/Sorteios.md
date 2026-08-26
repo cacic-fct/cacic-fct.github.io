@@ -1,5 +1,9 @@
 # Sorteios
 
+## Sorteios digitais
+
+Prefira sorteios realizados por meio do CACiC Event Manager, para garantir a transparência e a confiabilidade do processo.
+
 ## Sorteios em papel
 
 ### Evite o uso excessivo de papel
@@ -17,7 +21,3 @@ Sempre que possível, utilize ferramentas digitais para realizar sorteios, para 
 - Se a urna tiver ficado sem supervisão em algum momento, após o sorteio, a organização deve realizar uma auditoria por amostragem nos bilhetes não sorteados.
 
 - Após o sorteio, os bilhetes devem ser disponibilizados para consulta por qualquer interessado.
-
-## Sorteios digitais
-
-Prefira sorteios realizados por meio de plataformas terceiras, como o [Wheel Decide](https://wheeldecide.com/). Se utilizar um software próprio, ele deve ser _open source_ e auditável, para garantir a transparência e a confiabilidade do processo.
