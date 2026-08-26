@@ -9,6 +9,7 @@ import {
   FingerprintOutlined,
   InfoOutlined,
   AnalyticsOutlined,
+  BadgeOutlined,
 } from '@mui/icons-material';
 
 import styles from './common.module.css';
@@ -35,7 +36,6 @@ export default function TrackingData() {
             primary="Informações de contato"
             secondary={
               <Fragment>
-                <Typography>Identificador único da conta</Typography>
                 <Typography>O nome da sua conta Google</Typography>
                 <Typography>
                   O endereço de e-mail da sua conta Google
@@ -56,6 +56,19 @@ export default function TrackingData() {
                 <Typography>
                   Suas interações com o aplicativo são coletadas pelo Google
                 </Typography>
+              </Fragment>
+            }
+          />
+        </ListItem>
+        <ListItem>
+          <ListItemIcon>
+            <BadgeOutlined aria-hidden="true" />
+          </ListItemIcon>
+          <ListItemText
+            primary="Identificadores"
+            secondary={
+              <Fragment>
+                <Typography>ID de usuário</Typography>
               </Fragment>
             }
           />
