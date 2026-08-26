@@ -59,6 +59,7 @@ export default function LinkedDataCard() {
             primary="Localização"
             secondary={
               <Fragment>
+                <Typography>Localização exata</Typography>
                 <Typography>Localização aproximada</Typography>
               </Fragment>
             }
@@ -185,6 +186,20 @@ export default function LinkedDataCard() {
         </ListItem>
         <ListItem>
           <ListItemIcon>
+            <NearMeOutlined aria-hidden="true" />
+          </ListItemIcon>
+          <ListItemText
+            primary="Localização"
+            secondary={
+              <Fragment>
+                <Typography>Localização exata</Typography>
+                <Typography>Localização aproximada</Typography>
+              </Fragment>
+            }
+          />
+        </ListItem>
+        <ListItem>
+          <ListItemIcon>
             <SchoolOutlined aria-hidden="true" />
           </ListItemIcon>
           <ListItemText
@@ -222,6 +237,19 @@ export default function LinkedDataCard() {
                 <Typography>Dados de falhas</Typography>
                 <Typography>Dados de desempenho</Typography>
                 <Typography>Outros dados de diagnóstico</Typography>
+              </Fragment>
+            }
+          />
+        </ListItem>
+        <ListItem>
+          <ListItemIcon>
+            <BadgeOutlined aria-hidden="true" />
+          </ListItemIcon>
+          <ListItemText
+            primary="Identificadores"
+            secondary={
+              <Fragment>
+                <Typography>ID de usuário</Typography>
               </Fragment>
             }
           />
