@@ -76,7 +76,7 @@ e como entrar em contato com eles.
 
 Os discos dos servidores linux do CACiC que não usem RAID devem estar formatados com BTRFS.
 
-Em caso de qualquer tipo de RAID, devem estar formatados com ZFS. Não deve-se utilizar hardware RAID.
+Em caso de qualquer tipo de RAID, devem estar formatados com ZFS. Não se deve utilizar hardware RAID.
 
 ### SWAP
 
@@ -90,7 +90,7 @@ A abertura de portas é feita pela Diretoria Técnica de Informática (DTI) e de
 
 #### Proibições
 
-Não deve-se abrir portas para:
+Não se deve abrir portas para:
 
 - SSH;
   - Use a VPN da Unesp.
@@ -112,7 +112,7 @@ Não use Tailscale, CloudFlare WARP ou tecnologias similares.
 
 Todos os serviços devem aceitar conexões HTTP, com o único objetivo de redirecioná-las permanentemente para HTTPS.
 
-Também deve-se abrir para UDP a porta 443 (HTTPS), para utilização do protocolo HTTP/3.
+Também se deve abrir para UDP a porta 443 (HTTPS), para utilização do protocolo HTTP/3.
 
 #### Acessos
 

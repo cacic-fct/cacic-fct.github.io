@@ -6,7 +6,7 @@ sidebar_position: 0
 
 O site da SECOMPP reune todas as informações do evento.
 
-O projeto é um esforço contínuo: não deve-se criar um novo repositório a cada ano, nem substituir o site por completo.
+O projeto é um esforço contínuo: não se deve criar um novo repositório a cada ano, nem substituir o site por completo.
 
 ## Tecnologias
 

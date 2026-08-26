@@ -14,9 +14,9 @@ Os grupos devem ser atualizados individualmente, pois a replicação não é aut
 
 :::note
 
-Não deve-se replicar mensagens entre os grupos, pois eles possuem os mesmos membros.
+Não se deve replicar mensagens entre os grupos, pois eles possuem os mesmos membros.
 
-Não deve-se deletar mensagens antigas.
+Não se deve deletar mensagens antigas.
 
 :::
 

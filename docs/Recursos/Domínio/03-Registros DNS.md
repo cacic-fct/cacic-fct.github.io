@@ -25,7 +25,7 @@
 
 É indispensável a inclusão do registro `CAA` para cada um dos domínios que não estão com proxy, a fim de garantir a segurança dos certificados SSL.
 
-Não usa-se subdomínios de subdomínios (`*.*.cacic.com.br`), pois o Cloudflare não gera certificados SSL para eles quando o proxy está ativado.  
+Não se usa subdomínios de subdomínios (`*.*.cacic.com.br`), pois o Cloudflare não gera certificados SSL para eles quando o proxy está ativado.
 Para contornar isso, usa-se hífens no lugar dos pontos (`*-*.cacic.com.br`).
 
 :::note

@@ -8,7 +8,7 @@ A entidade deve adotar práticas de segurança para proteger o acesso às config
 Dessa forma:
 
 - O DNSSEC deve ser habilitado;
-- Não deve-se utilizar registros com _wildcards_;
+- Não se deve utilizar registros com _wildcards_;
 
 ## Tabela de registros
 
