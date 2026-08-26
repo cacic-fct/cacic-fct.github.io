@@ -192,7 +192,6 @@ export default function LinkedDataCard() {
             primary="Localização"
             secondary={
               <Fragment>
-                <Typography>Localização exata</Typography>
                 <Typography>Localização aproximada</Typography>
               </Fragment>
             }
