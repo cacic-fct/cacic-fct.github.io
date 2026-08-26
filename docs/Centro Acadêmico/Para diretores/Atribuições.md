@@ -5,7 +5,7 @@ tags:
 
 # Atribuições
 
-As atribuições de cada diretor executivo estão dispostas no artigo 16 do estatuto do CACiC. Abaixo, encontram-se trechos desse artigo.
+As atribuições de cada diretor executivo estão dispostas no artigo 16 do estatuto do CACiC. Abaixo, se encontram trechos desse artigo.
 
 Além disso, conforme o artigo 3, inciso III, parágrafo "a", os diretores, no papel de representantes da entidade, devem "comprometerem-se a zelar pelo patrimônio moral e material da Unesp"
 
@@ -21,7 +21,7 @@ Substituir, com as mesmas atribuições, o Diretor Presidente, em caso de ausên
 
 :::note
 
-Coloquialmente, diz-se que o presidente e vice-presidente fazem parte da "diretoria executiva".
+Coloquialmente, se diz que o presidente e vice-presidente fazem parte da "diretoria executiva".
 
 No entanto, conforme o estatuto, a diretoria executiva é composta por todos os diretores.
 
@@ -29,7 +29,7 @@ No entanto, conforme o estatuto, a diretoria executiva é composta por todos os 
 
 ## Financeiro
 
-Realizar a contabilidade através do controle do livro-caixa e de formulação de planilhas, realizar orçamentos e aquisições aplicando a receita da entidade da melhor maneira, responsabilizar-se por recolhimentos de taxas e outros pagamentos relativos a eventos e despesas, regularizar cartorial e juridicamente a entidade, este último, apenas se necessário.
+Realizar a contabilidade através do controle do livro-caixa e de formulação de planilhas, realizar orçamentos e aquisições aplicando a receita da entidade da melhor maneira, se responsabilizar por recolhimentos de taxas e outros pagamentos relativos a eventos e despesas, regularizar cartorial e juridicamente a entidade, este último, apenas se necessário.
 
 ## Comunicação
 
