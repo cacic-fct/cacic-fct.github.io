@@ -96,10 +96,10 @@ Todos que possuem acesso ao servidor também possuem acesso aos segredos armazen
 
 ## Mailcatcher ("fake" SMTP)
 
-Serviço de SMTP utilizado para testes de envio de e-mails.
+Serviço de SMTP utilizado para recuperação de contas de serviços internos.
 
 Servidor disponível em `mailcatcher:1025` na rede Docker `smtp` e `traefik`.  
-Caixa de entrada disponível em [smtp.cacic.com.br](https://smtp.cacic.com.br).
+Caixa de entrada disponível em [smtp.cacic.com.br](https://smtp.cacic.com.br) com autenticação.
 
 ## Novu (notificações)
 
