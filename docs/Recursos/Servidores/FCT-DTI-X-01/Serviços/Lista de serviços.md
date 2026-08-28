@@ -49,8 +49,8 @@ O Authentik é mais simples que o Keyclock, ideal para usos internos.
 Também conhecido como CACiC SSO.
 Utilizado para autenticação em servíços públicos do CACiC, como o CACiC Event Manager.
 
-Como usuário, deve-se fazer login com a conta Google.  
-Como administrador, deve-se solicitar permissão de acesso ao Keycloak para um dos encarregados do servidor.
+Como usuário, faça login com a conta Google.  
+Como administrador, solicite permissão de acesso ao Keycloak para um dos encarregados do Authentik.
 
 Disponível em [sso.cacic.com.br](https://sso.cacic.com.br).
 
