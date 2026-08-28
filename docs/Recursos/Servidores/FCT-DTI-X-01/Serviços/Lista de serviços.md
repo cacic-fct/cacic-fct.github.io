@@ -14,9 +14,15 @@ Disponível em [account.cacic.com.br](https://account.cacic.com.br).
 
 ### CACiC Event Manager
 
-Antigo FCT App.
+Antigo FCT App. Gerenciamento de eventos e emissão de certificados.
 
-Disponível em [eventos.cacic.com.br](https://fctapp.cacic.com.br).
+Disponível em [eventos.cacic.com.br](https://eventos.cacic.com.br).
+
+### CACiC Voto
+
+Formulários e eleições.
+
+Disponível em [voto.cacic.com.br](https://voto.cacic.com.br)
 
 ### Gerador de e-mails
 
@@ -36,7 +42,7 @@ Disponível em [auth.cacic.com.br](https://auth.cacic.com.br).
 
 Acesse [email-authentication-flow](https://auth.cacic.com.br/if/flow/email-authentication-flow/) para login com e-mail e senha.
 
-O Authentik é mais simples que o Keyclock para usos internos.
+O Authentik é mais simples que o Keyclock, ideal para usos internos.
 
 ## Keycloak (autenticação)
 
@@ -51,6 +57,12 @@ Disponível em [sso.cacic.com.br](https://sso.cacic.com.br).
 ## Crowdsec
 
 Serviço de proteção contra ataques de rede.
+
+## Beszel (painel de monitoramento)
+
+Painel de monitoramento do estado do servidor.
+
+Disponível em [dashboard.cacic.com.br](https://dashboard.cacic.com.br).
 
 ## Grafana (painel de monitoramento)
 
@@ -89,15 +101,18 @@ Serviço de SMTP utilizado para testes de envio de e-mails.
 Servidor disponível em `mailcatcher:1025` na rede Docker `smtp` e `traefik`.  
 Caixa de entrada disponível em [smtp.cacic.com.br](https://smtp.cacic.com.br).
 
-## Umami (analytics)
+## Novu (notificações)
 
-Serviço de análise do CACiC.
+Serviço de notificações do CACiC Event Manager.
 
-Substitui o Google Analytics.
+Disponível em [notifications.cacic.com.br](https://notifications.cacic.com.br)
 
-Disponível em [analytics.cacic.com.br](https://analytics.cacic.com.br).
+## Seaweefs (S3-like)
 
-Use a.cacic.com.br para contornar bloqueadores de anúncios.
+Serviço de armazenamento de arquivos.
+
+Painel disponível em [storage.cacic.com.br](https://storage.cacic.com.br).  
+API disponível em [s3.cacic.com.br](https://s3.cacic.com.br)
 
 ## Shlink (encurtador de links)
 
@@ -115,9 +130,19 @@ O dashboard pode ser acessado em [traefik.cacic.com.br/dashboard/](https://traef
 
 ## Typesense (busca)
 
-Serviço de busca de projetos do CACiC, como a [base de conhecimento do CACiC](https://cacic-fct.github.io/kb) e o [manual do calouro](https://cacic-fct.github.io/manual-do-calouro).
+Serviço de busca de projetos do CACiC, como o CACiC Event Manager.
 
 API disponível em [typesense.cacic.com.br](https://typesense.cacic.com.br).
+
+## Umami (analytics)
+
+Serviço de análise do CACiC.
+
+Substitui o Google Analytics.
+
+Disponível em [analytics.cacic.com.br](https://analytics.cacic.com.br).
+
+Use a.cacic.com.br para contornar bloqueadores de anúncios.
 
 ## Uptime kuma (status page)
 
