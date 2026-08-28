@@ -107,7 +107,7 @@ Serviço de notificações do CACiC Event Manager.
 
 Disponível em [notifications.cacic.com.br](https://notifications.cacic.com.br)
 
-## Seaweefs (S3-like)
+## Seaweedfs (S3-like)
 
 Serviço de armazenamento de arquivos.
 
