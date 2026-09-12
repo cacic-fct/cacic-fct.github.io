@@ -22,7 +22,7 @@ Disponível em [eventos.cacic.com.br](https://eventos.cacic.com.br).
 
 Formulários e eleições.
 
-Disponível em [voto.cacic.com.br](https://voto.cacic.com.br)
+Disponível em [voto.cacic.com.br](https://voto.cacic.com.br).
 
 ### Gerador de e-mails
 
@@ -42,12 +42,12 @@ Disponível em [auth.cacic.com.br](https://auth.cacic.com.br).
 
 Acesse [email-authentication-flow](https://auth.cacic.com.br/if/flow/email-authentication-flow/) para login com e-mail e senha.
 
-O Authentik é mais simples que o Keyclock, ideal para usos internos.
+O Authentik é mais simples que o Keycloak, ideal para usos internos.
 
 ## Keycloak (autenticação)
 
 Também conhecido como CACiC SSO.
-Utilizado para autenticação em servíços públicos do CACiC, como o CACiC Event Manager.
+Utilizado para autenticação em serviços públicos do CACiC, como o CACiC Event Manager.
 
 Como usuário, faça login com a conta Google.  
 Como administrador, solicite permissão de acesso ao Keycloak para um dos encarregados do Authentik.
@@ -72,7 +72,7 @@ Disponível em [grafana.cacic.com.br](https://grafana.cacic.com.br).
 
 ## Glitchtip (monitoramento)
 
-Platforma de monitoramento de erros e performance de projetos do CACiC.
+Plataforma de monitoramento de erros e performance de projetos do CACiC.
 
 Disponível em [glitchtip.cacic.com.br](https://glitchtip.cacic.com.br).
 
@@ -98,21 +98,21 @@ Todos que possuem acesso ao servidor também possuem acesso aos segredos armazen
 
 Serviço de SMTP utilizado para recuperação de contas de serviços internos.
 
-Servidor disponível em `mailcatcher:1025` na rede Docker `smtp` e `traefik`.  
+Servidor disponível em `mailcatcher:1025` nas redes Docker `smtp` e `traefik`.\
 Caixa de entrada disponível em [smtp.cacic.com.br](https://smtp.cacic.com.br) com autenticação.
 
 ## Novu (notificações)
 
 Serviço de notificações do CACiC Event Manager.
 
-Disponível em [notifications.cacic.com.br](https://notifications.cacic.com.br)
+Disponível em [notifications.cacic.com.br](https://notifications.cacic.com.br).
 
 ## Seaweedfs (S3-like)
 
 Serviço de armazenamento de arquivos.
 
 Painel disponível em [storage.cacic.com.br](https://storage.cacic.com.br).  
-API disponível em [s3.cacic.com.br](https://s3.cacic.com.br)
+API disponível em [s3.cacic.com.br](https://s3.cacic.com.br).
 
 ## Shlink (encurtador de links)
 

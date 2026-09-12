@@ -3,7 +3,7 @@
 :::tip
 Quando em dúvida, tente lembrar:
 
-Indexar código? Sempre inglês.  
+Indexar código? Sempre em inglês.\
 Indexar conteúdo? Português.
 :::
 
@@ -30,7 +30,7 @@ Preferencialmente, cada usuário deve trabalhar em forks, não em branches.
 
 Branches sempre em inglês.
 
-Deve seguir o padrão:  
+O nome deve seguir o padrão:\
 `usuário-do-github/nome-da-funcionalidade`
 
 ## Issues

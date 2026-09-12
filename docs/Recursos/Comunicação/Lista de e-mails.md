@@ -2,7 +2,7 @@
 
 Para enviar mensagens a endereços do Google Groups, adicione `@googlegroups.com` ao final do nome do grupo.
 
-O CACiC é o responsável pela gestão dessas listas, incluindo pela segurança dela (remoção de spam, phishing, etc.).
+O CACiC é o responsável pela gestão dessas listas, incluindo a segurança delas (remoção de spam, phishing, etc.).
 
 ## Listas gerais do curso
 
@@ -14,9 +14,9 @@ Os grupos devem ser atualizados individualmente, pois a replicação não é aut
 
 :::note
 
-Não se deve replicar mensagens entre os grupos, pois eles possuem os mesmos membros.
+Não se devem replicar mensagens entre os grupos, pois eles possuem os mesmos membros.
 
-Não se deve deletar mensagens antigas.
+Não se devem deletar mensagens antigas.
 
 :::
 
@@ -54,7 +54,7 @@ Lista dos alunos que ajudam em tarefas pontuais e de todos os organizadores.
 
 Caso seja necessário conceder poderes a um aluno que não seja diretor do CACiC, adicione-o como _administrador_ da lista, não como proprietário.
 
-[`secompp-colaboradores](https://groups.google.com/g/secompp-colaboradores)
+[`secompp-colaboradores`](https://groups.google.com/g/secompp-colaboradores)
 
 ### Intercomp
 

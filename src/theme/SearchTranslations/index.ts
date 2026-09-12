@@ -7,12 +7,12 @@ const translations: DocSearchTranslations & { placeholder: string } = {
     buttonText: translate({
       id: 'theme.SearchBar.label',
       message: 'Buscar',
-      description: 'The ARIA label and placeholder for search button',
+      description: 'The ARIA label and placeholder for the search button',
     }),
     buttonAriaLabel: translate({
       id: 'theme.SearchBar.label',
       message: 'Buscar',
-      description: 'The ARIA label and placeholder for search button',
+      description: 'The ARIA label and placeholder for the search button',
     }),
   },
   modal: {
@@ -20,73 +20,75 @@ const translations: DocSearchTranslations & { placeholder: string } = {
       resetButtonTitle: translate({
         id: 'theme.SearchModal.searchBox.resetButtonTitle',
         message: 'Limpar a busca',
-        description: 'The label and ARIA label for search box reset button',
+        description: 'The label and ARIA label for the search box reset button',
       }),
       resetButtonAriaLabel: translate({
         id: 'theme.SearchModal.searchBox.resetButtonTitle',
         message: 'Limpar a busca',
-        description: 'The label and ARIA label for search box reset button',
+        description: 'The label and ARIA label for the search box reset button',
       }),
       cancelButtonText: translate({
         id: 'theme.SearchModal.searchBox.cancelButtonText',
         message: 'Cancelar',
-        description: 'The label and ARIA label for search box cancel button',
+        description:
+          'The label and ARIA label for the search box cancel button',
       }),
       cancelButtonAriaLabel: translate({
         id: 'theme.SearchModal.searchBox.cancelButtonText',
         message: 'Cancelar',
-        description: 'The label and ARIA label for search box cancel button',
+        description:
+          'The label and ARIA label for the search box cancel button',
       }),
     },
     startScreen: {
       recentSearchesTitle: translate({
         id: 'theme.SearchModal.startScreen.recentSearchesTitle',
-        message: 'Recente',
+        message: 'Buscas recentes',
         description: 'The title for recent searches',
       }),
       noRecentSearchesText: translate({
         id: 'theme.SearchModal.startScreen.noRecentSearchesText',
         message: 'Sem buscas recentes',
-        description: 'The text when no recent searches',
+        description: 'The text displayed when there are no recent searches',
       }),
       saveRecentSearchButtonTitle: translate({
         id: 'theme.SearchModal.startScreen.saveRecentSearchButtonTitle',
         message: 'Salvar esta busca recente',
-        description: 'The label for save recent search button',
+        description: 'The label for the button that saves a recent search',
       }),
       removeRecentSearchButtonTitle: translate({
         id: 'theme.SearchModal.startScreen.removeRecentSearchButtonTitle',
         message: 'Remover esta busca do histórico',
-        description: 'The label for remove recent search button',
+        description: 'The label for the button that removes a recent search',
       }),
       favoriteSearchesTitle: translate({
         id: 'theme.SearchModal.startScreen.favoriteSearchesTitle',
-        message: 'Favorito',
+        message: 'Buscas favoritas',
         description: 'The title for favorite searches',
       }),
       removeFavoriteSearchButtonTitle: translate({
         id: 'theme.SearchModal.startScreen.removeFavoriteSearchButtonTitle',
-        message: 'remover esta busca dos favoritos',
-        description: 'The label for remove favorite search button',
+        message: 'Remover esta busca dos favoritos',
+        description: 'The label for the button that removes a favorite search',
       }),
     },
     errorScreen: {
       titleText: translate({
         id: 'theme.SearchModal.errorScreen.titleText',
         message: 'Não foi possível carregar os resultados.',
-        description: 'The title for error screen of search modal',
+        description: 'The title for the error screen of the search modal',
       }),
       helpText: translate({
         id: 'theme.SearchModal.errorScreen.helpText',
         message: 'Verifique sua conexão com a internet.',
-        description: 'The help text for error screen of search modal',
+        description: 'The help text for the error screen of the search modal',
       }),
     },
     footer: {
       selectText: translate({
         id: 'theme.SearchModal.footer.selectText',
         message: 'para selecionar',
-        description: 'The explanatory text of the action for the enter key',
+        description: 'The explanatory text of the action for the Enter key',
       }),
       selectKeyAriaLabel: translate({
         id: 'theme.SearchModal.footer.selectKeyAriaLabel',
@@ -98,35 +100,36 @@ const translations: DocSearchTranslations & { placeholder: string } = {
         id: 'theme.SearchModal.footer.navigateText',
         message: 'para navegar',
         description:
-          'The explanatory text of the action for the Arrow up and Arrow down key',
+          'The explanatory text of the action for the Arrow up and Arrow down keys',
       }),
       navigateUpKeyAriaLabel: translate({
         id: 'theme.SearchModal.footer.navigateUpKeyAriaLabel',
         message: 'Seta para cima',
         description:
-          'The ARIA label for the Arrow up key button that makes the navigation',
+          'The ARIA label for the Arrow up key button used for navigation',
       }),
       navigateDownKeyAriaLabel: translate({
         id: 'theme.SearchModal.footer.navigateDownKeyAriaLabel',
         message: 'Seta para baixo',
         description:
-          'The ARIA label for the Arrow down key button that makes the navigation',
+          'The ARIA label for the Arrow down key button used for navigation',
       }),
       closeText: translate({
         id: 'theme.SearchModal.footer.closeText',
         message: 'para fechar',
-        description: 'The explanatory text of the action for Escape key',
+        description: 'The explanatory text of the action for the Escape key',
       }),
       closeKeyAriaLabel: translate({
         id: 'theme.SearchModal.footer.closeKeyAriaLabel',
         message: 'Tecla ESC',
         description:
-          'The ARIA label for the Escape key button that close the modal',
+          'The ARIA label for the Escape key button that closes the modal',
       }),
       searchByText: translate({
         id: 'theme.SearchModal.footer.searchByText',
         message: 'Buscar por',
-        description: 'The text explain that the search is making by Algolia',
+        description:
+          'The text explaining that the search is performed by Algolia',
       }),
     },
     noResultsScreen: {
@@ -134,7 +137,7 @@ const translations: DocSearchTranslations & { placeholder: string } = {
         id: 'theme.SearchModal.noResultsScreen.noResultsText',
         message: 'Sem resultados para',
         description:
-          'The text explains that there are no results for the following search',
+          'The text explaining that there are no results for the following search',
       }),
       suggestedQueryText: translate({
         id: 'theme.SearchModal.noResultsScreen.suggestedQueryText',

@@ -8,7 +8,7 @@ O Traefik é usado para a gestão de certificados SSL e roteamento de tráfego.
 
 ### SSL
 
-O Traefik é responsável por gerar e renovar os certificados SSL automaticamente por meio do do Let's Encrypt.
+O Traefik é responsável por gerar e renovar os certificados SSL automaticamente por meio do Let's Encrypt.
 
 ### Middlewares
 
@@ -40,4 +40,4 @@ São headers necessários:
 
 Headers de privacidade são usados para evitar rastreamento por terceiros. Isso é feito por meio do middleware `fctapp-mw-securityheaders`.
 
-- `referrerPolicy: same-origin` - Não enviar o header `Referer` para outros sites, apenas para site do FCT App.
+- `referrerPolicy: same-origin` - Não enviar o header `Referer` para outros sites, apenas para o site do FCT App.

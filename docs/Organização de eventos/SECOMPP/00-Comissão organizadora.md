@@ -2,7 +2,7 @@
 
 ## Formação
 
-No início do ano, o coordenador do curso encaminhará ao CACiC, à EJComp e aos representates discentes do conselho de curso um e-mail convite para a reunião inicial da organização.
+No início do ano, o coordenador do curso encaminhará ao CACiC, à EJComp e aos representantes discentes do conselho de curso um e-mail convite para a reunião inicial da organização.
 
 É dever do CACiC corrigir os destinatários, caso necessário, e atualizar a lista de e-mails do evento. Isso permitirá que os futuros organizadores possam consultar mensagens antigas, sem depender de acesso às contas das entidades estudantis.
 
@@ -10,7 +10,7 @@ No início do ano, o coordenador do curso encaminhará ao CACiC, à EJComp e aos
   <summary>Saiba como corrigir os destinatários</summary>
 
 1. Clique para "responder a todos" e observe a lista de destinatários e CC;
-1. Mova para o campo "Para", caso esteja no campo "CC":
+1. Mova para o campo "Para", caso estejam no campo "CC":
    - O CACiC;
    - A EJComp;
    - Os professores relevantes na organização do evento;
@@ -44,7 +44,7 @@ Normalmente, duas atas são feitas, uma pelo CACiC e outra pela EJComp.
 
 As atas do CACiC devem ser necessariamente digitais e armazenadas no Google Drive da entidade.
 
-As atas devem ser enviadas para a lista de e-mails dos alunos organizadores. Não enviar as atas individualmente pelo WhatsApp, pois elas ficarão inacessíveis para os alunos que entrarem posteriormente, ao invés disso, divulgue o link da pasta do Google Drive onde as atas estão armazenadas.
+As atas devem ser enviadas para a lista de e-mails dos alunos organizadores. Não enviar as atas individualmente pelo WhatsApp, pois elas ficarão inacessíveis para os alunos que entrarem posteriormente. Em vez disso, divulgue o link da pasta do Google Drive onde as atas estão armazenadas.
 
 ## Hierarquia
 
@@ -54,7 +54,7 @@ As atas devem ser enviadas para a lista de e-mails dos alunos organizadores. Nã
    1. **Alunos colaboradores:** Ajudam nas tarefas da organização, mas não têm poder de decisão direta.
 1. **Alunos de extensão:** São alunos que não fazem parte da comissão organizadora, mas que ajudam em tarefas pontuais, como a coleta de presenças, a organização de salas, etc.
 
-Todas as decisões que influenciam diretamente na SECOMPP devem ser submetidas para apreciação dos professores: palestrantes, temas, patrocinadores, etc.
+Todas as decisões que influenciam diretamente a SECOMPP devem ser submetidas à apreciação dos professores: palestrantes, temas, patrocinadores, etc.
 
 Os alunos organizadores são livres para decidirem as questões de sistemas (site, inscrições) e material de divulgação, sem influência direta dos professores, desde que observadas as normas do CACiC. É importante que os progressos sejam reportados aos docentes, que podem contribuir com sugestões e críticas, que só precisam ser acatadas se fizerem sentido.
 

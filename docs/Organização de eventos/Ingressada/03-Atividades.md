@@ -21,14 +21,14 @@ O CA e a comissão devem obrigatoriamente adotar uma política de redução de d
 - Beber responsavelmente, com moderação e intercalando com muita água;
 - Usar preservativos;
 - Manter o celular carregado e com créditos;
-- Comunicar a amigos e familiares sobre o local da festa e a hora de retorno;
+- Informar amigos e familiares sobre o local da festa e a hora de retorno;
 - Enviar a localização em tempo real para amigos e familiares;
 - Ir e voltar acompanhado de amigos de confiança;
 
 **O que o aluno não deve fazer:**
 
 - Em geral:
-  - Confiar em desconhecidos, incluindo em veteranos;
+  - Confiar em desconhecidos, incluindo veteranos;
 - Na festa:
   - Deixar o copo ou a garrafa de bebida sem supervisão;
   - Misturar bebidas alcoólicas ou drogas com outras substâncias;

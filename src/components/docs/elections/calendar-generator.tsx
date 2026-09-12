@@ -90,7 +90,7 @@ export default function CalendarioEleitoral() {
    */
   const generateCalendar = async () => {
     if (!convocacaoDate) {
-      setError('Por favor, selecione uma data de convocação');
+      setError('Selecione uma data de convocação.');
       return;
     }
 
@@ -146,7 +146,7 @@ export default function CalendarioEleitoral() {
       <LocalizationProvider dateAdapter={AdapterDateFns} adapterLocale={ptBR}>
         <Box maxWidth={600} mx="auto" mt={4} p={2}>
           <Typography variant="h5" gutterBottom>
-            Gerar Calendário Eleitoral
+            Gerar calendário eleitoral
           </Typography>
 
           <Stack spacing={2}>

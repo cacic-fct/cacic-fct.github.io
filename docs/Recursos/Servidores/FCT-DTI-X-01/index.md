@@ -1,7 +1,7 @@
 # FCT-DTI-X-01
 
 - [Repositório](https://github.com/cacic-fct/server-FCT-DTI-X-01)
-- Responsável: CACiC e EJComp\*
+- Responsáveis: DMC e CACiC
 - Armazena informações sensíveis?
   - **Sim**.
 - Entidade responsável pela hospedagem: DTI
@@ -9,9 +9,7 @@
 
 ## Sobre
 
-O FCT-DTI-X-01 é uma máquina virtual localizada na Diretoria Técnica de Informática. Ele foi concecido para hospedagem dos sistemas da SECOMPP, mas também hospeda outros serviços do CACiC.
-
-O professor responsável é o Almir, mas o CACiC possui total autonomia sobre o servidor.
+O FCT-DTI-X-01 é uma máquina virtual localizada na Diretoria Técnica de Informática. Ele foi concebido para hospedagem dos sistemas da SECOMPP, mas também hospeda outros serviços do CACiC.
 
 O processo de obtenção foi documentado em uma [discussão no GitHub](https://github.com/cacic-fct/fct-app/discussions/182#discussioncomment-9413541).
 
@@ -24,17 +22,13 @@ Contatos:
 1. cacic.fct@unesp.br
 1. ejcomp.fct@unesp.br
 
-Em caso de dissolução de ambas as entidades estudantis, o Departamento de Matemática e Computação da FCT torna-se o responsável.
-
 Os encarregados são responsáveis pelas atribuições definidas na LGPD.
 
 ### Manutenção
 
-A manutenção e o controle de acesso são realizados pelo grupo de [_founding lead developers_](https://docs.fctapp.cacic.com.br/Geral/Especifica%C3%A7%C3%B5es%20gerais/Auditing#founding-lead-developers) do CACiC Event Manager.
-
 :::info
 
-Para solicitar acesso ao servidor, consulte um dos encarregados da manutenção. Não solicite acesso diretamente à DTI.  
+Para solicitar acesso ao servidor, entre em contato com o DMC. Não solicite acesso diretamente à DTI.\
 A DTI é encarregada apenas da hospedagem e da manutenção física do servidor e não presta assistência a esse tipo de demanda.
 
 :::

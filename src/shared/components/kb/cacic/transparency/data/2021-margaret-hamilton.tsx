@@ -116,7 +116,7 @@ export const meetingsHamilton: Meetings[] = [
   },
   {
     date: '2022-03-15',
-    title: 'Reunião geral férias',
+    title: 'Reunião geral de férias',
   },
   {
     date: '2022-02-28',
@@ -128,7 +128,7 @@ export const meetingsHamilton: Meetings[] = [
   },
   {
     date: '2022-02-06',
-    title: 'Reunião de Fevereiro',
+    title: 'Reunião de fevereiro',
   },
   {
     date: '2021-12-05',
@@ -170,7 +170,7 @@ export const achievementsHamilton: Achievements[] = [
   },
   {
     title: 'Recepção dos calouros 2023',
-    content: 'Agradeçemos a todos os estudantes que nos auxiliaram.',
+    content: 'Agradecemos a todos os estudantes que nos auxiliaram.',
   },
   {
     title: 'SECOMPP22',
@@ -209,7 +209,7 @@ export const achievementsHamilton: Achievements[] = [
   {
     image: '2021/recepcao_calouros.webp',
     title: 'Recepção dos calouros 2022',
-    content: 'Agradeçemos a todos os estudantes que nos auxiliaram.',
+    content: 'Agradecemos a todos os estudantes que nos auxiliaram.',
   },
   {
     title: 'Homepage do CACiC',

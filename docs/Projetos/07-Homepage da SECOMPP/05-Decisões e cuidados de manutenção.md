@@ -4,7 +4,7 @@ Esta página registra decisões que ajudam a evitar regressões em contribuiçõ
 
 ## Tema claro
 
-É necessário manter um tema claro, por questões de acessibilidade, independente de estética e da identidade visual do evento.
+É necessário manter um tema claro, por questões de acessibilidade, independentemente da estética e da identidade visual do evento.
 
 Algumas pessoas com astigmatismo ou com baixa visão podem ter dificuldade de leitura em temas escuros.
 
@@ -16,7 +16,7 @@ Algumas partes do site podem ter tema escuro fixo, apenas para servirem como sup
 
 ## Privacidade do usuário
 
-Os rastroadores só devem carregar em produção e depois da validação de consentimento. O script local de carregamento consulta a sessão de rastreamento, lê os cookies de consentimento e só então injeta os rastreadores.
+Os rastreadores só devem carregar em produção e depois da validação de consentimento. O script local de carregamento consulta a sessão de rastreamento, lê os cookies de consentimento e só então injeta os rastreadores.
 
 Não substitua esse fluxo por scripts externos carregados diretamente no layout. Isso quebraria o consentimento centralizado e dificultaria remover o rastreamento quando a pessoa revogar permissão.
 

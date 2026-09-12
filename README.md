@@ -30,4 +30,4 @@ bun run start
 
 ### Deploy
 
-Todas as mudanças feitas no repositório `main` são publicadas automaticamente.
+Todas as mudanças feitas na branch `main` são publicadas automaticamente.

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Como contribuir
 
-Não é necessário pedir permissão e nem fazer parte do CACiC para contribuir para os projetos!
+Não é necessário pedir permissão nem fazer parte do CACiC para contribuir para os projetos!
 
 Basta dar um "fork" no repositório, fazer as alterações e enviar um "pull request".
 

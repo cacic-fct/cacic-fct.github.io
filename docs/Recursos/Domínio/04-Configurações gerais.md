@@ -5,6 +5,6 @@
 - HSTS ativado
 
   - 12 meses
-  - Aplica para subdomínios
+  - Aplica-se a subdomínios
 
 - DNSSEC ativado

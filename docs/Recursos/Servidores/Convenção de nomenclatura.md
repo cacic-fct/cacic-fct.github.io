@@ -6,14 +6,14 @@ Sempre que possível, use maiúsculas, para facilitar a leitura.
   - Se localizado na Unesp, deve conter a sigla da unidade, seguida pelo acrônimo do departamento ou diretoria:
     - `FCT-DTI` - Faculdade de Ciências e Tecnologia, Diretoria Técnica de Informática;
     - `FCT-DMC` - Faculdade de Ciências e Tecnologia, Departamento de Matemática e Computação.
-  - Se localizado fora da rede da Unesp, deve conter o nome do responsável, seguido pela sigla IATA do principal aeroporto próximo. Se o servidor está na região de Prudente, use o nome curto da cidade ao invés da sigla do aeroporto. Se a localização exata for desconhecida, considere o aeroporto da capital do estado. Se o provedor possui nome próprio para a região, use ele:
+  - Se localizado fora da rede da Unesp, deve conter o nome do responsável, seguido pela sigla IATA do principal aeroporto próximo. Se o servidor está na região de Prudente, use o nome curto da cidade ao invés da sigla do aeroporto. Se a localização exata for desconhecida, considere o aeroporto da capital do estado. Se o provedor possui nome próprio para a região, use-o:
     - `PPB` - Presidente Prudente - SP;
     - `GRU` - São Paulo - SP;
     - `MARTINOPOLIS` - Martinópolis - SP.
     - `VENCESLAU` - Presidente Venceslau - SP.
     - `PIRAPO` - Pirapozinho - SP.
     - `USEAST1` - `us-east-1` - Virginia - AWS;
-- Nome ou descrição do servidor, apenas se ela é amplamente utilizada pelos usuários, por exemplo:
+- Nome ou descrição do servidor, apenas se essa identificação for amplamente utilizada pelos usuários, por exemplo:
   - `CLUSTER` - Cluster de servidores do Laboratório de Simulação Numérica (LSN), do DMC.
 - Zona de acesso (1 letra):
   - `I` - Intranet Unesp;

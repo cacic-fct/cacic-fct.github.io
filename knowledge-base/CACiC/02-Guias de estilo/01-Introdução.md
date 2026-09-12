@@ -9,7 +9,7 @@ Por isso, é fundamental que a identidade do CACiC seja utilizada de forma consi
 
 ---
 
-Todo material produzido pelo CACIC ou para a entidade deve seguir as diretrizes estabelecidas nos guias de estilo e nos _regimentos internos_.
+Todo material produzido pelo CACiC ou para a entidade deve seguir as diretrizes estabelecidas nos guias de estilo e nos _regimentos internos_.
 
 Antes do seu uso ou da sua publicação, todo material deve ser submetido à análise por mais de um diretor, a fim de garantir o cumprimento dessas normas e para evitar a divulgação de material com erros estéticos ou ortográficos.
 

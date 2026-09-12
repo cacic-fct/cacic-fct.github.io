@@ -35,7 +35,7 @@ Use o modelo que está no [gerador de e-mails do CACiC](https://emails.cacic.com
 
 O e-mail não é amplamente utilizado fora do ambiente acadêmico por jovens, então, é comum que o calouro não tenha o hábito de verificar a caixa de entrada dele.
 
-Incentivar a criação do e-mail institucional é uma forma de treiná-lo a utilizar esse recurso. Ademais, a caixa estará livre de spam e notificações de mídias sociais, o que facilita em adquirir o hábito de verificar.
+Incentivar a criação do e-mail institucional é uma forma de treiná-lo a utilizar esse recurso. Ademais, a caixa estará livre de spam e notificações de mídias sociais, o que facilita a aquisição do hábito de verificá-la.
 
 Use o modelo que está no [gerador de e-mails do CACiC](https://emails.cacic.com.br/).
 

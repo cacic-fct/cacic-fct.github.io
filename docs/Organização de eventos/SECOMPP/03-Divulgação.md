@@ -18,4 +18,4 @@ Coloque todas as informações em um único post ao invés de usar mosaicos, poi
 
 - Não funcionam no feed do Instagram, apenas no perfil da página. Dessa forma, pode ser que uma parte do mosaico não apareça para o usuário, o que pode prejudicar a compreensão da mensagem;
 - Dificultam a divulgação por meio de stories;
-- Não tem a mesma formatação no Instagram web.
+- Não têm a mesma formatação no Instagram web.

@@ -2,6 +2,6 @@
 
 Plenárias são como assembleias, porém, sem poder deliberativo.
 
-São reuniões abertas a todos, onde são discutidos assuntos de interesse geral dos alunos do curso.
+São reuniões abertas a todos, nas quais são discutidos assuntos de interesse geral dos alunos do curso.
 
 O CACiC deve sempre elaborar uma ata de plenária. Todos os estudantes de ciência da computação devem possuir acesso às atas.

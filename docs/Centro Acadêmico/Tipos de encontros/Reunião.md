@@ -1,10 +1,10 @@
 # Reunião
 
-Nas reuniões são discutidas assuntos de interesse do Centro Acadêmico.
+Nas reuniões, são discutidos assuntos de interesse do Centro Acadêmico.
 
 São deliberativas para assuntos internos.  
 Via de regra, apenas os diretores do CACiC podem votar.
 
 Podem ser abertas ou não aos alunos do curso.
 
-É recomendado elaborar uma ata de reunião. Não é necessário disponibilizar ela para os estudantes.
+É recomendado elaborar uma ata de reunião. Não é necessário disponibilizá-la para os estudantes.

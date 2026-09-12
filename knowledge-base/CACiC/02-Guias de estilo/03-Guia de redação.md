@@ -30,7 +30,7 @@ Também se aplica o que está disposto no guia de identidade visual.
    - Não utilizar "CACIC" ou "cacic" onde é possível utilizar "CACiC";
    - Não utilizar "C.A. Ciência da Computação", "C.A.CI.C" ou "CACICOM".
 
-1. Quando acompanhada do nome completo, o acrônimo "CACiC" deve vir antes do nome.
+1. Quando acompanhado do nome completo, o acrônimo "CACiC" deve vir antes do nome.
 
    - Uso correto: CACiC - Centro Acadêmico da Ciência da Computação — "Alan Turing";
    - Não utilizar:
@@ -99,7 +99,7 @@ Por exemplo, o emoji 🙂 pode ser interpretado como uma reação irônica ou pa
 
 ### Títulos
 
-Nos títulos em português, apenas a primeira letra e nomes próprios devem ser escritos com iniciais maísculas.
+Nos títulos em português, apenas a primeira letra e nomes próprios devem ser escritos com iniciais maiúsculas.
 
 - Ao invés de "O Que Fazemos Na Unesp?", utilizar "O que fazemos na Unesp?".
 
@@ -121,7 +121,7 @@ Isso pode causar problemas de acessibilidade e de compreensão do texto:
 
 ### Realce de palavras
 
-1. Deve-se prefirir o itálico para destacar palavras ou frases ao invés do negrito ou do sublinhado:
+1. Deve-se preferir o itálico para destacar palavras ou frases ao invés do negrito ou do sublinhado:
 
    - Ao invés de "**Inscreva-se agora**", prefira "_Inscreva-se agora_".
 
@@ -245,7 +245,7 @@ Utiliza-se o masculino como neutro quando necessário, a fim de evitar a separa�
 1. **Aonde** - Conferir o uso correto.
 
    - "Aonde" apresenta noção de movimento:
-     - A palavra pode ser substuída por “a que”, “ao qual” ou “à qual” sem alteração de sentido.
+     - A palavra pode ser substituída por “a que”, “ao qual” ou “à qual” sem alteração de sentido.
    - "Onde" é utilizado para indicar um lugar onde algo está. Tem noção de permanência/estática:
      - A palavra pode ser substituída por “em que”, "no qual" ou "na qual" sem alteração de sentido.
    - Ao invés de "Aonde fica isso?", utilizar "Onde fica isso?";
@@ -282,7 +282,7 @@ Utiliza-se o masculino como neutro quando necessário, a fim de evitar a separa�
 1. **Minicurso** - Utilizar sem hífen.
 
    - Não utilizar "mini-curso";
-   - Conforme norma ortográfica, usa-se o hífen apenas nos casos em que a palavra inicia-se com as letras "i" ou "h".
+   - Conforme norma ortográfica, usa-se o hífen apenas nos casos em que a palavra se inicia com as letras "i" ou "h".
 
 1. **On-line** - Utilizar com hífen.
 
@@ -298,7 +298,7 @@ Utiliza-se o masculino como neutro quando necessário, a fim de evitar a separa�
 
 1. **Por favor** - Não utilizar.
 
-   - Ao invés de escrever “Por favor, se inscreva até 25/02”, utilizar “Se inscreva até 25/02”;
+   - Ao invés de escrever “Por favor, se inscreva até 25/02”, utilizar “Inscreva-se até 25/02”;
    - É permitido o uso do termo em comunicações individuais (e-mail para professor(es) ou e-mail para um aluno).
 
 1. **Redefinir**

@@ -31,7 +31,7 @@ https://github.com/traefik/traefik/wiki/respondingTimeouts-for-applications
 
 ### Certificados SSL
 
-É necessário utilizar o HTTP Challenge, pois é emitido um certificado para o redirect do `38a.fct.unesp.br`, que não possuímos acesso.
+É necessário utilizar o HTTP Challenge, pois é emitido um certificado para o redirect do `38a.fct.unesp.br`, ao qual não possuímos acesso.
 
 ## Acesso direto
 

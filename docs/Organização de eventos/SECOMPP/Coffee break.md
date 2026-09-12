@@ -10,14 +10,14 @@ title: Coffee break
 
 - Vegetariano:
   - Ovolactovegetariano;
-  - Lactovegetarianiano;
+  - Lactovegetariano;
   - Pescetariano;
   - Outro (especificar).
 - Vegano;
 - Intolerância ao glúten;
 - Doença celíaca;
 - Sem lactose;
-- Consome apenas refrigerante com zero adição açúcar;
+- Consome apenas refrigerante com zero adição de açúcar;
 - Outro (campo livre).
 
 Considere disponibilizar algumas opções vegetarianas e veganas mesmo se não houver demanda direta, pois elas são gostosas e podem abranger participantes que não se sentem confortáveis em informar as preferências alimentares.

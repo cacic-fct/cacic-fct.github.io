@@ -1,4 +1,4 @@
-# Integração com o CACiC Event Mananger
+# Integração com o CACiC Event Manager
 
 O CACiC Event Manager é a plataforma de gerenciamento de eventos utilizada na SECOMPP para organização do evento.
 

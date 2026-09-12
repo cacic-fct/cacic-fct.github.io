@@ -3,7 +3,7 @@
 :::tip
 Quando em dúvida, tente lembrar:
 
-Programação sempre inglês.
+Programação sempre em inglês.
 :::
 
 ## Nomenclatura

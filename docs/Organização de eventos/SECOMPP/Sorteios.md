@@ -14,7 +14,7 @@ Sempre que possível, utilize ferramentas digitais para realizar sorteios, para 
 
 - A urna deve permanecer sob vigilância constante;
 
-- As cédulas só devem ser disponibilizadas no momento em que o participante for depositar ela na urna. Não disponibilze as cédulas com antecedência, para evitar que alguém possa preencher múltiplas cédulas;
+- As cédulas só devem ser disponibilizadas no momento em que o participante for depositá-las na urna. Não disponibilize as cédulas com antecedência, para evitar que alguém possa preencher múltiplas cédulas;
 
 - Lacre a urna com fita adesiva;
 

@@ -2,7 +2,7 @@
 
 A finalidade desta política é esclarecer a posição do CACiC sobre ideias não solicitadas e evitar quaisquer possíveis disputas ou ações legais caso produtos, serviços ou recursos do CACiC desenvolvidos independentemente pareçam ser semelhantes ou idênticos às ideias enviadas.
 
-Se, depois de ler atenciosamente esta política, você decidir enviar suas ideias, independentemente do que você possa dizer em sua comunicação, consideraremos que você a leu e entendeu e que os seguintes termos devem ser aplicados a suas submissões.
+Se, depois de ler atentamente esta política, você decidir enviar suas ideias, independentemente do que você possa dizer em sua comunicação, consideraremos que você a leu e entendeu e que os seguintes termos devem ser aplicados a suas submissões.
 
 Termos de submissão de ideias:
 

@@ -19,7 +19,7 @@ O crachá deve ser composto por:
    - Apelidos são permitidos, desde que sejam de conhecimento geral;
 
 1. Pronomes do indivíduo:
-   - A inclusão dos pronomes evita constrangimentos desnecessárrios;
+   - A inclusão dos pronomes evita constrangimentos desnecessários;
    - Em português, seguir o padrão:
      - Ele, dele;
      - Ela, dela;
@@ -30,7 +30,7 @@ O crachá deve ser composto por:
      - They, them, theirs.
    - Neopronomes são permitidos e devem seguir a formatação.
 
-Não deve haver distinção por cargo, isto é, não especifique se o indivíduo é "auxiliar", "organizador", "diretor", etc. Todos que estão vestindo o crachá devem saber de todas as informações do evento ou saber direcionar para quem possua a informação.
+Não deve haver distinção por cargo, isto é, não especifique se o indivíduo é "auxiliar", "organizador", "diretor", etc. Todos que estão vestindo o crachá devem conhecer todas as informações do evento ou saber direcionar as pessoas a quem possua a informação.
 
 ## Estilização
 

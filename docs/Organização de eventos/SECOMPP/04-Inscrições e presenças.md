@@ -12,7 +12,7 @@ Recomenda-se a utilização do Google Forms. Plataformas como o Even3 cobram tax
 
 :::note
 
-A SECOMPP é um evento público, então, não restrinja os formulários de inscrição e de presença somente a Unespianos.
+A SECOMPP é um evento público, então, não restrinja os formulários de inscrição e de presença somente a unespianos.
 
 :::
 
@@ -36,7 +36,7 @@ O formulário de inscrição deve solicitar:
    - Para controle de presenças e para a emissão do certificado de participação;
    - Também colete o CPF de alunos, pois apenas o RA não é suficiente para a identificação do participante fora do ambiente da Unesp. Isto é, o certificado emitido com o RA não é válido fora da Unesp.
 
-Deixe explícito nas descrições os motivos pelos quais cada informação é solicitada.
+Deixe explícitos nas descrições os motivos pelos quais cada informação é solicitada.
 Não solicite o número do RG, pois ele está em desuso.
 
 **Para fins de coleta de estatísticas:**
@@ -57,14 +57,14 @@ Essas estatísticas são importantes para análise do perfil dos participantes e
 
 **Para participação no evento:**
 
-8. Minicursos que deseja participar;
+8. Minicursos dos quais deseja participar;
 
 Se nenhum minicurso for selecionado, a participação no evento é gratuita, uma vez que as palestras são de livre acesso. No entanto, os certificados de participação só serão emitidos para os pagantes. Não deixe de informar isso no formulário.
 
 **Para resguardo legal:**
 
-9. Uma caixa de seleção _obrigatória_ de que o participante concorda com a [política de tratamento de dados do CACiC](/legal/privacy-policy). Isso é necessário por conta da LGPD (Lei Geral de Proteção de Dados), uma vez que multas podem ser aplicadas caso o participante não tenha ciência do tratamento de seus dados pessoais.
-10. Uma caixa de seleção _obrigatória_ de que o participante concorda com os termos da [licença de uso de imagem](/kb/CACiC/Legal/Licen%C3%A7a%20de%20uso%20de%20imagem). Caso o participante não concorde, ele deve marcar a caixa assim mesmo e enviar uma solicitação à organização do evento para que sua imagem não seja utilizada. Isso é necessário para evitar problemas futuros com restrições de uso de imagem por parte de um participante.
+9. Uma caixa de seleção _obrigatória_ para confirmar que o participante concorda com a [política de tratamento de dados do CACiC](/legal/privacy-policy). Isso é necessário por conta da LGPD (Lei Geral de Proteção de Dados), uma vez que multas podem ser aplicadas caso o participante não tenha ciência do tratamento de seus dados pessoais.
+10. Uma caixa de seleção _obrigatória_ para confirmar que o participante concorda com os termos da [licença de uso de imagem](/kb/CACiC/Legal/Licen%C3%A7a%20de%20uso%20de%20imagem). Caso o participante não concorde, ele deve marcar a caixa assim mesmo e enviar uma solicitação à organização do evento para que sua imagem não seja utilizada. Isso é necessário para evitar problemas futuros com restrições de uso de imagem por parte de um participante.
 
 **Para conferência da organização:**
 

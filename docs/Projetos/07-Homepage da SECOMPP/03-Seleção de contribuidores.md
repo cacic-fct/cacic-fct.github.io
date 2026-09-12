@@ -6,4 +6,4 @@ Tradicionalmente, são escolhidos dois alunos do 1º ano: um que já tenha exper
 
 Isso é feito pois o projeto não demanda grandes conhecimentos técnicos, apenas dedicação e organização.
 
-Além disso, por tratarem-se de alunos da mesma turma, uma criação de vínculo é incentivada.
+Além disso, por se tratar de alunos da mesma turma, uma criação de vínculo é incentivada.

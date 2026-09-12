@@ -5,17 +5,17 @@ tags:
 
 # Processamento de pagamentos
 
-Apesar do CACiC ser uma [instituição com cadastro irregular](./CNPJ.md), a lei brasileira pode reconhecer a entidade como "sociedade de fato", ou seja, uma organização que, mesmo sem um CNPJ, é capaz de realizar atividades e negócios jurídicos, respondendo civil e criminalmente por suas ações.
+Apesar de o CACiC ser uma [instituição com cadastro irregular](./CNPJ.md), a lei brasileira pode reconhecer a entidade como "sociedade de fato", ou seja, uma organização que, mesmo sem um CNPJ, é capaz de realizar atividades e negócios jurídicos, respondendo civil e criminalmente por suas ações.
 
 Nas vendas promovidas pelo CACiC a pessoas não associadas (não membros), o CACiC deve seguir as leis do Código de Defesa do Consumidor (CDC) e do Código Civil (CC).
 
-Nas vendas promovidas pelo CACiC a associados (membros), rege o Código Civil (CC).
+As vendas promovidas pelo CACiC a associados (membros) são regidas pelo Código Civil (CC).
 
-Nas vendas promovidas por alunos e comissões de alunos, rege o Código Civil (CC).
+As vendas promovidas por alunos e comissões de alunos são regidas pelo Código Civil (CC).
 
 :::tip
 
-Para evitar os imbroglios legais, realize vendas por meio de comissões de alunos, e não diretamente pelo CACiC.
+Para evitar os imbróglios legais, realize vendas por meio de comissões de alunos, e não diretamente pelo CACiC.
 
 :::
 

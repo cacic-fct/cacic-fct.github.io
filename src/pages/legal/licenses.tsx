@@ -743,7 +743,7 @@ export default function Legal() {
           copy of the Program in return for a fee.
         </p>
         <p>END OF TERMS AND CONDITIONS</p>
-        <h1>The following softwares may be included in this product:</h1>
+        <h1>The following software may be included in this product:</h1>
         <a href="https://raw.githubusercontent.com/cacic-fct/cacic-fct.github.io/gh-pages/licenses.txt">
           Acknowledgements
         </a>

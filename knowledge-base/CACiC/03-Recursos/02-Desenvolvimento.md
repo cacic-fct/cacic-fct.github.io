@@ -14,4 +14,4 @@ Essa organização contém a publicação dos pacotes desenvolvidos na organiza�
 ## [Organização FCT-Coders no GitHub](https://github.com/fct-coders)
 
 Essa organização contém os alunos do curso de Ciência da Computação.  
-Aqui são desenvolvidos os projetos de atividades extracurriculares (minicursos, eventos, etc).
+Aqui são desenvolvidos os projetos de atividades extracurriculares (minicursos, eventos, etc.).

@@ -7,13 +7,13 @@ Caso haja alguma tecnologia que você gostaria de sugerir em substituição a al
 
 Todos os projetos devem usar o GitHub Issues e/ou GitHub Project para gerenciar as tarefas do projeto.
 
-Não se deve usar ferramentas externas ao GitHub para gerenciar tarefas do projeto, como Trello, Jira, etc.
+Não se devem usar ferramentas externas ao GitHub para gerenciar tarefas do projeto, como Trello, Jira, etc.
 
 ## TypeScript
 
 Todos os projetos devem ser escritos em TypeScript.
 
-O TypeScript é uma linguagem de programação que estende o JavaScript ao adicionar tipagem estática ao código. Ela permite que o código seja menos propenso a erros, além de facilitar em manutenções futuras.
+O TypeScript é uma linguagem de programação que estende o JavaScript ao adicionar tipagem estática ao código. Ela permite que o código seja menos propenso a erros, além de facilitar manutenções futuras.
 
 ## Lint
 
@@ -27,9 +27,9 @@ Ele ajuda a manter o código limpo, organizado e padronizado.
 
 Todos os projetos devem ter código documentado com JSDoc onde for necessário.
 
-Onde não foi possível documentar com JSDoc, o código deve ser documentado em comentários simples.
+Onde não for possível documentar com JSDoc, o código deve ser documentado em comentários simples.
 
-Caso não seja possível documentar o código, a funcionalidade deve ser descrita ensta documentação.
+Caso não seja possível documentar o código, a funcionalidade deve ser descrita nesta documentação.
 
 ## Formatter
 

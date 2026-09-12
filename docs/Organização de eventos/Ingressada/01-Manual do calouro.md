@@ -6,7 +6,7 @@ O manual do calouro deve ser elaborado com antecedência, para que esteja pronto
 
 Assuntos gerais e relevantes para toda a comunidade acadêmica devem ser incluídos no [Manual do calouro da FCT-Unesp](https://github.com/cacic-fct/manual-do-calouro).
 
-A comissão deve atualizar as informações e valores presentes da página de auxílios permanência.
+A comissão deve atualizar as informações e os valores presentes na página de auxílios de permanência.
 
 ## Manual do calouro da computação
 

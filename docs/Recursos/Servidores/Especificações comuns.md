@@ -4,12 +4,12 @@
 
 Os servidores do CACiC devem rodar Debian Stable.
 
-Apesar dos alunos estarem mais habituados com o Arch Linux ou Ubuntu, a filosofia e as diretrizes do Debian estão mais alinhados com as necessidades dos projetos da entidade:  
+Apesar de os alunos estarem mais habituados com o Arch Linux ou Ubuntu, a filosofia e as diretrizes do Debian estão mais alinhadas com as necessidades dos projetos da entidade:\
 É um sistema [seguro](https://wiki.debian.org/WhyDebian#Security_and_Reliability) e [robusto, pronto OOTB](https://wiki.debian.org/DontBreakDebian) e que [necessita de poucas atualizações](https://www.debian.org/releases/) – a _major version_ só atualiza a cada 2 anos e é mantida por no mínimo 3 anos e o upgrade dificilmente quebra o SO.
 
 O formato de _rolling release_ adotado pelo Arch Linux pode ser problemático, pois não há alguém fazendo manutenções constantes. O Fedora tem um problema parecido.
 
-Diferente da Canonical (Ubuntu), os mantenedores do Debian são firmes com essas políticas e não sofrem pressão do mercado.
+Diferentemente da Canonical (Ubuntu), os mantenedores do Debian são firmes com essas políticas e não sofrem pressão do mercado.
 
 ### Atualizações automáticas
 
@@ -74,7 +74,7 @@ e como entrar em contato com eles.
 
 ## Formatação de disco
 
-Os discos dos servidores linux do CACiC que não usem RAID devem estar formatados com BTRFS.
+Os discos dos servidores Linux do CACiC que não usem RAID devem estar formatados com BTRFS.
 
 Em caso de qualquer tipo de RAID, devem estar formatados com ZFS. Não se deve utilizar hardware RAID.
 
@@ -90,7 +90,7 @@ A abertura de portas é feita pela Diretoria Técnica de Informática (DTI) e de
 
 #### Proibições
 
-Não se deve abrir portas para:
+Não se devem abrir portas para:
 
 - SSH;
   - Use a VPN da Unesp.

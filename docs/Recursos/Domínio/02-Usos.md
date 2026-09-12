@@ -3,7 +3,7 @@
 O CACiC é o único responsável pelo gerenciamento do domínio `cacic.com.br` e de seus subdomínios.  
 Não será concedido acesso ao painel de controle do Cloudflare.
 
-Se for detectado uso indevido do domínio, o CACiC se reserva ao direito a revogar os registros permanentemente.
+Se for detectado uso indevido do domínio, o CACiC se reserva o direito de revogar os registros permanentemente.
 
 ## Aluno do curso
 

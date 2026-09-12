@@ -8,7 +8,7 @@ A comissão deve ser formada com antecedência suficiente para que as atividades
 
 :::note
 
-Pela denotação negativa do termo "trote", prefira por usar os termos "recepção" ou "Ingressada" para se referir às atividades de integração dos calouros.
+Pela conotação negativa do termo "trote", prefira usar os termos "recepção" ou "Ingressada" para se referir às atividades de integração dos calouros.
 
 :::
 

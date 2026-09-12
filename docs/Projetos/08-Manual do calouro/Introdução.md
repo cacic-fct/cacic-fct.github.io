@@ -12,13 +12,13 @@ O manual do calouro é um projeto antigo, que já teve várias formas:
 1. Metamorfoseou-se em uma única página dentro do FCT App (novo CACiC Event Manager), mantendo um formato próximo ao PDF:
    - Todos os símbolos e conteúdos foram mantidos;
    - A navegação era ruim, pois a interface não foi feita para conteúdos grandes;
-   - Era difícil de contribuir para, pois era necessário possuir conhecimento em Angular.
+   - Era difícil contribuir para o projeto, pois era necessário possuir conhecimento em Angular.
 
 1. E, por fim, tornou-se um site próprio.
 
 ## Objetivo
 
-O site do manual do calouro incentiva um projeto contínuo e democrático, onde os alunos podem adicionar as suas próprias dicas e experiências ao invés de construírem tudo do início a cada ano.
+O site do manual do calouro incentiva um projeto contínuo e democrático, no qual os alunos podem adicionar as suas próprias dicas e experiências ao invés de construírem tudo do início a cada ano.
 
 ## Conteúdo
 
@@ -31,7 +31,7 @@ Ele deve conter informações úteis para a adaptação ao ambiente universitár
 
 O site é feito com [Starlight](https://starlight.astro.build/), o _template_ de documentação do [Astro](https://astro.build/).
 
-[O Starlight gera sites leves e rápidos](https://astro.build/blog/2023-web-framework-performance-report/), isso enquanto mantém uma proximidade razoável com markdown puro o desenvolvimento web _vanilla_ (tradicional, com HTML, CSS e JavaScript puros).
+[O Starlight gera sites leves e rápidos](https://astro.build/blog/2023-web-framework-performance-report/), isso enquanto mantém uma proximidade razoável com Markdown puro e com o desenvolvimento web _vanilla_ (tradicional, com HTML, CSS e JavaScript puros).
 
 Essa proximidade permite que os contribuidores façam alterações mesmo sem saber programar.
 

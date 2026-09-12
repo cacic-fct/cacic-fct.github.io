@@ -11,6 +11,6 @@ Para alterar a _live_, basta inserir o ID da transmissão no arquivo da página,
 
 Também é possível inserir canais da Twitch.
 
-Multiplas transmissões podem ser exibidas simultaneamente.
+Múltiplas transmissões podem ser exibidas simultaneamente.
 
 Se há espelhamento de transmissão em plataformas diferentes, coloque apenas uma delas.
