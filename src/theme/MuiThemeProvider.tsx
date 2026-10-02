@@ -1,6 +1,10 @@
-import React, { useEffect, useState, useMemo } from 'react';
+import React, { useMemo, useSyncExternalStore } from 'react';
 import { ThemeProvider, createTheme } from '@mui/material';
 import { useColorMode } from '@docusaurus/theme-common';
+
+const subscribe = () => () => {};
+const getClientSnapshot = () => true;
+const getServerSnapshot = () => false;
 
 export default function MuiThemeClientProvider({
   children,
@@ -8,11 +12,11 @@ export default function MuiThemeClientProvider({
   children: React.ReactNode;
 }) {
   const { colorMode } = useColorMode();
-  const [mounted, setMounted] = useState(false);
-
-  useEffect(() => {
-    setMounted(true); // Only enable after client mounts
-  }, []);
+  const mounted = useSyncExternalStore(
+    subscribe,
+    getClientSnapshot,
+    getServerSnapshot,
+  );
 
   const theme = useMemo(
     () =>
