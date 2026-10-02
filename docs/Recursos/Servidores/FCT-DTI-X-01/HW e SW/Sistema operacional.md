@@ -10,7 +10,7 @@ Debian Stable, conforme [especificações comuns](../../Especificações%20comun
 
 Conforme norma da Unesp, cada pessoa possui seu próprio usuário.\*
 
-<!-- TODO: Atualizar informações -->
+{/* TODO: Atualizar informações */}
 
 - [redes](https://www.fct.unesp.br/#!/informatica/sobre-o-sti/) (dti, 1000)
 - [fernando](https://www.fct.unesp.br/#!/departamentos/matematica-e-computacao/estrutura-administrativa/) (1001)
