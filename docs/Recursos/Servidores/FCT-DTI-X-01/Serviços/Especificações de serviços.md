@@ -24,8 +24,8 @@ Isso facilita a manutenção e a escalabilidade do servidor, além de facilitar 
 
 Por conta da limitação de recursos do servidor e para garantir a estabilidade dos serviços indispensáveis:
 
-- É proibida a instalação de serviços que não sirvam ao CACiC no servidor do CACiC Event Manager.
-- É proibida a instalação de serviços de interface gráfica para softwares CLI, como o Portainer.
+- É proibida a instalação de serviços que não sirvam ao CACiC no servidor do CACiC Event Manager;
+- É proibida a instalação de serviços de interface gráfica para softwares CLI.
 
 É proibida a instalação de serviços que armazenem dados essenciais, que não possam ser perdidos.  
 Por exemplo, não se devem hospedar repositórios de código (GitLab, Gitea, etc.), pois os códigos podem ser perdidos permanentemente.

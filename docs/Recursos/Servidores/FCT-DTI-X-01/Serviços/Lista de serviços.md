@@ -107,6 +107,12 @@ Serviço de notificações do CACiC Event Manager.
 
 Disponível em [notifications.cacic.com.br](https://notifications.cacic.com.br).
 
+## Portainer (painel de containers)
+
+Painel de gerenciamento de containers Docker.
+
+Disponível em [portainer.cacic.com.br](https://portainer.cacic.com.br).
+
 ## Seaweedfs (S3-like)
 
 Serviço de armazenamento de arquivos.
