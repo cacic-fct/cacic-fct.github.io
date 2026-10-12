@@ -19,7 +19,7 @@
     "format": "prettier . --write",
     "format:check": "prettier . --check",
     "format:staged": "lint-staged",
-    "prepare": "node .husky/install.mjs",
+    "prepare": "node -e \"if (require('node:fs').existsSync('.git')) import('./.husky/install.mjs')\"",
     "typecheck": "tsc"
   },
   "lint-staged": {
