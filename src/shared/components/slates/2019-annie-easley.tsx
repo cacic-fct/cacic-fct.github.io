@@ -1,4 +1,4 @@
-import { SlateMember } from '@site/src/shared/components/slates/slate-grid-generator';
+import type { Slate, SlateMember } from './types';
 
 export const members: SlateMember[] = [
   {
@@ -72,3 +72,11 @@ export const members: SlateMember[] = [
     avatar: require('@site/static/people/sara-raquel.avif').default,
   },
 ];
+
+export const slate: Slate = {
+  id: 'annie-easley',
+  name: 'Annie Easley',
+  startDate: '2019-05-28',
+  endDate: '2020-09-15',
+  members,
+};

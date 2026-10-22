@@ -1,59 +1,17 @@
-import SlateGridGenerator from '/src/shared/components/slates/slate-grid-generator';
+import SlateHistory, {
+  slateHistoryToc,
+} from '/src/shared/components/slates/slate-history';
 
-import { members as alanMembers } from '/src/shared/components/slates/2018-alan-turing';
-import { members as annieMembers } from '/src/shared/components/slates/2019-annie-easley';
-import { members as hipatiaMembers } from '/src/shared/components/slates/2020-hipatia-alexandria';
-import { members as margaretMembers } from '/src/shared/components/slates/2021-margaret-hamilton';
-import { members as katieMembers } from '/src/shared/components/slates/2023-katie-bouman';
-import { members as adaMembers } from '/src/shared/components/slates/2024-ada-lovelace';
-import { members as graceMembers } from '/src/shared/components/slates/2025-grace-hopper';
+export const toc = [
+  ...slateHistoryToc,
+  { value: 'Chapa Zero — 2016', id: 'chapa-zero--2016', level: 2 },
+  { value: 'CACICOM', id: 'cacicom', level: 2 },
+  { value: '2004', id: '2004', level: 3 },
+];
 
 # Mandatos
 
-## Grace Hopper — 2025-2026
-
-26/09/2025 - 26/09/2026 (previsto)
-
-<SlateGridGenerator slateMembers={graceMembers} />
-
-## Ada Lovelace — 2024–2025
-
-11/04/2024 - 11/04/2025
-
-<SlateGridGenerator slateMembers={adaMembers} />
-
-## Katie Bouman — 2023–2024
-
-18/05/2023 - 11/04/2024
-
-<SlateGridGenerator slateMembers={katieMembers} />
-
-## Margaret Hamilton — 2021–2023
-
-26/10/2021 - 18/05/2023
-
-<SlateGridGenerator slateMembers={margaretMembers} />
-
-## Hipátia de Alexandria — 2020–2021
-
-15/09/2020 - 26/10/2021
-
-<SlateGridGenerator slateMembers={hipatiaMembers} />
-
-## Annie Easley — 2019–2020
-
-28/05/2019 - 15/09/2020
-
-<SlateGridGenerator slateMembers={annieMembers} />
-
-## Alan Turing — 2018–2019
-
-15/03/2018 - 28/05/2019
-
-Consolidou a reabertura do Centro Acadêmico de Ciência da Computação.  
-A reabertura do CACiC foi acordada no encerramento de uma greve.
-
-<SlateGridGenerator slateMembers={alanMembers} />
+<SlateHistory />
 
 ## Chapa Zero — 2016
 

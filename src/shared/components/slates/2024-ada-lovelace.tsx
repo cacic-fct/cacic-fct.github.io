@@ -1,4 +1,4 @@
-import { SlateMember } from '@site/src/shared/components/slates/slate-grid-generator';
+import type { Slate, SlateMember } from './types';
 
 export const members: SlateMember[] = [
   {
@@ -72,3 +72,11 @@ export const members: SlateMember[] = [
     avatar: require('@site/static/people/avatar-placeholder.webp').default,
   },
 ];
+
+export const slate: Slate = {
+  id: 'ada-lovelace',
+  name: 'Ada Lovelace',
+  startDate: '2024-04-11',
+  endDate: '2025-04-11',
+  members,
+};

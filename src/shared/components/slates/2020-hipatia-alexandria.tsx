@@ -1,4 +1,4 @@
-import { SlateMember } from '@site/src/shared/components/slates/slate-grid-generator';
+import type { Slate, SlateMember } from './types';
 
 export const members: SlateMember[] = [
   {
@@ -52,3 +52,11 @@ export const members: SlateMember[] = [
     avatar: require('@site/static/people/avatar-placeholder.webp').default,
   },
 ];
+
+export const slate: Slate = {
+  id: 'hipatia-de-alexandria',
+  name: 'Hipátia de Alexandria',
+  startDate: '2020-09-15',
+  endDate: '2021-10-26',
+  members,
+};

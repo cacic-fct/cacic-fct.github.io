@@ -1,4 +1,4 @@
-import { SlateMember } from '@site/src/shared/components/slates/slate-grid-generator';
+import type { Slate, SlateMember } from './types';
 
 export const members: SlateMember[] = [
   {
@@ -57,3 +57,11 @@ export const members: SlateMember[] = [
     avatar: require('@site/static/people/victor-eiji.webp').default,
   },
 ];
+
+export const slate: Slate = {
+  id: 'margaret-hamilton',
+  name: 'Margaret Hamilton',
+  startDate: '2021-10-26',
+  endDate: '2023-05-18',
+  members,
+};

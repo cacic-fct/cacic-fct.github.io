@@ -42,12 +42,12 @@ Realize essas atividades de forma concomitante:
 
 1. Atualização das informações no site do CACiC:
 
-   1. Atualize a data de término do mandato da chapa anterior e o cargo de cada membro;
-   1. Crie um novo componente para a nova diretoria:
+   1. Atualize a data de término do mandato da chapa anterior e o cargo de cada membro; remova `endDateIsExpected`;
+   1. Cadastre os dados da nova diretoria em `src/shared/components/slates/` e adicione-a à lista em `slates.ts`:
 
       - Obrigatório: converta as imagens para formatos eficientes, como AVIF ou melhor;
-      - Inclua-o na página inicial somente com o nome da chapa e apresentação dos membros;
-      - Inclua-o na página de preservação da memória com as datas de início e término do mandato;
+      - Informe nome, membros e datas de início e término no formato `AAAA-MM-DD`; marque `endDateIsExpected` quando o término for uma previsão;
+      - Sem uma chapa em mandato, a página inicial exibe "Diretoria vacante". A situação é calculada no navegador ao abrir a página, com base nas datas dos mandatos;
 
 1. Estudo do estatuto e dos regimentos internos pelos novos diretores:
 

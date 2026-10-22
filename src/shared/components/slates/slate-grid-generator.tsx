@@ -1,17 +1,25 @@
 import Avatar from '@mui/material/Avatar';
 import Grid from '@mui/material/Grid';
 import Typography from '@mui/material/Typography';
-import { Key } from 'react';
+import type { SlateMember } from './types';
 
-export default function SlateGridGenerator({ slateMembers }) {
+interface SlateGridProps {
+  slateMembers: readonly SlateMember[];
+}
+
+export default function SlateGridGenerator({ slateMembers }: SlateGridProps) {
   return (
-    <Grid container spacing={2} alignItems="top" justifyContent="left">
-      {slateMembers.map((member: SlateMember, index: Key) => (
+    <Grid
+      container
+      spacing={2}
+      alignItems="flex-start"
+      justifyContent="flex-start">
+      {slateMembers.map((member) => (
         <Grid
           size={{ xs: 4 }}
           alignItems="center"
           justifyContent="center"
-          key={index}>
+          key={`${member.name}-${member.role}`}>
           <Avatar
             sx={{ width: 56, height: 56 }}
             alt={member.name}
@@ -24,10 +32,4 @@ export default function SlateGridGenerator({ slateMembers }) {
       ))}
     </Grid>
   );
-}
-
-export interface SlateMember {
-  name: string;
-  role: string;
-  avatar: string;
 }

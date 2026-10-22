@@ -1,4 +1,4 @@
-import { SlateMember } from '@site/src/shared/components/slates/slate-grid-generator';
+import type { Slate, SlateMember } from './types';
 
 export const members: SlateMember[] = [
   {
@@ -32,3 +32,13 @@ export const members: SlateMember[] = [
     avatar: require('@site/static/people/felipe-canuto.avif').default,
   },
 ];
+
+export const slate: Slate = {
+  id: 'alan-turing',
+  name: 'Alan Turing',
+  startDate: '2018-03-15',
+  endDate: '2019-05-28',
+  description:
+    'Consolidou a reabertura do Centro Acadêmico de Ciência da Computação. A reabertura do CACiC foi acordada no encerramento de uma greve.',
+  members,
+};
