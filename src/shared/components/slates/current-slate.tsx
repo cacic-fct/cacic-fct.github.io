@@ -1,5 +1,7 @@
 import BrowserOnly from '@docusaurus/BrowserOnly';
+import Link from '@docusaurus/Link';
 import { useState } from 'react';
+import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import Slate from './slate';
 import { getCurrentSlate, getSlateDate } from './slate-dates';
@@ -21,6 +23,12 @@ function CurrentSlateContent() {
         A nova diretoria pode ainda não ter atualizado o site, ou novas eleições
         podem não ter sido convocadas.
       </p>
+      <Button
+        component={Link}
+        to="/kb/Preservação da memória/CACiC/Mandatos"
+        variant="outlined">
+        Ver histórico de diretorias
+      </Button>
     </>
   );
 }
